@@ -1,0 +1,508 @@
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "77ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "200KB", "problem_link": "/problemset/problem/368/B", "problem_id": "22517076"}
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "530ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "12400KB", "problem_link": "/problemset/problem/368/B", "problem_id": "22517045"}
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/368/B", "problem_id": "22517040"}
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/368/B", "problem_id": "22517027"}
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5500KB", "problem_link": "/problemset/problem/368/B", "problem_id": "22516939"}
+{"lang": "Ruby", "title": "734B - Anton and Digits", "time": "139ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/734/B", "problem_id": "22516652"}
+{"lang": "Python 3", "title": "734B - Anton and Digits", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/734/B", "problem_id": "22516607"}
+{"lang": "Python 3", "title": "676A - Nicholas and Permutation", "time": "78ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/676/A", "problem_id": "22478510"}
+{"lang": "Python 3", "title": "676A - Nicholas and Permutation", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/676/A", "problem_id": "22478450"}
+{"lang": "Python 3", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/732/B", "problem_id": "22478388"}
+{"lang": "Python 3", "title": "706B - Interesting drink", "time": "1809ms", "verdict": "OK", "memory": "7100KB", "problem_link": "/problemset/problem/706/B", "problem_id": "22478318"}
+{"lang": "Python 3", "title": "706B - Interesting drink", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6700KB", "problem_link": "/problemset/problem/706/B", "problem_id": "22478267"}
+{"lang": "Python 3", "title": "520B - Two Buttons", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "22478196"}
+{"lang": "Python 3", "title": "651A - Joysticks", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/651/A", "problem_id": "22477906"}
+{"lang": "Python 3", "title": "675A - Infinite Sequence", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/675/A", "problem_id": "22477864"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "600KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477652"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "1372ms", "verdict": "OK", "memory": "5700KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477641"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "1434ms", "verdict": "OK", "memory": "8800KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477628"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "936ms", "verdict": "OK", "memory": "9800KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477617"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "1058ms", "verdict": "OK", "memory": "8800KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477604"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477600"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "600KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22477582"}
+{"lang": "Python 3", "title": "675A - Infinite Sequence", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/675/A", "problem_id": "22477086"}
+{"lang": "Python 3", "title": "734A - Anton and Danik", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/734/A", "problem_id": "22476859"}
+{"lang": "Python 3", "title": "734A - Anton and Danik", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/734/A", "problem_id": "22476846"}
+{"lang": "Python 3", "title": "313B - Ilya and Queries", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1000KB", "problem_link": "/problemset/problem/313/B", "problem_id": "22374084"}
+{"lang": "Python 3", "title": "688B - Lovely Palindromes", "time": "77ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/688/B", "problem_id": "22374057"}
+{"lang": "Python 3", "title": "686A - Free Ice Cream", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/686/A", "problem_id": "22374019"}
+{"lang": "Python 3", "title": "686A - Free Ice Cream", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/686/A", "problem_id": "22374016"}
+{"lang": "Python 3", "title": "733A - Grasshopper And the String", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/733/A", "problem_id": "22373968"}
+{"lang": "Python 3", "title": "733A - Grasshopper And the String", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/733/A", "problem_id": "22373962"}
+{"lang": "Python 3", "title": "688A - Opponents", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/688/A", "problem_id": "22373910"}
+{"lang": "Python 3", "title": "688A - Opponents", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/688/A", "problem_id": "22373890"}
+{"lang": "Python 3", "title": "688A - Opponents", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/688/A", "problem_id": "22373864"}
+{"lang": "Python 3", "title": "706A - Beru-taxi", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/706/A", "problem_id": "22373775"}
+{"lang": "Python 3", "title": "719A - Vitya in the Countryside", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/719/A", "problem_id": "22373727"}
+{"lang": "Python 3", "title": "719A - Vitya in the Countryside", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/719/A", "problem_id": "22373724"}
+{"lang": "Python 3", "title": "719A - Vitya in the Countryside", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/719/A", "problem_id": "22373716"}
+{"lang": "Python 3", "title": "719A - Vitya in the Countryside", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/719/A", "problem_id": "22373708"}
+{"lang": "Python 3", "title": "659A - Round House", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/659/A", "problem_id": "22373682"}
+{"lang": "Python 3", "title": "659A - Round House", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/659/A", "problem_id": "22373664"}
+{"lang": "Python 3", "title": "615A - Bulbs", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/615/A", "problem_id": "22373646"}
+{"lang": "Python 3", "title": "721A - One-dimensional Japanese Crossword", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/721/A", "problem_id": "22373574"}
+{"lang": "Python 3", "title": "701A - Cards", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/701/A", "problem_id": "22373469"}
+{"lang": "Python 3", "title": "621A - Wet Shark and Odd and Even", "time": "155ms", "verdict": "OK", "memory": "9000KB", "problem_link": "/problemset/problem/621/A", "problem_id": "22373419"}
+{"lang": "Python 3", "title": "716A - Crazy Computer", "time": "155ms", "verdict": "OK", "memory": "7900KB", "problem_link": "/problemset/problem/716/A", "problem_id": "22373364"}
+{"lang": "Python 3", "title": "732A - Buy a Shovel", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/732/A", "problem_id": "22373332"}
+{"lang": "Python 3", "title": "703A - Mishka and Game", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/703/A", "problem_id": "22373224"}
+{"lang": "Python 3", "title": "703A - Mishka and Game", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/703/A", "problem_id": "22329997"}
+{"lang": "Python 3", "title": "707A - Brain's Photos", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/707/A", "problem_id": "22329875"}
+{"lang": "Python 3", "title": "723A - The New Year: Meeting Friends", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/723/A", "problem_id": "22329783"}
+{"lang": "Python 3", "title": "677A - Vanya and Fence", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/677/A", "problem_id": "22329677"}
+{"lang": "Python 3", "title": "711A - Bus to Udayland", "time": "78ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/711/A", "problem_id": "22329548"}
+{"lang": "Python 3", "title": "705A - Hulk", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/705/A", "problem_id": "22329326"}
+{"lang": "Python 3", "title": "617A - Elephant", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/A", "problem_id": "22329211"}
+{"lang": "GNU C++14", "title": "722C - Destroying Array", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/722/C", "problem_id": "21085245"}
+{"lang": "GNU C++14", "title": "722C - Destroying Array", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/722/C", "problem_id": "21084927"}
+{"lang": "Perl", "title": "722A - Broken Clock", "time": "31ms", "verdict": "CHALLENGED", "memory": "0KB", "problem_link": "/problemset/problem/722/A", "problem_id": "21080734"}
+{"lang": "Perl", "title": "722A - Broken Clock", "time": "31ms", "verdict": "CHALLENGED", "memory": "0KB", "problem_link": "/problemset/problem/722/A", "problem_id": "21078279"}
+{"lang": "Perl", "title": "722B - Verse Pattern", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/722/B", "problem_id": "21076043"}
+{"lang": "Python 2", "title": "618A - Slime Combining", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/618/A", "problem_id": "16503370"}
+{"lang": "Ruby", "title": "591A - Wizards' Duel", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "15215722"}
+{"lang": "Ruby", "title": "591A - Wizards' Duel", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "15215710"}
+{"lang": "Ruby", "title": "611A - New Year and Days", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/611/A", "problem_id": "15215659"}
+{"lang": "Ruby", "title": "381A - Sereja and Dima", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/381/A", "problem_id": "14867764"}
+{"lang": "Ruby", "title": "479C - Exams", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/479/C", "problem_id": "14867695"}
+{"lang": "Ruby", "title": "255A - Greg's Workout", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/255/A", "problem_id": "14867279"}
+{"lang": "Ruby", "title": "599A - Patrick and Shopping", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14838748"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "1278ms", "verdict": "OK", "memory": "38500KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838686"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "808ms", "verdict": "WRONG_ANSWER", "memory": "9800KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838678"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5700KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838571"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5700KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838561"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "7900KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838539"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "404ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838505"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "36200KB", "problem_link": "/problemset/problem/230/B", "problem_id": "14838470"}
+{"lang": "Ruby", "title": "581B - Luxurious Houses", "time": "265ms", "verdict": "OK", "memory": "18200KB", "problem_link": "/problemset/problem/581/B", "problem_id": "14827565"}
+{"lang": "Ruby", "title": "581B - Luxurious Houses", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/581/B", "problem_id": "14827521"}
+{"lang": "Perl", "title": "599C - Day at the Beach", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/C", "problem_id": "14376455"}
+{"lang": "Perl", "title": "599C - Day at the Beach", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/C", "problem_id": "14373765"}
+{"lang": "Perl", "title": "599C - Day at the Beach", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/C", "problem_id": "14372883"}
+{"lang": "Perl", "title": "599B - Spongebob and Joke", "time": "405ms", "verdict": "WRONG_ANSWER", "memory": "49400KB", "problem_link": "/problemset/problem/599/B", "problem_id": "14369090"}
+{"lang": "Perl", "title": "599B - Spongebob and Joke", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/599/B", "problem_id": "14368643"}
+{"lang": "Perl", "title": "599A - Patrick and Shopping", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14365168"}
+{"lang": "Perl", "title": "595A - Vitaly and Night", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14146850"}
+{"lang": "Perl", "title": "595A - Vitaly and Night", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14146326"}
+{"lang": "Ruby", "title": "451B - Sort the Array", "time": "202ms", "verdict": "OK", "memory": "19800KB", "problem_link": "/problemset/problem/451/B", "problem_id": "14095348"}
+{"lang": "Perl", "title": "451B - Sort the Array", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/451/B", "problem_id": "14095342"}
+{"lang": "Perl", "title": "550A - Two Substrings", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/A", "problem_id": "14094445"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1600KB", "problem_link": "/problemset/problem/550/A", "problem_id": "14094397"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/550/A", "problem_id": "14094365"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1500KB", "problem_link": "/problemset/problem/550/A", "problem_id": "14094205"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880430"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880417"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880384"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880316"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880286"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880253"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "13880227"}
+{"lang": "Ruby", "title": "558A - Lala Land and Apple Trees", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/558/A", "problem_id": "13878873"}
+{"lang": "Ruby", "title": "558A - Lala Land and Apple Trees", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/558/A", "problem_id": "13878840"}
+{"lang": "Ruby", "title": "525A - Vitaliy and Pie", "time": "218ms", "verdict": "OK", "memory": "29600KB", "problem_link": "/problemset/problem/525/A", "problem_id": "13878348"}
+{"lang": "Ruby", "title": "583B - Robot's Task", "time": "124ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/583/B", "problem_id": "13878165"}
+{"lang": "Ruby", "title": "501A - Contest", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/501/A", "problem_id": "13853802"}
+{"lang": "Ruby", "title": "378A - Playing with Dice", "time": "61ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/378/A", "problem_id": "13853721"}
+{"lang": "Ruby", "title": "378A - Playing with Dice", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/378/A", "problem_id": "13853618"}
+{"lang": "Ruby", "title": "574C - Bear and Poker", "time": "405ms", "verdict": "OK", "memory": "18100KB", "problem_link": "/problemset/problem/574/C", "problem_id": "13853438"}
+{"lang": "Ruby", "title": "574C - Bear and Poker", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/574/C", "problem_id": "13853424"}
+{"lang": "Ruby", "title": "573A - Bear and Poker", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/573/A", "problem_id": "13853389"}
+{"lang": "Ruby", "title": "369A - Valera and Plates", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/369/A", "problem_id": "13853289"}
+{"lang": "Ruby", "title": "276A - Lunch Rush", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/276/A", "problem_id": "13853215"}
+{"lang": "Ruby", "title": "549A - Face Detection", "time": "77ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/549/A", "problem_id": "13798376"}
+{"lang": "Ruby", "title": "496A - Minimum Difficulty", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/496/A", "problem_id": "13798240"}
+{"lang": "Ruby", "title": "588A - Duff and Meat", "time": "327ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/588/A", "problem_id": "13797906"}
+{"lang": "Ruby", "title": "581A - Vasya the Hipster", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/581/A", "problem_id": "13775560"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "78ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13775511"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13775495"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13775469"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13775449"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13775430"}
+{"lang": "Ruby", "title": "567A - Lineland Mail", "time": "452ms", "verdict": "OK", "memory": "18600KB", "problem_link": "/problemset/problem/567/A", "problem_id": "13775361"}
+{"lang": "Ruby", "title": "580A - Kefa and First Steps", "time": "202ms", "verdict": "OK", "memory": "17700KB", "problem_link": "/problemset/problem/580/A", "problem_id": "13775177"}
+{"lang": "Ruby", "title": "580A - Kefa and First Steps", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/580/A", "problem_id": "13775161"}
+{"lang": "Ruby", "title": "499B - Lecture", "time": "77ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/499/B", "problem_id": "13768735"}
+{"lang": "Ruby", "title": "499B - Lecture", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/499/B", "problem_id": "13768706"}
+{"lang": "Ruby", "title": "463A - Caisa and Sugar", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/463/A", "problem_id": "13768415"}
+{"lang": "Ruby", "title": "463A - Caisa and Sugar", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/463/A", "problem_id": "13768392"}
+{"lang": "Ruby", "title": "189A - Cut Ribbon", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/189/A", "problem_id": "13768286"}
+{"lang": "Ruby", "title": "189A - Cut Ribbon", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/189/A", "problem_id": "13768262"}
+{"lang": "Ruby", "title": "465A - inc ARG", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/465/A", "problem_id": "13712680"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/489/B", "problem_id": "13712282"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/489/B", "problem_id": "13712257"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/489/B", "problem_id": "13712242"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/B", "problem_id": "13711904"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/B", "problem_id": "13711840"}
+{"lang": "Ruby", "title": "554A - Kyoya and Photobooks", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/554/A", "problem_id": "13711526"}
+{"lang": "Perl", "title": "554A - Kyoya and Photobooks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/554/A", "problem_id": "13711520"}
+{"lang": "Perl", "title": "151A - Soft Drinking", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/151/A", "problem_id": "13703982"}
+{"lang": "Perl", "title": "151A - Soft Drinking", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/151/A", "problem_id": "13703953"}
+{"lang": "Perl", "title": "151A - Soft Drinking", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/151/A", "problem_id": "13703923"}
+{"lang": "Perl", "title": "151A - Soft Drinking", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/151/A", "problem_id": "13703869"}
+{"lang": "Perl", "title": "557A - Ilya and Diplomas", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/557/A", "problem_id": "13703811"}
+{"lang": "Perl", "title": "557A - Ilya and Diplomas", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/557/A", "problem_id": "13703744"}
+{"lang": "Perl", "title": "570B - Simple Game", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "13703645"}
+{"lang": "Perl", "title": "570B - Simple Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "13703637"}
+{"lang": "Perl", "title": "534A - Exam", "time": "31ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/534/A", "problem_id": "13703561"}
+{"lang": "Perl", "title": "534A - Exam", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "13703547"}
+{"lang": "Perl", "title": "572A - Arrays", "time": "187ms", "verdict": "OK", "memory": "21600KB", "problem_link": "/problemset/problem/572/A", "problem_id": "13703444"}
+{"lang": "Perl", "title": "583A - Asphalting Roads", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/583/A", "problem_id": "13703390"}
+{"lang": "Perl", "title": "579C - A Problem about Polyline", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/579/C", "problem_id": "13042424"}
+{"lang": "Perl", "title": "579D - \"Or\" Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13035326"}
+{"lang": "Perl", "title": "579B - Finding Team Member", "time": "1793ms", "verdict": "OK", "memory": "72000KB", "problem_link": "/problemset/problem/579/B", "problem_id": "13033946"}
+{"lang": "Perl", "title": "579A - Raising Bacteria", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "13026638"}
+{"lang": "Perl", "title": "278A - Circle Line", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/278/A", "problem_id": "13013056"}
+{"lang": "Perl", "title": "4C - Registration System", "time": "186ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/4/C", "problem_id": "13013005"}
+{"lang": "Perl", "title": "478B - Random Teams", "time": "77ms", "verdict": "OK", "memory": "3200KB", "problem_link": "/problemset/problem/478/B", "problem_id": "13013000"}
+{"lang": "Perl", "title": "478B - Random Teams", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/478/B", "problem_id": "13012972"}
+{"lang": "Perl", "title": "546B - Soldier and Badges", "time": "31ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/546/B", "problem_id": "13012665"}
+{"lang": "Perl", "title": "546B - Soldier and Badges", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "600KB", "problem_link": "/problemset/problem/546/B", "problem_id": "13012643"}
+{"lang": "Perl", "title": "552B - Vanya and Books", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "13012591"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12938477"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12935402"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12933187"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12932516"}
+{"lang": "Perl", "title": "577A - Multiplication Table", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/A", "problem_id": "12926479"}
+{"lang": "Perl", "title": "472B - Design Tutorial: Learn from Life", "time": "31ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/472/B", "problem_id": "12790530"}
+{"lang": "Perl", "title": "519C - A and B and Team Training", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "12790375"}
+{"lang": "Perl", "title": "519C - A and B and Team Training", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "12790368"}
+{"lang": "Perl", "title": "519C - A and B and Team Training", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "1000KB", "problem_link": "/problemset/problem/519/C", "problem_id": "12790301"}
+{"lang": "Perl", "title": "519C - A and B and Team Training", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/519/C", "problem_id": "12790297"}
+{"lang": "Perl", "title": "519C - A and B and Team Training", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "1000KB", "problem_link": "/problemset/problem/519/C", "problem_id": "12790284"}
+{"lang": "Perl", "title": "560A - Currency System in Geraldion", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/A", "problem_id": "12790180"}
+{"lang": "Perl", "title": "560A - Currency System in Geraldion", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/A", "problem_id": "12790167"}
+{"lang": "Perl", "title": "552A - Vanya and Table", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/A", "problem_id": "12790118"}
+{"lang": "Perl", "title": "570A - Elections", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/A", "problem_id": "12788850"}
+{"lang": "Perl", "title": "456A - Laptops", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/456/A", "problem_id": "12436578"}
+{"lang": "Perl", "title": "456A - Laptops", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/456/A", "problem_id": "12436573"}
+{"lang": "Perl", "title": "463B - Caisa and Pylons", "time": "61ms", "verdict": "OK", "memory": "10100KB", "problem_link": "/problemset/problem/463/B", "problem_id": "12436501"}
+{"lang": "Perl", "title": "462A - Appleman and Easy Task", "time": "31ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/462/A", "problem_id": "12435362"}
+{"lang": "Perl", "title": "535A - Tavas and Nafas", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "12435031"}
+{"lang": "Perl", "title": "545A - Toy Cars", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/545/A", "problem_id": "12434968"}
+{"lang": "Perl", "title": "545A - Toy Cars", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/545/A", "problem_id": "12434850"}
+{"lang": "Perl", "title": "515C - Drazil and Factorial", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "12428687"}
+{"lang": "Perl", "title": "515C - Drazil and Factorial", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/515/C", "problem_id": "12427438"}
+{"lang": "Perl", "title": "515C - Drazil and Factorial", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/515/C", "problem_id": "12427414"}
+{"lang": "Perl", "title": "384A - Coder", "time": "31ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/384/A", "problem_id": "12427335"}
+{"lang": "Perl", "title": "384A - Coder", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/384/A", "problem_id": "12427297"}
+{"lang": "Perl", "title": "556A - Case of the Zeros and Ones", "time": "202ms", "verdict": "OK", "memory": "25200KB", "problem_link": "/problemset/problem/556/A", "problem_id": "12427219"}
+{"lang": "Perl", "title": "492B - Vanya and Lanterns", "time": "31ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/492/B", "problem_id": "12415684"}
+{"lang": "Perl", "title": "492B - Vanya and Lanterns", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/492/B", "problem_id": "12415667"}
+{"lang": "Perl", "title": "492B - Vanya and Lanterns", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/492/B", "problem_id": "12415625"}
+{"lang": "Perl", "title": "330A - Cakeminator", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/330/A", "problem_id": "12415110"}
+{"lang": "Perl", "title": "330A - Cakeminator", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/330/A", "problem_id": "12414756"}
+{"lang": "Perl", "title": "330A - Cakeminator", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/330/A", "problem_id": "12414727"}
+{"lang": "Perl", "title": "441A - Valera and Antique Items", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/441/A", "problem_id": "12414245"}
+{"lang": "Perl", "title": "334A - Candy Bags", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/334/A", "problem_id": "12414160"}
+{"lang": "Perl", "title": "334A - Candy Bags", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/334/A", "problem_id": "12413730"}
+{"lang": "Perl", "title": "334A - Candy Bags", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/334/A", "problem_id": "12413655"}
+{"lang": "Perl", "title": "450A - Jzzhu and Children", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/450/A", "problem_id": "12413619"}
+{"lang": "Perl", "title": "450A - Jzzhu and Children", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "800KB", "problem_link": "/problemset/problem/450/A", "problem_id": "12413606"}
+{"lang": "Perl", "title": "450A - Jzzhu and Children", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "900KB", "problem_link": "/problemset/problem/450/A", "problem_id": "12413601"}
+{"lang": "Perl", "title": "450A - Jzzhu and Children", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/450/A", "problem_id": "12413581"}
+{"lang": "Perl", "title": "124A - The number of positions", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/124/A", "problem_id": "12403604"}
+{"lang": "Perl", "title": "124A - The number of positions", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/124/A", "problem_id": "12403592"}
+{"lang": "Perl", "title": "124A - The number of positions", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "1000KB", "problem_link": "/problemset/problem/124/A", "problem_id": "12403585"}
+{"lang": "Perl", "title": "124A - The number of positions", "time": "122ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/124/A", "problem_id": "12403574"}
+{"lang": "Perl", "title": "124A - The number of positions", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/124/A", "problem_id": "12403550"}
+{"lang": "Perl", "title": "214A - System of Equations", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/214/A", "problem_id": "12403510"}
+{"lang": "Perl", "title": "200B - Drinks", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/200/B", "problem_id": "12403466"}
+{"lang": "Perl", "title": "401A - Vanya and Cards", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/401/A", "problem_id": "12403412"}
+{"lang": "Perl", "title": "401A - Vanya and Cards", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/401/A", "problem_id": "12403392"}
+{"lang": "Perl", "title": "467B - Fedor and New Game", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/B", "problem_id": "12403360"}
+{"lang": "Perl", "title": "467B - Fedor and New Game", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/467/B", "problem_id": "12403347"}
+{"lang": "Perl", "title": "467B - Fedor and New Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/467/B", "problem_id": "12403141"}
+{"lang": "Perl", "title": "467B - Fedor and New Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/467/B", "problem_id": "12403126"}
+{"lang": "Perl", "title": "349A - Cinema Line", "time": "156ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/349/A", "problem_id": "12338372"}
+{"lang": "Perl", "title": "349A - Cinema Line", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "8400KB", "problem_link": "/problemset/problem/349/A", "problem_id": "12338312"}
+{"lang": "Perl", "title": "349A - Cinema Line", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "8400KB", "problem_link": "/problemset/problem/349/A", "problem_id": "12338253"}
+{"lang": "Perl", "title": "349A - Cinema Line", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/349/A", "problem_id": "12338201"}
+{"lang": "Perl", "title": "37A - Towers", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/37/A", "problem_id": "12338079"}
+{"lang": "Perl", "title": "431A - Black Square", "time": "77ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/431/A", "problem_id": "12337993"}
+{"lang": "Perl", "title": "327A - Flipping Game", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/327/A", "problem_id": "12337964"}
+{"lang": "Perl", "title": "327A - Flipping Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/327/A", "problem_id": "12337946"}
+{"lang": "Perl", "title": "519B - A and B and Compilation Errors", "time": "514ms", "verdict": "OK", "memory": "25200KB", "problem_link": "/problemset/problem/519/B", "problem_id": "12337754"}
+{"lang": "Perl", "title": "519B - A and B and Compilation Errors", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "12337723"}
+{"lang": "Perl", "title": "519B - A and B and Compilation Errors", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "12337711"}
+{"lang": "Perl", "title": "459B - Pashmak and Flowers", "time": "405ms", "verdict": "OK", "memory": "28200KB", "problem_link": "/problemset/problem/459/B", "problem_id": "12337467"}
+{"lang": "Perl", "title": "459B - Pashmak and Flowers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/459/B", "problem_id": "12337456"}
+{"lang": "Perl", "title": "455A - Boredom", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337375"}
+{"lang": "GNU C++", "title": "455A - Boredom", "time": "202ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337351"}
+{"lang": "GNU C++", "title": "455A - Boredom", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337342"}
+{"lang": "GNU C++", "title": "455A - Boredom", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337328"}
+{"lang": "GNU C++", "title": "455A - Boredom", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337304"}
+{"lang": "GNU C++", "title": "455A - Boredom", "time": "171ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12337293"}
+{"lang": "Perl", "title": "455A - Boredom", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "19600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12328558"}
+{"lang": "Perl", "title": "455A - Boredom", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "17500KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12328539"}
+{"lang": "Perl", "title": "455A - Boredom", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "14100KB", "problem_link": "/problemset/problem/455/A", "problem_id": "12328489"}
+{"lang": "Perl", "title": "551A - GukiZ and Contest", "time": "686ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/551/A", "problem_id": "12328324"}
+{"lang": "Perl", "title": "432A - Choosing Teams", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/432/A", "problem_id": "12327401"}
+{"lang": "Perl", "title": "432A - Choosing Teams", "time": "46ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/432/A", "problem_id": "12327376"}
+{"lang": "Perl", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/439/A", "problem_id": "12327305"}
+{"lang": "Perl", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/439/A", "problem_id": "12327282"}
+{"lang": "Perl", "title": "527A - Playing with Paper", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "12327209"}
+{"lang": "Perl", "title": "527A - Playing with Paper", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "12327192"}
+{"lang": "Perl", "title": "118B - Present from Lena", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/118/B", "problem_id": "12326904"}
+{"lang": "Perl", "title": "270A - Fancy Fence", "time": "0ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/270/A", "problem_id": "12300468"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "12300449"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "12300423"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "12300374"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "12300335"}
+{"lang": "Perl", "title": "507A - Amr and Music", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/507/A", "problem_id": "12300266"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "12300263"}
+{"lang": "Perl", "title": "454A - Little Pony and Crystal Mine", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/454/A", "problem_id": "12300107"}
+{"lang": "Perl", "title": "459A - Pashmak and Garden", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/459/A", "problem_id": "12300053"}
+{"lang": "Perl", "title": "459A - Pashmak and Garden", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/459/A", "problem_id": "12300033"}
+{"lang": "Perl", "title": "459A - Pashmak and Garden", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/459/A", "problem_id": "12299978"}
+{"lang": "Perl", "title": "490A - Team Olympiad", "time": "31ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/490/A", "problem_id": "12296930"}
+{"lang": "Perl", "title": "490A - Team Olympiad", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/A", "problem_id": "12296924"}
+{"lang": "Perl", "title": "490A - Team Olympiad", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/490/A", "problem_id": "12296912"}
+{"lang": "Perl", "title": "149A - Business trip", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/149/A", "problem_id": "12296749"}
+{"lang": "GNU C++", "title": "461A - Appleman and Toastman", "time": "607ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296678"}
+{"lang": "GNU C++", "title": "461A - Appleman and Toastman", "time": "577ms", "verdict": "WRONG_ANSWER", "memory": "3600KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296668"}
+{"lang": "GNU C++", "title": "461A - Appleman and Toastman", "time": "561ms", "verdict": "WRONG_ANSWER", "memory": "3600KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296661"}
+{"lang": "Perl", "title": "461A - Appleman and Toastman", "time": "295ms", "verdict": "WRONG_ANSWER", "memory": "36900KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296607"}
+{"lang": "Perl", "title": "461A - Appleman and Toastman", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296601"}
+{"lang": "Perl", "title": "461A - Appleman and Toastman", "time": "577ms", "verdict": "WRONG_ANSWER", "memory": "45100KB", "problem_link": "/problemset/problem/461/A", "problem_id": "12296600"}
+{"lang": "Perl", "title": "59A - Word", "time": "122ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/59/A", "problem_id": "12257301"}
+{"lang": "Perl", "title": "515A - Drazil and Date", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "12257242"}
+{"lang": "Perl", "title": "515A - Drazil and Date", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "12257227"}
+{"lang": "Perl", "title": "515A - Drazil and Date", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "12257218"}
+{"lang": "Perl", "title": "476A - Dreamoon and Stairs", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/476/A", "problem_id": "12257200"}
+{"lang": "Perl", "title": "476A - Dreamoon and Stairs", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/476/A", "problem_id": "12257198"}
+{"lang": "Perl", "title": "230A - Dragons", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/230/A", "problem_id": "12257157"}
+{"lang": "Perl", "title": "230A - Dragons", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/230/A", "problem_id": "12257138"}
+{"lang": "Perl", "title": "230A - Dragons", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/A", "problem_id": "12257092"}
+{"lang": "Perl", "title": "230A - Dragons", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/A", "problem_id": "12257087"}
+{"lang": "Perl", "title": "25A - IQ test", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "12034249"}
+{"lang": "Perl", "title": "540A - Combination Lock", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/540/A", "problem_id": "12034214"}
+{"lang": "Perl", "title": "540A - Combination Lock", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/540/A", "problem_id": "12034208"}
+{"lang": "Perl", "title": "339B - Xenia and Ringroad", "time": "248ms", "verdict": "OK", "memory": "14900KB", "problem_link": "/problemset/problem/339/B", "problem_id": "12034174"}
+{"lang": "Perl", "title": "313A - Ilya and Bank Account", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/313/A", "problem_id": "12034159"}
+{"lang": "Perl", "title": "313A - Ilya and Bank Account", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/313/A", "problem_id": "12034151"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12034092"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12034084"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023795"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023791"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023774"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023771"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023761"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023758"}
+{"lang": "Perl", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "12023753"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023739"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023721"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "1000KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023718"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023717"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "312ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023705"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/237/A", "problem_id": "12023701"}
+{"lang": "Perl", "title": "427A - Police Recruits", "time": "78ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/427/A", "problem_id": "12023665"}
+{"lang": "Perl", "title": "427A - Police Recruits", "time": "77ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/427/A", "problem_id": "12023655"}
+{"lang": "Perl", "title": "519A - A and B and Chess", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/A", "problem_id": "12023589"}
+{"lang": "Perl", "title": "520A - Pangram", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "12023544"}
+{"lang": "Perl", "title": "509A - Maximum in Table", "time": "108ms", "verdict": "OK", "memory": "2900KB", "problem_link": "/problemset/problem/509/A", "problem_id": "12023526"}
+{"lang": "Perl", "title": "509A - Maximum in Table", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/509/A", "problem_id": "12023524"}
+{"lang": "Perl", "title": "509A - Maximum in Table", "time": "61ms", "verdict": "RUNTIME_ERROR", "memory": "2900KB", "problem_link": "/problemset/problem/509/A", "problem_id": "12023513"}
+{"lang": "Perl", "title": "509A - Maximum in Table", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/509/A", "problem_id": "12023504"}
+{"lang": "Perl", "title": "513A - Game", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "12023464"}
+{"lang": "Perl", "title": "405A - Gravity Flip", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/405/A", "problem_id": "12023433"}
+{"lang": "Perl", "title": "268B - Buttons", "time": "342ms", "verdict": "OK", "memory": "3200KB", "problem_link": "/problemset/problem/268/B", "problem_id": "12023414"}
+{"lang": "Perl", "title": "155A - I_love_\\%username\\%", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/155/A", "problem_id": "12002465"}
+{"lang": "Perl", "title": "474A - Keyboard", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/A", "problem_id": "11986224"}
+{"lang": "Perl", "title": "474A - Keyboard", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/474/A", "problem_id": "11986162"}
+{"lang": "Perl", "title": "466A - Cheap Travel", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/466/A", "problem_id": "11985800"}
+{"lang": "Perl", "title": "466A - Cheap Travel", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/466/A", "problem_id": "11985766"}
+{"lang": "Perl", "title": "318A - Even Odds", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/318/A", "problem_id": "11985716"}
+{"lang": "Perl", "title": "318A - Even Odds", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/318/A", "problem_id": "11985682"}
+{"lang": "Perl", "title": "318A - Even Odds", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "900KB", "problem_link": "/problemset/problem/318/A", "problem_id": "11985654"}
+{"lang": "Perl", "title": "318A - Even Odds", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "900KB", "problem_link": "/problemset/problem/318/A", "problem_id": "11985619"}
+{"lang": "Perl", "title": "318A - Even Odds", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/318/A", "problem_id": "11985611"}
+{"lang": "Perl", "title": "448A - Rewards", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/448/A", "problem_id": "11985507"}
+{"lang": "Perl", "title": "510A - Fox And Snake", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/510/A", "problem_id": "11985406"}
+{"lang": "Perl", "title": "469A - I Wanna Be the Guy", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "11977500"}
+{"lang": "Perl", "title": "469A - I Wanna Be the Guy", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "11977485"}
+{"lang": "GNU C++", "title": "469A - I Wanna Be the Guy", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "11977482"}
+{"lang": "GNU C++", "title": "488E - Prefix Product Sequence", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/488/E", "problem_id": "11969324"}
+{"lang": "GNU C++", "title": "276D - Little Girl and Maximum XOR", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "7600KB", "problem_link": "/problemset/problem/276/D", "problem_id": "11969291"}
+{"lang": "GNU C++", "title": "276C - Little Girl and Maximum Sum", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/276/C", "problem_id": "11969289"}
+{"lang": "Perl", "title": "141A - Amusing Joke", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/141/A", "problem_id": "11969183"}
+{"lang": "Perl", "title": "500A - New Year Transportation", "time": "46ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/500/A", "problem_id": "11964568"}
+{"lang": "Perl", "title": "500A - New Year Transportation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/500/A", "problem_id": "11964544"}
+{"lang": "Perl", "title": "500A - New Year Transportation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4500KB", "problem_link": "/problemset/problem/500/A", "problem_id": "11964455"}
+{"lang": "Perl", "title": "500A - New Year Transportation", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "4100KB", "problem_link": "/problemset/problem/500/A", "problem_id": "11964416"}
+{"lang": "Perl", "title": "208A - Dubstep", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/208/A", "problem_id": "11964315"}
+{"lang": "Perl", "title": "208A - Dubstep", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/208/A", "problem_id": "11964305"}
+{"lang": "Perl", "title": "208A - Dubstep", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/208/A", "problem_id": "11964265"}
+{"lang": "Perl", "title": "208A - Dubstep", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/208/A", "problem_id": "11964256"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964146"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964144"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964141"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964135"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964131"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964127"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964108"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964099"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964097"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964086"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964082"}
+{"lang": "Perl", "title": "443A - Anton and Letters", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "11964065"}
+{"lang": "Perl", "title": "268A - Games", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/A", "problem_id": "11964035"}
+{"lang": "Perl", "title": "61A - Ultra-Fast Mathematician", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/61/A", "problem_id": "11963993"}
+{"lang": "Perl", "title": "69A - Young Physicist", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/69/A", "problem_id": "11963884"}
+{"lang": "Perl", "title": "478A - Initial Bet", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/478/A", "problem_id": "11963826"}
+{"lang": "Perl", "title": "478A - Initial Bet", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/478/A", "problem_id": "11963816"}
+{"lang": "Perl", "title": "546A - Soldier and Bananas", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/546/A", "problem_id": "11963779"}
+{"lang": "Perl", "title": "479A - Expression", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/479/A", "problem_id": "11963651"}
+{"lang": "Perl", "title": "479A - Expression", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/479/A", "problem_id": "11963609"}
+{"lang": "Perl", "title": "492A - Vanya and Cubes", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/492/A", "problem_id": "11963425"}
+{"lang": "Perl", "title": "337A - Puzzles", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/337/A", "problem_id": "11963382"}
+{"lang": "Perl", "title": "337A - Puzzles", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/337/A", "problem_id": "11963371"}
+{"lang": "Perl", "title": "344A - Magnets", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/A", "problem_id": "11963254"}
+{"lang": "Perl", "title": "144A - Arrival of the General", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "11963219"}
+{"lang": "Perl", "title": "451A - Game With Sticks", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/451/A", "problem_id": "11962744"}
+{"lang": "Perl", "title": "263A - Beautiful Matrix", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "11962641"}
+{"lang": "Perl", "title": "266B - Queue at the School", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/B", "problem_id": "11962599"}
+{"lang": "Perl", "title": "228A - Is your horseshoe on the other hoof?", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/228/A", "problem_id": "11955839"}
+{"lang": "Perl", "title": "41A - Translation", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/41/A", "problem_id": "11955827"}
+{"lang": "Perl", "title": "41A - Translation", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/41/A", "problem_id": "11955809"}
+{"lang": "Perl", "title": "460A - Vasya and Socks", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/460/A", "problem_id": "11955611"}
+{"lang": "Perl", "title": "136A - Presents", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/136/A", "problem_id": "11955593"}
+{"lang": "Perl", "title": "379A - New Year Candles", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "11955568"}
+{"lang": "Perl", "title": "472A - Design Tutorial: Learn from Math", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "11953496"}
+{"lang": "Perl", "title": "472A - Design Tutorial: Learn from Math", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "11953494"}
+{"lang": "Perl", "title": "472A - Design Tutorial: Learn from Math", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "11953489"}
+{"lang": "Perl", "title": "271A - Beautiful Year", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/271/A", "problem_id": "11953461"}
+{"lang": "Perl", "title": "271A - Beautiful Year", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/271/A", "problem_id": "11953454"}
+{"lang": "Perl", "title": "271A - Beautiful Year", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/271/A", "problem_id": "11953445"}
+{"lang": "Perl", "title": "122A - Lucky Division", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/122/A", "problem_id": "11953424"}
+{"lang": "Perl", "title": "467A - George and Accommodation", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "11953197"}
+{"lang": "Perl", "title": "110A - Nearly Lucky Number", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "11953171"}
+{"lang": "Perl", "title": "58A - Chat room", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "11953123"}
+{"lang": "Perl", "title": "119A - Epic Game", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "11953064"}
+{"lang": "Perl", "title": "119A - Epic Game", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "11953062"}
+{"lang": "Perl", "title": "119A - Epic Game", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "11953040"}
+{"lang": "Perl", "title": "148A - Insomnia cure", "time": "154ms", "verdict": "OK", "memory": "3000KB", "problem_link": "/problemset/problem/148/A", "problem_id": "11953006"}
+{"lang": "Perl", "title": "82A - Double Cola", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/82/A", "problem_id": "11950906"}
+{"lang": "Perl", "title": "236A - Boy or Girl", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/236/A", "problem_id": "11950761"}
+{"lang": "Perl", "title": "160A - Twins", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "11950617"}
+{"lang": "Perl", "title": "160A - Twins", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "11950572"}
+{"lang": "Perl", "title": "281A - Word Capitalization", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/281/A", "problem_id": "11950488"}
+{"lang": "Perl", "title": "339A - Helpful Maths", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "11950467"}
+{"lang": "Perl", "title": "133A - HQ9+", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "11950394"}
+{"lang": "Perl", "title": "112A - Petya and Strings", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/112/A", "problem_id": "11950352"}
+{"lang": "Perl", "title": "266A - Stones on the Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/A", "problem_id": "11950278"}
+{"lang": "Perl", "title": "96A - Football", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "11950241"}
+{"lang": "Perl", "title": "96A - Football", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "11950221"}
+{"lang": "Perl", "title": "131A - cAPS lOCK", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "11950128"}
+{"lang": "Perl", "title": "131A - cAPS lOCK", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "11950104"}
+{"lang": "Perl", "title": "131A - cAPS lOCK", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "11950099"}
+{"lang": "Perl", "title": "116A - Tram", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/116/A", "problem_id": "11949978"}
+{"lang": "Perl", "title": "282A - Bit++", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "11949911"}
+{"lang": "Perl", "title": "158B - Taxi", "time": "280ms", "verdict": "OK", "memory": "11400KB", "problem_link": "/problemset/problem/158/B", "problem_id": "11948285"}
+{"lang": "Perl", "title": "158B - Taxi", "time": "280ms", "verdict": "OK", "memory": "11400KB", "problem_link": "/problemset/problem/158/B", "problem_id": "11948242"}
+{"lang": "Perl", "title": "50A - Domino piling", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/50/A", "problem_id": "11948035"}
+{"lang": "Perl", "title": "118A - String Task", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/118/A", "problem_id": "11947913"}
+{"lang": "Perl", "title": "71A - Way Too Long Words", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/71/A", "problem_id": "11947849"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947775"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947763"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947756"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947731"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947662"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947650"}
+{"lang": "Perl", "title": "158A - Next Round", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "11947627"}
+{"lang": "Perl", "title": "4A - Watermelon", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "11947497"}
+{"lang": "Perl", "title": "4A - Watermelon", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "11947479"}
+{"lang": "Perl", "title": "2B - The least round way", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11946729"}
+{"lang": "Perl", "title": "2B - The least round way", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11946709"}
+{"lang": "Perl", "title": "2B - The least round way", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11946670"}
+{"lang": "Perl", "title": "2B - The least round way", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11946602"}
+{"lang": "Perl", "title": "2B - The least round way", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11946551"}
+{"lang": "Perl", "title": "2A - Winner", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945844"}
+{"lang": "Perl", "title": "2A - Winner", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945822"}
+{"lang": "Perl", "title": "2A - Winner", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945657"}
+{"lang": "Perl", "title": "2A - Winner", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945535"}
+{"lang": "Perl", "title": "2A - Winner", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945511"}
+{"lang": "Perl", "title": "2A - Winner", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945409"}
+{"lang": "Perl", "title": "2A - Winner", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11945367"}
+{"lang": "GNU C++", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945260"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945212"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945196"}
+{"lang": "GNU C++", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945181"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945119"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945093"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945037"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11945011"}
+{"lang": "GNU C++", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11944960"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11944938"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11944913"}
+{"lang": "GNU C++11", "title": "1C - Ancient Berland Circus", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11940189"}
+{"lang": "Perl", "title": "1C - Ancient Berland Circus", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/C", "problem_id": "11940187"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "1028ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939444"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939379"}
+{"lang": "GNU C++11", "title": "1B - Spreadsheet", "time": "184ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939183"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "10000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939177"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "10000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939088"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11939054"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11938934"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11938917"}
+{"lang": "Perl", "title": "1B - Spreadsheet", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "11938847"}
+{"lang": "Perl", "title": "1A - Theatre Square", "time": "154ms", "verdict": "OK", "memory": "3200KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11938454"}
+{"lang": "Perl", "title": "1A - Theatre Square", "time": "216ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11938446"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11938404"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11938391"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11938374"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937660"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937613"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937597"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937577"}
+{"lang": "Perl", "title": "1A - Theatre Square", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937533"}
+{"lang": "Perl", "title": "1A - Theatre Square", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937512"}
+{"lang": "Perl", "title": "1A - Theatre Square", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11937484"}
+{"lang": "GNU C++", "title": "486C - Palindrome Transformation", "time": "15ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/486/C", "problem_id": "9213600"}
+{"lang": "GNU C++", "title": "485D - Maximum Value", "time": "61ms", "verdict": "OK", "memory": "7800KB", "problem_link": "/problemset/problem/485/D", "problem_id": "9155785"}
+{"lang": "GNU C++", "title": "485C - Bits", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/485/C", "problem_id": "9155739"}
+{"lang": "GNU C++", "title": "487A - Fight the Monster", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/487/A", "problem_id": "9155689"}
+{"lang": "GNU C++", "title": "488C - Fight the Monster", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/488/C", "problem_id": "9155685"}
+{"lang": "GNU C++", "title": "487B - Strip", "time": "78ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/487/B", "problem_id": "9155684"}
+{"lang": "GNU C++", "title": "489D - Unbearable Controversy of Being", "time": "46ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/489/D", "problem_id": "9155661"}
+{"lang": "GNU C++", "title": "489D - Unbearable Controversy of Being", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "35500KB", "problem_link": "/problemset/problem/489/D", "problem_id": "9155488"}
+{"lang": "GNU C++", "title": "489D - Unbearable Controversy of Being", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "35400KB", "problem_link": "/problemset/problem/489/D", "problem_id": "9155431"}
+{"lang": "GNU C++", "title": "489C - Given Length and Sum of Digits...", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "9155244"}
+{"lang": "GNU C++", "title": "489C - Given Length and Sum of Digits...", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "9155234"}
+{"lang": "GNU C++", "title": "489C - Given Length and Sum of Digits...", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "9155214"}
+{"lang": "GNU C++", "title": "488D - Strip", "time": "78ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/488/D", "problem_id": "9134396"}
+{"lang": "GNU C++", "title": "488C - Fight the Monster", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/488/C", "problem_id": "9126517"}
+{"lang": "GNU C++", "title": "488C - Fight the Monster", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/488/C", "problem_id": "9126222"}
+{"lang": "GNU C++", "title": "488C - Fight the Monster", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/488/C", "problem_id": "9126146"}
+{"lang": "GNU C++", "title": "490F - Treeland Tour", "time": "1700ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/490/F", "problem_id": "9120514"}
+{"lang": "GNU C++", "title": "490E - Restoring Increasing Sequence", "time": "109ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/490/E", "problem_id": "9119686"}
+{"lang": "GNU C++", "title": "490D - Chocolate", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/490/D", "problem_id": "9099891"}
+{"lang": "GNU C++", "title": "490D - Chocolate", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/D", "problem_id": "9099884"}
+{"lang": "GNU C++", "title": "490D - Chocolate", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/D", "problem_id": "9099843"}
+{"lang": "GNU C++", "title": "490D - Chocolate", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/D", "problem_id": "9099840"}
+{"lang": "GNU C++", "title": "490C - Hacking Cypher", "time": "93ms", "verdict": "OK", "memory": "9800KB", "problem_link": "/problemset/problem/490/C", "problem_id": "9099534"}
+{"lang": "GNU C++", "title": "492E - Vanya and Field", "time": "62ms", "verdict": "OK", "memory": "7800KB", "problem_link": "/problemset/problem/492/E", "problem_id": "9092993"}
+{"lang": "GNU C++", "title": "492E - Vanya and Field", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/492/E", "problem_id": "9092968"}
+{"lang": "GNU C++", "title": "492D - Vanya and Computer Game", "time": "77ms", "verdict": "OK", "memory": "12900KB", "problem_link": "/problemset/problem/492/D", "problem_id": "9089256"}
+{"lang": "GNU C++", "title": "492D - Vanya and Computer Game", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "25200KB", "problem_link": "/problemset/problem/492/D", "problem_id": "9089243"}
+{"lang": "GNU C++", "title": "492C - Vanya and Exams", "time": "77ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/492/C", "problem_id": "9088947"}
+{"lang": "GNU C++", "title": "492C - Vanya and Exams", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/492/C", "problem_id": "9088927"}
+{"lang": "GNU C++", "title": "492C - Vanya and Exams", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/492/C", "problem_id": "9088920"}
+{"lang": "Java 7", "title": "166A - Rank List", "time": "216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "8872321"}
+{"lang": "Java 7", "title": "166A - Rank List", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "8872318"}
+{"lang": "Java 7", "title": "166A - Rank List", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "8872306"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "77ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/474/B", "problem_id": "8829383"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "78ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/474/B", "problem_id": "8829372"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "77ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/474/B", "problem_id": "8829358"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/474/B", "problem_id": "8829353"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/474/B", "problem_id": "8829343"}
+{"lang": "GNU C++", "title": "486C - Palindrome Transformation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/486/C", "problem_id": "8688619"}
+{"lang": "GNU C++", "title": "486C - Palindrome Transformation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/486/C", "problem_id": "8688615"}
+{"lang": "GNU C++", "title": "486C - Palindrome Transformation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/486/C", "problem_id": "8688588"}
+{"lang": "GNU C++", "title": "486C - Palindrome Transformation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/486/C", "problem_id": "8688474"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "919ms", "verdict": "OK", "memory": "25400KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253759"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253710"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253697"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "904ms", "verdict": "OK", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253696"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "997ms", "verdict": "OK", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253495"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23400KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253488"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253461"}
+{"lang": "Java 7", "title": "369C - Valera and Elections", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23800KB", "problem_link": "/problemset/problem/369/C", "problem_id": "6253451"}

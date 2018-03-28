@@ -1,0 +1,469 @@
+{"lang": "Ruby", "title": "883M - Quadcopter Competition", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/883/M", "problem_id": "33041576"}
+{"lang": "Ruby", "title": "883M - Quadcopter Competition", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/883/M", "problem_id": "33041487"}
+{"lang": "Ruby", "title": "875A - Classroom Watch", "time": "61ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/875/A", "problem_id": "33041084"}
+{"lang": "Ruby", "title": "892A - Greed", "time": "342ms", "verdict": "OK", "memory": "36500KB", "problem_link": "/problemset/problem/892/A", "problem_id": "33040876"}
+{"lang": "Ruby", "title": "873B - Balanced Substring", "time": "155ms", "verdict": "OK", "memory": "24700KB", "problem_link": "/problemset/problem/873/B", "problem_id": "33039591"}
+{"lang": "Ruby", "title": "893B - Beautiful Divisors", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/893/B", "problem_id": "33016163"}
+{"lang": "Ruby", "title": "879B - Table Tennis", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/879/B", "problem_id": "32997225"}
+{"lang": "Ruby", "title": "879B - Table Tennis", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/879/B", "problem_id": "32997139"}
+{"lang": "Ruby", "title": "879B - Table Tennis", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/879/B", "problem_id": "32997116"}
+{"lang": "Ruby", "title": "879B - Table Tennis", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/879/B", "problem_id": "32997089"}
+{"lang": "Ruby", "title": "884B - Japanese Crosswords Strike Back", "time": "124ms", "verdict": "OK", "memory": "15600KB", "problem_link": "/problemset/problem/884/B", "problem_id": "32996718"}
+{"lang": "Ruby", "title": "886B - Vlad and Cafes", "time": "265ms", "verdict": "OK", "memory": "31600KB", "problem_link": "/problemset/problem/886/B", "problem_id": "32996487"}
+{"lang": "Ruby", "title": "888A - Local Extrema", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/888/A", "problem_id": "32996389"}
+{"lang": "Ruby", "title": "888A - Local Extrema", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/888/A", "problem_id": "32996351"}
+{"lang": "Ruby", "title": "893A - Chess For Three", "time": "62ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/893/A", "problem_id": "32996097"}
+{"lang": "Ruby", "title": "894A - QAQ", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/894/A", "problem_id": "32969727"}
+{"lang": "Ruby", "title": "897B - Chtholly's request", "time": "280ms", "verdict": "OK", "memory": "14200KB", "problem_link": "/problemset/problem/897/B", "problem_id": "32889541"}
+{"lang": "Ruby", "title": "897B - Chtholly's request", "time": "171ms", "verdict": "WRONG_ANSWER", "memory": "7200KB", "problem_link": "/problemset/problem/897/B", "problem_id": "32889230"}
+{"lang": "Ruby", "title": "897B - Chtholly's request", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "7200KB", "problem_link": "/problemset/problem/897/B", "problem_id": "32889214"}
+{"lang": "Ruby", "title": "897A - Scarborough Fair", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/897/A", "problem_id": "32888965"}
+{"lang": "Ruby", "title": "897A - Scarborough Fair", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/897/A", "problem_id": "32888915"}
+{"lang": "Ruby", "title": "574A - Bear and Elections", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/574/A", "problem_id": "32203199"}
+{"lang": "Ruby", "title": "743B - Chloe and the sequence", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/743/B", "problem_id": "32202685"}
+{"lang": "Ruby", "title": "472B - Design Tutorial: Learn from Life", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/472/B", "problem_id": "32201738"}
+{"lang": "Ruby", "title": "300A - Array", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/300/A", "problem_id": "32067721"}
+{"lang": "Ruby", "title": "300A - Array", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/300/A", "problem_id": "32067700"}
+{"lang": "Ruby", "title": "300A - Array", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/300/A", "problem_id": "32067636"}
+{"lang": "Ruby", "title": "745A - Hongcow Learns the Cyclic Shift", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/745/A", "problem_id": "32067350"}
+{"lang": "Ruby", "title": "745A - Hongcow Learns the Cyclic Shift", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/745/A", "problem_id": "32067311"}
+{"lang": "Ruby", "title": "588B - Duff in Love", "time": "311ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/588/B", "problem_id": "32067284"}
+{"lang": "Ruby", "title": "755A - PolandBall and Hypothesis", "time": "77ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/755/A", "problem_id": "32067037"}
+{"lang": "Ruby", "title": "624A - Save Luke", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/624/A", "problem_id": "32067013"}
+{"lang": "Ruby", "title": "435A - Queue on Bus Stop", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/435/A", "problem_id": "32066935"}
+{"lang": "Ruby", "title": "435A - Queue on Bus Stop", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/435/A", "problem_id": "32066923"}
+{"lang": "Ruby", "title": "353A - Domino", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/353/A", "problem_id": "32066865"}
+{"lang": "Ruby", "title": "353A - Domino", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/353/A", "problem_id": "32066712"}
+{"lang": "Ruby", "title": "165A - Supercentral Point", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/165/A", "problem_id": "32066357"}
+{"lang": "Ruby", "title": "651B - Beautiful Paintings", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/651/B", "problem_id": "32066281"}
+{"lang": "Ruby", "title": "651B - Beautiful Paintings", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/651/B", "problem_id": "32066221"}
+{"lang": "Ruby", "title": "165A - Supercentral Point", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/165/A", "problem_id": "32066067"}
+{"lang": "Ruby", "title": "465B - Inbox (100500)", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/465/B", "problem_id": "32065866"}
+{"lang": "Ruby", "title": "454B - Little Pony and Sort by Shift", "time": "187ms", "verdict": "OK", "memory": "16800KB", "problem_link": "/problemset/problem/454/B", "problem_id": "32065665"}
+{"lang": "Ruby", "title": "454B - Little Pony and Sort by Shift", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "16700KB", "problem_link": "/problemset/problem/454/B", "problem_id": "32065654"}
+{"lang": "Ruby", "title": "454B - Little Pony and Sort by Shift", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "9400KB", "problem_link": "/problemset/problem/454/B", "problem_id": "32065615"}
+{"lang": "Ruby", "title": "651B - Beautiful Paintings", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/651/B", "problem_id": "32065177"}
+{"lang": "Ruby", "title": "746B - Decoding", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/746/B", "problem_id": "32065009"}
+{"lang": "Ruby", "title": "369A - Valera and Plates", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/369/A", "problem_id": "32064614"}
+{"lang": "Ruby", "title": "864A - Fair Game", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/864/A", "problem_id": "32064407"}
+{"lang": "Ruby", "title": "80A - Panoramix's Prediction", "time": "186ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/80/A", "problem_id": "32064354"}
+{"lang": "Ruby", "title": "92A - Chips", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/92/A", "problem_id": "32064112"}
+{"lang": "Ruby", "title": "549A - Face Detection", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/549/A", "problem_id": "32063988"}
+{"lang": "Ruby", "title": "525A - Vitaliy and Pie", "time": "202ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/525/A", "problem_id": "32063812"}
+{"lang": "Ruby", "title": "758B - Blown Garland", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/758/B", "problem_id": "32063572"}
+{"lang": "Ruby", "title": "831B - Keyboard Layouts", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/831/B", "problem_id": "32063085"}
+{"lang": "Ruby", "title": "439B - Devu, the Dumb Guy", "time": "186ms", "verdict": "OK", "memory": "16200KB", "problem_link": "/problemset/problem/439/B", "problem_id": "32063005"}
+{"lang": "Ruby", "title": "514B - Han Solo and Lazer Gun", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "32062826"}
+{"lang": "Ruby", "title": "514B - Han Solo and Lazer Gun", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "32062426"}
+{"lang": "Ruby", "title": "609A - USB Flash Drives", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/609/A", "problem_id": "32007396"}
+{"lang": "Ruby", "title": "146A - Lucky Ticket", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/146/A", "problem_id": "32007213"}
+{"lang": "Ruby", "title": "558A - Lala Land and Apple Trees", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/558/A", "problem_id": "32006902"}
+{"lang": "Ruby", "title": "620A - Professor GukiZ's Robot", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/620/A", "problem_id": "32006392"}
+{"lang": "Ruby", "title": "129A - Cookies", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/129/A", "problem_id": "32006311"}
+{"lang": "Ruby", "title": "278A - Circle Line", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/278/A", "problem_id": "32005813"}
+{"lang": "Ruby", "title": "75A - Life Without Zeros", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/75/A", "problem_id": "32004223"}
+{"lang": "Ruby", "title": "219A - k-String", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/219/A", "problem_id": "32003785"}
+{"lang": "Ruby", "title": "854A - Fraction", "time": "93ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/854/A", "problem_id": "32003423"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "32003214"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "32002866"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "32002723"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/A", "problem_id": "32002159"}
+{"lang": "Ruby", "title": "552A - Vanya and Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/A", "problem_id": "32002001"}
+{"lang": "Ruby", "title": "841A - Generous Kefa", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/841/A", "problem_id": "32001580"}
+{"lang": "Ruby", "title": "841A - Generous Kefa", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/841/A", "problem_id": "32001379"}
+{"lang": "Ruby", "title": "841A - Generous Kefa", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/841/A", "problem_id": "32000698"}
+{"lang": "Ruby", "title": "841A - Generous Kefa", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/841/A", "problem_id": "31999994"}
+{"lang": "Ruby", "title": "839A - Arya and Bran", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/839/A", "problem_id": "31999090"}
+{"lang": "Ruby", "title": "513A - Game", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "31997417"}
+{"lang": "Ruby", "title": "805B - 3-palindrome", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/805/B", "problem_id": "29469473"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "216ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "29469416"}
+{"lang": "Ruby", "title": "805B - 3-palindrome", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6200KB", "problem_link": "/problemset/problem/805/B", "problem_id": "29469405"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "216ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "29469303"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "29443015"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "29442965"}
+{"lang": "Ruby", "title": "629A - Far Relative\u2019s Birthday Cake", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/629/A", "problem_id": "29442679"}
+{"lang": "Ruby", "title": "709A - Juicer", "time": "171ms", "verdict": "OK", "memory": "15700KB", "problem_link": "/problemset/problem/709/A", "problem_id": "29442554"}
+{"lang": "Ruby", "title": "583B - Robot's Task", "time": "202ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/583/B", "problem_id": "29442260"}
+{"lang": "Ruby", "title": "701B - Cells Not Under Attack", "time": "577ms", "verdict": "OK", "memory": "25200KB", "problem_link": "/problemset/problem/701/B", "problem_id": "29418743"}
+{"lang": "Ruby", "title": "701B - Cells Not Under Attack", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/701/B", "problem_id": "29418633"}
+{"lang": "Ruby", "title": "617B - Chocolate", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/617/B", "problem_id": "29418341"}
+{"lang": "Ruby", "title": "548A - Mike and Fax", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/548/A", "problem_id": "29365561"}
+{"lang": "Ruby", "title": "699A - Launch of Collider", "time": "405ms", "verdict": "OK", "memory": "38500KB", "problem_link": "/problemset/problem/699/A", "problem_id": "29365512"}
+{"lang": "Ruby", "title": "545B - Equidistant String", "time": "171ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/545/B", "problem_id": "29365466"}
+{"lang": "Ruby", "title": "545C - Woodcutters", "time": "468ms", "verdict": "OK", "memory": "16300KB", "problem_link": "/problemset/problem/545/C", "problem_id": "29364925"}
+{"lang": "Ruby", "title": "545C - Woodcutters", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/545/C", "problem_id": "29364814"}
+{"lang": "Ruby", "title": "34B - Sale", "time": "154ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/34/B", "problem_id": "29364640"}
+{"lang": "Ruby", "title": "34B - Sale", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/34/B", "problem_id": "29364617"}
+{"lang": "Ruby", "title": "262A - Roma and Lucky Numbers", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/262/A", "problem_id": "29364379"}
+{"lang": "Ruby", "title": "811A - Vladik and Courtesy", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/811/A", "problem_id": "29364311"}
+{"lang": "Ruby", "title": "811A - Vladik and Courtesy", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/811/A", "problem_id": "29364086"}
+{"lang": "Ruby", "title": "743A - Vladik and flights", "time": "77ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/743/A", "problem_id": "29363940"}
+{"lang": "Ruby", "title": "488A - Giga Tower", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/488/A", "problem_id": "29363857"}
+{"lang": "Ruby", "title": "456B - Fedya and Maths", "time": "62ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/456/B", "problem_id": "29363716"}
+{"lang": "Ruby", "title": "456B - Fedya and Maths", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6600KB", "problem_link": "/problemset/problem/456/B", "problem_id": "29363541"}
+{"lang": "Ruby", "title": "465A - inc ARG", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/465/A", "problem_id": "29363470"}
+{"lang": "Ruby", "title": "445A - DZY Loves Chessboard", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/445/A", "problem_id": "29363403"}
+{"lang": "Ruby", "title": "586A - Alena's Schedule", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/586/A", "problem_id": "29363305"}
+{"lang": "Ruby", "title": "586A - Alena's Schedule", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/586/A", "problem_id": "29363280"}
+{"lang": "Ruby", "title": "835A - Key races", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/835/A", "problem_id": "29362896"}
+{"lang": "Ruby", "title": "3A - Shortest path of the king", "time": "216ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/3/A", "problem_id": "29335052"}
+{"lang": "Ruby", "title": "680B - Bear and Finding Criminals", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/680/B", "problem_id": "29316928"}
+{"lang": "Ruby", "title": "462A - Appleman and Easy Task", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/462/A", "problem_id": "29314798"}
+{"lang": "Ruby", "title": "766A - Mahmoud and Longest Uncommon Subsequence", "time": "202ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/766/A", "problem_id": "29314707"}
+{"lang": "Ruby", "title": "766A - Mahmoud and Longest Uncommon Subsequence", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/766/A", "problem_id": "29314598"}
+{"lang": "Ruby", "title": "780A - Andryusha and Socks", "time": "405ms", "verdict": "OK", "memory": "39200KB", "problem_link": "/problemset/problem/780/A", "problem_id": "29029289"}
+{"lang": "Ruby", "title": "682A - Alyona and Numbers", "time": "171ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/682/A", "problem_id": "29029221"}
+{"lang": "Ruby", "title": "698A - Vacations", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/698/A", "problem_id": "29029006"}
+{"lang": "Ruby", "title": "723B - Text Document Analysis", "time": "62ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/723/B", "problem_id": "29025678"}
+{"lang": "Ruby", "title": "499A - Watching a movie", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/499/A", "problem_id": "29024960"}
+{"lang": "Ruby", "title": "43A - Football", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/43/A", "problem_id": "28976473"}
+{"lang": "Ruby", "title": "483A - Counterexample", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/483/A", "problem_id": "28976393"}
+{"lang": "Ruby", "title": "832A - Sasha and Sticks", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/832/A", "problem_id": "28965070"}
+{"lang": "Ruby", "title": "381A - Sereja and Dima", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/381/A", "problem_id": "28965049"}
+{"lang": "Ruby", "title": "447B - DZY Loves Strings", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/447/B", "problem_id": "28964996"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "108ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/805/A", "problem_id": "28963402"}
+{"lang": "Ruby", "title": "550C - Divisibility by Eight", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/550/C", "problem_id": "28949778"}
+{"lang": "Ruby", "title": "764B - Timofey and cubes", "time": "311ms", "verdict": "OK", "memory": "29700KB", "problem_link": "/problemset/problem/764/B", "problem_id": "28948223"}
+{"lang": "Ruby", "title": "404A - Valera and X", "time": "62ms", "verdict": "OK", "memory": "10100KB", "problem_link": "/problemset/problem/404/A", "problem_id": "28947327"}
+{"lang": "Ruby", "title": "404A - Valera and X", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "10100KB", "problem_link": "/problemset/problem/404/A", "problem_id": "28947281"}
+{"lang": "Ruby", "title": "672B - Different is Good", "time": "217ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/672/B", "problem_id": "28946531"}
+{"lang": "Ruby", "title": "750B - New Year and North Pole", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/750/B", "problem_id": "28938998"}
+{"lang": "Ruby", "title": "750B - New Year and North Pole", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/750/B", "problem_id": "28938941"}
+{"lang": "Ruby", "title": "546B - Soldier and Badges", "time": "62ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/546/B", "problem_id": "28925848"}
+{"lang": "Ruby", "title": "462A - Appleman and Easy Task", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/462/A", "problem_id": "28925494"}
+{"lang": "Ruby", "title": "462A - Appleman and Easy Task", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/462/A", "problem_id": "28925217"}
+{"lang": "Ruby", "title": "479C - Exams", "time": "109ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/479/C", "problem_id": "28924600"}
+{"lang": "Ruby", "title": "9A - Die Roll", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/9/A", "problem_id": "28915895"}
+{"lang": "Ruby", "title": "580B - Kefa and Company", "time": "998ms", "verdict": "OK", "memory": "21400KB", "problem_link": "/problemset/problem/580/B", "problem_id": "28915822"}
+{"lang": "Ruby", "title": "580B - Kefa and Company", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/B", "problem_id": "28915804"}
+{"lang": "Ruby", "title": "580B - Kefa and Company", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/B", "problem_id": "28915777"}
+{"lang": "Ruby", "title": "580B - Kefa and Company", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/B", "problem_id": "28900477"}
+{"lang": "Ruby", "title": "352A - Jeff and Digits", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/352/A", "problem_id": "28900307"}
+{"lang": "Ruby", "title": "768A - Oath of the Night's Watch", "time": "264ms", "verdict": "OK", "memory": "27300KB", "problem_link": "/problemset/problem/768/A", "problem_id": "28899969"}
+{"lang": "Ruby", "title": "768A - Oath of the Night's Watch", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "27300KB", "problem_link": "/problemset/problem/768/A", "problem_id": "28899883"}
+{"lang": "Ruby", "title": "768A - Oath of the Night's Watch", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "27300KB", "problem_link": "/problemset/problem/768/A", "problem_id": "28899577"}
+{"lang": "Ruby", "title": "768A - Oath of the Night's Watch", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "23900KB", "problem_link": "/problemset/problem/768/A", "problem_id": "28862978"}
+{"lang": "Ruby", "title": "768A - Oath of the Night's Watch", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "23500KB", "problem_link": "/problemset/problem/768/A", "problem_id": "28862192"}
+{"lang": "Ruby", "title": "714A - Meeting of Old Friends", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/714/A", "problem_id": "28861714"}
+{"lang": "Ruby", "title": "38A - Army", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/38/A", "problem_id": "28861168"}
+{"lang": "Ruby", "title": "735A - Ostap and Grasshopper", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/735/A", "problem_id": "28860938"}
+{"lang": "Ruby", "title": "538B - Quasi Binary", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/538/B", "problem_id": "28860640"}
+{"lang": "Ruby", "title": "476B - Dreamoon and WiFi", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/476/B", "problem_id": "28860352"}
+{"lang": "Ruby", "title": "710A - King Moves", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/710/A", "problem_id": "28860129"}
+{"lang": "Ruby", "title": "721B - Passwords", "time": "77ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/721/B", "problem_id": "28859893"}
+{"lang": "Ruby", "title": "279B - Books", "time": "342ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/279/B", "problem_id": "28859089"}
+{"lang": "Ruby", "title": "534A - Exam", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/534/A", "problem_id": "28858003"}
+{"lang": "Ruby", "title": "258A - Little Elephant and Bits", "time": "1466ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/258/A", "problem_id": "28857724"}
+{"lang": "Ruby", "title": "258A - Little Elephant and Bits", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/258/A", "problem_id": "28857700"}
+{"lang": "Ruby", "title": "554A - Kyoya and Photobooks", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/554/A", "problem_id": "28857308"}
+{"lang": "Ruby", "title": "233A - Perfect Permutation", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/233/A", "problem_id": "28786657"}
+{"lang": "Ruby", "title": "233A - Perfect Permutation", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/233/A", "problem_id": "28786564"}
+{"lang": "Ruby", "title": "580C - Kefa and Park", "time": "545ms", "verdict": "OK", "memory": "23700KB", "problem_link": "/problemset/problem/580/C", "problem_id": "28786409"}
+{"lang": "Ruby", "title": "580C - Kefa and Park", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/C", "problem_id": "28786382"}
+{"lang": "Ruby", "title": "580C - Kefa and Park", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/C", "problem_id": "28786107"}
+{"lang": "Ruby", "title": "580C - Kefa and Park", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/580/C", "problem_id": "28785644"}
+{"lang": "Ruby", "title": "535B - Tavas and SaDDas", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/535/B", "problem_id": "28767186"}
+{"lang": "Ruby", "title": "804A - Find Amir", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/804/A", "problem_id": "28766734"}
+{"lang": "Ruby", "title": "508B - Anton and currency you all know", "time": "139ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/508/B", "problem_id": "28766335"}
+{"lang": "Ruby", "title": "508B - Anton and currency you all know", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/508/B", "problem_id": "28766147"}
+{"lang": "Ruby", "title": "508B - Anton and currency you all know", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/508/B", "problem_id": "28766033"}
+{"lang": "Ruby", "title": "508B - Anton and currency you all know", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6500KB", "problem_link": "/problemset/problem/508/B", "problem_id": "28765732"}
+{"lang": "Ruby", "title": "508B - Anton and currency you all know", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/508/B", "problem_id": "28765723"}
+{"lang": "Ruby", "title": "796A - Buying A House", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/796/A", "problem_id": "28765206"}
+{"lang": "Ruby", "title": "798A - Mike and palindrome", "time": "77ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/798/A", "problem_id": "28765134"}
+{"lang": "Ruby", "title": "798A - Mike and palindrome", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/798/A", "problem_id": "28765120"}
+{"lang": "Ruby", "title": "798A - Mike and palindrome", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/798/A", "problem_id": "28765116"}
+{"lang": "Ruby", "title": "581B - Luxurious Houses", "time": "280ms", "verdict": "OK", "memory": "25800KB", "problem_link": "/problemset/problem/581/B", "problem_id": "28765066"}
+{"lang": "Ruby", "title": "595A - Vitaly and Night", "time": "62ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/595/A", "problem_id": "28764996"}
+{"lang": "Ruby", "title": "595A - Vitaly and Night", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/595/A", "problem_id": "28764978"}
+{"lang": "Ruby", "title": "610A - Pasha and Stick", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/610/A", "problem_id": "28764904"}
+{"lang": "Ruby", "title": "757A - Gotta Catch Em' All!", "time": "124ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/757/A", "problem_id": "28764835"}
+{"lang": "Ruby", "title": "757A - Gotta Catch Em' All!", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/757/A", "problem_id": "28764667"}
+{"lang": "Ruby", "title": "822A - I'm bored with life", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/822/A", "problem_id": "28760994"}
+{"lang": "Ruby", "title": "712A - Memory and Crow", "time": "249ms", "verdict": "OK", "memory": "25400KB", "problem_link": "/problemset/problem/712/A", "problem_id": "28708128"}
+{"lang": "Ruby", "title": "334A - Candy Bags", "time": "124ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/334/A", "problem_id": "28707815"}
+{"lang": "Ruby", "title": "766B - Mahmoud and a Triangle", "time": "265ms", "verdict": "OK", "memory": "23400KB", "problem_link": "/problemset/problem/766/B", "problem_id": "28707091"}
+{"lang": "Ruby", "title": "507B - Amr and Pins", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/507/B", "problem_id": "28706970"}
+{"lang": "Ruby", "title": "507B - Amr and Pins", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/507/B", "problem_id": "28706941"}
+{"lang": "Ruby", "title": "535A - Tavas and Nafas", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/535/A", "problem_id": "28706581"}
+{"lang": "Ruby", "title": "733B - Parade", "time": "280ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/733/B", "problem_id": "28704536"}
+{"lang": "Ruby", "title": "733B - Parade", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/733/B", "problem_id": "28704507"}
+{"lang": "Ruby", "title": "733B - Parade", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/733/B", "problem_id": "28704340"}
+{"lang": "Ruby", "title": "733B - Parade", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/733/B", "problem_id": "28703766"}
+{"lang": "Ruby", "title": "680A - Bear and Five Cards", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/680/A", "problem_id": "28703263"}
+{"lang": "Ruby", "title": "385A - Bear and Raspberry", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/385/A", "problem_id": "28702876"}
+{"lang": "Ruby", "title": "545A - Toy Cars", "time": "78ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/545/A", "problem_id": "28676905"}
+{"lang": "Ruby", "title": "697A - Pineapple Incident", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/697/A", "problem_id": "28676679"}
+{"lang": "Ruby", "title": "496A - Minimum Difficulty", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/496/A", "problem_id": "28676478"}
+{"lang": "Ruby", "title": "320A - Magic Numbers", "time": "154ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/320/A", "problem_id": "28651063"}
+{"lang": "Ruby", "title": "463B - Caisa and Pylons", "time": "155ms", "verdict": "OK", "memory": "15700KB", "problem_link": "/problemset/problem/463/B", "problem_id": "28650923"}
+{"lang": "Ruby", "title": "463B - Caisa and Pylons", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/463/B", "problem_id": "28650893"}
+{"lang": "Ruby", "title": "570B - Simple Game", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/570/B", "problem_id": "28650725"}
+{"lang": "Ruby", "title": "750A - New Year and Hurry", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/750/A", "problem_id": "28650492"}
+{"lang": "Ruby", "title": "384A - Coder", "time": "405ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/384/A", "problem_id": "28650401"}
+{"lang": "Ruby", "title": "384A - Coder", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/384/A", "problem_id": "28650366"}
+{"lang": "Ruby", "title": "672A - Summer Camp", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/672/A", "problem_id": "28650329"}
+{"lang": "Ruby", "title": "573A - Bear and Poker", "time": "233ms", "verdict": "OK", "memory": "23000KB", "problem_link": "/problemset/problem/573/A", "problem_id": "28650288"}
+{"lang": "Ruby", "title": "573A - Bear and Poker", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/573/A", "problem_id": "28650250"}
+{"lang": "Ruby", "title": "573A - Bear and Poker", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/573/A", "problem_id": "28650190"}
+{"lang": "Ruby", "title": "573A - Bear and Poker", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "15600KB", "problem_link": "/problemset/problem/573/A", "problem_id": "28650108"}
+{"lang": "Ruby", "title": "702A - Maximum Increase", "time": "202ms", "verdict": "OK", "memory": "22900KB", "problem_link": "/problemset/problem/702/A", "problem_id": "28650027"}
+{"lang": "GNU C++", "title": "401A - Vanya and Cards", "time": "15ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/401/A", "problem_id": "28649900"}
+{"lang": "Ruby", "title": "401A - Vanya and Cards", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6000KB", "problem_link": "/problemset/problem/401/A", "problem_id": "28649614"}
+{"lang": "Ruby", "title": "401A - Vanya and Cards", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6000KB", "problem_link": "/problemset/problem/401/A", "problem_id": "28649588"}
+{"lang": "Ruby", "title": "401A - Vanya and Cards", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "6000KB", "problem_link": "/problemset/problem/401/A", "problem_id": "28649519"}
+{"lang": "Ruby", "title": "401A - Vanya and Cards", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6000KB", "problem_link": "/problemset/problem/401/A", "problem_id": "28649478"}
+{"lang": "Ruby", "title": "545D - Queue", "time": "202ms", "verdict": "OK", "memory": "23400KB", "problem_link": "/problemset/problem/545/D", "problem_id": "28644864"}
+{"lang": "Ruby", "title": "501A - Contest", "time": "108ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/501/A", "problem_id": "28644504"}
+{"lang": "Ruby", "title": "598A - Tricky Sum", "time": "78ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/598/A", "problem_id": "28621285"}
+{"lang": "Ruby", "title": "746A - Compote", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/746/A", "problem_id": "28621221"}
+{"lang": "Ruby", "title": "276A - Lunch Rush", "time": "186ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/276/A", "problem_id": "28621179"}
+{"lang": "Ruby", "title": "276A - Lunch Rush", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/276/A", "problem_id": "28621098"}
+{"lang": "Ruby", "title": "546B - Soldier and Badges", "time": "62ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/546/B", "problem_id": "28621008"}
+{"lang": "Ruby", "title": "255A - Greg's Workout", "time": "154ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/255/A", "problem_id": "28620902"}
+{"lang": "Ruby", "title": "363B - Fence", "time": "155ms", "verdict": "OK", "memory": "16200KB", "problem_link": "/problemset/problem/363/B", "problem_id": "28620625"}
+{"lang": "Ruby", "title": "670A - Holidays", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/670/A", "problem_id": "28620465"}
+{"lang": "Ruby", "title": "676A - Nicholas and Permutation", "time": "78ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/676/A", "problem_id": "28619604"}
+{"lang": "Ruby", "title": "591A - Wizards' Duel", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/591/A", "problem_id": "28379743"}
+{"lang": "Ruby", "title": "462A - Appleman and Easy Task", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/462/A", "problem_id": "28379416"}
+{"lang": "Ruby", "title": "450A - Jzzhu and Children", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/450/A", "problem_id": "28379220"}
+{"lang": "Ruby", "title": "115A - Party", "time": "186ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/115/A", "problem_id": "28378221"}
+{"lang": "Ruby", "title": "115A - Party", "time": "154ms", "verdict": "RUNTIME_ERROR", "memory": "8000KB", "problem_link": "/problemset/problem/115/A", "problem_id": "28378119"}
+{"lang": "Ruby", "title": "115A - Party", "time": "218ms", "verdict": "RUNTIME_ERROR", "memory": "8000KB", "problem_link": "/problemset/problem/115/A", "problem_id": "28377999"}
+{"lang": "Ruby", "title": "572A - Arrays", "time": "311ms", "verdict": "OK", "memory": "25700KB", "problem_link": "/problemset/problem/572/A", "problem_id": "28377864"}
+{"lang": "Ruby", "title": "552B - Vanya and Books", "time": "78ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/552/B", "problem_id": "28377815"}
+{"lang": "Ruby", "title": "378A - Playing with Dice", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/378/A", "problem_id": "28377669"}
+{"lang": "Ruby", "title": "761A - Dasha and Stairs", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/761/A", "problem_id": "28375865"}
+{"lang": "Ruby", "title": "761A - Dasha and Stairs", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/761/A", "problem_id": "28375849"}
+{"lang": "Ruby", "title": "761A - Dasha and Stairs", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/761/A", "problem_id": "28375808"}
+{"lang": "Ruby", "title": "675A - Infinite Sequence", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/675/A", "problem_id": "28375766"}
+{"lang": "Ruby", "title": "675A - Infinite Sequence", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/675/A", "problem_id": "28375706"}
+{"lang": "Ruby", "title": "675A - Infinite Sequence", "time": "61ms", "verdict": "RUNTIME_ERROR", "memory": "6300KB", "problem_link": "/problemset/problem/675/A", "problem_id": "28375665"}
+{"lang": "Ruby", "title": "675A - Infinite Sequence", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/675/A", "problem_id": "28375589"}
+{"lang": "Ruby", "title": "515C - Drazil and Factorial", "time": "139ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/515/C", "problem_id": "28375384"}
+{"lang": "Ruby", "title": "630A - Again Twenty Five!", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/630/A", "problem_id": "28291684"}
+{"lang": "Ruby", "title": "764A - Taymyr is calling you", "time": "78ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/764/A", "problem_id": "28291607"}
+{"lang": "Ruby", "title": "454A - Little Pony and Crystal Mine", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/454/A", "problem_id": "28291530"}
+{"lang": "Ruby", "title": "519C - A and B and Team Training", "time": "312ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/519/C", "problem_id": "28291399"}
+{"lang": "Ruby", "title": "466C - Number of Ways", "time": "966ms", "verdict": "OK", "memory": "107300KB", "problem_link": "/problemset/problem/466/C", "problem_id": "28291239"}
+{"lang": "Ruby", "title": "688A - Opponents", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/688/A", "problem_id": "28290943"}
+{"lang": "Ruby", "title": "451B - Sort the Array", "time": "233ms", "verdict": "OK", "memory": "23000KB", "problem_link": "/problemset/problem/451/B", "problem_id": "28290803"}
+{"lang": "Ruby", "title": "451B - Sort the Array", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "23000KB", "problem_link": "/problemset/problem/451/B", "problem_id": "28290785"}
+{"lang": "Ruby", "title": "431A - Black Square", "time": "108ms", "verdict": "OK", "memory": "14700KB", "problem_link": "/problemset/problem/431/A", "problem_id": "28266754"}
+{"lang": "Ruby", "title": "611A - New Year and Days", "time": "155ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/611/A", "problem_id": "28266684"}
+{"lang": "Ruby", "title": "441A - Valera and Antique Items", "time": "78ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/441/A", "problem_id": "28266557"}
+{"lang": "Ruby", "title": "368B - Sereja and Suffixes", "time": "514ms", "verdict": "OK", "memory": "29700KB", "problem_link": "/problemset/problem/368/B", "problem_id": "28266466"}
+{"lang": "Ruby", "title": "686A - Free Ice Cream", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/686/A", "problem_id": "28266241"}
+{"lang": "Ruby", "title": "214A - System of Equations", "time": "186ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/214/A", "problem_id": "28266163"}
+{"lang": "Ruby", "title": "706A - Beru-taxi", "time": "139ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/706/A", "problem_id": "28266093"}
+{"lang": "Ruby", "title": "651A - Joysticks", "time": "77ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/651/A", "problem_id": "28266048"}
+{"lang": "Ruby", "title": "330A - Cakeminator", "time": "186ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/330/A", "problem_id": "28203316"}
+{"lang": "Ruby", "title": "1B - Spreadsheet", "time": "1932ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28202915"}
+{"lang": "Ruby", "title": "688B - Lovely Palindromes", "time": "77ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/688/B", "problem_id": "28202042"}
+{"lang": "Ruby", "title": "688B - Lovely Palindromes", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/688/B", "problem_id": "28202025"}
+{"lang": "Ruby", "title": "688B - Lovely Palindromes", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/688/B", "problem_id": "28202011"}
+{"lang": "Ruby", "title": "461A - Appleman and Toastman", "time": "483ms", "verdict": "OK", "memory": "39100KB", "problem_link": "/problemset/problem/461/A", "problem_id": "28201855"}
+{"lang": "Ruby", "title": "507A - Amr and Music", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/507/A", "problem_id": "28200044"}
+{"lang": "Ruby", "title": "659A - Round House", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/659/A", "problem_id": "28199976"}
+{"lang": "Ruby", "title": "615A - Bulbs", "time": "92ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/615/A", "problem_id": "28199730"}
+{"lang": "Ruby", "title": "615A - Bulbs", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/615/A", "problem_id": "28199680"}
+{"lang": "Ruby", "title": "731A - Night at the Museum", "time": "78ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/731/A", "problem_id": "28199638"}
+{"lang": "Ruby", "title": "151A - Soft Drinking", "time": "154ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/151/A", "problem_id": "28199559"}
+{"lang": "Ruby", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/732/B", "problem_id": "28199447"}
+{"lang": "Ruby", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/732/B", "problem_id": "28199433"}
+{"lang": "Ruby", "title": "706B - Interesting drink", "time": "405ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/706/B", "problem_id": "28199178"}
+{"lang": "Ruby", "title": "520B - Two Buttons", "time": "108ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/520/B", "problem_id": "28199084"}
+{"lang": "Ruby", "title": "583A - Asphalting Roads", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/583/A", "problem_id": "28193749"}
+{"lang": "Ruby", "title": "118B - Present from Lena", "time": "186ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/118/B", "problem_id": "28193622"}
+{"lang": "Ruby", "title": "527A - Playing with Paper", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/527/A", "problem_id": "28193286"}
+{"lang": "Ruby", "title": "527A - Playing with Paper", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/527/A", "problem_id": "28193245"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "93ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/550/A", "problem_id": "28193062"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/550/A", "problem_id": "28193026"}
+{"lang": "Ruby", "title": "550A - Two Substrings", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6300KB", "problem_link": "/problemset/problem/550/A", "problem_id": "28193012"}
+{"lang": "Ruby", "title": "560A - Currency System in Geraldion", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/560/A", "problem_id": "28192950"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "156ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/124/A", "problem_id": "28192718"}
+{"lang": "Ruby", "title": "719A - Vitya in the Countryside", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/719/A", "problem_id": "28192539"}
+{"lang": "Ruby", "title": "719A - Vitya in the Countryside", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/719/A", "problem_id": "28192474"}
+{"lang": "Ruby", "title": "719A - Vitya in the Countryside", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/719/A", "problem_id": "28192433"}
+{"lang": "Ruby", "title": "37A - Towers", "time": "186ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/37/A", "problem_id": "28192293"}
+{"lang": "Ruby", "title": "471A - MUH and Sticks", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/471/A", "problem_id": "28191954"}
+{"lang": "Ruby", "title": "742A - Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/742/A", "problem_id": "28183183"}
+{"lang": "Ruby", "title": "349A - Cinema Line", "time": "218ms", "verdict": "OK", "memory": "15200KB", "problem_link": "/problemset/problem/349/A", "problem_id": "28183129"}
+{"lang": "Ruby", "title": "551A - GukiZ and Contest", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/551/A", "problem_id": "28182951"}
+{"lang": "Ruby", "title": "499B - Lecture", "time": "108ms", "verdict": "OK", "memory": "6900KB", "problem_link": "/problemset/problem/499/B", "problem_id": "28182680"}
+{"lang": "Ruby", "title": "313B - Ilya and Queries", "time": "996ms", "verdict": "OK", "memory": "23000KB", "problem_link": "/problemset/problem/313/B", "problem_id": "28182570"}
+{"lang": "Ruby", "title": "749A - Bachgold Problem", "time": "124ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/749/A", "problem_id": "28181560"}
+{"lang": "Ruby", "title": "749A - Bachgold Problem", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "7000KB", "problem_link": "/problemset/problem/749/A", "problem_id": "28181466"}
+{"lang": "Ruby", "title": "621A - Wet Shark and Odd and Even", "time": "312ms", "verdict": "OK", "memory": "23000KB", "problem_link": "/problemset/problem/621/A", "problem_id": "28181191"}
+{"lang": "Ruby", "title": "621A - Wet Shark and Odd and Even", "time": "217ms", "verdict": "WRONG_ANSWER", "memory": "23000KB", "problem_link": "/problemset/problem/621/A", "problem_id": "28181182"}
+{"lang": "Ruby", "title": "478B - Random Teams", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/478/B", "problem_id": "28170335"}
+{"lang": "Ruby", "title": "785A - Anton and Polyhedrons", "time": "483ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/785/A", "problem_id": "28169764"}
+{"lang": "Ruby", "title": "456A - Laptops", "time": "733ms", "verdict": "OK", "memory": "14700KB", "problem_link": "/problemset/problem/456/A", "problem_id": "28169654"}
+{"lang": "Ruby", "title": "456A - Laptops", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "39700KB", "problem_link": "/problemset/problem/456/A", "problem_id": "28169588"}
+{"lang": "Ruby", "title": "570A - Elections", "time": "108ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/570/A", "problem_id": "28169106"}
+{"lang": "Ruby", "title": "701A - Cards", "time": "78ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/701/A", "problem_id": "28168835"}
+{"lang": "Ruby", "title": "733A - Grasshopper And the String", "time": "78ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/733/A", "problem_id": "28161414"}
+{"lang": "Ruby", "title": "791A - Bear and Big Brother", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/791/A", "problem_id": "28161270"}
+{"lang": "Ruby", "title": "237A - Free Cash", "time": "466ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/237/A", "problem_id": "28161175"}
+{"lang": "Ruby", "title": "721A - One-dimensional Japanese Crossword", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/721/A", "problem_id": "28161064"}
+{"lang": "Ruby", "title": "734B - Anton and Digits", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/734/B", "problem_id": "28160907"}
+{"lang": "Ruby", "title": "514A - Chewba\u0441ca and Number", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/514/A", "problem_id": "28160777"}
+{"lang": "Ruby", "title": "514A - Chewba\u0441ca and Number", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/514/A", "problem_id": "28160685"}
+{"lang": "Ruby", "title": "515A - Drazil and Date", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/515/A", "problem_id": "28160523"}
+{"lang": "Ruby", "title": "515A - Drazil and Date", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/515/A", "problem_id": "28160497"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/489/B", "problem_id": "28160432"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/489/B", "problem_id": "28160403"}
+{"lang": "Ruby", "title": "459B - Pashmak and Flowers", "time": "389ms", "verdict": "OK", "memory": "38300KB", "problem_link": "/problemset/problem/459/B", "problem_id": "28160222"}
+{"lang": "GNU C++", "title": "474B - Worms", "time": "420ms", "verdict": "OK", "memory": "6800KB", "problem_link": "/problemset/problem/474/B", "problem_id": "28160125"}
+{"lang": "Ruby", "title": "459A - Pashmak and Garden", "time": "108ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/459/A", "problem_id": "28160000"}
+{"lang": "Ruby", "title": "459A - Pashmak and Garden", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/459/A", "problem_id": "28159948"}
+{"lang": "Ruby", "title": "474B - Worms", "time": "46ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "6200KB", "problem_link": "/problemset/problem/474/B", "problem_id": "28159845"}
+{"lang": "Ruby", "title": "474B - Worms", "time": "529ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "7000KB", "problem_link": "/problemset/problem/474/B", "problem_id": "28159695"}
+{"lang": "Ruby", "title": "474B - Worms", "time": "77ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/474/B", "problem_id": "28159537"}
+{"lang": "Ruby", "title": "474B - Worms", "time": "62ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/474/B", "problem_id": "28159388"}
+{"lang": "Ruby", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/439/A", "problem_id": "28159305"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "1310ms", "verdict": "OK", "memory": "42800KB", "problem_link": "/problemset/problem/230/B", "problem_id": "28159069"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41200KB", "problem_link": "/problemset/problem/230/B", "problem_id": "28140988"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38000KB", "problem_link": "/problemset/problem/230/B", "problem_id": "28139061"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8100KB", "problem_link": "/problemset/problem/230/B", "problem_id": "28137969"}
+{"lang": "Ruby", "title": "567A - Lineland Mail", "time": "467ms", "verdict": "OK", "memory": "25800KB", "problem_link": "/problemset/problem/567/A", "problem_id": "28137859"}
+{"lang": "Ruby", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8100KB", "problem_link": "/problemset/problem/230/B", "problem_id": "28137667"}
+{"lang": "Ruby", "title": "758A - Holiday Of Equality", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/758/A", "problem_id": "28137423"}
+{"lang": "Ruby", "title": "716A - Crazy Computer", "time": "233ms", "verdict": "OK", "memory": "23400KB", "problem_link": "/problemset/problem/716/A", "problem_id": "28137329"}
+{"lang": "Ruby", "title": "467B - Fedor and New Game", "time": "93ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/467/B", "problem_id": "28137118"}
+{"lang": "Ruby", "title": "270A - Fancy Fence", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/270/A", "problem_id": "28136686"}
+{"lang": "Ruby", "title": "489C - Given Length and Sum of Digits...", "time": "108ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/489/C", "problem_id": "28136207"}
+{"lang": "Ruby", "title": "519A - A and B and Chess", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/519/A", "problem_id": "28131038"}
+{"lang": "Ruby", "title": "599A - Patrick and Shopping", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/599/A", "problem_id": "28130770"}
+{"lang": "Ruby", "title": "556A - Case of the Zeros and Ones", "time": "171ms", "verdict": "OK", "memory": "23800KB", "problem_link": "/problemset/problem/556/A", "problem_id": "28130678"}
+{"lang": "Ruby", "title": "149A - Business trip", "time": "186ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/149/A", "problem_id": "28129975"}
+{"lang": "Ruby", "title": "588A - Duff and Meat", "time": "265ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/588/A", "problem_id": "28129822"}
+{"lang": "Ruby", "title": "579A - Raising Bacteria", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/579/A", "problem_id": "28129653"}
+{"lang": "Ruby", "title": "448A - Rewards", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/448/A", "problem_id": "28129576"}
+{"lang": "Ruby", "title": "474A - Keyboard", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/474/A", "problem_id": "28128342"}
+{"lang": "Ruby", "title": "476A - Dreamoon and Stairs", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/476/A", "problem_id": "28128239"}
+{"lang": "Ruby", "title": "490A - Team Olympiad", "time": "77ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/490/A", "problem_id": "28127946"}
+{"lang": "Ruby", "title": "577A - Multiplication Table", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/577/A", "problem_id": "28126453"}
+{"lang": "Ruby", "title": "707A - Brain's Photos", "time": "62ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/707/A", "problem_id": "28126233"}
+{"lang": "Ruby", "title": "519B - A and B and Compilation Errors", "time": "499ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/519/B", "problem_id": "28126070"}
+{"lang": "Ruby", "title": "703A - Mishka and Game", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/703/A", "problem_id": "28114540"}
+{"lang": "Ruby", "title": "427A - Police Recruits", "time": "108ms", "verdict": "OK", "memory": "15200KB", "problem_link": "/problemset/problem/427/A", "problem_id": "28114322"}
+{"lang": "Ruby", "title": "509A - Maximum in Table", "time": "46ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/509/A", "problem_id": "28113592"}
+{"lang": "Ruby", "title": "327A - Flipping Game", "time": "122ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/327/A", "problem_id": "28113468"}
+{"lang": "Ruby", "title": "4C - Registration System", "time": "1060ms", "verdict": "OK", "memory": "6900KB", "problem_link": "/problemset/problem/4/C", "problem_id": "28110843"}
+{"lang": "Ruby", "title": "711A - Bus to Udayland", "time": "62ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/711/A", "problem_id": "28110671"}
+{"lang": "Ruby", "title": "268B - Buttons", "time": "122ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/268/B", "problem_id": "28110440"}
+{"lang": "Ruby", "title": "432A - Choosing Teams", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/432/A", "problem_id": "28109957"}
+{"lang": "Ruby", "title": "732A - Buy a Shovel", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/732/A", "problem_id": "28107879"}
+{"lang": "Ruby", "title": "732A - Buy a Shovel", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/732/A", "problem_id": "28107842"}
+{"lang": "Ruby", "title": "540A - Combination Lock", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/540/A", "problem_id": "28107688"}
+{"lang": "Ruby", "title": "478A - Initial Bet", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/478/A", "problem_id": "28107598"}
+{"lang": "Ruby", "title": "478A - Initial Bet", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/478/A", "problem_id": "28107580"}
+{"lang": "Ruby", "title": "189A - Cut Ribbon", "time": "62ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/189/A", "problem_id": "28107472"}
+{"lang": "Ruby", "title": "750A - New Year and Hurry", "time": "46ms", "verdict": "CRASHED", "memory": "6300KB", "problem_link": "/problemset/problem/750/A", "problem_id": "28107296"}
+{"lang": "Ruby", "title": "200B - Drinks", "time": "154ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/200/B", "problem_id": "28106905"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/584/A", "problem_id": "28106696"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/584/A", "problem_id": "28106684"}
+{"lang": "Ruby", "title": "705A - Hulk", "time": "77ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/705/A", "problem_id": "28106566"}
+{"lang": "Ruby", "title": "705A - Hulk", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/705/A", "problem_id": "28106463"}
+{"lang": "Ruby", "title": "581A - Vasya the Hipster", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/581/A", "problem_id": "28106301"}
+{"lang": "Ruby", "title": "677A - Vanya and Fence", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/677/A", "problem_id": "28106240"}
+{"lang": "Ruby", "title": "723A - The New Year: Meeting Friends", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/723/A", "problem_id": "28106126"}
+{"lang": "Ruby", "title": "155A - I_love_\\%username\\%", "time": "154ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/155/A", "problem_id": "28106080"}
+{"lang": "Ruby", "title": "155A - I_love_\\%username\\%", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/155/A", "problem_id": "28105917"}
+{"lang": "Ruby", "title": "313A - Ilya and Bank Account", "time": "156ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/313/A", "problem_id": "28105875"}
+{"lang": "Ruby", "title": "313A - Ilya and Bank Account", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/313/A", "problem_id": "28105833"}
+{"lang": "Ruby", "title": "313A - Ilya and Bank Account", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/313/A", "problem_id": "28105821"}
+{"lang": "Ruby", "title": "313A - Ilya and Bank Account", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/313/A", "problem_id": "28105791"}
+{"lang": "Ruby", "title": "734A - Anton and Danik", "time": "108ms", "verdict": "OK", "memory": "21300KB", "problem_link": "/problemset/problem/734/A", "problem_id": "28105679"}
+{"lang": "Ruby", "title": "492B - Vanya and Lanterns", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/492/B", "problem_id": "28105633"}
+{"lang": "Ruby", "title": "492A - Vanya and Cubes", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/492/A", "problem_id": "28105570"}
+{"lang": "Ruby", "title": "455A - Boredom", "time": "249ms", "verdict": "OK", "memory": "23500KB", "problem_link": "/problemset/problem/455/A", "problem_id": "28105459"}
+{"lang": "Ruby", "title": "455A - Boredom", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "23600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "28105312"}
+{"lang": "Ruby", "title": "466A - Cheap Travel", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/466/A", "problem_id": "28105062"}
+{"lang": "Ruby", "title": "466A - Cheap Travel", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/466/A", "problem_id": "28105037"}
+{"lang": "Ruby", "title": "466A - Cheap Travel", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/466/A", "problem_id": "28105022"}
+{"lang": "Ruby", "title": "230A - Dragons", "time": "186ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/230/A", "problem_id": "28104910"}
+{"lang": "Ruby", "title": "339B - Xenia and Ringroad", "time": "342ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/339/B", "problem_id": "28078197"}
+{"lang": "Ruby", "title": "405A - Gravity Flip", "time": "93ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/405/A", "problem_id": "28078000"}
+{"lang": "Ruby", "title": "59A - Word", "time": "216ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/59/A", "problem_id": "28077986"}
+{"lang": "Ruby", "title": "405A - Gravity Flip", "time": "31ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "6200KB", "problem_link": "/problemset/problem/405/A", "problem_id": "28077843"}
+{"lang": "Ruby", "title": "141A - Amusing Joke", "time": "124ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/141/A", "problem_id": "28077601"}
+{"lang": "Ruby", "title": "228A - Is your horseshoe on the other hoof?", "time": "124ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/228/A", "problem_id": "28077424"}
+{"lang": "Ruby", "title": "520A - Pangram", "time": "62ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/520/A", "problem_id": "28077039"}
+{"lang": "Ruby", "title": "520A - Pangram", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/520/A", "problem_id": "28076964"}
+{"lang": "Ruby", "title": "510A - Fox And Snake", "time": "77ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/510/A", "problem_id": "28076643"}
+{"lang": "Ruby", "title": "510A - Fox And Snake", "time": "46ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/510/A", "problem_id": "28076358"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27896602"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27896463"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27896440"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27896429"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27896422"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27895329"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27895107"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/25/A", "problem_id": "27893606"}
+{"lang": "Ruby", "title": "443A - Anton and Letters", "time": "93ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/443/A", "problem_id": "27893314"}
+{"lang": "Ruby", "title": "443A - Anton and Letters", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/443/A", "problem_id": "27893290"}
+{"lang": "Ruby", "title": "119A - Epic Game", "time": "184ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "27893203"}
+{"lang": "Ruby", "title": "119A - Epic Game", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "27893171"}
+{"lang": "Ruby", "title": "500A - New Year Transportation", "time": "109ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/500/A", "problem_id": "27893010"}
+{"lang": "Ruby", "title": "268A - Games", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/268/A", "problem_id": "27892825"}
+{"lang": "Ruby", "title": "344A - Magnets", "time": "280ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/A", "problem_id": "27892736"}
+{"lang": "Ruby", "title": "379A - New Year Candles", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "27892677"}
+{"lang": "Ruby", "title": "61A - Ultra-Fast Mathematician", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/61/A", "problem_id": "27892558"}
+{"lang": "Ruby", "title": "460A - Vasya and Socks", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/460/A", "problem_id": "27892513"}
+{"lang": "Ruby", "title": "318A - Even Odds", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/318/A", "problem_id": "27892407"}
+{"lang": "Ruby", "title": "617A - Elephant", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/A", "problem_id": "27892298"}
+{"lang": "Ruby", "title": "82A - Double Cola", "time": "93ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/82/A", "problem_id": "27892264"}
+{"lang": "Ruby", "title": "469A - I Wanna Be the Guy", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "27892001"}
+{"lang": "Ruby", "title": "144A - Arrival of the General", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "27891913"}
+{"lang": "Ruby", "title": "472A - Design Tutorial: Learn from Math", "time": "93ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/472/A", "problem_id": "27891797"}
+{"lang": "Ruby", "title": "451A - Game With Sticks", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/451/A", "problem_id": "27890809"}
+{"lang": "Ruby", "title": "208A - Dubstep", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/208/A", "problem_id": "27890718"}
+{"lang": "Ruby", "title": "486A - Calculating Function", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "27890655"}
+{"lang": "Ruby", "title": "479A - Expression", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/479/A", "problem_id": "27890567"}
+{"lang": "Ruby", "title": "580A - Kefa and First Steps", "time": "265ms", "verdict": "OK", "memory": "16700KB", "problem_link": "/problemset/problem/580/A", "problem_id": "27890528"}
+{"lang": "Ruby", "title": "580A - Kefa and First Steps", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/580/A", "problem_id": "27890496"}
+{"lang": "Ruby", "title": "136A - Presents", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/136/A", "problem_id": "27890360"}
+{"lang": "Ruby", "title": "41A - Translation", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/41/A", "problem_id": "27890215"}
+{"lang": "Ruby", "title": "337A - Puzzles", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/337/A", "problem_id": "27890148"}
+{"lang": "Ruby", "title": "271A - Beautiful Year", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/271/A", "problem_id": "27890033"}
+{"lang": "Ruby", "title": "69A - Young Physicist", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/69/A", "problem_id": "27889411"}
+{"lang": "GNU C++11", "title": "148A - Insomnia cure", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/148/A", "problem_id": "27889266"}
+{"lang": "Ruby", "title": "266B - Queue at the School", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/B", "problem_id": "27888560"}
+{"lang": "Ruby", "title": "110A - Nearly Lucky Number", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/110/A", "problem_id": "27873472"}
+{"lang": "Ruby", "title": "110A - Nearly Lucky Number", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "27873350"}
+{"lang": "Ruby", "title": "467A - George and Accommodation", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "27873292"}
+{"lang": "Ruby", "title": "546A - Soldier and Bananas", "time": "78ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/546/A", "problem_id": "27873159"}
+{"lang": "GNU C++11", "title": "236A - Boy or Girl", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/236/A", "problem_id": "27873070"}
+{"lang": "GNU C++11", "title": "263A - Beautiful Matrix", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "27873049"}
+{"lang": "GNU C++11", "title": "122A - Lucky Division", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/122/A", "problem_id": "27873008"}
+{"lang": "GNU C++11", "title": "58A - Chat room", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "27872911"}
+{"lang": "GNU C++11", "title": "160A - Twins", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "27872852"}
+{"lang": "GNU C++11", "title": "160A - Twins", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "27872803"}
+{"lang": "GNU C++11", "title": "160A - Twins", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "27872793"}
+{"lang": "GNU C++11", "title": "160A - Twins", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "27872699"}
+{"lang": "Ruby", "title": "133A - HQ9+", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "27872483"}
+{"lang": "Ruby", "title": "133A - HQ9+", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "27872478"}
+{"lang": "Ruby", "title": "131A - cAPS lOCK", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "27872387"}
+{"lang": "Ruby", "title": "131A - cAPS lOCK", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "27872107"}
+{"lang": "Ruby", "title": "281A - Word Capitalization", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/281/A", "problem_id": "27871899"}
+{"lang": "GNU C++11", "title": "266A - Stones on the Table", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/A", "problem_id": "27871841"}
+{"lang": "GNU C++11", "title": "266A - Stones on the Table", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/266/A", "problem_id": "27871720"}
+{"lang": "Ruby", "title": "116A - Tram", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/116/A", "problem_id": "27871367"}
+{"lang": "Ruby", "title": "158B - Taxi", "time": "342ms", "verdict": "OK", "memory": "15600KB", "problem_link": "/problemset/problem/158/B", "problem_id": "27871300"}
+{"lang": "Ruby", "title": "339A - Helpful Maths", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/339/A", "problem_id": "27846581"}
+{"lang": "Ruby", "title": "112A - Petya and Strings", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/112/A", "problem_id": "27846494"}
+{"lang": "Ruby", "title": "96A - Football", "time": "216ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/96/A", "problem_id": "27846340"}
+{"lang": "Ruby", "title": "282A - Bit++", "time": "109ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/282/A", "problem_id": "27846135"}
+{"lang": "Ruby", "title": "231A - Team", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/231/A", "problem_id": "27846010"}
+{"lang": "Ruby", "title": "50A - Domino piling", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/50/A", "problem_id": "27845928"}
+{"lang": "Ruby", "title": "118A - String Task", "time": "216ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/118/A", "problem_id": "27845855"}
+{"lang": "Ruby", "title": "118A - String Task", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/118/A", "problem_id": "27845831"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/158/A", "problem_id": "27845532"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "27845499"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "27845398"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/71/A", "problem_id": "27845289"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "27845131"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "27845075"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "27844964"}

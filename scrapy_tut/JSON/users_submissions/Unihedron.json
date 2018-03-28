@@ -1,0 +1,36 @@
+{"lang": "Ruby", "title": "900B - Position in Fraction", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/900/B", "problem_id": "33119082"}
+{"lang": "Ruby", "title": "900C - Remove Extra One", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/900/C", "problem_id": "33117585"}
+{"lang": "Ruby", "title": "900B - Position in Fraction", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/900/B", "problem_id": "33116963"}
+{"lang": "Ruby", "title": "900C - Remove Extra One", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/900/C", "problem_id": "33116496"}
+{"lang": "Ruby", "title": "900B - Position in Fraction", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "6000KB", "problem_link": "/problemset/problem/900/B", "problem_id": "33115781"}
+{"lang": "Ruby", "title": "900A - Find Extra One", "time": "296ms", "verdict": "OK", "memory": "18100KB", "problem_link": "/problemset/problem/900/A", "problem_id": "33113866"}
+{"lang": "Ruby", "title": "805C - Find Amir", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/805/C", "problem_id": "33103735"}
+{"lang": "Ruby", "title": "805D - Minimum number of steps", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6900KB", "problem_link": "/problemset/problem/805/D", "problem_id": "33103488"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "62ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103407"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6400KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103398"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103371"}
+{"lang": "Ruby", "title": "805D - Minimum number of steps", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/805/D", "problem_id": "33103293"}
+{"lang": "Ruby", "title": "805B - 3-palindrome", "time": "78ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/805/B", "problem_id": "33103194"}
+{"lang": "Ruby", "title": "805B - 3-palindrome", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6300KB", "problem_link": "/problemset/problem/805/B", "problem_id": "33103172"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6300KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103090"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8000KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103075"}
+{"lang": "Ruby", "title": "805A - Fake NP", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8000KB", "problem_link": "/problemset/problem/805/A", "problem_id": "33103033"}
+{"lang": "Ruby", "title": "4D - Mysterious Present", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "6100KB", "problem_link": "/problemset/problem/4/D", "problem_id": "33007960"}
+{"lang": "Ruby", "title": "4D - Mysterious Present", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/4/D", "problem_id": "33006198"}
+{"lang": "Ruby", "title": "4C - Registration System", "time": "1370ms", "verdict": "OK", "memory": "43100KB", "problem_link": "/problemset/problem/4/C", "problem_id": "33004801"}
+{"lang": "Ruby", "title": "4C - Registration System", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "13000KB", "problem_link": "/problemset/problem/4/C", "problem_id": "33004766"}
+{"lang": "Ruby", "title": "4C - Registration System", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/4/C", "problem_id": "33004665"}
+{"lang": "Ruby", "title": "4C - Registration System", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/4/C", "problem_id": "33004625"}
+{"lang": "Ruby", "title": "4B - Before an Exam", "time": "77ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/4/B", "problem_id": "33004474"}
+{"lang": "Ruby", "title": "4B - Before an Exam", "time": "61ms", "verdict": "RUNTIME_ERROR", "memory": "6100KB", "problem_link": "/problemset/problem/4/B", "problem_id": "33004416"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/4/A", "problem_id": "33004081"}
+{"lang": "GNU C++", "title": "4A - Watermelon", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "33004057"}
+{"lang": "GNU C++", "title": "612B - HDD is Outdated Technology", "time": "374ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15017462"}
+{"lang": "GNU C", "title": "612B - HDD is Outdated Technology", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15017426"}
+{"lang": "GNU C11", "title": "612B - HDD is Outdated Technology", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15017394"}
+{"lang": "GNU C11", "title": "612C - Replace To Make Regular Bracket Sequence", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/C", "problem_id": "15017356"}
+{"lang": "Scala", "title": "612B - HDD is Outdated Technology", "time": "264ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15017210"}
+{"lang": "Scala", "title": "612A - The Text Splitting", "time": "265ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15014471"}
+{"lang": "Scala", "title": "612A - The Text Splitting", "time": "233ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15014239"}
+{"lang": "Scala", "title": "609A - USB Flash Drives", "time": "249ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/609/A", "problem_id": "15007574"}
+{"lang": "Scala", "title": "609A - USB Flash Drives", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/609/A", "problem_id": "15007482"}

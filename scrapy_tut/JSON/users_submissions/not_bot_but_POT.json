@@ -1,0 +1,1084 @@
+{"lang": "PyPy 2", "title": "600B - Queries about less or equal elements", "time": "1528ms", "verdict": "OK", "memory": "18400KB", "problem_link": "/problemset/problem/600/B", "problem_id": "15915492"}
+{"lang": "PyPy 2", "title": "599B - Spongebob and Joke", "time": "732ms", "verdict": "OK", "memory": "12100KB", "problem_link": "/problemset/problem/599/B", "problem_id": "15915491"}
+{"lang": "Python 2", "title": "598B - Queries on a String", "time": "61ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/598/B", "problem_id": "15915490"}
+{"lang": "Python 3", "title": "597B - Restaurant", "time": "2807ms", "verdict": "OK", "memory": "40700KB", "problem_link": "/problemset/problem/597/B", "problem_id": "15915489"}
+{"lang": "Perl", "title": "596B - Wilbur and Array", "time": "186ms", "verdict": "OK", "memory": "4900KB", "problem_link": "/problemset/problem/596/B", "problem_id": "15915487"}
+{"lang": "Python 2", "title": "595B - Pasha and Phone", "time": "249ms", "verdict": "OK", "memory": "5100KB", "problem_link": "/problemset/problem/595/B", "problem_id": "15915486"}
+{"lang": "GNU C++11", "title": "594B - Max and Bike", "time": "795ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/594/B", "problem_id": "15915485"}
+{"lang": "Python 2", "title": "593B - Anton and Lines", "time": "607ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/593/B", "problem_id": "15915483"}
+{"lang": "Perl", "title": "592B - The Monster and the Squirrel", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "15915481"}
+{"lang": "Perl", "title": "591B - Rebranding", "time": "1699ms", "verdict": "OK", "memory": "16300KB", "problem_link": "/problemset/problem/591/B", "problem_id": "15915479"}
+{"lang": "GNU C++", "title": "590B - Chip 'n Dale Rescue Rangers", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/590/B", "problem_id": "15915478"}
+{"lang": "Ruby", "title": "588B - Duff in Love", "time": "311ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/588/B", "problem_id": "15915477"}
+{"lang": "GNU C++11", "title": "587B - Duff in Beach", "time": "702ms", "verdict": "OK", "memory": "31300KB", "problem_link": "/problemset/problem/587/B", "problem_id": "15915476"}
+{"lang": "Python 2", "title": "586B - Laurenty and Shop", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/586/B", "problem_id": "15915475"}
+{"lang": "PyPy 2", "title": "585B - Phillip and Trains", "time": "78ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/585/B", "problem_id": "15915473"}
+{"lang": "Python 2", "title": "584B - Kolya and Tanya", "time": "93ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/584/B", "problem_id": "15915472"}
+{"lang": "Perl", "title": "583B - Robot's Task", "time": "280ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/583/B", "problem_id": "15915470"}
+{"lang": "GNU C++11", "title": "582B - Once Again...", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/582/B", "problem_id": "15915469"}
+{"lang": "Ruby", "title": "581B - Luxurious Houses", "time": "280ms", "verdict": "OK", "memory": "18600KB", "problem_link": "/problemset/problem/581/B", "problem_id": "15915468"}
+{"lang": "Python 2", "title": "580B - Kefa and Company", "time": "561ms", "verdict": "OK", "memory": "11200KB", "problem_link": "/problemset/problem/580/B", "problem_id": "15915467"}
+{"lang": "Python 2", "title": "579B - Finding Team Member", "time": "920ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/579/B", "problem_id": "15915466"}
+{"lang": "Python 2", "title": "578B - \"Or\" Game", "time": "343ms", "verdict": "OK", "memory": "13000KB", "problem_link": "/problemset/problem/578/B", "problem_id": "15915465"}
+{"lang": "Python 2", "title": "577B - Modulo Sum", "time": "592ms", "verdict": "OK", "memory": "52400KB", "problem_link": "/problemset/problem/577/B", "problem_id": "15915464"}
+{"lang": "GNU C++", "title": "576B - Invariance of Tree", "time": "62ms", "verdict": "OK", "memory": "1100KB", "problem_link": "/problemset/problem/576/B", "problem_id": "15915463"}
+{"lang": "GNU C++", "title": "575B - Bribes", "time": "389ms", "verdict": "OK", "memory": "24300KB", "problem_link": "/problemset/problem/575/B", "problem_id": "15915462"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "1684ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/574/B", "problem_id": "15915461"}
+{"lang": "Python 2", "title": "573B - Bear and Blocks", "time": "171ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/573/B", "problem_id": "15915459"}
+{"lang": "Ruby", "title": "572B - Order Book", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/572/B", "problem_id": "15915458"}
+{"lang": "PyPy 3", "title": "571B - Minimization", "time": "1029ms", "verdict": "OK", "memory": "94200KB", "problem_link": "/problemset/problem/571/B", "problem_id": "15915457"}
+{"lang": "Python 3", "title": "570B - Simple Game", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "15915456"}
+{"lang": "Python 2", "title": "569B - Inventory", "time": "217ms", "verdict": "OK", "memory": "11700KB", "problem_link": "/problemset/problem/569/B", "problem_id": "15915454"}
+{"lang": "PyPy 3", "title": "568B - Symmetric and Transitive", "time": "280ms", "verdict": "OK", "memory": "62600KB", "problem_link": "/problemset/problem/568/B", "problem_id": "15915453"}
+{"lang": "Perl", "title": "567B - Berland National Library", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/567/B", "problem_id": "15915452"}
+{"lang": "GNU C++11", "title": "566B - Replicating Processes", "time": "78ms", "verdict": "OK", "memory": "19400KB", "problem_link": "/problemset/problem/566/B", "problem_id": "15915451"}
+{"lang": "Python 2", "title": "560B - Gerald is into Art", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/B", "problem_id": "15915447"}
+{"lang": "Python 3", "title": "559B - Equivalent Strings", "time": "560ms", "verdict": "OK", "memory": "19400KB", "problem_link": "/problemset/problem/559/B", "problem_id": "15915446"}
+{"lang": "Python 3", "title": "558B - Amr and The Large Array", "time": "233ms", "verdict": "OK", "memory": "15900KB", "problem_link": "/problemset/problem/558/B", "problem_id": "15915442"}
+{"lang": "Python 2", "title": "557B - Pasha and Tea", "time": "217ms", "verdict": "OK", "memory": "10900KB", "problem_link": "/problemset/problem/557/B", "problem_id": "15915441"}
+{"lang": "Python 2", "title": "556B - Case of Fake Numbers", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/556/B", "problem_id": "15915440"}
+{"lang": "GNU C++11", "title": "555B - Case of Fugitive", "time": "2433ms", "verdict": "OK", "memory": "18900KB", "problem_link": "/problemset/problem/555/B", "problem_id": "15915439"}
+{"lang": "Ruby", "title": "554B - Ohana Cleans Up", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/554/B", "problem_id": "15915438"}
+{"lang": "PyPy 2", "title": "553B - Kyoya and Permutation", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/553/B", "problem_id": "15915437"}
+{"lang": "Python 3", "title": "552B - Vanya and Books", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "15915436"}
+{"lang": "Python 2", "title": "551B - ZgukistringZ", "time": "109ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/551/B", "problem_id": "15915435"}
+{"lang": "Python 3", "title": "550B - Preparing Olympiad", "time": "93ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/550/B", "problem_id": "15915433"}
+{"lang": "GNU C++", "title": "549B - Looksery Party", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/549/B", "problem_id": "15915432"}
+{"lang": "Python 3", "title": "548B - Mike and Fun", "time": "389ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/548/B", "problem_id": "15915431"}
+{"lang": "Python 3", "title": "547B - Mike and Feet", "time": "670ms", "verdict": "OK", "memory": "19000KB", "problem_link": "/problemset/problem/547/B", "problem_id": "15915430"}
+{"lang": "Python 2", "title": "546B - Soldier and Badges", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/546/B", "problem_id": "15915428"}
+{"lang": "Python 2", "title": "545B - Equidistant String", "time": "124ms", "verdict": "OK", "memory": "6000KB", "problem_link": "/problemset/problem/545/B", "problem_id": "15915427"}
+{"lang": "GNU C", "title": "544B - Sea and Islands", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/544/B", "problem_id": "15915426"}
+{"lang": "GNU C++", "title": "543B - Destroying Roads", "time": "312ms", "verdict": "OK", "memory": "35400KB", "problem_link": "/problemset/problem/543/B", "problem_id": "15915425"}
+{"lang": "GNU C++11", "title": "542B - Duck Hunt", "time": "889ms", "verdict": "OK", "memory": "102900KB", "problem_link": "/problemset/problem/542/B", "problem_id": "15915424"}
+{"lang": "Perl", "title": "540B - School Marks", "time": "30ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/540/B", "problem_id": "15915422"}
+{"lang": "Perl", "title": "538B - Quasi Binary", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/538/B", "problem_id": "15915420"}
+{"lang": "GNU C++", "title": "536B - Tavas and Malekas", "time": "156ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/536/B", "problem_id": "15915418"}
+{"lang": "Perl", "title": "535B - Tavas and SaDDas", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/B", "problem_id": "15915417"}
+{"lang": "Haskell", "title": "534B - Covered Path", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/534/B", "problem_id": "15915416"}
+{"lang": "PyPy 2", "title": "533B - Work Group", "time": "234ms", "verdict": "OK", "memory": "24500KB", "problem_link": "/problemset/problem/533/B", "problem_id": "15915414"}
+{"lang": "GNU C++11", "title": "529B - Group Photo 2 (online mirror version)", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/529/B", "problem_id": "15915412"}
+{"lang": "D", "title": "528B - Clique Problem", "time": "296ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/528/B", "problem_id": "15915410"}
+{"lang": "Perl", "title": "527B - Error Correct System", "time": "109ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/527/B", "problem_id": "15915409"}
+{"lang": "Python 3", "title": "526B - Om Nom and Dark Park", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/526/B", "problem_id": "15915407"}
+{"lang": "Python 2", "title": "525B - Pasha and String", "time": "171ms", "verdict": "OK", "memory": "7100KB", "problem_link": "/problemset/problem/525/B", "problem_id": "15915406"}
+{"lang": "PyPy 2", "title": "524B - \u0424\u043e\u0442\u043e \u043d\u0430 \u043f\u0430\u043c\u044f\u0442\u044c - 2 (round version)", "time": "139ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/524/B", "problem_id": "15915404"}
+{"lang": "FPC", "title": "523B - Mean Requests", "time": "576ms", "verdict": "OK", "memory": "5700KB", "problem_link": "/problemset/problem/523/B", "problem_id": "15915403"}
+{"lang": "Python 2", "title": "522B - Photo to Remember", "time": "764ms", "verdict": "OK", "memory": "25300KB", "problem_link": "/problemset/problem/522/B", "problem_id": "15915401"}
+{"lang": "GNU C", "title": "520B - Two Buttons", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "15915399"}
+{"lang": "Ruby", "title": "519B - A and B and Compilation Errors", "time": "514ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/519/B", "problem_id": "15915398"}
+{"lang": "Perl", "title": "518B - Tanya and Postcard", "time": "233ms", "verdict": "OK", "memory": "29400KB", "problem_link": "/problemset/problem/518/B", "problem_id": "15915397"}
+{"lang": "GNU C++", "title": "516B - Drazil and Tiles", "time": "156ms", "verdict": "OK", "memory": "26300KB", "problem_link": "/problemset/problem/516/B", "problem_id": "15915395"}
+{"lang": "Python 3", "title": "515B - Drazil and His Happy Friends", "time": "93ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/515/B", "problem_id": "15915392"}
+{"lang": "Ruby", "title": "514B - Han Solo and Lazer Gun", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "15915387"}
+{"lang": "Python 2", "title": "512B - Fox And Jumping", "time": "919ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/512/B", "problem_id": "15915384"}
+{"lang": "Python 2", "title": "510B - Fox And Two Dots", "time": "280ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/510/B", "problem_id": "15915381"}
+{"lang": "Python 2", "title": "509B - Painting Pebbles", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/509/B", "problem_id": "15915380"}
+{"lang": "Perl", "title": "508B - Anton and currency you all know", "time": "31ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/508/B", "problem_id": "15915379"}
+{"lang": "Ruby", "title": "507B - Amr and Pins", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/507/B", "problem_id": "15915378"}
+{"lang": "GNU C++", "title": "506B - Mr. Kitayuta's Technology", "time": "78ms", "verdict": "OK", "memory": "8000KB", "problem_link": "/problemset/problem/506/B", "problem_id": "15915377"}
+{"lang": "Ruby", "title": "505B - Mr. Kitayuta's Colorful Graph", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/505/B", "problem_id": "15915376"}
+{"lang": "GNU C++", "title": "504B - Misha and Permutations Summation", "time": "171ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/504/B", "problem_id": "15915375"}
+{"lang": "Python 3", "title": "501B - Misha and Changing Handles", "time": "62ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/501/B", "problem_id": "15915372"}
+{"lang": "Ruby", "title": "500B - New Year Permutation", "time": "140ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/500/B", "problem_id": "15915371"}
+{"lang": "Perl", "title": "499B - Lecture", "time": "31ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/499/B", "problem_id": "15915369"}
+{"lang": "GNU C++", "title": "498B - Name That Tune", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/498/B", "problem_id": "15915368"}
+{"lang": "Python 2", "title": "496B - Secret Combination", "time": "1231ms", "verdict": "OK", "memory": "5300KB", "problem_link": "/problemset/problem/496/B", "problem_id": "15915367"}
+{"lang": "Python 2", "title": "495B - Modular Equations", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/495/B", "problem_id": "15915366"}
+{"lang": "Ruby", "title": "493B - Vasya and Wrestling", "time": "499ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/493/B", "problem_id": "15915364"}
+{"lang": "Python 2", "title": "492B - Vanya and Lanterns", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/492/B", "problem_id": "15915362"}
+{"lang": "FPC", "title": "491B - New York Hotel", "time": "93ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/491/B", "problem_id": "15915360"}
+{"lang": "Python 2", "title": "490B - Queue", "time": "826ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/490/B", "problem_id": "15915359"}
+{"lang": "Ruby", "title": "489B - BerSU Ball", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/489/B", "problem_id": "15915357"}
+{"lang": "Python 3", "title": "488B - Candy Boxes", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/488/B", "problem_id": "15915356"}
+{"lang": "GNU C++", "title": "487B - Strip", "time": "264ms", "verdict": "OK", "memory": "7100KB", "problem_link": "/problemset/problem/487/B", "problem_id": "15915354"}
+{"lang": "Python 3", "title": "486B - OR in Matrix", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/B", "problem_id": "15915353"}
+{"lang": "Python 2", "title": "485B - Valuable Resources", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/485/B", "problem_id": "15915352"}
+{"lang": "Python 2", "title": "483B - Friends and Presents", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/483/B", "problem_id": "15915348"}
+{"lang": "GNU C++", "title": "482B - Interesting Array", "time": "109ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/482/B", "problem_id": "15915347"}
+{"lang": "GNU C++", "title": "480B - Long Jumps", "time": "280ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/480/B", "problem_id": "15915344"}
+{"lang": "Python 2", "title": "479B - Towers", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/479/B", "problem_id": "15915342"}
+{"lang": "Python 2", "title": "478B - Random Teams", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/478/B", "problem_id": "15915339"}
+{"lang": "Python 2", "title": "477B - Dreamoon and Sets", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/477/B", "problem_id": "15915338"}
+{"lang": "Python 3", "title": "476B - Dreamoon and WiFi", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/476/B", "problem_id": "15915336"}
+{"lang": "Perl", "title": "475B - Strongly Connected City", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/475/B", "problem_id": "15915335"}
+{"lang": "Perl", "title": "474B - Worms", "time": "358ms", "verdict": "OK", "memory": "45000KB", "problem_link": "/problemset/problem/474/B", "problem_id": "15915332"}
+{"lang": "Python 3", "title": "472B - Design Tutorial: Learn from Life", "time": "61ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/472/B", "problem_id": "15915329"}
+{"lang": "Ruby", "title": "471B - MUH and Important Things", "time": "77ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/471/B", "problem_id": "15915328"}
+{"lang": "Python 2", "title": "469B - Chat Online", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/469/B", "problem_id": "15915327"}
+{"lang": "GNU C++11", "title": "468B - Two Sets", "time": "140ms", "verdict": "OK", "memory": "7500KB", "problem_link": "/problemset/problem/468/B", "problem_id": "15915326"}
+{"lang": "Haskell", "title": "467B - Fedor and New Game", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/B", "problem_id": "15915324"}
+{"lang": "Python 2", "title": "466B - Wonder Room", "time": "109ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/466/B", "problem_id": "15915322"}
+{"lang": "Perl", "title": "465B - Inbox (100500)", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/465/B", "problem_id": "15915321"}
+{"lang": "Haskell", "title": "464B - Restore Cube", "time": "280ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/464/B", "problem_id": "15915319"}
+{"lang": "Ruby", "title": "463B - Caisa and Pylons", "time": "93ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/problem/463/B", "problem_id": "15915318"}
+{"lang": "Python 3", "title": "462B - Appleman and Card Game", "time": "93ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/462/B", "problem_id": "15915317"}
+{"lang": "GNU C++11", "title": "461B - Appleman and Tree", "time": "280ms", "verdict": "OK", "memory": "2400KB", "problem_link": "/problemset/problem/461/B", "problem_id": "15915316"}
+{"lang": "Python 2", "title": "460B - Little Dima and Equation", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/460/B", "problem_id": "15915314"}
+{"lang": "Python 2", "title": "459B - Pashmak and Flowers", "time": "171ms", "verdict": "OK", "memory": "10900KB", "problem_link": "/problemset/problem/459/B", "problem_id": "15915312"}
+{"lang": "Python 2", "title": "458B - Distributed Join", "time": "420ms", "verdict": "OK", "memory": "10300KB", "problem_link": "/problemset/problem/458/B", "problem_id": "15915311"}
+{"lang": "Python 2", "title": "457B - Distributed Join", "time": "436ms", "verdict": "OK", "memory": "11900KB", "problem_link": "/problemset/problem/457/B", "problem_id": "15915310"}
+{"lang": "Python 2", "title": "456B - Fedya and Maths", "time": "327ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/456/B", "problem_id": "15915308"}
+{"lang": "GNU C++11", "title": "455B - A Lot of Games", "time": "31ms", "verdict": "OK", "memory": "10200KB", "problem_link": "/problemset/problem/455/B", "problem_id": "15915307"}
+{"lang": "Python 2", "title": "454B - Little Pony and Sort by Shift", "time": "124ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/454/B", "problem_id": "15915306"}
+{"lang": "GNU C++", "title": "453B - Little Pony and Harmony Chest", "time": "1310ms", "verdict": "OK", "memory": "65700KB", "problem_link": "/problemset/problem/453/B", "problem_id": "15915304"}
+{"lang": "Ruby", "title": "451B - Sort the Array", "time": "249ms", "verdict": "OK", "memory": "31000KB", "problem_link": "/problemset/problem/451/B", "problem_id": "15915302"}
+{"lang": "Python 2", "title": "450B - Jzzhu and Sequences", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/450/B", "problem_id": "15915300"}
+{"lang": "GNU C++", "title": "449B - Jzzhu and Cities", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "37800KB", "problem_link": "/problemset/problem/449/B", "problem_id": "15915298"}
+{"lang": "Python 2", "title": "448B - Suffix Structures", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/448/B", "problem_id": "15915297"}
+{"lang": "Python 2", "title": "447B - DZY Loves Strings", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/447/B", "problem_id": "15915294"}
+{"lang": "GNU C++", "title": "446B - DZY Loves Modification", "time": "1481ms", "verdict": "OK", "memory": "15700KB", "problem_link": "/problemset/problem/446/B", "problem_id": "15915292"}
+{"lang": "Ruby", "title": "445B - DZY Loves Chemistry", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/445/B", "problem_id": "15915291"}
+{"lang": "GNU C++", "title": "444B - DZY Loves FFT", "time": "140ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/444/B", "problem_id": "15915290"}
+{"lang": "Python 3", "title": "443B - Kolya and Tandem Repeat", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/B", "problem_id": "15915289"}
+{"lang": "Python 2", "title": "442B - Andrey and Problem", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/442/B", "problem_id": "15915287"}
+{"lang": "Ruby", "title": "441B - Valera and Fruits", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/441/B", "problem_id": "15915285"}
+{"lang": "Haskell", "title": "440B - Balancer", "time": "249ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/440/B", "problem_id": "15915284"}
+{"lang": "Perl", "title": "439B - Devu, the Dumb Guy", "time": "140ms", "verdict": "OK", "memory": "19500KB", "problem_link": "/problemset/problem/439/B", "problem_id": "15915283"}
+{"lang": "Python 2", "title": "438B - The Child and Zoo", "time": "951ms", "verdict": "OK", "memory": "21200KB", "problem_link": "/problemset/problem/438/B", "problem_id": "15915282"}
+{"lang": "Ruby", "title": "437B - The Child and Set", "time": "93ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/437/B", "problem_id": "15915281"}
+{"lang": "Python 2", "title": "436B - Om Nom and Spiders", "time": "1886ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/436/B", "problem_id": "15915280"}
+{"lang": "Python 2", "title": "435B - Pasha Maximizes", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/435/B", "problem_id": "15915278"}
+{"lang": "GNU C++", "title": "434B - Nanami's Digital Board", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16400KB", "problem_link": "/problemset/problem/434/B", "problem_id": "15915277"}
+{"lang": "Python 2", "title": "433B - Kuriyama Mirai's Stones", "time": "592ms", "verdict": "OK", "memory": "8900KB", "problem_link": "/problemset/problem/433/B", "problem_id": "15915276"}
+{"lang": "Perl", "title": "432B - Football Kit", "time": "327ms", "verdict": "OK", "memory": "18500KB", "problem_link": "/problemset/problem/432/B", "problem_id": "15915275"}
+{"lang": "Python 2", "title": "431B - Shower Line", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/431/B", "problem_id": "15915272"}
+{"lang": "Perl", "title": "430B - Balls Game", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/430/B", "problem_id": "15915269"}
+{"lang": "GNU C++", "title": "429B - Working out", "time": "1840ms", "verdict": "OK", "memory": "19700KB", "problem_link": "/problemset/problem/429/B", "problem_id": "15915268"}
+{"lang": "Ruby", "title": "427B - Prison Transfer", "time": "296ms", "verdict": "OK", "memory": "32000KB", "problem_link": "/problemset/problem/427/B", "problem_id": "15915266"}
+{"lang": "Python 2", "title": "426B - Sereja and Mirroring", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/426/B", "problem_id": "15915264"}
+{"lang": "Python 3", "title": "425B - Sereja and Table", "time": "93ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/425/B", "problem_id": "15915261"}
+{"lang": "Python 2", "title": "424B - Megacity", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/424/B", "problem_id": "15915259"}
+{"lang": "Perl", "title": "421B - Start Up", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/421/B", "problem_id": "15915257"}
+{"lang": "GNU C++", "title": "420B - Online Meeting", "time": "249ms", "verdict": "OK", "memory": "2500KB", "problem_link": "/problemset/problem/420/B", "problem_id": "15915256"}
+{"lang": "D", "title": "418B - Cunning Gena", "time": "920ms", "verdict": "OK", "memory": "16400KB", "problem_link": "/problemset/problem/418/B", "problem_id": "15915254"}
+{"lang": "Python 2", "title": "417B - Crash", "time": "312ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/417/B", "problem_id": "15915253"}
+{"lang": "Python 2", "title": "416B - Art Union", "time": "483ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/416/B", "problem_id": "15915252"}
+{"lang": "Python 2", "title": "415B - Mashmokh and Tokens", "time": "186ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/415/B", "problem_id": "15915249"}
+{"lang": "GNU C++", "title": "414B - Mashmokh and ACM", "time": "109ms", "verdict": "OK", "memory": "16200KB", "problem_link": "/problemset/problem/414/B", "problem_id": "15915247"}
+{"lang": "Ruby", "title": "413B - Spyke Chatting", "time": "701ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/413/B", "problem_id": "15915246"}
+{"lang": "Perl", "title": "412B - Network Configuration", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/412/B", "problem_id": "15915244"}
+{"lang": "Python 2", "title": "411B - Multi-core Processor", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/411/B", "problem_id": "15915242"}
+{"lang": "Python 2", "title": "408B - Garland", "time": "46ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/408/B", "problem_id": "15915240"}
+{"lang": "Ruby", "title": "407B - Long Path", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/407/B", "problem_id": "15915238"}
+{"lang": "GNU C++", "title": "406B - Toy Sum", "time": "233ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/406/B", "problem_id": "15915236"}
+{"lang": "Perl", "title": "405B - Domino Effect", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/405/B", "problem_id": "15915235"}
+{"lang": "Python 2", "title": "404B - Marathon", "time": "327ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/404/B", "problem_id": "15915234"}
+{"lang": "GNU C++", "title": "403B - Upgrading Array", "time": "858ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/403/B", "problem_id": "15915233"}
+{"lang": "Python 2", "title": "402B - Trees in a Row", "time": "608ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/402/B", "problem_id": "15915232"}
+{"lang": "Perl", "title": "401B - Sereja and Contests", "time": "31ms", "verdict": "OK", "memory": "1100KB", "problem_link": "/problemset/problem/401/B", "problem_id": "15915231"}
+{"lang": "Perl", "title": "400B - Inna and New Matrix of Candies", "time": "31ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/400/B", "problem_id": "15915230"}
+{"lang": "Python 3", "title": "399B - Red and Blue Balls", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/399/B", "problem_id": "15915228"}
+{"lang": "GNU C++", "title": "398B - Painting The Wall", "time": "62ms", "verdict": "OK", "memory": "31300KB", "problem_link": "/problemset/problem/398/B", "problem_id": "15915225"}
+{"lang": "Python 2", "title": "397B - On Corruption and Numbers", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/397/B", "problem_id": "15915222"}
+{"lang": "GNU C++", "title": "396B - On Sum of Fractions", "time": "624ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/396/B", "problem_id": "15915221"}
+{"lang": "Python 3", "title": "394B - Very Beautiful Number", "time": "62ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/394/B", "problem_id": "15915219"}
+{"lang": "Python 2", "title": "393B - Three matrices", "time": "93ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/393/B", "problem_id": "15915217"}
+{"lang": "Python 3", "title": "391B - Word Folding", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/391/B", "problem_id": "15915214"}
+{"lang": "Python 3", "title": "390B - Inna, Dima and Song", "time": "156ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/problem/390/B", "problem_id": "15915213"}
+{"lang": "Python 2", "title": "389B - Fox and Cross", "time": "77ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/389/B", "problem_id": "15915212"}
+{"lang": "Python 2", "title": "388B - Fox and Minimal path", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/388/B", "problem_id": "15915210"}
+{"lang": "Python 3", "title": "387B - George and Round", "time": "77ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/387/B", "problem_id": "15915206"}
+{"lang": "Python 2", "title": "386B - Fly, freebies, fly!", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/386/B", "problem_id": "15915205"}
+{"lang": "Ruby", "title": "385B - Bear and Strings", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/385/B", "problem_id": "15915204"}
+{"lang": "Python 2", "title": "384B - Multitasking", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/384/B", "problem_id": "15915203"}
+{"lang": "GNU C++", "title": "383B - Volcanoes", "time": "171ms", "verdict": "OK", "memory": "20800KB", "problem_link": "/problemset/problem/383/B", "problem_id": "15915202"}
+{"lang": "Python 2", "title": "382B - Number Busters", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/382/B", "problem_id": "15915199"}
+{"lang": "Python 2", "title": "381B - Sereja and Stairs", "time": "108ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/381/B", "problem_id": "15915197"}
+{"lang": "Perl", "title": "379B - New Year Present", "time": "30ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/379/B", "problem_id": "15915195"}
+{"lang": "Python 2", "title": "378B - Semifinals", "time": "343ms", "verdict": "OK", "memory": "15200KB", "problem_link": "/problemset/problem/378/B", "problem_id": "15915194"}
+{"lang": "GNU C++", "title": "377B - Preparing for the Contest", "time": "733ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/377/B", "problem_id": "15915193"}
+{"lang": "Python 2", "title": "376B - I.O.U.", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/376/B", "problem_id": "15915192"}
+{"lang": "GNU C++", "title": "375B - Maximum Submatrix 2", "time": "810ms", "verdict": "OK", "memory": "24800KB", "problem_link": "/problemset/problem/375/B", "problem_id": "15915191"}
+{"lang": "Python 2", "title": "374B - Inna and Nine", "time": "156ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/374/B", "problem_id": "15915187"}
+{"lang": "Ruby", "title": "373B - Making Sequences is Fun", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/373/B", "problem_id": "15915186"}
+{"lang": "GNU C++", "title": "372B - Counting Rectangles is Fun", "time": "2932ms", "verdict": "OK", "memory": "24500KB", "problem_link": "/problemset/problem/372/B", "problem_id": "15915185"}
+{"lang": "MS C++", "title": "371B - Fox Dividing Cheese", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/371/B", "problem_id": "15915183"}
+{"lang": "Python 3", "title": "370B - Berland Bingo", "time": "62ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/370/B", "problem_id": "15915181"}
+{"lang": "Python 2", "title": "369B - Valera and Contest", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/369/B", "problem_id": "15915178"}
+{"lang": "Python 2", "title": "368B - Sereja and Suffixes", "time": "810ms", "verdict": "OK", "memory": "8800KB", "problem_link": "/problemset/problem/368/B", "problem_id": "15915176"}
+{"lang": "Python 2", "title": "367B - Sereja ans Anagrams", "time": "685ms", "verdict": "OK", "memory": "21200KB", "problem_link": "/problemset/problem/367/B", "problem_id": "15915175"}
+{"lang": "Python 2", "title": "366B - Dima and To-do List", "time": "124ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/366/B", "problem_id": "15915173"}
+{"lang": "Ruby", "title": "365B - The Fibonacci Segment", "time": "171ms", "verdict": "OK", "memory": "10400KB", "problem_link": "/problemset/problem/365/B", "problem_id": "15915172"}
+{"lang": "GNU C++", "title": "364B - Free Market", "time": "31ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/364/B", "problem_id": "15915171"}
+{"lang": "Python 2", "title": "363B - Fence", "time": "280ms", "verdict": "OK", "memory": "16600KB", "problem_link": "/problemset/problem/363/B", "problem_id": "15915168"}
+{"lang": "Python 2", "title": "362B - Petya and Staircases", "time": "202ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/362/B", "problem_id": "15915165"}
+{"lang": "Ruby", "title": "361B - Levko and Permutation", "time": "93ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/361/B", "problem_id": "15915164"}
+{"lang": "Python 2", "title": "359B - Permutation", "time": "109ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/359/B", "problem_id": "15915163"}
+{"lang": "Ruby", "title": "358B - Dima and Text Messages", "time": "187ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/358/B", "problem_id": "15915161"}
+{"lang": "Python 2", "title": "357B - Flag Day", "time": "327ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/357/B", "problem_id": "15915160"}
+{"lang": "GNU C++", "title": "356B - Xenia and Hamming", "time": "327ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/356/B", "problem_id": "15915158"}
+{"lang": "Python 2", "title": "355B - Vasya and Public Transport", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/355/B", "problem_id": "15915155"}
+{"lang": "GNU C++", "title": "354B - Game with Strings", "time": "592ms", "verdict": "OK", "memory": "369200KB", "problem_link": "/problemset/problem/354/B", "problem_id": "15915154"}
+{"lang": "Perl", "title": "353B - Two Heaps", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/353/B", "problem_id": "15915152"}
+{"lang": "Python 2", "title": "352B - Jeff and Periods", "time": "560ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/352/B", "problem_id": "15915149"}
+{"lang": "Haskell", "title": "351B - Jeff and Furik", "time": "156ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/351/B", "problem_id": "15915146"}
+{"lang": "Python 2", "title": "350B - Resort", "time": "466ms", "verdict": "OK", "memory": "7000KB", "problem_link": "/problemset/problem/350/B", "problem_id": "15915144"}
+{"lang": "GNU C++11", "title": "349B - Color the Fence", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/349/B", "problem_id": "15915143"}
+{"lang": "Perl", "title": "347B - Fixed Points", "time": "186ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/problem/347/B", "problem_id": "15915140"}
+{"lang": "Python 3", "title": "346B - Lucky Common Subsequence", "time": "186ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/346/B", "problem_id": "15915139"}
+{"lang": "Python 3", "title": "344B - Simple Molecules", "time": "466ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/B", "problem_id": "15915137"}
+{"lang": "Python 2", "title": "343B - Alternating Current", "time": "156ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/343/B", "problem_id": "15915136"}
+{"lang": "Ruby", "title": "342B - Xenia and Spies", "time": "530ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/342/B", "problem_id": "15915135"}
+{"lang": "GNU C++", "title": "341B - Bubble Sort Graph", "time": "374ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/341/B", "problem_id": "15915134"}
+{"lang": "GNU C++", "title": "340B - Maximal Area Quadrilateral", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/340/B", "problem_id": "15915133"}
+{"lang": "Perl", "title": "339B - Xenia and Ringroad", "time": "124ms", "verdict": "OK", "memory": "10000KB", "problem_link": "/problemset/problem/339/B", "problem_id": "15915131"}
+{"lang": "GNU C++", "title": "338B - Book of Evil", "time": "374ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/338/B", "problem_id": "15915129"}
+{"lang": "Ruby", "title": "337B - Routine Problem", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/337/B", "problem_id": "15915128"}
+{"lang": "Python 3", "title": "336B - Vasily the Bear and Fly", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/336/B", "problem_id": "15915127"}
+{"lang": "GNU C++", "title": "335B - Palindrome", "time": "30ms", "verdict": "OK", "memory": "27600KB", "problem_link": "/problemset/problem/335/B", "problem_id": "15915126"}
+{"lang": "Ruby", "title": "334B - Eight Point Sets", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/334/B", "problem_id": "15915125"}
+{"lang": "Python 3", "title": "333B - Chips", "time": "654ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/333/B", "problem_id": "15915122"}
+{"lang": "Python 2", "title": "332B - Maximum Absurdity", "time": "1028ms", "verdict": "OK", "memory": "14000KB", "problem_link": "/problemset/problem/332/B", "problem_id": "15915121"}
+{"lang": "Ruby", "title": "330B - Road Construction", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/330/B", "problem_id": "15915119"}
+{"lang": "GNU C++", "title": "329B - Biridian Forest", "time": "62ms", "verdict": "OK", "memory": "9000KB", "problem_link": "/problemset/problem/329/B", "problem_id": "15915118"}
+{"lang": "Python 2", "title": "328B - Sheldon and Ice Pieces", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/328/B", "problem_id": "15915116"}
+{"lang": "Perl", "title": "327B - Hungry Sequence", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/327/B", "problem_id": "15915115"}
+{"lang": "Python 3", "title": "325B - Stadium and Games", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/325/B", "problem_id": "15915114"}
+{"lang": "GNU C++", "title": "323B - Tournament-graph", "time": "124ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/323/B", "problem_id": "15915110"}
+{"lang": "Ruby", "title": "322B - Ciel and Flowers", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/322/B", "problem_id": "15915108"}
+{"lang": "Python 2", "title": "321B - Ciel and Duel", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/321/B", "problem_id": "15915106"}
+{"lang": "Python 2", "title": "320B - Ping-Pong (Easy Version)", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/320/B", "problem_id": "15915104"}
+{"lang": "Python 2", "title": "319B - Psychos in a Line", "time": "466ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/319/B", "problem_id": "15915103"}
+{"lang": "Python 3", "title": "318B - Strings of Power", "time": "280ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/318/B", "problem_id": "15915102"}
+{"lang": "Python 2", "title": "315B - Sereja and Array", "time": "405ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/315/B", "problem_id": "15915100"}
+{"lang": "GNU C++", "title": "314B - Sereja and Periods", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/314/B", "problem_id": "15915099"}
+{"lang": "Ruby", "title": "313B - Ilya and Queries", "time": "998ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/313/B", "problem_id": "15915096"}
+{"lang": "Python 3", "title": "312B - Archer", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/312/B", "problem_id": "15915093"}
+{"lang": "GNU C++", "title": "311B - Cats Transport", "time": "514ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/311/B", "problem_id": "15915092"}
+{"lang": "GNU C++", "title": "309B - Context Advertising", "time": "218ms", "verdict": "OK", "memory": "17400KB", "problem_link": "/problemset/problem/309/B", "problem_id": "15915091"}
+{"lang": "GNU C++11", "title": "306B - Optimizer", "time": "1746ms", "verdict": "OK", "memory": "24300KB", "problem_link": "/problemset/problem/306/B", "problem_id": "15915090"}
+{"lang": "Ruby", "title": "305B - Continued Fractions", "time": "186ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/305/B", "problem_id": "15915089"}
+{"lang": "Ruby", "title": "304B - Calendar", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/304/B", "problem_id": "15915087"}
+{"lang": "Python 2", "title": "303B - Rectangle Puzzle II", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/303/B", "problem_id": "15915085"}
+{"lang": "Python 2", "title": "302B - Eugeny and Play List", "time": "904ms", "verdict": "OK", "memory": "12900KB", "problem_link": "/problemset/problem/302/B", "problem_id": "15915083"}
+{"lang": "Python 2", "title": "301B - Yaroslav and Time", "time": "1184ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/301/B", "problem_id": "15915082"}
+{"lang": "Ruby", "title": "300B - Coach", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/300/B", "problem_id": "15915081"}
+{"lang": "Ruby", "title": "299B - Ksusha the Squirrel", "time": "184ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/299/B", "problem_id": "15915079"}
+{"lang": "Python 2", "title": "298B - Sail", "time": "156ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/298/B", "problem_id": "15915077"}
+{"lang": "Ruby", "title": "297B - Fish Weight", "time": "716ms", "verdict": "OK", "memory": "21300KB", "problem_link": "/problemset/problem/297/B", "problem_id": "15915076"}
+{"lang": "Python 2", "title": "296B - Yaroslav and Two Strings", "time": "622ms", "verdict": "OK", "memory": "9900KB", "problem_link": "/problemset/problem/296/B", "problem_id": "15915075"}
+{"lang": "GNU C++11", "title": "295B - Greg and Graph", "time": "1590ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/295/B", "problem_id": "15915073"}
+{"lang": "Python 2", "title": "294B - Shaass and Bookshelf", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/294/B", "problem_id": "15915070"}
+{"lang": "GNU C++", "title": "293B - Distinct Paths", "time": "1496ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/293/B", "problem_id": "15915068"}
+{"lang": "Python 2", "title": "292B - Network Topology", "time": "592ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/292/B", "problem_id": "15915066"}
+{"lang": "Perl", "title": "291B - Command Line Arguments", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/291/B", "problem_id": "15915064"}
+{"lang": "Ruby", "title": "290B - QR code", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/290/B", "problem_id": "15915063"}
+{"lang": "Python 2", "title": "289B - Polo the Penguin and Matrix", "time": "122ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/289/B", "problem_id": "15915061"}
+{"lang": "Python 3", "title": "288B - Polo the Penguin and Houses", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/288/B", "problem_id": "15915060"}
+{"lang": "GNU C", "title": "287B - Pipeline", "time": "1996ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/287/B", "problem_id": "15915059"}
+{"lang": "GNU C++", "title": "286B - Shifting", "time": "590ms", "verdict": "OK", "memory": "7600KB", "problem_link": "/problemset/problem/286/B", "problem_id": "15915058"}
+{"lang": "Python 2", "title": "285B - Find Marble", "time": "248ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/285/B", "problem_id": "15915057"}
+{"lang": "Python 2", "title": "284B - Cows and Poker Game", "time": "124ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/284/B", "problem_id": "15915055"}
+{"lang": "GNU C++", "title": "283B - Cow Program", "time": "1934ms", "verdict": "OK", "memory": "23400KB", "problem_link": "/problemset/problem/283/B", "problem_id": "15915054"}
+{"lang": "Python 2", "title": "282B - Painting Eggs", "time": "2558ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/282/B", "problem_id": "15915052"}
+{"lang": "Python 2", "title": "281B - Nearest Fraction", "time": "186ms", "verdict": "OK", "memory": "5100KB", "problem_link": "/problemset/problem/281/B", "problem_id": "15915049"}
+{"lang": "Python 2", "title": "280B - Maximum Xor Secondary", "time": "202ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/280/B", "problem_id": "15915048"}
+{"lang": "Python 2", "title": "279B - Books", "time": "374ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/279/B", "problem_id": "15915047"}
+{"lang": "Ruby", "title": "278B - New Problem", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/278/B", "problem_id": "15915043"}
+{"lang": "Ruby", "title": "277B - Set of Points", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/277/B", "problem_id": "15915042"}
+{"lang": "Python 3", "title": "276B - Little Girl and Game", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/276/B", "problem_id": "15915040"}
+{"lang": "Python 2", "title": "275B - Convex Shape", "time": "1278ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/275/B", "problem_id": "15915039"}
+{"lang": "GNU C++", "title": "274B - Zero Tree", "time": "1310ms", "verdict": "OK", "memory": "15300KB", "problem_link": "/problemset/problem/274/B", "problem_id": "15915038"}
+{"lang": "Python 2", "title": "273B - Dima and Two Sequences", "time": "1122ms", "verdict": "OK", "memory": "18600KB", "problem_link": "/problemset/problem/273/B", "problem_id": "15915036"}
+{"lang": "Python 2", "title": "272B - Dima and Sequence", "time": "1558ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/272/B", "problem_id": "15915033"}
+{"lang": "Python 2", "title": "271B - Prime Matrix", "time": "716ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/271/B", "problem_id": "15915032"}
+{"lang": "Ruby", "title": "270B - Multithreading", "time": "280ms", "verdict": "OK", "memory": "9400KB", "problem_link": "/problemset/problem/270/B", "problem_id": "15915031"}
+{"lang": "Ruby", "title": "269B - Greenhouse Effect", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/269/B", "problem_id": "15915030"}
+{"lang": "Python 2", "title": "268B - Buttons", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/B", "problem_id": "15915029"}
+{"lang": "Python 2", "title": "267B - Dominoes", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/267/B", "problem_id": "15915028"}
+{"lang": "Ruby", "title": "266B - Queue at the School", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/266/B", "problem_id": "15915027"}
+{"lang": "Python 2", "title": "265B - Roadside Trees (Simplified Edition)", "time": "1278ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/265/B", "problem_id": "15915025"}
+{"lang": "Python 2", "title": "264B - Good Sequences", "time": "624ms", "verdict": "OK", "memory": "14200KB", "problem_link": "/problemset/problem/264/B", "problem_id": "15915024"}
+{"lang": "Ruby", "title": "263B - Squares", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/263/B", "problem_id": "15915021"}
+{"lang": "Python 2", "title": "262B - Roma and Changing Signs", "time": "1246ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/262/B", "problem_id": "15915019"}
+{"lang": "GNU C++", "title": "261B - Maxim and Restaurant", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/261/B", "problem_id": "15915018"}
+{"lang": "Python 2", "title": "260B - Ancient Prophesy", "time": "77ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/260/B", "problem_id": "15915017"}
+{"lang": "Python 2", "title": "259B - Little Elephant and Magic Square", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/259/B", "problem_id": "15915016"}
+{"lang": "Python 2", "title": "258B - Little Elephant and Elections", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/258/B", "problem_id": "15915015"}
+{"lang": "Python 2", "title": "257B - Playing Cubes", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/257/B", "problem_id": "15915014"}
+{"lang": "GNU C++", "title": "256B - Mr. Bender and Square", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/256/B", "problem_id": "15915012"}
+{"lang": "Python 2", "title": "255B - Code Parsing", "time": "124ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/255/B", "problem_id": "15915010"}
+{"lang": "Ruby", "title": "254B - Jury Size", "time": "156ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/254/B", "problem_id": "15915008"}
+{"lang": "Python 2", "title": "253B - Physics Practical", "time": "280ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/253/B", "problem_id": "15915007"}
+{"lang": "Python 2", "title": "252B - Unsorting Array", "time": "342ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/252/B", "problem_id": "15915005"}
+{"lang": "Python 2", "title": "251B - Playing with Permutations", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/251/B", "problem_id": "15915003"}
+{"lang": "Perl", "title": "250B - Restoring IPv6", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/250/B", "problem_id": "15915001"}
+{"lang": "GNU C++", "title": "249B - Sweets for Everyone!", "time": "154ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/249/B", "problem_id": "15915000"}
+{"lang": "Python 2", "title": "248B - Chilly Willy", "time": "1622ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/248/B", "problem_id": "15914999"}
+{"lang": "Ruby", "title": "246B - Increase and Decrease", "time": "154ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/246/B", "problem_id": "15914997"}
+{"lang": "Perl", "title": "245B - Internet Address", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/245/B", "problem_id": "15914995"}
+{"lang": "Python 2", "title": "244B - Undoubtedly Lucky Numbers", "time": "186ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/244/B", "problem_id": "15914994"}
+{"lang": "Ruby", "title": "242B - Big Segment", "time": "872ms", "verdict": "OK", "memory": "59000KB", "problem_link": "/problemset/problem/242/B", "problem_id": "15914993"}
+{"lang": "GNU C++", "title": "241B - Friends", "time": "2808ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/241/B", "problem_id": "15914992"}
+{"lang": "GNU C++", "title": "240B - Fence", "time": "92ms", "verdict": "OK", "memory": "63400KB", "problem_link": "/problemset/problem/240/B", "problem_id": "15914991"}
+{"lang": "Python 2", "title": "239B - Easy Tape Programming", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/239/B", "problem_id": "15914990"}
+{"lang": "GNU C++11", "title": "238B - Boring Partition", "time": "592ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/238/B", "problem_id": "15914989"}
+{"lang": "Python 2", "title": "237B - Young Table", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/237/B", "problem_id": "15914987"}
+{"lang": "GNU C++", "title": "236B - Easy Number Challenge", "time": "248ms", "verdict": "OK", "memory": "3900KB", "problem_link": "/problemset/problem/236/B", "problem_id": "15914986"}
+{"lang": "Python 2", "title": "235B - Let's Play Osu!", "time": "218ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/235/B", "problem_id": "15914985"}
+{"lang": "Ruby", "title": "234B - Reading", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/234/B", "problem_id": "15914984"}
+{"lang": "Haskell", "title": "233B - Non-square Equation", "time": "62ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/233/B", "problem_id": "15914982"}
+{"lang": "GNU C++", "title": "232B - Table", "time": "499ms", "verdict": "OK", "memory": "7800KB", "problem_link": "/problemset/problem/232/B", "problem_id": "15914981"}
+{"lang": "Python 2", "title": "231B - Magic, Wizardry and Wonders", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/231/B", "problem_id": "15914979"}
+{"lang": "Python 2", "title": "230B - T-primes", "time": "1214ms", "verdict": "OK", "memory": "39800KB", "problem_link": "/problemset/problem/230/B", "problem_id": "15914978"}
+{"lang": "Python 2", "title": "229B - Planets", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46000KB", "problem_link": "/problemset/problem/229/B", "problem_id": "15914977"}
+{"lang": "Python 2", "title": "228B - Two Tables", "time": "560ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/228/B", "problem_id": "15914976"}
+{"lang": "Python 2", "title": "227B - Effective Approach", "time": "278ms", "verdict": "OK", "memory": "13000KB", "problem_link": "/problemset/problem/227/B", "problem_id": "15914975"}
+{"lang": "Python 2", "title": "226B - Naughty Stone Piles", "time": "701ms", "verdict": "OK", "memory": "14300KB", "problem_link": "/problemset/problem/226/B", "problem_id": "15914973"}
+{"lang": "Python 2", "title": "225B - Well-known Numbers", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/225/B", "problem_id": "15914972"}
+{"lang": "Ruby", "title": "224B - Array", "time": "248ms", "verdict": "OK", "memory": "12400KB", "problem_link": "/problemset/problem/224/B", "problem_id": "15914971"}
+{"lang": "GNU C++", "title": "223B - Two Strings", "time": "154ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/223/B", "problem_id": "15914970"}
+{"lang": "Python 2", "title": "222B - Cosmic Tables", "time": "1902ms", "verdict": "OK", "memory": "38700KB", "problem_link": "/problemset/problem/222/B", "problem_id": "15914968"}
+{"lang": "Perl", "title": "221B - Little Elephant and Numbers", "time": "62ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/221/B", "problem_id": "15914966"}
+{"lang": "FPC", "title": "220B - Little Elephant and Array", "time": "545ms", "verdict": "OK", "memory": "2500KB", "problem_link": "/problemset/problem/220/B", "problem_id": "15914965"}
+{"lang": "Ruby", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/219/B", "problem_id": "15914962"}
+{"lang": "Ruby", "title": "218B - Airport", "time": "186ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/218/B", "problem_id": "15914961"}
+{"lang": "GNU C++", "title": "217B - Blackboard Fibonacci", "time": "685ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/217/B", "problem_id": "15914960"}
+{"lang": "GNU C++", "title": "216B - Forming Teams", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/216/B", "problem_id": "15914958"}
+{"lang": "Python 2", "title": "215B - Olympic Medal", "time": "124ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/215/B", "problem_id": "15914955"}
+{"lang": "Python 2", "title": "214B - Hometask", "time": "248ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/214/B", "problem_id": "15914954"}
+{"lang": "Python 2", "title": "213B - Numbers", "time": "186ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/213/B", "problem_id": "15914953"}
+{"lang": "GNU C++", "title": "212B - Polycarpus is Looking for Good Substrings", "time": "934ms", "verdict": "OK", "memory": "132400KB", "problem_link": "/problemset/problem/212/B", "problem_id": "15914952"}
+{"lang": "Python 2", "title": "209B - Pixels", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/209/B", "problem_id": "15914951"}
+{"lang": "Ruby", "title": "208B - Solitaire", "time": "77ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/208/B", "problem_id": "15914950"}
+{"lang": "Ruby", "title": "205B - Little Elephant and Sorting", "time": "202ms", "verdict": "OK", "memory": "16700KB", "problem_link": "/problemset/problem/205/B", "problem_id": "15914948"}
+{"lang": "Python 2", "title": "204B - Little Elephant and Cards", "time": "1308ms", "verdict": "OK", "memory": "30300KB", "problem_link": "/problemset/problem/204/B", "problem_id": "15914947"}
+{"lang": "Ruby", "title": "203B - Game on Paper", "time": "1682ms", "verdict": "OK", "memory": "6400KB", "problem_link": "/problemset/problem/203/B", "problem_id": "15914944"}
+{"lang": "GNU C++", "title": "202B - Brand New Easy Problem", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/202/B", "problem_id": "15914941"}
+{"lang": "GNU C++", "title": "201B - Guess That Car!", "time": "372ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/201/B", "problem_id": "15914940"}
+{"lang": "Perl", "title": "200B - Drinks", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/200/B", "problem_id": "15914938"}
+{"lang": "Python 2", "title": "199B - Special Olympics", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/199/B", "problem_id": "15914937"}
+{"lang": "GNU C++", "title": "198B - Jumping on Walls", "time": "30ms", "verdict": "OK", "memory": "4900KB", "problem_link": "/problemset/problem/198/B", "problem_id": "15914936"}
+{"lang": "Python 2", "title": "197B - Limit", "time": "218ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/197/B", "problem_id": "15914934"}
+{"lang": "GNU C++", "title": "196B - Infinite Maze", "time": "1090ms", "verdict": "OK", "memory": "95300KB", "problem_link": "/problemset/problem/196/B", "problem_id": "15914933"}
+{"lang": "Python 2", "title": "195B - After Training", "time": "248ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/195/B", "problem_id": "15914932"}
+{"lang": "Python 2", "title": "194B - Square", "time": "61ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/194/B", "problem_id": "15914930"}
+{"lang": "GNU C++", "title": "193B - Xor", "time": "592ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/193/B", "problem_id": "15914929"}
+{"lang": "Python 2", "title": "192B - Walking in the Rain", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/192/B", "problem_id": "15914926"}
+{"lang": "Python 2", "title": "191B - Demonstration", "time": "280ms", "verdict": "OK", "memory": "4300KB", "problem_link": "/problemset/problem/191/B", "problem_id": "15914925"}
+{"lang": "Python 2", "title": "190B - Surrounded", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/190/B", "problem_id": "15914923"}
+{"lang": "Ruby", "title": "189B - Counting Rhombi", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/189/B", "problem_id": "15914919"}
+{"lang": "GNU C++", "title": "187B - AlgoRace", "time": "748ms", "verdict": "OK", "memory": "13900KB", "problem_link": "/problemset/problem/187/B", "problem_id": "15914915"}
+{"lang": "Python 2", "title": "186B - Growing Mushrooms", "time": "92ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/186/B", "problem_id": "15914913"}
+{"lang": "Python 2", "title": "185B - Mushroom Scientists", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/185/B", "problem_id": "15914910"}
+{"lang": "GNU C++", "title": "183B - Zoo", "time": "62ms", "verdict": "OK", "memory": "3900KB", "problem_link": "/problemset/problem/183/B", "problem_id": "15914909"}
+{"lang": "Python 2", "title": "182B - Vasya's Calendar", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/182/B", "problem_id": "15914908"}
+{"lang": "Haskell", "title": "181B - Number of Triplets", "time": "1432ms", "verdict": "OK", "memory": "150000KB", "problem_link": "/problemset/problem/181/B", "problem_id": "15914906"}
+{"lang": "Python 2", "title": "176B - Word Cut", "time": "310ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/176/B", "problem_id": "15914901"}
+{"lang": "Python 2", "title": "175B - Plane of Tanks: Pro", "time": "466ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/175/B", "problem_id": "15914900"}
+{"lang": "Python 2", "title": "174B - File List", "time": "716ms", "verdict": "OK", "memory": "19500KB", "problem_link": "/problemset/problem/174/B", "problem_id": "15914898"}
+{"lang": "Ruby", "title": "173B - Chamber of Secrets", "time": "1964ms", "verdict": "OK", "memory": "14500KB", "problem_link": "/problemset/problem/173/B", "problem_id": "15914895"}
+{"lang": "Haskell", "title": "169B - Replacing Digits", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/169/B", "problem_id": "15914892"}
+{"lang": "Ruby", "title": "168B - Wizards and Minimal Spell", "time": "590ms", "verdict": "OK", "memory": "21100KB", "problem_link": "/problemset/problem/168/B", "problem_id": "15914891"}
+{"lang": "MS C++", "title": "167B - Wizards and Huge Prize", "time": "186ms", "verdict": "OK", "memory": "145000KB", "problem_link": "/problemset/problem/167/B", "problem_id": "15914890"}
+{"lang": "GNU C++", "title": "166B - Polygons", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3200KB", "problem_link": "/problemset/problem/166/B", "problem_id": "15914888"}
+{"lang": "Python 2", "title": "165B - Burning Midnight Oil", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/165/B", "problem_id": "15914887"}
+{"lang": "MS C++", "title": "164B - Ancient Berland Hieroglyphs", "time": "545ms", "verdict": "OK", "memory": "15300KB", "problem_link": "/problemset/problem/164/B", "problem_id": "15914886"}
+{"lang": "GNU C++", "title": "163B - Lemmings", "time": "109ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/163/B", "problem_id": "15914884"}
+{"lang": "Python 2", "title": "161B - Discounts", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/161/B", "problem_id": "15914882"}
+{"lang": "Python 2", "title": "160B - Unlucky Ticket", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/160/B", "problem_id": "15914881"}
+{"lang": "Python 2", "title": "159B - Matchmaker", "time": "1496ms", "verdict": "OK", "memory": "20200KB", "problem_link": "/problemset/problem/159/B", "problem_id": "15914878"}
+{"lang": "Ruby", "title": "158B - Taxi", "time": "248ms", "verdict": "OK", "memory": "8700KB", "problem_link": "/problemset/problem/158/B", "problem_id": "15914877"}
+{"lang": "Ruby", "title": "157B - Trace", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/157/B", "problem_id": "15914875"}
+{"lang": "Haskell", "title": "156B - Suspects", "time": "1028ms", "verdict": "OK", "memory": "27900KB", "problem_link": "/problemset/problem/156/B", "problem_id": "15914874"}
+{"lang": "Python 2", "title": "155B - Combination", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/155/B", "problem_id": "15914872"}
+{"lang": "GNU C++", "title": "154B - Colliders", "time": "156ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/154/B", "problem_id": "15914870"}
+{"lang": "Ruby", "title": "152B - Steps", "time": "216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/152/B", "problem_id": "15914869"}
+{"lang": "Haskell", "title": "151B - Phone Numbers", "time": "30ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/151/B", "problem_id": "15914867"}
+{"lang": "Python 2", "title": "150B - Quantity of Strings", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/150/B", "problem_id": "15914866"}
+{"lang": "Python 2", "title": "149B - Martian Clock", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/149/B", "problem_id": "15914863"}
+{"lang": "Haskell", "title": "148B - Escape", "time": "30ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/148/B", "problem_id": "15914860"}
+{"lang": "GNU C++", "title": "147B - Smile House", "time": "889ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/147/B", "problem_id": "15914858"}
+{"lang": "Ruby", "title": "146B - Lucky Mask", "time": "530ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/146/B", "problem_id": "15914857"}
+{"lang": "Haskell", "title": "145B - Lucky Number 2", "time": "810ms", "verdict": "OK", "memory": "95600KB", "problem_link": "/problemset/problem/145/B", "problem_id": "15914856"}
+{"lang": "Haskell", "title": "144B - Meeting", "time": "810ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/144/B", "problem_id": "15914854"}
+{"lang": "Perl", "title": "143B - Help Kingdom of Far Far Away 2", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/143/B", "problem_id": "15914853"}
+{"lang": "Python 2", "title": "142B - Help General", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/142/B", "problem_id": "15914852"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "60ms", "verdict": "OK", "memory": "13500KB", "problem_link": "/problemset/problem/141/B", "problem_id": "15914851"}
+{"lang": "Python 2", "title": "140B - New Year Cards", "time": "374ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/140/B", "problem_id": "15914849"}
+{"lang": "Python 2", "title": "139B - Wallpaper", "time": "248ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/139/B", "problem_id": "15914848"}
+{"lang": "Python 2", "title": "138B - Digits Permutations", "time": "62ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/138/B", "problem_id": "15914847"}
+{"lang": "Ruby", "title": "137B - Permutation", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/137/B", "problem_id": "15914846"}
+{"lang": "Ruby", "title": "136B - Ternary Logic", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/136/B", "problem_id": "15914845"}
+{"lang": "Python 2", "title": "135B - Rectangle and Square", "time": "468ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/135/B", "problem_id": "15914844"}
+{"lang": "Ruby", "title": "134B - Pairs of Numbers", "time": "748ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/134/B", "problem_id": "15914843"}
+{"lang": "Python 2", "title": "133B - Unary", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/133/B", "problem_id": "15914841"}
+{"lang": "GNU C++", "title": "132B - Piet", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/132/B", "problem_id": "15914840"}
+{"lang": "Python 2", "title": "131B - Opposites Attract", "time": "248ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/131/B", "problem_id": "15914839"}
+{"lang": "Python 2", "title": "129B - Students and Shoelaces", "time": "654ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/129/B", "problem_id": "15914837"}
+{"lang": "Python 2", "title": "128B - String", "time": "1402ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/128/B", "problem_id": "15914835"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/127/B", "problem_id": "15914834"}
+{"lang": "GNU C++11", "title": "126B - Password", "time": "404ms", "verdict": "OK", "memory": "8800KB", "problem_link": "/problemset/problem/126/B", "problem_id": "15914833"}
+{"lang": "Ruby", "title": "125B - Simple XML", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/125/B", "problem_id": "15914831"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "872ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/124/B", "problem_id": "15914830"}
+{"lang": "Python 2", "title": "123B - Squares", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/123/B", "problem_id": "15914829"}
+{"lang": "Python 2", "title": "122B - Lucky Substring", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/122/B", "problem_id": "15914828"}
+{"lang": "Ruby", "title": "121B - Lucky Transformation", "time": "1652ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/121/B", "problem_id": "15914827"}
+{"lang": "Python 2", "title": "120B - Quiz League", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/120/B", "problem_id": "15914825"}
+{"lang": "Ruby", "title": "119B - Before Exam", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/B", "problem_id": "15914824"}
+{"lang": "Ruby", "title": "118B - Present from Lena", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/118/B", "problem_id": "15914823"}
+{"lang": "GNU C++", "title": "117B - Very Interesting Game", "time": "342ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/117/B", "problem_id": "15914822"}
+{"lang": "GNU C", "title": "116B - Little Pigs and Wolves", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/116/B", "problem_id": "15914820"}
+{"lang": "GNU C++", "title": "115B - Lawnmower", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/115/B", "problem_id": "15914818"}
+{"lang": "Python 2", "title": "114B - PFAST Inc.", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/114/B", "problem_id": "15914817"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/113/B", "problem_id": "15914816"}
+{"lang": "Ruby", "title": "112B - Petya and Square", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/112/B", "problem_id": "15914814"}
+{"lang": "GNU C++", "title": "111B - Petya and Divisors", "time": "280ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/111/B", "problem_id": "15914813"}
+{"lang": "Python 2", "title": "110B - Lucky String", "time": "92ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/110/B", "problem_id": "15914812"}
+{"lang": "Python 2", "title": "109B - Lucky Probability", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/109/B", "problem_id": "15914811"}
+{"lang": "Ruby", "title": "108B - Datatypes", "time": "434ms", "verdict": "OK", "memory": "17600KB", "problem_link": "/problemset/problem/108/B", "problem_id": "15914809"}
+{"lang": "Python 2", "title": "107B - Basketball Team", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/107/B", "problem_id": "15914808"}
+{"lang": "Python 2", "title": "106B - Choosing Laptop", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/106/B", "problem_id": "15914806"}
+{"lang": "Haskell", "title": "105B - Dark Assembly", "time": "374ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/105/B", "problem_id": "15914804"}
+{"lang": "Python 3", "title": "104B - Testing Pants for Sadness", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/104/B", "problem_id": "15914803"}
+{"lang": "Haskell", "title": "103B - Cthulhu", "time": "30ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/103/B", "problem_id": "15914802"}
+{"lang": "Ruby", "title": "102B - Sum of Digits", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/102/B", "problem_id": "15914801"}
+{"lang": "GNU C++11", "title": "101B - Buses", "time": "1028ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/101/B", "problem_id": "15914799"}
+{"lang": "Python 2", "title": "99B - Help Chef Gerasim", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/99/B", "problem_id": "15914796"}
+{"lang": "Python 3", "title": "98B - Help King", "time": "372ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/98/B", "problem_id": "15914794"}
+{"lang": "Python 2", "title": "97B - Superset", "time": "686ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/97/B", "problem_id": "15914793"}
+{"lang": "Ruby", "title": "96B - Lucky Numbers (easy)", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/96/B", "problem_id": "15914792"}
+{"lang": "Python 2", "title": "95B - Lucky Numbers", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/95/B", "problem_id": "15914790"}
+{"lang": "Python 2", "title": "94B - Friends", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/94/B", "problem_id": "15914788"}
+{"lang": "Python 2", "title": "93B - End of Exams", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/93/B", "problem_id": "15914786"}
+{"lang": "Ruby", "title": "92B - Binary Number", "time": "280ms", "verdict": "OK", "memory": "10500KB", "problem_link": "/problemset/problem/92/B", "problem_id": "15914783"}
+{"lang": "Python 2", "title": "91B - Queue", "time": "590ms", "verdict": "OK", "memory": "12500KB", "problem_link": "/problemset/problem/91/B", "problem_id": "15914782"}
+{"lang": "Ruby", "title": "90B - African Crossword", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/90/B", "problem_id": "15914781"}
+{"lang": "Python 2", "title": "89B - Widget Library", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/89/B", "problem_id": "15914779"}
+{"lang": "Python 2", "title": "88B - Keyboard", "time": "717ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/88/B", "problem_id": "15914778"}
+{"lang": "Python 2", "title": "87B - Vasya and Types", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/87/B", "problem_id": "15914777"}
+{"lang": "Python 2", "title": "86B - Tetris revisited", "time": "639ms", "verdict": "OK", "memory": "5000KB", "problem_link": "/problemset/problem/86/B", "problem_id": "15914776"}
+{"lang": "Python 2", "title": "85B - Embassy Queue", "time": "560ms", "verdict": "OK", "memory": "9700KB", "problem_link": "/problemset/problem/85/B", "problem_id": "15914775"}
+{"lang": "Python 3", "title": "84B - Magical Array", "time": "218ms", "verdict": "OK", "memory": "7300KB", "problem_link": "/problemset/problem/84/B", "problem_id": "15914774"}
+{"lang": "Ruby", "title": "83B - Doctor", "time": "528ms", "verdict": "OK", "memory": "17100KB", "problem_link": "/problemset/problem/83/B", "problem_id": "15914771"}
+{"lang": "Python 2", "title": "82B - Sets", "time": "154ms", "verdict": "OK", "memory": "4000KB", "problem_link": "/problemset/problem/82/B", "problem_id": "15914769"}
+{"lang": "Perl", "title": "81B - Sequence Formatting", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/81/B", "problem_id": "15914768"}
+{"lang": "Perl", "title": "80B - Depression", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/80/B", "problem_id": "15914767"}
+{"lang": "Ruby", "title": "79B - Colorful Field", "time": "498ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/79/B", "problem_id": "15914766"}
+{"lang": "Python 2", "title": "78B - Easter Eggs", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/78/B", "problem_id": "15914765"}
+{"lang": "Python 3", "title": "77B - Falling Anvils", "time": "466ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/77/B", "problem_id": "15914763"}
+{"lang": "FPC", "title": "76B - Mice", "time": "46ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/76/B", "problem_id": "15914762"}
+{"lang": "Python 2", "title": "75B - Facetook Priority Wall", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/75/B", "problem_id": "15914761"}
+{"lang": "Ruby", "title": "74B - Train", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/74/B", "problem_id": "15914759"}
+{"lang": "Python 2", "title": "73B - Need For Brake", "time": "902ms", "verdict": "OK", "memory": "23600KB", "problem_link": "/problemset/problem/73/B", "problem_id": "15914758"}
+{"lang": "Python 2", "title": "71B - Progress Bar", "time": "46ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/71/B", "problem_id": "15914756"}
+{"lang": "Ruby", "title": "70B - Text Messaging", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/70/B", "problem_id": "15914755"}
+{"lang": "Python 2", "title": "69B - Bets", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/69/B", "problem_id": "15914754"}
+{"lang": "Python 2", "title": "68B - Energy exchange", "time": "186ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/68/B", "problem_id": "15914753"}
+{"lang": "Ruby", "title": "67B - Restoration of the Permutation", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/67/B", "problem_id": "15914751"}
+{"lang": "Ruby", "title": "66B - Petya and Countryside", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/66/B", "problem_id": "15914749"}
+{"lang": "Ruby", "title": "65B - Harry Potter and the History of Magic", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/65/B", "problem_id": "15914745"}
+{"lang": "Ruby", "title": "63B - Settlers' Training", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/63/B", "problem_id": "15914743"}
+{"lang": "Python 2", "title": "62B - Tyndex.Brome", "time": "528ms", "verdict": "OK", "memory": "2500KB", "problem_link": "/problemset/problem/62/B", "problem_id": "15914742"}
+{"lang": "Ruby", "title": "61B - Hard Work", "time": "108ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/61/B", "problem_id": "15914740"}
+{"lang": "Python 2", "title": "60B - Serial Time!", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/60/B", "problem_id": "15914739"}
+{"lang": "Python 2", "title": "59B - Fortune Telling", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/59/B", "problem_id": "15914738"}
+{"lang": "Python 2", "title": "58B - Coins", "time": "312ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/58/B", "problem_id": "15914737"}
+{"lang": "FPC", "title": "57B - Martian Architecture", "time": "218ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/57/B", "problem_id": "15914736"}
+{"lang": "Python 2", "title": "56B - Spoilt Permutation", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/56/B", "problem_id": "15914735"}
+{"lang": "Python 3", "title": "55B - Smallest number", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/55/B", "problem_id": "15914733"}
+{"lang": "Python 2", "title": "54B - Cutting Jigsaw Puzzle", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/54/B", "problem_id": "15914732"}
+{"lang": "Ruby", "title": "53B - Blog Photo", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/53/B", "problem_id": "15914731"}
+{"lang": "Python 3", "title": "52B - Right Triangles", "time": "1246ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/52/B", "problem_id": "15914729"}
+{"lang": "Ruby", "title": "51B - bHTML Tables Analisys", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/51/B", "problem_id": "15914728"}
+{"lang": "Python 2", "title": "50B - Choosing Symbol Pairs", "time": "92ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/50/B", "problem_id": "15914727"}
+{"lang": "Ruby", "title": "49B - Sum", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/49/B", "problem_id": "15914726"}
+{"lang": "Python 2", "title": "48B - Land Lot", "time": "186ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/48/B", "problem_id": "15914724"}
+{"lang": "Ruby", "title": "47B - Coins", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/47/B", "problem_id": "15914722"}
+{"lang": "Python 2", "title": "46B - T-shirts from Sponsor", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/46/B", "problem_id": "15914721"}
+{"lang": "GNU C++", "title": "45B - School", "time": "156ms", "verdict": "OK", "memory": "1800KB", "problem_link": "/problemset/problem/45/B", "problem_id": "15914720"}
+{"lang": "Python 2", "title": "44B - Cola", "time": "92ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/44/B", "problem_id": "15914719"}
+{"lang": "Ruby", "title": "43B - Letter", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/43/B", "problem_id": "15914718"}
+{"lang": "Haskell", "title": "42B - Game of chess unfinished", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/42/B", "problem_id": "15914717"}
+{"lang": "Python 2", "title": "41B - Martian Dollar", "time": "1340ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/41/B", "problem_id": "15914716"}
+{"lang": "Ruby", "title": "40B - Repaintings", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/40/B", "problem_id": "15914715"}
+{"lang": "Ruby", "title": "39B - Company Income Growth", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/39/B", "problem_id": "15914713"}
+{"lang": "Ruby", "title": "38B - Chess", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/38/B", "problem_id": "15914712"}
+{"lang": "Python 2", "title": "37B - Computer Game", "time": "467ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/37/B", "problem_id": "15914710"}
+{"lang": "Ruby", "title": "36B - Fractal", "time": "280ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/36/B", "problem_id": "15914709"}
+{"lang": "Ruby", "title": "35B - Warehouse", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/35/B", "problem_id": "15914708"}
+{"lang": "Python 2", "title": "34B - Sale", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/34/B", "problem_id": "15914707"}
+{"lang": "GNU C++11", "title": "33B - String Problem", "time": "124ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/33/B", "problem_id": "15914706"}
+{"lang": "Perl", "title": "32B - Borze", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/32/B", "problem_id": "15914705"}
+{"lang": "Ruby", "title": "31B - Sysadmin Bob", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/31/B", "problem_id": "15914704"}
+{"lang": "Ruby", "title": "30B - Codeforces World Finals", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/30/B", "problem_id": "15914701"}
+{"lang": "Python 2", "title": "29B - Traffic Lights", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/29/B", "problem_id": "15914698"}
+{"lang": "Python 2", "title": "28B - pSort", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/28/B", "problem_id": "15914697"}
+{"lang": "Python 2", "title": "27B - Tournament", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/27/B", "problem_id": "15914696"}
+{"lang": "Python 2", "title": "26B - Regular Bracket Sequence", "time": "530ms", "verdict": "OK", "memory": "2600KB", "problem_link": "/problemset/problem/26/B", "problem_id": "15914695"}
+{"lang": "Python 3", "title": "25B - Phone numbers", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/25/B", "problem_id": "15914693"}
+{"lang": "Ruby", "title": "24B - F1 Champions", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/24/B", "problem_id": "15914692"}
+{"lang": "Ruby", "title": "23B - Party", "time": "560ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/23/B", "problem_id": "15914690"}
+{"lang": "Python 2", "title": "22B - Bargaining Table", "time": "1216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/22/B", "problem_id": "15914688"}
+{"lang": "Python 2", "title": "21B - Intersection", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/21/B", "problem_id": "15914687"}
+{"lang": "Ruby", "title": "20B - Equation", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/20/B", "problem_id": "15914686"}
+{"lang": "GNU C++", "title": "19B - Checkout Assistant", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/19/B", "problem_id": "15914685"}
+{"lang": "Python 2", "title": "18B - Platforms", "time": "1558ms", "verdict": "OK", "memory": "28400KB", "problem_link": "/problemset/problem/18/B", "problem_id": "15914684"}
+{"lang": "Ruby", "title": "17B - Hierarchy", "time": "186ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/17/B", "problem_id": "15914683"}
+{"lang": "Ruby", "title": "16B - Burglar and Matches", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/16/B", "problem_id": "15914681"}
+{"lang": "Python 2", "title": "15B - Laser", "time": "218ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/15/B", "problem_id": "15914679"}
+{"lang": "Python 2", "title": "14B - Young Photographer", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/14/B", "problem_id": "15914678"}
+{"lang": "Python 2", "title": "13B - Letter A", "time": "466ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/13/B", "problem_id": "15914677"}
+{"lang": "Ruby", "title": "12B - Correct Solution?", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/12/B", "problem_id": "15914676"}
+{"lang": "Ruby", "title": "11B - Jumping Jack", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/11/B", "problem_id": "15914675"}
+{"lang": "GNU C++", "title": "10B - Cinema Cashier", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/10/B", "problem_id": "15914673"}
+{"lang": "Ruby", "title": "9B - Running Student", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/9/B", "problem_id": "15914672"}
+{"lang": "Python 2", "title": "8B - Obsession with Robots", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/8/B", "problem_id": "15914670"}
+{"lang": "Python 2", "title": "7B - Memory Manager", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/7/B", "problem_id": "15914669"}
+{"lang": "Python 2", "title": "6B - President's Office", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/6/B", "problem_id": "15914668"}
+{"lang": "Ruby", "title": "5B - Center Alignment", "time": "156ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/5/B", "problem_id": "15914666"}
+{"lang": "Ruby", "title": "4B - Before an Exam", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/4/B", "problem_id": "15914665"}
+{"lang": "Python 2", "title": "3B - Lorry", "time": "1216ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/3/B", "problem_id": "15914663"}
+{"lang": "Python 2", "title": "2B - The least round way", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34600KB", "problem_link": "/problemset/problem/2/B", "problem_id": "15914662"}
+{"lang": "Ruby", "title": "1B - Spreadsheet", "time": "998ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/1/B", "problem_id": "15914661"}
+{"lang": "Python 2", "title": "172B - Pseudorandom Sequence Period", "time": "218ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/172/B", "problem_id": "15914659"}
+{"lang": "Python 2", "title": "171B - Star", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/171/B", "problem_id": "15914656"}
+{"lang": "Ruby", "title": "600A - Extract Numbers", "time": "108ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/600/A", "problem_id": "15914636"}
+{"lang": "Ruby", "title": "599A - Patrick and Shopping", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "15914635"}
+{"lang": "Python 2", "title": "598A - Tricky Sum", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/598/A", "problem_id": "15914633"}
+{"lang": "Python 3", "title": "597A - Divisibility", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15914631"}
+{"lang": "Python 2", "title": "596A - Wilbur and Swimming Pool", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "15914629"}
+{"lang": "Perl", "title": "595A - Vitaly and Night", "time": "46ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/595/A", "problem_id": "15914627"}
+{"lang": "Python 2", "title": "594A - Warrior and Archer", "time": "249ms", "verdict": "OK", "memory": "10800KB", "problem_link": "/problemset/problem/594/A", "problem_id": "15914625"}
+{"lang": "Perl", "title": "593A - 2Char", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "15914624"}
+{"lang": "GNU C++11", "title": "592A - PawnChess", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/A", "problem_id": "15914621"}
+{"lang": "Perl", "title": "591A - Wizards' Duel", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "15914619"}
+{"lang": "GNU C++11", "title": "590A - Median Smoothing", "time": "140ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/590/A", "problem_id": "15914617"}
+{"lang": "Perl", "title": "588A - Duff and Meat", "time": "155ms", "verdict": "OK", "memory": "10100KB", "problem_link": "/problemset/problem/588/A", "problem_id": "15914615"}
+{"lang": "PyPy 2", "title": "587A - Duff and Weight Lifting", "time": "311ms", "verdict": "OK", "memory": "67100KB", "problem_link": "/problemset/problem/587/A", "problem_id": "15914614"}
+{"lang": "Perl", "title": "586A - Alena's Schedule", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/586/A", "problem_id": "15914613"}
+{"lang": "GNU C++", "title": "585A - Gennady the Dentist", "time": "78ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/585/A", "problem_id": "15914612"}
+{"lang": "Ruby", "title": "584A - Olesya and Rodion", "time": "61ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/584/A", "problem_id": "15914611"}
+{"lang": "Perl", "title": "583A - Asphalting Roads", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/583/A", "problem_id": "15914610"}
+{"lang": "Python 3", "title": "582A - GCD Table", "time": "670ms", "verdict": "OK", "memory": "15700KB", "problem_link": "/problemset/problem/582/A", "problem_id": "15914609"}
+{"lang": "Python 2", "title": "581A - Vasya the Hipster", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/581/A", "problem_id": "15914608"}
+{"lang": "Perl", "title": "580A - Kefa and First Steps", "time": "109ms", "verdict": "OK", "memory": "12200KB", "problem_link": "/problemset/problem/580/A", "problem_id": "15914607"}
+{"lang": "Python 2", "title": "579A - Raising Bacteria", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "15914606"}
+{"lang": "Python 3", "title": "578A - A Problem about Polyline", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/578/A", "problem_id": "15914604"}
+{"lang": "Ruby", "title": "577A - Multiplication Table", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/A", "problem_id": "15914603"}
+{"lang": "PyPy 3", "title": "576A - Vasya and Petya's Game", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/576/A", "problem_id": "15914602"}
+{"lang": "GNU C++11", "title": "575A - Fibonotci", "time": "546ms", "verdict": "OK", "memory": "27600KB", "problem_link": "/problemset/problem/575/A", "problem_id": "15914601"}
+{"lang": "Perl", "title": "574A - Bear and Elections", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/574/A", "problem_id": "15914597"}
+{"lang": "Python 2", "title": "573A - Bear and Poker", "time": "561ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/573/A", "problem_id": "15914596"}
+{"lang": "Ruby", "title": "572A - Arrays", "time": "296ms", "verdict": "OK", "memory": "19400KB", "problem_link": "/problemset/problem/572/A", "problem_id": "15914595"}
+{"lang": "Python 2", "title": "571A - Lengthening Sticks", "time": "936ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/571/A", "problem_id": "15914594"}
+{"lang": "Python 3", "title": "570A - Elections", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/570/A", "problem_id": "15914593"}
+{"lang": "Ruby", "title": "569A - Music", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/569/A", "problem_id": "15914590"}
+{"lang": "GNU C++", "title": "568A - Primes or Palindromes?", "time": "93ms", "verdict": "OK", "memory": "7800KB", "problem_link": "/problemset/problem/568/A", "problem_id": "15914589"}
+{"lang": "PyPy 3", "title": "567A - Lineland Mail", "time": "545ms", "verdict": "OK", "memory": "11400KB", "problem_link": "/problemset/problem/567/A", "problem_id": "15914588"}
+{"lang": "PyPy 3", "title": "566A - Matching Names", "time": "1404ms", "verdict": "OK", "memory": "256000KB", "problem_link": "/problemset/problem/566/A", "problem_id": "15914587"}
+{"lang": "Ruby", "title": "560A - Currency System in Geraldion", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/A", "problem_id": "15914582"}
+{"lang": "Python 3", "title": "559A - Gerald's Hexagon", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/559/A", "problem_id": "15914580"}
+{"lang": "Python 2", "title": "558A - Lala Land and Apple Trees", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/558/A", "problem_id": "15914578"}
+{"lang": "Ruby", "title": "557A - Ilya and Diplomas", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/557/A", "problem_id": "15914576"}
+{"lang": "Python 2", "title": "556A - Case of the Zeros and Ones", "time": "46ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/556/A", "problem_id": "15914575"}
+{"lang": "Python 2", "title": "555A - Case of Matryoshkas", "time": "295ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/555/A", "problem_id": "15914574"}
+{"lang": "Perl", "title": "554A - Kyoya and Photobooks", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/554/A", "problem_id": "15914573"}
+{"lang": "Python 3", "title": "553A - Kyoya and Colored Balls", "time": "202ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/553/A", "problem_id": "15914572"}
+{"lang": "Python 2", "title": "552A - Vanya and Table", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/A", "problem_id": "15914571"}
+{"lang": "Perl", "title": "551A - GukiZ and Contest", "time": "202ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/551/A", "problem_id": "15914570"}
+{"lang": "Perl", "title": "550A - Two Substrings", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/A", "problem_id": "15914568"}
+{"lang": "Perl", "title": "549A - Face Detection", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/549/A", "problem_id": "15914565"}
+{"lang": "Python 3", "title": "548A - Mike and Fax", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/548/A", "problem_id": "15914563"}
+{"lang": "GNU C++11", "title": "547A - Mike and Frog", "time": "78ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/547/A", "problem_id": "15914562"}
+{"lang": "Ruby", "title": "546A - Soldier and Bananas", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/546/A", "problem_id": "15914560"}
+{"lang": "Perl", "title": "545A - Toy Cars", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/545/A", "problem_id": "15914559"}
+{"lang": "Python 2", "title": "544A - Set of Strings", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/544/A", "problem_id": "15914558"}
+{"lang": "GNU C++11", "title": "543A - Writing Code", "time": "374ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/543/A", "problem_id": "15914557"}
+{"lang": "GNU C++11", "title": "542A - Place Your Ad Here", "time": "920ms", "verdict": "OK", "memory": "7000KB", "problem_link": "/problemset/problem/542/A", "problem_id": "15914556"}
+{"lang": "Python 3", "title": "540A - Combination Lock", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/540/A", "problem_id": "15914555"}
+{"lang": "Perl", "title": "538A - Cutting Banner", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/538/A", "problem_id": "15914552"}
+{"lang": "PyPy 3", "title": "536A - Tavas and Karafs", "time": "1029ms", "verdict": "OK", "memory": "8900KB", "problem_link": "/problemset/problem/536/A", "problem_id": "15914550"}
+{"lang": "Python 2", "title": "535A - Tavas and Nafas", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "15914549"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/534/A", "problem_id": "15914546"}
+{"lang": "GNU C++", "title": "533A - Berland Miners", "time": "233ms", "verdict": "OK", "memory": "42800KB", "problem_link": "/problemset/problem/533/A", "problem_id": "15914544"}
+{"lang": "GNU C++", "title": "529A - And Yet Another Bracket Sequence", "time": "4399ms", "verdict": "OK", "memory": "56600KB", "problem_link": "/problemset/problem/529/A", "problem_id": "15914542"}
+{"lang": "GNU C++11", "title": "528A - Glass Carving", "time": "1310ms", "verdict": "OK", "memory": "12600KB", "problem_link": "/problemset/problem/528/A", "problem_id": "15914540"}
+{"lang": "Python 3", "title": "527A - Playing with Paper", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "15914539"}
+{"lang": "Perl", "title": "526A - King of Thieves", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/526/A", "problem_id": "15914538"}
+{"lang": "Perl", "title": "525A - Vitaliy and Pie", "time": "124ms", "verdict": "OK", "memory": "16300KB", "problem_link": "/problemset/problem/525/A", "problem_id": "15914537"}
+{"lang": "PyPy 2", "title": "524A - \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0432\u044b \u0437\u043d\u0430\u0435\u0442\u0435 \u044d\u0442\u0438\u0445 \u043b\u044e\u0434\u0435\u0439?", "time": "109ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/524/A", "problem_id": "15914534"}
+{"lang": "Haskell", "title": "523A - Rotate, Flip and Zoom", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/523/A", "problem_id": "15914533"}
+{"lang": "Python 2", "title": "522A - Reposts", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/522/A", "problem_id": "15914531"}
+{"lang": "Ruby", "title": "521A - DNA Alignment", "time": "77ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/521/A", "problem_id": "15914530"}
+{"lang": "Perl", "title": "520A - Pangram", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "15914528"}
+{"lang": "Ruby", "title": "519A - A and B and Chess", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/A", "problem_id": "15914527"}
+{"lang": "Ruby", "title": "518A - Vitaly and Strings", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "15914526"}
+{"lang": "PyPy 3", "title": "516A - Drazil and Factorial", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/516/A", "problem_id": "15914524"}
+{"lang": "Ruby", "title": "515A - Drazil and Date", "time": "61ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/515/A", "problem_id": "15914522"}
+{"lang": "Perl", "title": "514A - Chewba\u0441ca and Number", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "15914520"}
+{"lang": "Perl", "title": "513A - Game", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "15914519"}
+{"lang": "GNU C", "title": "512A - Fox And Names", "time": "15ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/512/A", "problem_id": "15914516"}
+{"lang": "Ruby", "title": "510A - Fox And Snake", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/510/A", "problem_id": "15914514"}
+{"lang": "Ruby", "title": "509A - Maximum in Table", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/509/A", "problem_id": "15914513"}
+{"lang": "Python 2", "title": "508A - Pasha and Pixels", "time": "1138ms", "verdict": "OK", "memory": "6900KB", "problem_link": "/problemset/problem/508/A", "problem_id": "15914511"}
+{"lang": "Python 2", "title": "507A - Amr and Music", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/507/A", "problem_id": "15914509"}
+{"lang": "GNU C++", "title": "506A - Mr. Kitayuta, the Treasure Hunter", "time": "140ms", "verdict": "OK", "memory": "73200KB", "problem_link": "/problemset/problem/506/A", "problem_id": "15914508"}
+{"lang": "Ruby", "title": "505A - Mr. Kitayuta's Gift", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/505/A", "problem_id": "15914507"}
+{"lang": "Ruby", "title": "504A - Misha and Forest", "time": "358ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/504/A", "problem_id": "15914505"}
+{"lang": "Ruby", "title": "501A - Contest", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/501/A", "problem_id": "15914504"}
+{"lang": "Python 2", "title": "500A - New Year Transportation", "time": "62ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/500/A", "problem_id": "15914503"}
+{"lang": "Perl", "title": "499A - Watching a movie", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/499/A", "problem_id": "15914502"}
+{"lang": "Python 2", "title": "498A - Crazy Town", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/498/A", "problem_id": "15914499"}
+{"lang": "Python 2", "title": "497A - Removing Columns", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/497/A", "problem_id": "15914497"}
+{"lang": "Haskell", "title": "496A - Minimum Difficulty", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/496/A", "problem_id": "15914496"}
+{"lang": "Python 3", "title": "495A - Digital Counter", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/495/A", "problem_id": "15914494"}
+{"lang": "Python 2", "title": "494A - Treasure", "time": "155ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/494/A", "problem_id": "15914492"}
+{"lang": "Python 2", "title": "493A - Vasya and Football", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/493/A", "problem_id": "15914490"}
+{"lang": "PyPy 2", "title": "492A - Vanya and Cubes", "time": "124ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/492/A", "problem_id": "15914489"}
+{"lang": "Perl", "title": "491A - Up the hill", "time": "62ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/491/A", "problem_id": "15914488"}
+{"lang": "Ruby", "title": "490A - Team Olympiad", "time": "77ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/490/A", "problem_id": "15914486"}
+{"lang": "Python 2", "title": "489A - SwapSort", "time": "233ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/489/A", "problem_id": "15914484"}
+{"lang": "Perl", "title": "488A - Giga Tower", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/488/A", "problem_id": "15914483"}
+{"lang": "Python 3", "title": "487A - Fight the Monster", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/487/A", "problem_id": "15914480"}
+{"lang": "Ruby", "title": "486A - Calculating Function", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "15914479"}
+{"lang": "Python 3", "title": "485A - Factory", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/485/A", "problem_id": "15914477"}
+{"lang": "Python 3", "title": "484A - Bits", "time": "374ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/484/A", "problem_id": "15914476"}
+{"lang": "Ruby", "title": "483A - Counterexample", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/483/A", "problem_id": "15914475"}
+{"lang": "Ruby", "title": "482A - Diverse Permutation", "time": "109ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/482/A", "problem_id": "15914474"}
+{"lang": "Python 2", "title": "480A - Exams", "time": "62ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/480/A", "problem_id": "15914472"}
+{"lang": "PyPy 2", "title": "479A - Expression", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/479/A", "problem_id": "15914470"}
+{"lang": "Ruby", "title": "478A - Initial Bet", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/478/A", "problem_id": "15914468"}
+{"lang": "Python 2", "title": "477A - Dreamoon and Sums", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/477/A", "problem_id": "15914466"}
+{"lang": "Python 2", "title": "476A - Dreamoon and Stairs", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/476/A", "problem_id": "15914462"}
+{"lang": "Python 2", "title": "475A - Bayan Bus", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/475/A", "problem_id": "15914461"}
+{"lang": "Python 3", "title": "474A - Keyboard", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/A", "problem_id": "15914459"}
+{"lang": "Ruby", "title": "472A - Design Tutorial: Learn from Math", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "15914457"}
+{"lang": "Python 3", "title": "471A - MUH and Sticks", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "15914455"}
+{"lang": "Python 3", "title": "469A - I Wanna Be the Guy", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "15914453"}
+{"lang": "Python 2", "title": "468A - 24 Game", "time": "109ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/468/A", "problem_id": "15914452"}
+{"lang": "Ruby", "title": "467A - George and Accommodation", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "15914451"}
+{"lang": "Python 3", "title": "466A - Cheap Travel", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/466/A", "problem_id": "15914450"}
+{"lang": "Ruby", "title": "465A - inc ARG", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/465/A", "problem_id": "15914448"}
+{"lang": "GNU C++11", "title": "464A - No to Palindromes!", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/464/A", "problem_id": "15914447"}
+{"lang": "Haskell", "title": "463A - Caisa and Sugar", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/463/A", "problem_id": "15914445"}
+{"lang": "Python 3", "title": "462A - Appleman and Easy Task", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/462/A", "problem_id": "15914444"}
+{"lang": "Ruby", "title": "461A - Appleman and Toastman", "time": "483ms", "verdict": "OK", "memory": "57200KB", "problem_link": "/problemset/problem/461/A", "problem_id": "15914443"}
+{"lang": "Ruby", "title": "460A - Vasya and Socks", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/460/A", "problem_id": "15914441"}
+{"lang": "Python 2", "title": "459A - Pashmak and Garden", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/459/A", "problem_id": "15914440"}
+{"lang": "Perl", "title": "458A - Golden System", "time": "62ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/458/A", "problem_id": "15914437"}
+{"lang": "Ruby", "title": "457A - Golden System", "time": "109ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/457/A", "problem_id": "15914436"}
+{"lang": "Perl", "title": "456A - Laptops", "time": "93ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/456/A", "problem_id": "15914435"}
+{"lang": "Python 3", "title": "455A - Boredom", "time": "155ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/455/A", "problem_id": "15914432"}
+{"lang": "Perl", "title": "454A - Little Pony and Crystal Mine", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/454/A", "problem_id": "15914430"}
+{"lang": "Python 2", "title": "453A - Little Pony and Expected Maximum", "time": "78ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/453/A", "problem_id": "15914428"}
+{"lang": "Perl", "title": "452A - Eevee", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/452/A", "problem_id": "15914426"}
+{"lang": "Perl", "title": "451A - Game With Sticks", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/451/A", "problem_id": "15914425"}
+{"lang": "Ruby", "title": "450A - Jzzhu and Children", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/450/A", "problem_id": "15914423"}
+{"lang": "Haskell", "title": "449A - Jzzhu and Chocolate", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/449/A", "problem_id": "15914422"}
+{"lang": "Python 2", "title": "448A - Rewards", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/448/A", "problem_id": "15914420"}
+{"lang": "Ruby", "title": "447A - DZY Loves Hash", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/447/A", "problem_id": "15914419"}
+{"lang": "Python 2", "title": "446A - DZY Loves Sequences", "time": "249ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/446/A", "problem_id": "15914418"}
+{"lang": "Perl", "title": "445A - DZY Loves Chessboard", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/445/A", "problem_id": "15914416"}
+{"lang": "Perl", "title": "444A - DZY Loves Physics", "time": "312ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/444/A", "problem_id": "15914413"}
+{"lang": "Ruby", "title": "443A - Anton and Letters", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "15914411"}
+{"lang": "Haskell", "title": "442A - Borya and Hanabi", "time": "62ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/442/A", "problem_id": "15914409"}
+{"lang": "Ruby", "title": "441A - Valera and Antique Items", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/441/A", "problem_id": "15914406"}
+{"lang": "Python 2", "title": "440A - Forgotten Episode", "time": "109ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/440/A", "problem_id": "15914404"}
+{"lang": "Python 2", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/439/A", "problem_id": "15914403"}
+{"lang": "Python 2", "title": "438A - The Child and Toy", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/438/A", "problem_id": "15914401"}
+{"lang": "Python 2", "title": "437A - The Child and Homework", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/437/A", "problem_id": "15914399"}
+{"lang": "Python 2", "title": "436A - Feed with Candy", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/436/A", "problem_id": "15914397"}
+{"lang": "Ruby", "title": "435A - Queue on Bus Stop", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/435/A", "problem_id": "15914393"}
+{"lang": "Python 2", "title": "434A - Ryouko's Memory Note", "time": "561ms", "verdict": "OK", "memory": "12900KB", "problem_link": "/problemset/problem/434/A", "problem_id": "15914392"}
+{"lang": "Python 2", "title": "433A - Kitahara Haruki's Gift", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/A", "problem_id": "15914391"}
+{"lang": "Ruby", "title": "432A - Choosing Teams", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/432/A", "problem_id": "15914390"}
+{"lang": "Ruby", "title": "431A - Black Square", "time": "124ms", "verdict": "OK", "memory": "8600KB", "problem_link": "/problemset/problem/431/A", "problem_id": "15914389"}
+{"lang": "Python 3", "title": "430A - Points and Segments (easy)", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/430/A", "problem_id": "15914387"}
+{"lang": "Python 2", "title": "427A - Police Recruits", "time": "124ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/427/A", "problem_id": "15914386"}
+{"lang": "Python 2", "title": "426A - Sereja and Mugs", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/426/A", "problem_id": "15914384"}
+{"lang": "Python 3", "title": "425A - Sereja and Swaps", "time": "748ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/425/A", "problem_id": "15914382"}
+{"lang": "Python 2", "title": "424A - Squats", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/424/A", "problem_id": "15914378"}
+{"lang": "Perl", "title": "421A - Pasha and Hamsters", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/421/A", "problem_id": "15914377"}
+{"lang": "Python 2", "title": "420A - Start Up", "time": "61ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/420/A", "problem_id": "15914376"}
+{"lang": "Python 2", "title": "418A - Football", "time": "545ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/418/A", "problem_id": "15914374"}
+{"lang": "Ruby", "title": "417A - Elimination", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/417/A", "problem_id": "15914373"}
+{"lang": "Python 2", "title": "416A - Guess a number!", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/416/A", "problem_id": "15914372"}
+{"lang": "Perl", "title": "415A - Mashmokh and Lights", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/415/A", "problem_id": "15914369"}
+{"lang": "Python 2", "title": "414A - Mashmokh and Numbers", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/414/A", "problem_id": "15914368"}
+{"lang": "Perl", "title": "413A - Data Recovery", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/413/A", "problem_id": "15914365"}
+{"lang": "Python 3", "title": "412A - Poster", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/412/A", "problem_id": "15914363"}
+{"lang": "Perl", "title": "411A - Password Check", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/411/A", "problem_id": "15914362"}
+{"lang": "Python 2", "title": "409A - The Great Game", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/409/A", "problem_id": "15914357"}
+{"lang": "Ruby", "title": "408A - Line to Cashier", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/408/A", "problem_id": "15914356"}
+{"lang": "Ruby", "title": "407A - Triangle", "time": "249ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/407/A", "problem_id": "15914354"}
+{"lang": "GNU C", "title": "406A - Unusual Product", "time": "420ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/406/A", "problem_id": "15914352"}
+{"lang": "Ruby", "title": "405A - Gravity Flip", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/405/A", "problem_id": "15914351"}
+{"lang": "Python 2", "title": "404A - Valera and X", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/404/A", "problem_id": "15914349"}
+{"lang": "Ruby", "title": "403A - Searching for Graph", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/403/A", "problem_id": "15914348"}
+{"lang": "Ruby", "title": "402A - Nuts", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/402/A", "problem_id": "15914347"}
+{"lang": "Haskell", "title": "401A - Vanya and Cards", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/401/A", "problem_id": "15914346"}
+{"lang": "Perl", "title": "400A - Inna and Choose Options", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/400/A", "problem_id": "15914345"}
+{"lang": "Python 3", "title": "399A - Pages", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/399/A", "problem_id": "15914342"}
+{"lang": "GNU C++", "title": "398A - Cards", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/398/A", "problem_id": "15914340"}
+{"lang": "Ruby", "title": "397A - On Segment's Own Points", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/397/A", "problem_id": "15914339"}
+{"lang": "GNU C++11", "title": "396A - On Number of Decompositions into Multipliers", "time": "156ms", "verdict": "OK", "memory": "64900KB", "problem_link": "/problemset/problem/396/A", "problem_id": "15914338"}
+{"lang": "Python 3", "title": "394A - Counting Sticks", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/394/A", "problem_id": "15914334"}
+{"lang": "Python 2", "title": "393A - Nineteen", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/393/A", "problem_id": "15914332"}
+{"lang": "Python 3", "title": "392A - Blocked Points", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/392/A", "problem_id": "15914331"}
+{"lang": "Ruby", "title": "391A - Genetic Engineering", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/391/A", "problem_id": "15914330"}
+{"lang": "Python 2", "title": "390A - Inna and Alarm Clock", "time": "140ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/390/A", "problem_id": "15914329"}
+{"lang": "Ruby", "title": "389A - Fox and Number Game", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/389/A", "problem_id": "15914327"}
+{"lang": "Python 3", "title": "388A - Fox and Box Accumulation", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/388/A", "problem_id": "15914324"}
+{"lang": "Python 2", "title": "387A - George and Sleep", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/387/A", "problem_id": "15914323"}
+{"lang": "Python 2", "title": "386A - Second-Price Auction", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/386/A", "problem_id": "15914321"}
+{"lang": "Haskell", "title": "385A - Bear and Raspberry", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/385/A", "problem_id": "15914320"}
+{"lang": "Python 2", "title": "384A - Coder", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/384/A", "problem_id": "15914319"}
+{"lang": "Haskell", "title": "383A - Milking cows", "time": "701ms", "verdict": "OK", "memory": "37100KB", "problem_link": "/problemset/problem/383/A", "problem_id": "15914318"}
+{"lang": "Python 3", "title": "382A - Ksenia and Pan Scales", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/382/A", "problem_id": "15914317"}
+{"lang": "Perl", "title": "381A - Sereja and Dima", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/381/A", "problem_id": "15914315"}
+{"lang": "Python 3", "title": "380A - Sereja and Prefixes", "time": "779ms", "verdict": "OK", "memory": "25100KB", "problem_link": "/problemset/problem/380/A", "problem_id": "15914314"}
+{"lang": "Ruby", "title": "379A - New Year Candles", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "15914313"}
+{"lang": "Perl", "title": "378A - Playing with Dice", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/378/A", "problem_id": "15914310"}
+{"lang": "MS C++", "title": "377A - Maze", "time": "15ms", "verdict": "OK", "memory": "3700KB", "problem_link": "/problemset/problem/377/A", "problem_id": "15914308"}
+{"lang": "Python 2", "title": "376A - Lever", "time": "436ms", "verdict": "OK", "memory": "2600KB", "problem_link": "/problemset/problem/376/A", "problem_id": "15914307"}
+{"lang": "Python 2", "title": "375A - Divisible by Seven", "time": "795ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/375/A", "problem_id": "15914305"}
+{"lang": "Ruby", "title": "374A - Inna and Pink Pony", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/374/A", "problem_id": "15914303"}
+{"lang": "Perl", "title": "373A - Collecting Beats is Fun", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/373/A", "problem_id": "15914302"}
+{"lang": "Python 2", "title": "372A - Counting Kangaroos is Fun", "time": "919ms", "verdict": "OK", "memory": "18500KB", "problem_link": "/problemset/problem/372/A", "problem_id": "15914300"}
+{"lang": "Python 2", "title": "371A - K-Periodic Array", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/371/A", "problem_id": "15914298"}
+{"lang": "Python 2", "title": "370A - Rook, Bishop and King", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/370/A", "problem_id": "15914297"}
+{"lang": "Python 2", "title": "369A - Valera and Plates", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/369/A", "problem_id": "15914294"}
+{"lang": "Python 2", "title": "368A - Sereja and Coat Rack", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/368/A", "problem_id": "15914293"}
+{"lang": "Python 2", "title": "367A - Sereja and Algorithm", "time": "639ms", "verdict": "OK", "memory": "4400KB", "problem_link": "/problemset/problem/367/A", "problem_id": "15914290"}
+{"lang": "Python 2", "title": "366A - Dima and Guards", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/366/A", "problem_id": "15914288"}
+{"lang": "Python 2", "title": "365A - Good Number", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/365/A", "problem_id": "15914287"}
+{"lang": "GNU C++11", "title": "364A - Matrix", "time": "592ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/364/A", "problem_id": "15914286"}
+{"lang": "Python 2", "title": "363A - Soroban", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/363/A", "problem_id": "15914285"}
+{"lang": "Python 2", "title": "362A - Two Semiknights Meet", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/362/A", "problem_id": "15914283"}
+{"lang": "Ruby", "title": "361A - Levko and Table", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/361/A", "problem_id": "15914281"}
+{"lang": "GNU C++", "title": "360A - Levko and Array Recovery", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/360/A", "problem_id": "15914280"}
+{"lang": "Python 2", "title": "359A - Table", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/359/A", "problem_id": "15914278"}
+{"lang": "Python 2", "title": "358A - Dima and Continuous Line", "time": "171ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/358/A", "problem_id": "15914277"}
+{"lang": "Python 2", "title": "357A - Group of Students", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/357/A", "problem_id": "15914275"}
+{"lang": "Python 2", "title": "356A - Knight Tournament", "time": "1700ms", "verdict": "OK", "memory": "14900KB", "problem_link": "/problemset/problem/356/A", "problem_id": "15914273"}
+{"lang": "Ruby", "title": "355A - Vasya and Digital Root", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/355/A", "problem_id": "15914272"}
+{"lang": "Python 2", "title": "354A - Vasya and Robot", "time": "171ms", "verdict": "OK", "memory": "4300KB", "problem_link": "/problemset/problem/354/A", "problem_id": "15914269"}
+{"lang": "Python 2", "title": "353A - Domino", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/353/A", "problem_id": "15914267"}
+{"lang": "Python 2", "title": "352A - Jeff and Digits", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/352/A", "problem_id": "15914264"}
+{"lang": "Python 2", "title": "351A - Jeff and Rounding", "time": "122ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/351/A", "problem_id": "15914263"}
+{"lang": "Ruby", "title": "350A - TL", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/350/A", "problem_id": "15914262"}
+{"lang": "Perl", "title": "349A - Cinema Line", "time": "280ms", "verdict": "OK", "memory": "5800KB", "problem_link": "/problemset/problem/349/A", "problem_id": "15914261"}
+{"lang": "Python 2", "title": "348A - Mafia", "time": "248ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/348/A", "problem_id": "15914259"}
+{"lang": "Perl", "title": "347A - Difference Row", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/347/A", "problem_id": "15914257"}
+{"lang": "Python 2", "title": "346A - Alice and Bob", "time": "186ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/346/A", "problem_id": "15914253"}
+{"lang": "Ruby", "title": "344A - Magnets", "time": "280ms", "verdict": "OK", "memory": "14900KB", "problem_link": "/problemset/problem/344/A", "problem_id": "15914250"}
+{"lang": "Python 2", "title": "343A - Rational Resistance", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/343/A", "problem_id": "15914249"}
+{"lang": "Ruby", "title": "342A - Xenia and Divisors", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/342/A", "problem_id": "15914247"}
+{"lang": "Python 2", "title": "341A - Tourist Problem", "time": "434ms", "verdict": "OK", "memory": "6800KB", "problem_link": "/problemset/problem/341/A", "problem_id": "15914246"}
+{"lang": "Ruby", "title": "340A - The Wall", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/340/A", "problem_id": "15914245"}
+{"lang": "Ruby", "title": "339A - Helpful Maths", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "15914244"}
+{"lang": "Python 3", "title": "338A - Quiz", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/338/A", "problem_id": "15914243"}
+{"lang": "Ruby", "title": "337A - Puzzles", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/337/A", "problem_id": "15914242"}
+{"lang": "Ruby", "title": "336A - Vasily the Bear and Triangle", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "15914241"}
+{"lang": "Ruby", "title": "335A - Banana", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/335/A", "problem_id": "15914239"}
+{"lang": "Perl", "title": "334A - Candy Bags", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/334/A", "problem_id": "15914238"}
+{"lang": "Ruby", "title": "333A - Secrets", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/333/A", "problem_id": "15914236"}
+{"lang": "Perl", "title": "332A - Down the Hatch!", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/332/A", "problem_id": "15914235"}
+{"lang": "Python 2", "title": "330A - Cakeminator", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/330/A", "problem_id": "15914233"}
+{"lang": "Python 2", "title": "329A - Purification", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/329/A", "problem_id": "15914232"}
+{"lang": "Python 2", "title": "328A - IQ Test", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/328/A", "problem_id": "15914231"}
+{"lang": "PyPy 2", "title": "327A - Flipping Game", "time": "154ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/327/A", "problem_id": "15914230"}
+{"lang": "Python 2", "title": "325A - Square and Rectangles", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/325/A", "problem_id": "15914229"}
+{"lang": "Python 2", "title": "323A - Black-and-White Cube", "time": "342ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/323/A", "problem_id": "15914227"}
+{"lang": "Python 2", "title": "322A - Ciel and Dancing", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/322/A", "problem_id": "15914225"}
+{"lang": "Python 2", "title": "321A - Ciel and Robot", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/321/A", "problem_id": "15914224"}
+{"lang": "Perl", "title": "320A - Magic Numbers", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/320/A", "problem_id": "15914222"}
+{"lang": "Ruby", "title": "319A - Malek Dance Club", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/319/A", "problem_id": "15914221"}
+{"lang": "Ruby", "title": "318A - Even Odds", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/318/A", "problem_id": "15914220"}
+{"lang": "Python 2", "title": "317A - Perfect Pair", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/317/A", "problem_id": "15914218"}
+{"lang": "Python 2", "title": "315A - Sereja and Bottles", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/315/A", "problem_id": "15914215"}
+{"lang": "Python 2", "title": "314A - Sereja and Contest", "time": "842ms", "verdict": "OK", "memory": "10900KB", "problem_link": "/problemset/problem/314/A", "problem_id": "15914214"}
+{"lang": "Python 3", "title": "313A - Ilya and Bank Account", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/313/A", "problem_id": "15914213"}
+{"lang": "Perl", "title": "312A - Whose sentence is it?", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/312/A", "problem_id": "15914212"}
+{"lang": "Ruby", "title": "311A - The Closest Pair", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/311/A", "problem_id": "15914211"}
+{"lang": "GNU C++", "title": "309A - Morning run", "time": "404ms", "verdict": "OK", "memory": "7600KB", "problem_link": "/problemset/problem/309/A", "problem_id": "15914210"}
+{"lang": "Python 2", "title": "306A - Candies", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/306/A", "problem_id": "15914209"}
+{"lang": "Python 2", "title": "305A - Strange Addition", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/305/A", "problem_id": "15914206"}
+{"lang": "FPC", "title": "304A - Pythagorean Theorem II", "time": "1184ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/304/A", "problem_id": "15914205"}
+{"lang": "GNU C", "title": "303A - Lucky Permutation Triple", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/303/A", "problem_id": "15914204"}
+{"lang": "Ruby", "title": "302A - Eugeny and Array", "time": "795ms", "verdict": "OK", "memory": "62300KB", "problem_link": "/problemset/problem/302/A", "problem_id": "15914203"}
+{"lang": "Python 2", "title": "301A - Yaroslav and Sequence", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/301/A", "problem_id": "15914202"}
+{"lang": "Ruby", "title": "300A - Array", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/300/A", "problem_id": "15914201"}
+{"lang": "Ruby", "title": "299A - Ksusha and Array", "time": "404ms", "verdict": "OK", "memory": "17100KB", "problem_link": "/problemset/problem/299/A", "problem_id": "15914200"}
+{"lang": "Ruby", "title": "298A - Snow Footprints", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/298/A", "problem_id": "15914197"}
+{"lang": "Python 2", "title": "297A - Parity Game", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/297/A", "problem_id": "15914196"}
+{"lang": "Python 3", "title": "296A - Yaroslav and Permutations", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/296/A", "problem_id": "15914194"}
+{"lang": "Python 2", "title": "295A - Greg and Array", "time": "826ms", "verdict": "OK", "memory": "16200KB", "problem_link": "/problemset/problem/295/A", "problem_id": "15914193"}
+{"lang": "Python 2", "title": "294A - Shaass and Oskols", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/294/A", "problem_id": "15914191"}
+{"lang": "Python 3", "title": "293A - Weird Game", "time": "1746ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/293/A", "problem_id": "15914189"}
+{"lang": "Python 2", "title": "292A - SMSC", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/292/A", "problem_id": "15914187"}
+{"lang": "Python 2", "title": "291A - Spyke Talks", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/291/A", "problem_id": "15914186"}
+{"lang": "Python 2", "title": "290A - Mysterious strings", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/A", "problem_id": "15914185"}
+{"lang": "Python 2", "title": "289A - Polo the Penguin and Segments", "time": "530ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/289/A", "problem_id": "15914184"}
+{"lang": "Haskell", "title": "288A - Polo the Penguin and Strings", "time": "62ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/288/A", "problem_id": "15914182"}
+{"lang": "Haskell", "title": "287A - IQ Test", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/287/A", "problem_id": "15914181"}
+{"lang": "Ruby", "title": "286A - Lucky Permutation", "time": "186ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/286/A", "problem_id": "15914180"}
+{"lang": "Python 2", "title": "285A - Slightly Decreasing Permutations", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/285/A", "problem_id": "15914179"}
+{"lang": "Python 2", "title": "284A - Cows and Primitive Roots", "time": "248ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/284/A", "problem_id": "15914178"}
+{"lang": "Python 2", "title": "283A - Cows and Sequence", "time": "1900ms", "verdict": "OK", "memory": "8000KB", "problem_link": "/problemset/problem/283/A", "problem_id": "15914177"}
+{"lang": "Perl", "title": "282A - Bit++", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "15914175"}
+{"lang": "Perl", "title": "281A - Word Capitalization", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/281/A", "problem_id": "15914174"}
+{"lang": "Python 2", "title": "280A - Rectangle Puzzle", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/280/A", "problem_id": "15914173"}
+{"lang": "Python 2", "title": "279A - Point on Spiral", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/279/A", "problem_id": "15914171"}
+{"lang": "Python 2", "title": "278A - Circle Line", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/278/A", "problem_id": "15914170"}
+{"lang": "Python 2", "title": "277A - Learning Languages", "time": "124ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/277/A", "problem_id": "15914169"}
+{"lang": "Ruby", "title": "276A - Lunch Rush", "time": "156ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/276/A", "problem_id": "15914167"}
+{"lang": "Python 2", "title": "275A - Lights Out", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/275/A", "problem_id": "15914166"}
+{"lang": "Ruby", "title": "274A - k-Multiple Free Set", "time": "434ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/274/A", "problem_id": "15914164"}
+{"lang": "Python 2", "title": "273A - Dima and Staircase", "time": "904ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/273/A", "problem_id": "15914163"}
+{"lang": "Perl", "title": "272A - Dima and Friends", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/272/A", "problem_id": "15914162"}
+{"lang": "Ruby", "title": "271A - Beautiful Year", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/271/A", "problem_id": "15914161"}
+{"lang": "Perl", "title": "270A - Fancy Fence", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/270/A", "problem_id": "15914159"}
+{"lang": "Python 2", "title": "269A - Magical Boxes", "time": "686ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/269/A", "problem_id": "15914157"}
+{"lang": "Python 2", "title": "268A - Games", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/A", "problem_id": "15914156"}
+{"lang": "Python 2", "title": "267A - Subtractions", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/267/A", "problem_id": "15914155"}
+{"lang": "Perl", "title": "266A - Stones on the Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/A", "problem_id": "15914154"}
+{"lang": "Python 2", "title": "265A - Colorful Stones (Simplified Edition)", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/265/A", "problem_id": "15914153"}
+{"lang": "Python 2", "title": "264A - Escape from Stones", "time": "389ms", "verdict": "OK", "memory": "45700KB", "problem_link": "/problemset/problem/264/A", "problem_id": "15914152"}
+{"lang": "Ruby", "title": "263A - Beautiful Matrix", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "15914151"}
+{"lang": "Ruby", "title": "262A - Roma and Lucky Numbers", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/262/A", "problem_id": "15914150"}
+{"lang": "Python 2", "title": "261A - Maxim and Discounts", "time": "374ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/261/A", "problem_id": "15914149"}
+{"lang": "Python 2", "title": "260A - Adding Digits", "time": "46ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/260/A", "problem_id": "15914148"}
+{"lang": "Ruby", "title": "259A - Little Elephant and Chess", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/259/A", "problem_id": "15914146"}
+{"lang": "Ruby", "title": "258A - Little Elephant and Bits", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/258/A", "problem_id": "15914145"}
+{"lang": "Python 2", "title": "257A - Sockets", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/257/A", "problem_id": "15914144"}
+{"lang": "GNU C++", "title": "256A - Almost Arithmetical Progression", "time": "124ms", "verdict": "OK", "memory": "62800KB", "problem_link": "/problemset/problem/256/A", "problem_id": "15914142"}
+{"lang": "Python 2", "title": "255A - Greg's Workout", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/255/A", "problem_id": "15914140"}
+{"lang": "Python 2", "title": "254A - Cards with Numbers", "time": "530ms", "verdict": "OK", "memory": "39000KB", "problem_link": "/problemset/problem/254/A", "problem_id": "15914139"}
+{"lang": "Python 2", "title": "253A - Boys and Girls", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/253/A", "problem_id": "15914138"}
+{"lang": "Python 2", "title": "252A - Little Xor", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/252/A", "problem_id": "15914137"}
+{"lang": "Python 2", "title": "251A - Points on Line", "time": "404ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/251/A", "problem_id": "15914136"}
+{"lang": "Python 2", "title": "250A - Paper Work", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/250/A", "problem_id": "15914134"}
+{"lang": "Python 2", "title": "249A - Robo-Footballer", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/249/A", "problem_id": "15914133"}
+{"lang": "Ruby", "title": "248A - Cupboards", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/248/A", "problem_id": "15914132"}
+{"lang": "Ruby", "title": "246A - Buggy Sorting", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/246/A", "problem_id": "15914130"}
+{"lang": "Python 2", "title": "245A - System Administrator", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/245/A", "problem_id": "15914129"}
+{"lang": "Ruby", "title": "244A - Dividing Orange", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/244/A", "problem_id": "15914128"}
+{"lang": "Python 3", "title": "243A - The Brand New Function", "time": "1496ms", "verdict": "OK", "memory": "22900KB", "problem_link": "/problemset/problem/243/A", "problem_id": "15914127"}
+{"lang": "Ruby", "title": "242A - Heads or Tails", "time": "124ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/242/A", "problem_id": "15914124"}
+{"lang": "Python 2", "title": "241A - Old Peykan", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/241/A", "problem_id": "15914122"}
+{"lang": "Python 2", "title": "240A - Cinema", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/240/A", "problem_id": "15914120"}
+{"lang": "Python 2", "title": "239A - Two Bags of Potatoes", "time": "124ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/239/A", "problem_id": "15914119"}
+{"lang": "Python 2", "title": "238A - Not Wool Sequences", "time": "186ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/238/A", "problem_id": "15914117"}
+{"lang": "Perl", "title": "237A - Free Cash", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "1500KB", "problem_link": "/problemset/problem/237/A", "problem_id": "15914116"}
+{"lang": "Ruby", "title": "236A - Boy or Girl", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/236/A", "problem_id": "15914115"}
+{"lang": "Python 2", "title": "235A - LCM Challenge", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/235/A", "problem_id": "15914113"}
+{"lang": "Ruby", "title": "234A - Lefthanders and Righthanders", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/234/A", "problem_id": "15914108"}
+{"lang": "Ruby", "title": "233A - Perfect Permutation", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/233/A", "problem_id": "15914106"}
+{"lang": "Python 2", "title": "232A - Cycles", "time": "122ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/232/A", "problem_id": "15914103"}
+{"lang": "Ruby", "title": "231A - Team", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/231/A", "problem_id": "15914102"}
+{"lang": "Ruby", "title": "230A - Dragons", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/230/A", "problem_id": "15914100"}
+{"lang": "Python 2", "title": "229A - Shifts", "time": "1934ms", "verdict": "OK", "memory": "1100KB", "problem_link": "/problemset/problem/229/A", "problem_id": "15914099"}
+{"lang": "Ruby", "title": "228A - Is your horseshoe on the other hoof?", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/228/A", "problem_id": "15914098"}
+{"lang": "Ruby", "title": "227A - Where do I Turn?", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/227/A", "problem_id": "15914097"}
+{"lang": "Python 3", "title": "226A - Flying Saucer Segments", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/226/A", "problem_id": "15914096"}
+{"lang": "Ruby", "title": "225A - Dice Tower", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/225/A", "problem_id": "15914095"}
+{"lang": "Ruby", "title": "224A - Parallelepiped", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/224/A", "problem_id": "15914094"}
+{"lang": "Python 2", "title": "223A - Bracket Sequence", "time": "372ms", "verdict": "OK", "memory": "8000KB", "problem_link": "/problemset/problem/223/A", "problem_id": "15914091"}
+{"lang": "Ruby", "title": "222A - Shooshuns and Sequence", "time": "280ms", "verdict": "OK", "memory": "9400KB", "problem_link": "/problemset/problem/222/A", "problem_id": "15914090"}
+{"lang": "Ruby", "title": "221A - Little Elephant and Function", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/221/A", "problem_id": "15914088"}
+{"lang": "Python 2", "title": "220A - Little Elephant and Problem", "time": "155ms", "verdict": "OK", "memory": "6700KB", "problem_link": "/problemset/problem/220/A", "problem_id": "15914086"}
+{"lang": "Python 2", "title": "219A - k-String", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/219/A", "problem_id": "15914085"}
+{"lang": "Ruby", "title": "218A - Mountain Scenery", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/218/A", "problem_id": "15914082"}
+{"lang": "Haskell", "title": "217A - Ice Skating", "time": "62ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/217/A", "problem_id": "15914078"}
+{"lang": "Ruby", "title": "216A - Tiling with Hexagons", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/216/A", "problem_id": "15914077"}
+{"lang": "Ruby", "title": "215A - Bicycle Chain", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/215/A", "problem_id": "15914076"}
+{"lang": "Ruby", "title": "214A - System of Equations", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/214/A", "problem_id": "15914075"}
+{"lang": "GNU C++", "title": "213A - Game", "time": "434ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/213/A", "problem_id": "15914074"}
+{"lang": "GNU C++", "title": "212A - Privatization", "time": "498ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/212/A", "problem_id": "15914071"}
+{"lang": "Ruby", "title": "209A - Multicolored Marbles", "time": "654ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/209/A", "problem_id": "15914068"}
+{"lang": "Perl", "title": "208A - Dubstep", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/208/A", "problem_id": "15914066"}
+{"lang": "Ruby", "title": "205A - Little Elephant and Rozdil", "time": "374ms", "verdict": "OK", "memory": "16900KB", "problem_link": "/problemset/problem/205/A", "problem_id": "15914060"}
+{"lang": "Python 2", "title": "204A - Little Elephant and Interval", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/204/A", "problem_id": "15914059"}
+{"lang": "Ruby", "title": "203A - Two Problems", "time": "124ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/203/A", "problem_id": "15914058"}
+{"lang": "Ruby", "title": "202A - LLPS", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/202/A", "problem_id": "15914057"}
+{"lang": "Ruby", "title": "201A - Clear Symmetry", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/201/A", "problem_id": "15914056"}
+{"lang": "Ruby", "title": "199A - Hexadecimal's theorem", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/199/A", "problem_id": "15914053"}
+{"lang": "Python 2", "title": "198A - About Bacteria", "time": "686ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/198/A", "problem_id": "15914051"}
+{"lang": "Ruby", "title": "197A - Plate Game", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/197/A", "problem_id": "15914049"}
+{"lang": "Haskell", "title": "196A - Lexicographically Maximum Subsequence", "time": "30ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/196/A", "problem_id": "15914048"}
+{"lang": "Ruby", "title": "195A - Let's Watch Football", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/195/A", "problem_id": "15914046"}
+{"lang": "Python 3", "title": "194A - Exams", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/194/A", "problem_id": "15914045"}
+{"lang": "GNU C++", "title": "193A - Cutting Figure", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/193/A", "problem_id": "15914044"}
+{"lang": "Python 2", "title": "192A - Funky Numbers", "time": "186ms", "verdict": "OK", "memory": "4400KB", "problem_link": "/problemset/problem/192/A", "problem_id": "15914040"}
+{"lang": "GNU C++", "title": "191A - Dynasty Puzzles", "time": "280ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/191/A", "problem_id": "15914038"}
+{"lang": "Python 2", "title": "190A - Vasya and the Bus", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15914036"}
+{"lang": "Python 3", "title": "189A - Cut Ribbon", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/189/A", "problem_id": "15914035"}
+{"lang": "Python 2", "title": "187A - Permutations", "time": "592ms", "verdict": "OK", "memory": "14900KB", "problem_link": "/problemset/problem/187/A", "problem_id": "15914034"}
+{"lang": "Python 2", "title": "186A - Comparing Strings", "time": "186ms", "verdict": "OK", "memory": "4900KB", "problem_link": "/problemset/problem/186/A", "problem_id": "15914032"}
+{"lang": "Python 2", "title": "185A - Plant", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/185/A", "problem_id": "15914031"}
+{"lang": "Ruby", "title": "183A - Headquarters", "time": "716ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/183/A", "problem_id": "15914028"}
+{"lang": "MS C++", "title": "182A - Battlefield", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/182/A", "problem_id": "15914027"}
+{"lang": "Ruby", "title": "181A - Series of Crimes", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/181/A", "problem_id": "15914025"}
+{"lang": "MS C++", "title": "180A - Defragmentation", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/180/A", "problem_id": "15914024"}
+{"lang": "Python 2", "title": "176A - Trading Business", "time": "124ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/176/A", "problem_id": "15914016"}
+{"lang": "Python 2", "title": "175A - Robot Bicorn Attack", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/175/A", "problem_id": "15914014"}
+{"lang": "Ruby", "title": "174A - Problem About Equation", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/174/A", "problem_id": "15914013"}
+{"lang": "Python 2", "title": "173A - Rock-Paper-Scissors", "time": "1934ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/173/A", "problem_id": "15914011"}
+{"lang": "Python 2", "title": "172A - Phone Code", "time": "248ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/172/A", "problem_id": "15914007"}
+{"lang": "Ruby", "title": "171A - Mysterious numbers - 1", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/171/A", "problem_id": "15914006"}
+{"lang": "Ruby", "title": "169A - Chores", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/169/A", "problem_id": "15913711"}
+{"lang": "Python 2", "title": "168A - Wizards and Demonstration", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/168/A", "problem_id": "15913709"}
+{"lang": "Python 2", "title": "167A - Wizards and Trolleybuses", "time": "436ms", "verdict": "OK", "memory": "9100KB", "problem_link": "/problemset/problem/167/A", "problem_id": "15913708"}
+{"lang": "Ruby", "title": "166A - Rank List", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "15913706"}
+{"lang": "Python 2", "title": "165A - Supercentral Point", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/165/A", "problem_id": "15913705"}
+{"lang": "GNU C++", "title": "164A - Variable, or There and Back Again", "time": "248ms", "verdict": "OK", "memory": "9200KB", "problem_link": "/problemset/problem/164/A", "problem_id": "15913703"}
+{"lang": "GNU C++", "title": "163A - Substring and Subsequence", "time": "1028ms", "verdict": "OK", "memory": "195800KB", "problem_link": "/problemset/problem/163/A", "problem_id": "15913702"}
+{"lang": "Python 2", "title": "161A - Dress'em in Vests!", "time": "686ms", "verdict": "OK", "memory": "11700KB", "problem_link": "/problemset/problem/161/A", "problem_id": "15913701"}
+{"lang": "Ruby", "title": "160A - Twins", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/160/A", "problem_id": "15913699"}
+{"lang": "Ruby", "title": "159A - Friends or Not", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/159/A", "problem_id": "15913695"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "15913693"}
+{"lang": "Python 2", "title": "157A - Game Outcome", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/157/A", "problem_id": "15913689"}
+{"lang": "Haskell", "title": "156A - Message", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/A", "problem_id": "15913687"}
+{"lang": "Python 2", "title": "155A - I_love_\\%username\\%", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/155/A", "problem_id": "15913686"}
+{"lang": "Python 2", "title": "154A - Hometask", "time": "1558ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/154/A", "problem_id": "15913685"}
+{"lang": "Python 2", "title": "152A - Marks", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/152/A", "problem_id": "15913682"}
+{"lang": "Ruby", "title": "151A - Soft Drinking", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/151/A", "problem_id": "15913681"}
+{"lang": "Python 2", "title": "150A - Win or Freeze", "time": "1496ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/150/A", "problem_id": "15913680"}
+{"lang": "Python 2", "title": "149A - Business trip", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/149/A", "problem_id": "15913679"}
+{"lang": "Ruby", "title": "148A - Insomnia cure", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/148/A", "problem_id": "15913678"}
+{"lang": "Perl", "title": "147A - Punctuation", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/147/A", "problem_id": "15913677"}
+{"lang": "Ruby", "title": "146A - Lucky Ticket", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/146/A", "problem_id": "15913675"}
+{"lang": "Python 2", "title": "145A - Lucky Conversion", "time": "186ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/145/A", "problem_id": "15913674"}
+{"lang": "Ruby", "title": "144A - Arrival of the General", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "15913672"}
+{"lang": "Ruby", "title": "143A - Help Vasilisa the Wise 2", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/143/A", "problem_id": "15913671"}
+{"lang": "Haskell", "title": "142A - Help Farmer", "time": "62ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/142/A", "problem_id": "15913670"}
+{"lang": "Python 2", "title": "141A - Amusing Joke", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/141/A", "problem_id": "15913669"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/140/A", "problem_id": "15913665"}
+{"lang": "Ruby", "title": "139A - Petr and Book", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/139/A", "problem_id": "15913664"}
+{"lang": "Ruby", "title": "138A - Literature Lesson", "time": "310ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/138/A", "problem_id": "15913663"}
+{"lang": "Perl", "title": "137A - Postcards and photos", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/137/A", "problem_id": "15913662"}
+{"lang": "Ruby", "title": "136A - Presents", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/136/A", "problem_id": "15913660"}
+{"lang": "Ruby", "title": "135A - Replacement", "time": "498ms", "verdict": "OK", "memory": "18400KB", "problem_link": "/problemset/problem/135/A", "problem_id": "15913658"}
+{"lang": "Haskell", "title": "134A - Average Numbers", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "25800KB", "problem_link": "/problemset/problem/134/A", "problem_id": "15913657"}
+{"lang": "Perl", "title": "133A - HQ9+", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "15913656"}
+{"lang": "Ruby", "title": "132A - Turing Tape", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/132/A", "problem_id": "15913655"}
+{"lang": "Ruby", "title": "131A - cAPS lOCK", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "15913653"}
+{"lang": "Ruby", "title": "129A - Cookies", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/129/A", "problem_id": "15913651"}
+{"lang": "Python 3", "title": "128A - Statues", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/128/A", "problem_id": "15913650"}
+{"lang": "Python 2", "title": "127A - Wasted Time", "time": "122ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/127/A", "problem_id": "15913649"}
+{"lang": "GNU C++", "title": "126A - Hot Bath", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/126/A", "problem_id": "15913648"}
+{"lang": "Python 2", "title": "125A - Measuring Lengths in Baden", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/125/A", "problem_id": "15913646"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/124/A", "problem_id": "15913644"}
+{"lang": "GNU C++", "title": "123A - Prime Permutation", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/123/A", "problem_id": "15913643"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/122/A", "problem_id": "15913641"}
+{"lang": "Python 2", "title": "121A - Lucky Sum", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/121/A", "problem_id": "15913640"}
+{"lang": "Ruby", "title": "120A - Elevator", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/120/A", "problem_id": "15913639"}
+{"lang": "Ruby", "title": "119A - Epic Game", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "15913638"}
+{"lang": "Perl", "title": "118A - String Task", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/118/A", "problem_id": "15913637"}
+{"lang": "GNU C", "title": "117A - Elevator", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/117/A", "problem_id": "15913636"}
+{"lang": "Ruby", "title": "116A - Tram", "time": "154ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/116/A", "problem_id": "15913635"}
+{"lang": "Haskell", "title": "115A - Party", "time": "590ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/115/A", "problem_id": "15913634"}
+{"lang": "Python 2", "title": "114A - Cifera", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/114/A", "problem_id": "15913633"}
+{"lang": "Ruby", "title": "113A - Grammar Lessons", "time": "154ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/113/A", "problem_id": "15913632"}
+{"lang": "Perl", "title": "112A - Petya and Strings", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/112/A", "problem_id": "15913628"}
+{"lang": "Python 2", "title": "111A - Petya and Inequiations", "time": "92ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/111/A", "problem_id": "15913627"}
+{"lang": "Ruby", "title": "110A - Nearly Lucky Number", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "15913623"}
+{"lang": "Python 2", "title": "109A - Lucky Sum of Digits", "time": "92ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/109/A", "problem_id": "15913622"}
+{"lang": "Ruby", "title": "108A - Palindromic Times", "time": "216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/108/A", "problem_id": "15913621"}
+{"lang": "Python 2", "title": "107A - Dorm Water Supply", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/107/A", "problem_id": "15913619"}
+{"lang": "Ruby", "title": "106A - Card Game", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/106/A", "problem_id": "15913618"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "15913616"}
+{"lang": "Python 2", "title": "104A - Blackjack", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/104/A", "problem_id": "15913615"}
+{"lang": "Haskell", "title": "103A - Testing Pants for Sadness", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/103/A", "problem_id": "15913614"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "374ms", "verdict": "OK", "memory": "10400KB", "problem_link": "/problemset/problem/102/A", "problem_id": "15913613"}
+{"lang": "Python 2", "title": "101A - Homework", "time": "92ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/101/A", "problem_id": "15913612"}
+{"lang": "Python 2", "title": "99A - Help Far Away Kingdom", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/99/A", "problem_id": "15913609"}
+{"lang": "Python 2", "title": "98A - Help Victoria the Wise", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/98/A", "problem_id": "15913606"}
+{"lang": "GNU C++", "title": "97A - Domino", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/97/A", "problem_id": "15913603"}
+{"lang": "Perl", "title": "96A - Football", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "15913602"}
+{"lang": "Haskell", "title": "95A - Hockey", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/95/A", "problem_id": "15913600"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/94/A", "problem_id": "15913599"}
+{"lang": "Haskell", "title": "93A - Frames", "time": "30ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/93/A", "problem_id": "15913596"}
+{"lang": "Ruby", "title": "92A - Chips", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/92/A", "problem_id": "15913594"}
+{"lang": "Python 2", "title": "91A - Newspaper Headline", "time": "1808ms", "verdict": "OK", "memory": "2900KB", "problem_link": "/problemset/problem/91/A", "problem_id": "15913593"}
+{"lang": "Ruby", "title": "90A - Cableway", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/90/A", "problem_id": "15913592"}
+{"lang": "Python 2", "title": "89A - Robbery", "time": "124ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/89/A", "problem_id": "15913591"}
+{"lang": "Python 2", "title": "88A - Chord", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/88/A", "problem_id": "15913587"}
+{"lang": "Haskell", "title": "87A - Trains", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/87/A", "problem_id": "15913584"}
+{"lang": "Ruby", "title": "86A - Reflection", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/86/A", "problem_id": "15913583"}
+{"lang": "GNU C++", "title": "85A - Domino", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/85/A", "problem_id": "15913582"}
+{"lang": "Perl", "title": "84A - Toy Army", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/84/A", "problem_id": "15913581"}
+{"lang": "Haskell", "title": "83A - Magical Array", "time": "278ms", "verdict": "OK", "memory": "16600KB", "problem_link": "/problemset/problem/83/A", "problem_id": "15913580"}
+{"lang": "Python 2", "title": "82A - Double Cola", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/82/A", "problem_id": "15913578"}
+{"lang": "Ruby", "title": "81A - Plug-in", "time": "312ms", "verdict": "OK", "memory": "17500KB", "problem_link": "/problemset/problem/81/A", "problem_id": "15913577"}
+{"lang": "Ruby", "title": "80A - Panoramix's Prediction", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/80/A", "problem_id": "15913576"}
+{"lang": "Python 2", "title": "79A - Bus Game", "time": "312ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/79/A", "problem_id": "15913574"}
+{"lang": "Ruby", "title": "78A - Haiku", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/78/A", "problem_id": "15913573"}
+{"lang": "Haskell", "title": "77A - Heroes", "time": "30ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/77/A", "problem_id": "15913572"}
+{"lang": "Ruby", "title": "75A - Life Without Zeros", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/75/A", "problem_id": "15913571"}
+{"lang": "Haskell", "title": "74A - Room Leader", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/74/A", "problem_id": "15913570"}
+{"lang": "Ruby", "title": "73A - The Elder Trolls IV: Oblivon", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/73/A", "problem_id": "15913569"}
+{"lang": "Perl", "title": "71A - Way Too Long Words", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/71/A", "problem_id": "15913565"}
+{"lang": "Ruby", "title": "70A - Cookies", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/70/A", "problem_id": "15913564"}
+{"lang": "Ruby", "title": "69A - Young Physicist", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/69/A", "problem_id": "15913562"}
+{"lang": "Python 2", "title": "68A - Irrational problem", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/68/A", "problem_id": "15913561"}
+{"lang": "Haskell", "title": "67A - Partial Teacher", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/67/A", "problem_id": "15913560"}
+{"lang": "Haskell", "title": "66A - Petya and Java", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/66/A", "problem_id": "15913559"}
+{"lang": "Python 2", "title": "65A - Harry Potter and Three Spells", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/65/A", "problem_id": "15913558"}
+{"lang": "Ruby", "title": "63A - Sinking Ship", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/63/A", "problem_id": "15913535"}
+{"lang": "Python 2", "title": "62A - A Student's Dream", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/62/A", "problem_id": "15913534"}
+{"lang": "Ruby", "title": "61A - Ultra-Fast Mathematician", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/61/A", "problem_id": "15913531"}
+{"lang": "Ruby", "title": "60A - Where Are My Flakes?", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/60/A", "problem_id": "15913529"}
+{"lang": "Ruby", "title": "59A - Word", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/59/A", "problem_id": "15913526"}
+{"lang": "Perl", "title": "58A - Chat room", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "15913524"}
+{"lang": "Python 3", "title": "57A - Square Earth?", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/57/A", "problem_id": "15913523"}
+{"lang": "Ruby", "title": "56A - Bar", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/56/A", "problem_id": "15913521"}
+{"lang": "Python 2", "title": "55A - Flea travel", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/55/A", "problem_id": "15913519"}
+{"lang": "Ruby", "title": "54A - Presents", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/54/A", "problem_id": "15913517"}
+{"lang": "Ruby", "title": "53A - Autocomplete", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/53/A", "problem_id": "15913516"}
+{"lang": "Ruby", "title": "52A - 123-sequence", "time": "466ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/52/A", "problem_id": "15913515"}
+{"lang": "Haskell", "title": "51A - Cheaterius's Problem", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/51/A", "problem_id": "15913514"}
+{"lang": "Ruby", "title": "50A - Domino piling", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/50/A", "problem_id": "15913513"}
+{"lang": "Ruby", "title": "49A - Sleuth", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/49/A", "problem_id": "15913511"}
+{"lang": "Python 2", "title": "48A - Rock-paper-scissors", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/48/A", "problem_id": "15913509"}
+{"lang": "Python 2", "title": "47A - Triangular numbers", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/47/A", "problem_id": "15913508"}
+{"lang": "Ruby", "title": "46A - Ball Game", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/46/A", "problem_id": "15913507"}
+{"lang": "Ruby", "title": "45A - Codecraft III", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/45/A", "problem_id": "15913506"}
+{"lang": "Ruby", "title": "44A - Indian Summer", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/44/A", "problem_id": "15913504"}
+{"lang": "Ruby", "title": "43A - Football", "time": "92ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/43/A", "problem_id": "15913503"}
+{"lang": "Python 2", "title": "42A - Guilty --- to the kitchen!", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/42/A", "problem_id": "15913502"}
+{"lang": "Python 3", "title": "41A - Translation", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/41/A", "problem_id": "15913501"}
+{"lang": "Python 2", "title": "40A - Find Color", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/40/A", "problem_id": "15913500"}
+{"lang": "Ruby", "title": "39A - C*++ Calculations", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/39/A", "problem_id": "15913498"}
+{"lang": "Ruby", "title": "38A - Army", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/38/A", "problem_id": "15913496"}
+{"lang": "Ruby", "title": "37A - Towers", "time": "218ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/37/A", "problem_id": "15913495"}
+{"lang": "Ruby", "title": "36A - Extra-terrestrial Intelligence", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/36/A", "problem_id": "15913493"}
+{"lang": "Ruby", "title": "35A - Shell Game", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/35/A", "problem_id": "15913490"}
+{"lang": "Python 2", "title": "34A - Reconnaissance 2", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/34/A", "problem_id": "15913489"}
+{"lang": "Ruby", "title": "33A - What is for dinner?", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/33/A", "problem_id": "15913487"}
+{"lang": "Ruby", "title": "32A - Reconnaissance", "time": "342ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/32/A", "problem_id": "15913486"}
+{"lang": "Ruby", "title": "31A - Worms Evolution", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/31/A", "problem_id": "15913485"}
+{"lang": "Ruby", "title": "30A - Accounting", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/30/A", "problem_id": "15913483"}
+{"lang": "Python 2", "title": "29A - Spit Problem", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/29/A", "problem_id": "15913481"}
+{"lang": "Python 2", "title": "28A - Bender Problem", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/28/A", "problem_id": "15913480"}
+{"lang": "Ruby", "title": "27A - Next Test", "time": "124ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/27/A", "problem_id": "15913477"}
+{"lang": "Ruby", "title": "26A - Almost Prime", "time": "186ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/26/A", "problem_id": "15913475"}
+{"lang": "Ruby", "title": "25A - IQ test", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "15913474"}
+{"lang": "Ruby", "title": "24A - Ring road", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/24/A", "problem_id": "15913473"}
+{"lang": "Ruby", "title": "23A - You're Given a String...", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/23/A", "problem_id": "15913472"}
+{"lang": "Ruby", "title": "22A - Second Order Statistics", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/22/A", "problem_id": "15913471"}
+{"lang": "Ruby", "title": "21A - Jabber ID", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/21/A", "problem_id": "15913470"}
+{"lang": "Ruby", "title": "20A - BerOS file system", "time": "92ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/20/A", "problem_id": "15913469"}
+{"lang": "Ruby", "title": "19A - World Football Cup", "time": "124ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/19/A", "problem_id": "15913468"}
+{"lang": "Python 2", "title": "18A - Triangle", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/18/A", "problem_id": "15913467"}
+{"lang": "Ruby", "title": "17A - Noldbach problem", "time": "156ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "15913466"}
+{"lang": "Ruby", "title": "16A - Flag", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/16/A", "problem_id": "15913465"}
+{"lang": "Ruby", "title": "15A - Cottage Village", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/15/A", "problem_id": "15913464"}
+{"lang": "Python 2", "title": "14A - Letter", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/14/A", "problem_id": "15913463"}
+{"lang": "Ruby", "title": "13A - Numbers", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/13/A", "problem_id": "15913462"}
+{"lang": "Ruby", "title": "12A - Super Agent", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/12/A", "problem_id": "15913461"}
+{"lang": "Ruby", "title": "11A - Increasing Sequence", "time": "122ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/11/A", "problem_id": "15913460"}
+{"lang": "Ruby", "title": "10A - Power Consumption Calculation", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/10/A", "problem_id": "15913459"}
+{"lang": "Ruby", "title": "9A - Die Roll", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/9/A", "problem_id": "15913457"}
+{"lang": "Ruby", "title": "8A - Train and Peter", "time": "154ms", "verdict": "OK", "memory": "4900KB", "problem_link": "/problemset/problem/8/A", "problem_id": "15913456"}
+{"lang": "Python 2", "title": "7A - Kalevitch and Chess", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/7/A", "problem_id": "15913453"}
+{"lang": "Python 3", "title": "6A - Triangle", "time": "154ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/6/A", "problem_id": "15913452"}
+{"lang": "Ruby", "title": "5A - Chat Servers Outgoing Traffic", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/5/A", "problem_id": "15913448"}
+{"lang": "Perl", "title": "4A - Watermelon", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "15913447"}
+{"lang": "Haskell", "title": "3A - Shortest path of the king", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/3/A", "problem_id": "15913446"}
+{"lang": "Ruby", "title": "2A - Winner", "time": "124ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/2/A", "problem_id": "15913443"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "15913398"}
+{"lang": "GNU C++11", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "15886055"}

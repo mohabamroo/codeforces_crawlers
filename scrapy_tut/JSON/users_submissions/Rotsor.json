@@ -1,0 +1,652 @@
+{"lang": "Haskell", "title": "594B - Max and Bike", "time": "1170ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/594/B", "problem_id": "14162851"}
+{"lang": "Haskell", "title": "594B - Max and Bike", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8200KB", "problem_link": "/problemset/problem/594/B", "problem_id": "14162707"}
+{"lang": "Haskell", "title": "594C - Edo and Magnets", "time": "717ms", "verdict": "OK", "memory": "67900KB", "problem_link": "/problemset/problem/594/C", "problem_id": "14155141"}
+{"lang": "Haskell", "title": "594C - Edo and Magnets", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/594/C", "problem_id": "14155012"}
+{"lang": "Haskell", "title": "594C - Edo and Magnets", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/594/C", "problem_id": "14154261"}
+{"lang": "Haskell", "title": "594C - Edo and Magnets", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/594/C", "problem_id": "14154102"}
+{"lang": "Haskell", "title": "594B - Max and Bike", "time": "452ms", "verdict": "WRONG_ANSWER", "memory": "8200KB", "problem_link": "/problemset/problem/594/B", "problem_id": "14149051"}
+{"lang": "Haskell", "title": "592D - Super M", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "106900KB", "problem_link": "/problemset/problem/592/D", "problem_id": "13991164"}
+{"lang": "Haskell", "title": "592D - Super M", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "94600KB", "problem_link": "/problemset/problem/592/D", "problem_id": "13990831"}
+{"lang": "Haskell", "title": "592D - Super M", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "92500KB", "problem_link": "/problemset/problem/592/D", "problem_id": "13986346"}
+{"lang": "Haskell", "title": "592C - The Big Race", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/C", "problem_id": "13979323"}
+{"lang": "Haskell", "title": "592B - The Monster and the Squirrel", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "13976776"}
+{"lang": "Haskell", "title": "592B - The Monster and the Squirrel", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "13976132"}
+{"lang": "Haskell", "title": "592A - PawnChess", "time": "15ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/592/A", "problem_id": "13974180"}
+{"lang": "Haskell", "title": "549C - The Game Of Parity", "time": "78ms", "verdict": "OK", "memory": "12800KB", "problem_link": "/problemset/problem/549/C", "problem_id": "11478725"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "30ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11478715"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11473127"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11470308"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11470207"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11469222"}
+{"lang": "Haskell", "title": "549H - Degenerate Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11469172"}
+{"lang": "GNU C++", "title": "549H - Degenerate Matrix", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/549/H", "problem_id": "11469159"}
+{"lang": "Haskell", "title": "549D - Haar Features", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/549/D", "problem_id": "11465099"}
+{"lang": "Haskell", "title": "549G - Happy Line", "time": "514ms", "verdict": "OK", "memory": "49400KB", "problem_link": "/problemset/problem/549/G", "problem_id": "11463386"}
+{"lang": "Haskell", "title": "549C - The Game Of Parity", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "12800KB", "problem_link": "/problemset/problem/549/C", "problem_id": "11462466"}
+{"lang": "Haskell", "title": "549A - Face Detection", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/549/A", "problem_id": "11459308"}
+{"lang": "GNU C++", "title": "549A - Face Detection", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/549/A", "problem_id": "11459208"}
+{"lang": "Haskell", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "11457888"}
+{"lang": "GNU C++", "title": "472D - Design Tutorial: Inverse the Problem", "time": "1996ms", "verdict": "OK", "memory": "105200KB", "problem_link": "/problemset/problem/472/D", "problem_id": "8005448"}
+{"lang": "GNU C++", "title": "472D - Design Tutorial: Inverse the Problem", "time": "436ms", "verdict": "WRONG_ANSWER", "memory": "68300KB", "problem_link": "/problemset/problem/472/D", "problem_id": "8004673"}
+{"lang": "GNU C++", "title": "472D - Design Tutorial: Inverse the Problem", "time": "483ms", "verdict": "WRONG_ANSWER", "memory": "52600KB", "problem_link": "/problemset/problem/472/D", "problem_id": "8004382"}
+{"lang": "GNU C++", "title": "472D - Design Tutorial: Inverse the Problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/472/D", "problem_id": "8003974"}
+{"lang": "Haskell", "title": "472C - Design Tutorial: Make It Nondeterministic", "time": "280ms", "verdict": "OK", "memory": "26800KB", "problem_link": "/problemset/problem/472/C", "problem_id": "8001035"}
+{"lang": "Haskell", "title": "472B - Design Tutorial: Learn from Life", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/472/B", "problem_id": "7998554"}
+{"lang": "Haskell", "title": "472B - Design Tutorial: Learn from Life", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/472/B", "problem_id": "7998042"}
+{"lang": "Haskell", "title": "472A - Design Tutorial: Learn from Math", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "7996740"}
+{"lang": "GNU C++", "title": "472A - Design Tutorial: Learn from Math", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "7996598"}
+{"lang": "GNU C++", "title": "468B - Two Sets", "time": "124ms", "verdict": "OK", "memory": "9900KB", "problem_link": "/problemset/problem/468/B", "problem_id": "7879131"}
+{"lang": "GNU C++", "title": "468B - Two Sets", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/468/B", "problem_id": "7878644"}
+{"lang": "GNU C++", "title": "468B - Two Sets", "time": "764ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/468/B", "problem_id": "7878010"}
+{"lang": "GNU C++", "title": "468B - Two Sets", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1300KB", "problem_link": "/problemset/problem/468/B", "problem_id": "7875590"}
+{"lang": "Haskell", "title": "468A - 24 Game", "time": "46ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/468/A", "problem_id": "7870520"}
+{"lang": "Haskell", "title": "468A - 24 Game", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/468/A", "problem_id": "7870315"}
+{"lang": "Haskell", "title": "467E - Alex and Complicated Task", "time": "1341ms", "verdict": "OK", "memory": "95600KB", "problem_link": "/problemset/problem/467/E", "problem_id": "7861612"}
+{"lang": "Haskell", "title": "467E - Alex and Complicated Task", "time": "1106ms", "verdict": "RUNTIME_ERROR", "memory": "199200KB", "problem_link": "/problemset/problem/467/E", "problem_id": "7861117"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "3634ms", "verdict": "OK", "memory": "246400KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789945"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "2417ms", "verdict": "WRONG_ANSWER", "memory": "105900KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789933"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "2901ms", "verdict": "OK", "memory": "119200KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789804"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "1621ms", "verdict": "WRONG_ANSWER", "memory": "66900KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789554"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "1996ms", "verdict": "WRONG_ANSWER", "memory": "90500KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789430"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "13500KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789404"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789400"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "13500KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789392"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "13500KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789305"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "13500KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789256"}
+{"lang": "GNU C", "title": "464E - The Classic Problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7789251"}
+{"lang": "FALSE", "title": "470F - Pairwise Sums", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/470/F", "problem_id": "7787216"}
+{"lang": "FALSE", "title": "470D - Caesar Cipher", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/D", "problem_id": "7786542"}
+{"lang": "FALSE", "title": "470E - Chessboard", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/E", "problem_id": "7786390"}
+{"lang": "FALSE", "title": "470C - Eval", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/C", "problem_id": "7785997"}
+{"lang": "FALSE", "title": "470B - Hexakosioihexekontahexaphobia", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/B", "problem_id": "7785499"}
+{"lang": "FALSE", "title": "470B - Hexakosioihexekontahexaphobia", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/470/B", "problem_id": "7785372"}
+{"lang": "FALSE", "title": "470B - Hexakosioihexekontahexaphobia", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/470/B", "problem_id": "7785322"}
+{"lang": "FALSE", "title": "470A - Crystal Ball Sequence", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/A", "problem_id": "7785104"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "153100KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7751692"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "1100KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7751635"}
+{"lang": "Haskell", "title": "464E - The Classic Problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/464/E", "problem_id": "7751628"}
+{"lang": "Haskell", "title": "464B - Restore Cube", "time": "655ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/464/B", "problem_id": "7716660"}
+{"lang": "Haskell", "title": "464B - Restore Cube", "time": "889ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/464/B", "problem_id": "7716604"}
+{"lang": "Haskell", "title": "464C - Substitutes in Number", "time": "358ms", "verdict": "OK", "memory": "80200KB", "problem_link": "/problemset/problem/464/C", "problem_id": "7716602"}
+{"lang": "Haskell", "title": "464B - Restore Cube", "time": "624ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/464/B", "problem_id": "7716599"}
+{"lang": "Haskell", "title": "464C - Substitutes in Number", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/464/C", "problem_id": "7712771"}
+{"lang": "Haskell", "title": "464B - Restore Cube", "time": "624ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/464/B", "problem_id": "7709832"}
+{"lang": "Haskell", "title": "464A - No to Palindromes!", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/464/A", "problem_id": "7706790"}
+{"lang": "GNU C++", "title": "463C - Gargari and Bishops", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "15700KB", "problem_link": "/problemset/problem/463/C", "problem_id": "7640166"}
+{"lang": "Haskell", "title": "463C - Gargari and Bishops", "time": "998ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/463/C", "problem_id": "7638145"}
+{"lang": "Haskell", "title": "463C - Gargari and Bishops", "time": "998ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/463/C", "problem_id": "7637817"}
+{"lang": "Haskell", "title": "463B - Caisa and Pylons", "time": "358ms", "verdict": "OK", "memory": "1100KB", "problem_link": "/problemset/problem/463/B", "problem_id": "7628645"}
+{"lang": "Haskell", "title": "463A - Caisa and Sugar", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/463/A", "problem_id": "7627676"}
+{"lang": "Haskell", "title": "454D - Little Pony and Harmony Chest", "time": "61ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/454/D", "problem_id": "7363110"}
+{"lang": "Haskell", "title": "454D - Little Pony and Harmony Chest", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/454/D", "problem_id": "7362969"}
+{"lang": "Haskell", "title": "454C - Little Pony and Expected Maximum", "time": "93ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/454/C", "problem_id": "7362717"}
+{"lang": "Haskell", "title": "454B - Little Pony and Sort by Shift", "time": "405ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/454/B", "problem_id": "7362647"}
+{"lang": "Haskell", "title": "454A - Little Pony and Crystal Mine", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/454/A", "problem_id": "7362608"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "1372ms", "verdict": "WRONG_ANSWER", "memory": "104900KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7187819"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "150000KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7187340"}
+{"lang": "GNU C++0x", "title": "449B - Jzzhu and Cities", "time": "717ms", "verdict": "OK", "memory": "64800KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7179913"}
+{"lang": "GNU C++0x", "title": "449B - Jzzhu and Cities", "time": "499ms", "verdict": "WRONG_ANSWER", "memory": "53400KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7172809"}
+{"lang": "GNU C++0x", "title": "449B - Jzzhu and Cities", "time": "390ms", "verdict": "WRONG_ANSWER", "memory": "37300KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7172173"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "104900KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7167809"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "104900KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7167071"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7166960"}
+{"lang": "Haskell", "title": "449B - Jzzhu and Cities", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "44300KB", "problem_link": "/problemset/problem/449/B", "problem_id": "7166796"}
+{"lang": "Haskell", "title": "449A - Jzzhu and Chocolate", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/449/A", "problem_id": "7159277"}
+{"lang": "Haskell", "title": "447E - DZY Loves Fibonacci Numbers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "6200KB", "problem_link": "/problemset/problem/447/E", "problem_id": "7095706"}
+{"lang": "Haskell", "title": "447E - DZY Loves Fibonacci Numbers", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "143800KB", "problem_link": "/problemset/problem/447/E", "problem_id": "7090217"}
+{"lang": "Haskell", "title": "447E - DZY Loves Fibonacci Numbers", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "208500KB", "problem_link": "/problemset/problem/447/E", "problem_id": "7089489"}
+{"lang": "Haskell", "title": "447E - DZY Loves Fibonacci Numbers", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "43300KB", "problem_link": "/problemset/problem/447/E", "problem_id": "7088835"}
+{"lang": "Haskell", "title": "447E - DZY Loves Fibonacci Numbers", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "43300KB", "problem_link": "/problemset/problem/447/E", "problem_id": "7088174"}
+{"lang": "Haskell", "title": "447A - DZY Loves Hash", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/447/A", "problem_id": "7080170"}
+{"lang": "Haskell", "title": "447B - DZY Loves Strings", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/447/B", "problem_id": "7079347"}
+{"lang": "Haskell", "title": "447C - DZY Loves Sequences", "time": "560ms", "verdict": "OK", "memory": "35100KB", "problem_link": "/problemset/problem/447/C", "problem_id": "7078532"}
+{"lang": "Haskell", "title": "447C - DZY Loves Sequences", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/447/C", "problem_id": "7077383"}
+{"lang": "Haskell", "title": "439C - Devu and Partitioning of the Array", "time": "468ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/439/C", "problem_id": "7071435"}
+{"lang": "Haskell", "title": "439C - Devu and Partitioning of the Array", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/C", "problem_id": "7070507"}
+{"lang": "Haskell", "title": "439C - Devu and Partitioning of the Array", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/C", "problem_id": "7070500"}
+{"lang": "Haskell", "title": "439E - Devu and Birthday Celebration", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "1100KB", "problem_link": "/problemset/problem/439/E", "problem_id": "7070434"}
+{"lang": "Haskell", "title": "439E - Devu and Birthday Celebration", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/439/E", "problem_id": "7070414"}
+{"lang": "Haskell", "title": "439E - Devu and Birthday Celebration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/E", "problem_id": "7070393"}
+{"lang": "Haskell", "title": "439D - Devu and his Brother", "time": "654ms", "verdict": "OK", "memory": "52500KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070242"}
+{"lang": "Haskell", "title": "439D - Devu and his Brother", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070241"}
+{"lang": "Haskell", "title": "439D - Devu and his Brother", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "21700KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070238"}
+{"lang": "Haskell", "title": "439D - Devu and his Brother", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41200KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070231"}
+{"lang": "Haskell", "title": "439D - Devu and his Brother", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41200KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070226"}
+{"lang": "GNU C++0x", "title": "439D - Devu and his Brother", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/D", "problem_id": "7070225"}
+{"lang": "Haskell", "title": "439C - Devu and Partitioning of the Array", "time": "499ms", "verdict": "WRONG_ANSWER", "memory": "10500KB", "problem_link": "/problemset/problem/439/C", "problem_id": "7070193"}
+{"lang": "Haskell", "title": "439C - Devu and Partitioning of the Array", "time": "358ms", "verdict": "WRONG_ANSWER", "memory": "5300KB", "problem_link": "/problemset/problem/439/C", "problem_id": "7070176"}
+{"lang": "Haskell", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/439/A", "problem_id": "7070086"}
+{"lang": "GNU C++0x", "title": "439A - Devu, the Singer and Churu, the Joker", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/A", "problem_id": "7070085"}
+{"lang": "Haskell", "title": "439B - Devu, the Dumb Guy", "time": "514ms", "verdict": "OK", "memory": "8400KB", "problem_link": "/problemset/problem/439/B", "problem_id": "7070066"}
+{"lang": "GNU C++0x", "title": "439B - Devu, the Dumb Guy", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/439/B", "problem_id": "7070062"}
+{"lang": "GNU C++0x", "title": "438B - The Child and Zoo", "time": "78ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/438/B", "problem_id": "7016552"}
+{"lang": "GNU C++0x", "title": "438B - The Child and Zoo", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "4600KB", "problem_link": "/problemset/problem/438/B", "problem_id": "7016547"}
+{"lang": "GNU C++0x", "title": "438B - The Child and Zoo", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4000KB", "problem_link": "/problemset/problem/438/B", "problem_id": "7016453"}
+{"lang": "GNU C++0x", "title": "438A - The Child and Toy", "time": "15ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/438/A", "problem_id": "7016191"}
+{"lang": "GNU C++0x", "title": "425D - Sereja and Squares", "time": "670ms", "verdict": "OK", "memory": "36900KB", "problem_link": "/problemset/problem/425/D", "problem_id": "6986059"}
+{"lang": "GNU C++0x", "title": "425D - Sereja and Squares", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "26900KB", "problem_link": "/problemset/problem/425/D", "problem_id": "6986050"}
+{"lang": "GNU C++0x", "title": "425D - Sereja and Squares", "time": "608ms", "verdict": "RUNTIME_ERROR", "memory": "36900KB", "problem_link": "/problemset/problem/425/D", "problem_id": "6986048"}
+{"lang": "GNU C++0x", "title": "425D - Sereja and Squares", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/425/D", "problem_id": "6985911"}
+{"lang": "Haskell", "title": "442A - Borya and Hanabi", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/442/A", "problem_id": "6926346"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6895971"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "216700KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6872097"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "212600KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6871897"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6871894"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6869896"}
+{"lang": "Haskell", "title": "440D - Berland Federalization", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/440/D", "problem_id": "6869891"}
+{"lang": "Haskell", "title": "298E - Splitting the Uniqueness", "time": "296ms", "verdict": "RUNTIME_ERROR", "memory": "27800KB", "problem_link": "/problemset/problem/298/E", "problem_id": "3575674"}
+{"lang": "Haskell", "title": "298D - Fish Weight", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "47300KB", "problem_link": "/problemset/problem/298/D", "problem_id": "3570604"}
+{"lang": "Haskell", "title": "298D - Fish Weight", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/298/D", "problem_id": "3570027"}
+{"lang": "Haskell", "title": "298C - Parity Game", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/298/C", "problem_id": "3568715"}
+{"lang": "Haskell", "title": "298B - Sail", "time": "46ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/298/B", "problem_id": "3568034"}
+{"lang": "Haskell", "title": "298A - Snow Footprints", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/298/A", "problem_id": "3566034"}
+{"lang": "Haskell", "title": "298A - Snow Footprints", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/298/A", "problem_id": "3565873"}
+{"lang": "Haskell", "title": "291E - Tree-String Problem", "time": "1343ms", "verdict": "OK", "memory": "50400KB", "problem_link": "/problemset/problem/291/E", "problem_id": "3527256"}
+{"lang": "Haskell", "title": "291E - Tree-String Problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/291/E", "problem_id": "3527217"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "3734ms", "verdict": "OK", "memory": "124300KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521175"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521169"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521162"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "131400KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521102"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "127300KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521088"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "132500KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3521042"}
+{"lang": "Haskell", "title": "291D - Parallel Programming", "time": "93ms", "verdict": "OK", "memory": "1100KB", "problem_link": "/problemset/problem/291/D", "problem_id": "3521017"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "95500KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3520833"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3520799"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3520763"}
+{"lang": "Haskell", "title": "291C - Network Mask", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/291/C", "problem_id": "3520736"}
+{"lang": "Haskell", "title": "291B - Command Line Arguments", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/291/B", "problem_id": "3520594"}
+{"lang": "Haskell", "title": "291B - Command Line Arguments", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/291/B", "problem_id": "3520573"}
+{"lang": "Haskell", "title": "291A - Spyke Talks", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/291/A", "problem_id": "3520298"}
+{"lang": "Haskell", "title": "291A - Spyke Talks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/291/A", "problem_id": "3520280"}
+{"lang": "Haskell", "title": "288A - Polo the Penguin and Strings", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/288/A", "problem_id": "3453994"}
+{"lang": "Haskell", "title": "290F - Greedy Petya", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2200KB", "problem_link": "/problemset/problem/290/F", "problem_id": "3439945"}
+{"lang": "Haskell", "title": "290F - Greedy Petya", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2200KB", "problem_link": "/problemset/problem/290/F", "problem_id": "3439845"}
+{"lang": "Haskell", "title": "290D - Orange", "time": "15ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/290/D", "problem_id": "3435602"}
+{"lang": "GNU C++", "title": "290C - WTF?", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/C", "problem_id": "3434551"}
+{"lang": "Haskell", "title": "290B - QR code", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/B", "problem_id": "3432993"}
+{"lang": "Haskell", "title": "290A - Mysterious strings", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/A", "problem_id": "3432136"}
+{"lang": "Haskell", "title": "290A - Mysterious strings", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/290/A", "problem_id": "3431833"}
+{"lang": "Haskell", "title": "283A - Cows and Sequence", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/283/A", "problem_id": "3342853"}
+{"lang": "Haskell", "title": "283B - Cow Program", "time": "1828ms", "verdict": "WRONG_ANSWER", "memory": "62700KB", "problem_link": "/problemset/problem/283/B", "problem_id": "3342782"}
+{"lang": "Haskell", "title": "283A - Cows and Sequence", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "11400KB", "problem_link": "/problemset/problem/283/A", "problem_id": "3334991"}
+{"lang": "Haskell", "title": "283A - Cows and Sequence", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/283/A", "problem_id": "3334354"}
+{"lang": "Haskell", "title": "283A - Cows and Sequence", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "7200KB", "problem_link": "/problemset/problem/283/A", "problem_id": "3333652"}
+{"lang": "Haskell", "title": "256A - Almost Arithmetical Progression", "time": "2000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/256/A", "problem_id": "2780228"}
+{"lang": "Haskell", "title": "256B - Mr. Bender and Square", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/256/B", "problem_id": "2778764"}
+{"lang": "Haskell", "title": "256B - Mr. Bender and Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/256/B", "problem_id": "2778479"}
+{"lang": "Haskell", "title": "256A - Almost Arithmetical Progression", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "136600KB", "problem_link": "/problemset/problem/256/A", "problem_id": "2776175"}
+{"lang": "Haskell", "title": "256A - Almost Arithmetical Progression", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/256/A", "problem_id": "2775424"}
+{"lang": "Haskell", "title": "225D - Snake", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "106700KB", "problem_link": "/problemset/problem/225/D", "problem_id": "2218722"}
+{"lang": "Haskell", "title": "225D - Snake", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "81000KB", "problem_link": "/problemset/problem/225/D", "problem_id": "2218169"}
+{"lang": "Haskell", "title": "225D - Snake", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/225/D", "problem_id": "2218108"}
+{"lang": "Haskell", "title": "225D - Snake", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "81000KB", "problem_link": "/problemset/problem/225/D", "problem_id": "2217585"}
+{"lang": "Haskell", "title": "225C - Barcode", "time": "1125ms", "verdict": "OK", "memory": "109700KB", "problem_link": "/problemset/problem/225/C", "problem_id": "2215843"}
+{"lang": "Haskell", "title": "225B - Well-known Numbers", "time": "31ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2214848"}
+{"lang": "Haskell", "title": "225B - Well-known Numbers", "time": "1625ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2214363"}
+{"lang": "Haskell", "title": "225B - Well-known Numbers", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2214300"}
+{"lang": "Haskell", "title": "225B - Well-known Numbers", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2214169"}
+{"lang": "Haskell", "title": "225B - Well-known Numbers", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2214003"}
+{"lang": "Haskell", "title": "225A - Dice Tower", "time": "31ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/225/A", "problem_id": "2213037"}
+{"lang": "Haskell", "title": "225A - Dice Tower", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/225/A", "problem_id": "2213000"}
+{"lang": "Haskell", "title": "225A - Dice Tower", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/225/A", "problem_id": "2212991"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2083806"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "13900KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2083091"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "13900KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2082079"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "1980ms", "verdict": "WRONG_ANSWER", "memory": "12800KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2081985"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "1600KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2081722"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1600KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2081515"}
+{"lang": "Haskell", "title": "220B - Little Elephant and Array", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "1600KB", "problem_link": "/problemset/problem/220/B", "problem_id": "2081307"}
+{"lang": "Haskell", "title": "220A - Little Elephant and Problem", "time": "1110ms", "verdict": "OK", "memory": "39500KB", "problem_link": "/problemset/problem/220/A", "problem_id": "2073966"}
+{"lang": "Haskell", "title": "220A - Little Elephant and Problem", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/220/A", "problem_id": "2073067"}
+{"lang": "Haskell", "title": "220A - Little Elephant and Problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/220/A", "problem_id": "2072798"}
+{"lang": "Haskell", "title": "159B - Matchmaker", "time": "1470ms", "verdict": "OK", "memory": "49300KB", "problem_link": "/problemset/problem/159/B", "problem_id": "1965739"}
+{"lang": "Haskell", "title": "159B - Matchmaker", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "49300KB", "problem_link": "/problemset/problem/159/B", "problem_id": "1965728"}
+{"lang": "Haskell", "title": "166A - Rank List", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1965013"}
+{"lang": "Haskell", "title": "166A - Rank List", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1965011"}
+{"lang": "Haskell", "title": "200A - Cinema", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/200/A", "problem_id": "1835151"}
+{"lang": "Haskell", "title": "200A - Cinema", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/200/A", "problem_id": "1835137"}
+{"lang": "Haskell", "title": "200A - Cinema", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/200/A", "problem_id": "1835136"}
+{"lang": "Haskell", "title": "199B - Special Olympics", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/199/B", "problem_id": "1821129"}
+{"lang": "Haskell", "title": "199B - Special Olympics", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/199/B", "problem_id": "1821120"}
+{"lang": "Haskell", "title": "192A - Funky Numbers", "time": "60ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/192/A", "problem_id": "1803090"}
+{"lang": "Haskell", "title": "192A - Funky Numbers", "time": "90ms", "verdict": "OK", "memory": "13400KB", "problem_link": "/problemset/problem/192/A", "problem_id": "1803077"}
+{"lang": "Haskell", "title": "196A - Lexicographically Maximum Subsequence", "time": "220ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/196/A", "problem_id": "1803049"}
+{"lang": "Haskell", "title": "196A - Lexicographically Maximum Subsequence", "time": "220ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/196/A", "problem_id": "1803037"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "44200KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1784224"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "1330ms", "verdict": "OK", "memory": "19600KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1784221"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1783878"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "54500KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1780484"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1780454"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56500KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1780258"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "57500KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1780104"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "69800KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1780038"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1779992"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1779938"}
+{"lang": "Haskell", "title": "195E - Building Forest", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "69800KB", "problem_link": "/problemset/problem/195/E", "problem_id": "1779878"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "940ms", "verdict": "WRONG_ANSWER", "memory": "19600KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1778723"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "22600KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1778684"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16500KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1778581"}
+{"lang": "Haskell", "title": "195D - Analyzing Polyline", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15500KB", "problem_link": "/problemset/problem/195/D", "problem_id": "1778476"}
+{"lang": "Haskell", "title": "195C - Try and Catch", "time": "420ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/195/C", "problem_id": "1778044"}
+{"lang": "Haskell", "title": "195C - Try and Catch", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/195/C", "problem_id": "1778018"}
+{"lang": "Haskell", "title": "195C - Try and Catch", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/195/C", "problem_id": "1777995"}
+{"lang": "Haskell", "title": "195B - After Training", "time": "230ms", "verdict": "OK", "memory": "19500KB", "problem_link": "/problemset/problem/195/B", "problem_id": "1776210"}
+{"lang": "Haskell", "title": "195A - Let's Watch Football", "time": "50ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/195/A", "problem_id": "1775817"}
+{"lang": "Haskell", "title": "195A - Let's Watch Football", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/195/A", "problem_id": "1775734"}
+{"lang": "Haskell", "title": "195A - Let's Watch Football", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/195/A", "problem_id": "1775684"}
+{"lang": "Haskell", "title": "185B - Mushroom Scientists", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/185/B", "problem_id": "1654994"}
+{"lang": "Haskell", "title": "185A - Plant", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/185/A", "problem_id": "1653917"}
+{"lang": "Haskell", "title": "172E - BHTML+BCSS", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/172/E", "problem_id": "1476874"}
+{"lang": "Haskell", "title": "172E - BHTML+BCSS", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/172/E", "problem_id": "1476866"}
+{"lang": "Haskell", "title": "172E - BHTML+BCSS", "time": "8000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41100KB", "problem_link": "/problemset/problem/172/E", "problem_id": "1476622"}
+{"lang": "Haskell", "title": "172D - Calendar Reform", "time": "3060ms", "verdict": "OK", "memory": "90300KB", "problem_link": "/problemset/problem/172/D", "problem_id": "1474007"}
+{"lang": "Haskell", "title": "172E - BHTML+BCSS", "time": "8000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41100KB", "problem_link": "/problemset/problem/172/E", "problem_id": "1472608"}
+{"lang": "Haskell", "title": "172E - BHTML+BCSS", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/172/E", "problem_id": "1472571"}
+{"lang": "Haskell", "title": "172C - Bus", "time": "1890ms", "verdict": "OK", "memory": "63600KB", "problem_link": "/problemset/problem/172/C", "problem_id": "1472410"}
+{"lang": "Haskell", "title": "172C - Bus", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/172/C", "problem_id": "1472377"}
+{"lang": "Haskell", "title": "172C - Bus", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/172/C", "problem_id": "1472372"}
+{"lang": "Haskell", "title": "172C - Bus", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/172/C", "problem_id": "1472357"}
+{"lang": "Haskell", "title": "172B - Pseudorandom Sequence Period", "time": "280ms", "verdict": "OK", "memory": "12300KB", "problem_link": "/problemset/problem/172/B", "problem_id": "1471451"}
+{"lang": "Haskell", "title": "172A - Phone Code", "time": "230ms", "verdict": "OK", "memory": "21600KB", "problem_link": "/problemset/problem/172/A", "problem_id": "1471319"}
+{"lang": "Haskell", "title": "172A - Phone Code", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/172/A", "problem_id": "1471317"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1438119"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1438115"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "160ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437904"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "880ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437859"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "160ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437842"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "1840ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437757"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437742"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "1010ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1437738"}
+{"lang": "Haskell", "title": "169B - Replacing Digits", "time": "280ms", "verdict": "OK", "memory": "13400KB", "problem_link": "/problemset/problem/169/B", "problem_id": "1437717"}
+{"lang": "Haskell", "title": "169A - Chores", "time": "50ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/169/A", "problem_id": "1437716"}
+{"lang": "Haskell", "title": "166E - Tetrahedron", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "1396893"}
+{"lang": "Haskell", "title": "166C - Median", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/C", "problem_id": "1396173"}
+{"lang": "Haskell", "title": "166B - Polygons", "time": "750ms", "verdict": "OK", "memory": "63700KB", "problem_link": "/problemset/problem/166/B", "problem_id": "1395555"}
+{"lang": "Haskell", "title": "166B - Polygons", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2100KB", "problem_link": "/problemset/problem/166/B", "problem_id": "1395198"}
+{"lang": "Haskell", "title": "166B - Polygons", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/166/B", "problem_id": "1395081"}
+{"lang": "Haskell", "title": "166A - Rank List", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1390202"}
+{"lang": "Haskell", "title": "166A - Rank List", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1390139"}
+{"lang": "Haskell", "title": "160E - Buses and People", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "214500KB", "problem_link": "/problemset/problem/160/E", "problem_id": "1305858"}
+{"lang": "Haskell", "title": "160E - Buses and People", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "229900KB", "problem_link": "/problemset/problem/160/E", "problem_id": "1305828"}
+{"lang": "Haskell", "title": "160E - Buses and People", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/160/E", "problem_id": "1304249"}
+{"lang": "Haskell", "title": "160C - Find Pair", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "30800KB", "problem_link": "/problemset/problem/160/C", "problem_id": "1298565"}
+{"lang": "Haskell", "title": "160C - Find Pair", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/160/C", "problem_id": "1298532"}
+{"lang": "Haskell", "title": "160C - Find Pair", "time": "940ms", "verdict": "WRONG_ANSWER", "memory": "30800KB", "problem_link": "/problemset/problem/160/C", "problem_id": "1297139"}
+{"lang": "Haskell", "title": "160C - Find Pair", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/160/C", "problem_id": "1296217"}
+{"lang": "Haskell", "title": "160B - Unlucky Ticket", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/160/B", "problem_id": "1295560"}
+{"lang": "Haskell", "title": "160A - Twins", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/160/A", "problem_id": "1294828"}
+{"lang": "Haskell", "title": "157B - Trace", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/157/B", "problem_id": "1267663"}
+{"lang": "Haskell", "title": "157B - Trace", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/157/B", "problem_id": "1267648"}
+{"lang": "Haskell", "title": "157A - Game Outcome", "time": "50ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/157/A", "problem_id": "1267581"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "520ms", "verdict": "OK", "memory": "14400KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267479"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "7200KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267424"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "7200KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267405"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "530ms", "verdict": "OK", "memory": "14400KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267168"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267160"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267155"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267150"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1267141"}
+{"lang": "Haskell", "title": "156B - Suspects", "time": "1010ms", "verdict": "OK", "memory": "26700KB", "problem_link": "/problemset/problem/156/B", "problem_id": "1251632"}
+{"lang": "Haskell", "title": "156A - Message", "time": "190ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/156/A", "problem_id": "1251084"}
+{"lang": "Haskell", "title": "156B - Suspects", "time": "1010ms", "verdict": "OK", "memory": "24700KB", "problem_link": "/problemset/problem/156/B", "problem_id": "1251077"}
+{"lang": "Haskell", "title": "156C - Cipher", "time": "520ms", "verdict": "OK", "memory": "14400KB", "problem_link": "/problemset/problem/156/C", "problem_id": "1248652"}
+{"lang": "Haskell", "title": "156B - Suspects", "time": "920ms", "verdict": "WRONG_ANSWER", "memory": "18500KB", "problem_link": "/problemset/problem/156/B", "problem_id": "1247470"}
+{"lang": "Haskell", "title": "156A - Message", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/156/A", "problem_id": "1244713"}
+{"lang": "Haskell", "title": "156A - Message", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/156/A", "problem_id": "1244646"}
+{"lang": "Haskell", "title": "154A - Hometask", "time": "230ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/154/A", "problem_id": "1231393"}
+{"lang": "Haskell", "title": "154A - Hometask", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "123100KB", "problem_link": "/problemset/problem/154/A", "problem_id": "1231283"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1231278"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "1410ms", "verdict": "OK", "memory": "21600KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1231108"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "27700KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1231039"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "4100KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1231009"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "21500KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1231000"}
+{"lang": "Haskell", "title": "154B - Colliders", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "21500KB", "problem_link": "/problemset/problem/154/B", "problem_id": "1230949"}
+{"lang": "Haskell", "title": "151B - Phone Numbers", "time": "50ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/151/B", "problem_id": "1198191"}
+{"lang": "Haskell", "title": "149C - Division into Teams", "time": "1010ms", "verdict": "OK", "memory": "27700KB", "problem_link": "/problemset/problem/149/C", "problem_id": "1173466"}
+{"lang": "Haskell", "title": "148C - Terse princess", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/148/C", "problem_id": "1173465"}
+{"lang": "Haskell", "title": "149C - Division into Teams", "time": "970ms", "verdict": "OK", "memory": "27700KB", "problem_link": "/problemset/problem/149/C", "problem_id": "1173461"}
+{"lang": "Haskell", "title": "3D - Least Cost Bracket Sequence", "time": "880ms", "verdict": "OK", "memory": "16400KB", "problem_link": "/problemset/problem/3/D", "problem_id": "1154072"}
+{"lang": "Haskell", "title": "3D - Least Cost Bracket Sequence", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/3/D", "problem_id": "1154063"}
+{"lang": "Haskell", "title": "3D - Least Cost Bracket Sequence", "time": "970ms", "verdict": "OK", "memory": "25600KB", "problem_link": "/problemset/problem/3/D", "problem_id": "1153988"}
+{"lang": "Haskell", "title": "3D - Least Cost Bracket Sequence", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/3/D", "problem_id": "1153958"}
+{"lang": "Haskell", "title": "3D - Least Cost Bracket Sequence", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/3/D", "problem_id": "1153955"}
+{"lang": "Haskell", "title": "147B - Smile House", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29700KB", "problem_link": "/problemset/problem/147/B", "problem_id": "1147208"}
+{"lang": "Haskell", "title": "148C - Terse princess", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/148/C", "problem_id": "1145599"}
+{"lang": "Haskell", "title": "148C - Terse princess", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/148/C", "problem_id": "1145554"}
+{"lang": "Haskell", "title": "148C - Terse princess", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/148/C", "problem_id": "1145552"}
+{"lang": "Haskell", "title": "148B - Escape", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1144235"}
+{"lang": "Haskell", "title": "148B - Escape", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1144234"}
+{"lang": "Haskell", "title": "148B - Escape", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1144213"}
+{"lang": "Haskell", "title": "148B - Escape", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1144177"}
+{"lang": "Haskell", "title": "148A - Insomnia cure", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/148/A", "problem_id": "1143731"}
+{"lang": "Haskell", "title": "144C - Anagram Search", "time": "590ms", "verdict": "OK", "memory": "15400KB", "problem_link": "/problemset/problem/144/C", "problem_id": "1127517"}
+{"lang": "Haskell", "title": "144C - Anagram Search", "time": "590ms", "verdict": "OK", "memory": "14300KB", "problem_link": "/problemset/problem/144/C", "problem_id": "1127501"}
+{"lang": "Haskell", "title": "144C - Anagram Search", "time": "500ms", "verdict": "OK", "memory": "14300KB", "problem_link": "/problemset/problem/144/C", "problem_id": "1127485"}
+{"lang": "Haskell", "title": "146B - Lucky Mask", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1126253"}
+{"lang": "Haskell", "title": "146B - Lucky Mask", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1126251"}
+{"lang": "Haskell", "title": "146B - Lucky Mask", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1126250"}
+{"lang": "Haskell", "title": "147A - Punctuation", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/147/A", "problem_id": "1117519"}
+{"lang": "Haskell", "title": "147A - Punctuation", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/147/A", "problem_id": "1114512"}
+{"lang": "Haskell", "title": "133B - Unary", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/133/B", "problem_id": "1113544"}
+{"lang": "Haskell", "title": "133B - Unary", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/133/B", "problem_id": "1113543"}
+{"lang": "Haskell", "title": "81D - Polycarp's Picture Gallery", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/81/D", "problem_id": "1113385"}
+{"lang": "Haskell", "title": "124B - Permutations", "time": "130ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/124/B", "problem_id": "1113068"}
+{"lang": "Haskell", "title": "124B - Permutations", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/124/B", "problem_id": "1112996"}
+{"lang": "Haskell", "title": "124A - The number of positions", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/124/A", "problem_id": "1112978"}
+{"lang": "Haskell", "title": "145B - Lucky Number 2", "time": "780ms", "verdict": "OK", "memory": "102600KB", "problem_link": "/problemset/problem/145/B", "problem_id": "1112685"}
+{"lang": "Haskell", "title": "145B - Lucky Number 2", "time": "830ms", "verdict": "OK", "memory": "102600KB", "problem_link": "/problemset/problem/145/B", "problem_id": "1112659"}
+{"lang": "Haskell", "title": "145B - Lucky Number 2", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/145/B", "problem_id": "1112610"}
+{"lang": "Haskell", "title": "146B - Lucky Mask", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1112501"}
+{"lang": "Haskell", "title": "146A - Lucky Ticket", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/146/A", "problem_id": "1112479"}
+{"lang": "Haskell", "title": "146A - Lucky Ticket", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/146/A", "problem_id": "1112473"}
+{"lang": "Haskell", "title": "145A - Lucky Conversion", "time": "80ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/145/A", "problem_id": "1109800"}
+{"lang": "Haskell", "title": "145A - Lucky Conversion", "time": "60ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/145/A", "problem_id": "1109743"}
+{"lang": "Haskell", "title": "144B - Meeting", "time": "1410ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/144/B", "problem_id": "1099347"}
+{"lang": "Haskell", "title": "144B - Meeting", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/144/B", "problem_id": "1099338"}
+{"lang": "Haskell", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/144/A", "problem_id": "1097209"}
+{"lang": "Haskell", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/144/A", "problem_id": "1097193"}
+{"lang": "Haskell", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/144/A", "problem_id": "1097189"}
+{"lang": "Haskell", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/144/A", "problem_id": "1097169"}
+{"lang": "Haskell", "title": "141C - Queue", "time": "1310ms", "verdict": "OK", "memory": "200100KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1074581"}
+{"lang": "Haskell", "title": "141C - Queue", "time": "1080ms", "verdict": "OK", "memory": "130300KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1074470"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1040978"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1040971"}
+{"lang": "Haskell", "title": "142A - Help Farmer", "time": "140ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/142/A", "problem_id": "1040934"}
+{"lang": "Haskell", "title": "142A - Help Farmer", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/A", "problem_id": "1040919"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1037911"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1034580"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1034529"}
+{"lang": "Haskell", "title": "142B - Help General", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/142/B", "problem_id": "1032880"}
+{"lang": "Haskell", "title": "142A - Help Farmer", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/A", "problem_id": "1031708"}
+{"lang": "Haskell", "title": "142A - Help Farmer", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/142/A", "problem_id": "1031639"}
+{"lang": "Haskell", "title": "49A - Sleuth", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/49/A", "problem_id": "1026276"}
+{"lang": "Haskell", "title": "49A - Sleuth", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/49/A", "problem_id": "1026271"}
+{"lang": "Haskell", "title": "88A - Chord", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/88/A", "problem_id": "1026255"}
+{"lang": "Haskell", "title": "88A - Chord", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/88/A", "problem_id": "1026251"}
+{"lang": "Haskell", "title": "134A - Average Numbers", "time": "1340ms", "verdict": "OK", "memory": "33900KB", "problem_link": "/problemset/problem/134/A", "problem_id": "1026204"}
+{"lang": "Haskell", "title": "134A - Average Numbers", "time": "1340ms", "verdict": "OK", "memory": "33800KB", "problem_link": "/problemset/problem/134/A", "problem_id": "1026192"}
+{"lang": "Haskell", "title": "134A - Average Numbers", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/134/A", "problem_id": "1026190"}
+{"lang": "Haskell", "title": "141C - Queue", "time": "130ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1025848"}
+{"lang": "Haskell", "title": "141D - Take-off Ramps", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/141/D", "problem_id": "1024881"}
+{"lang": "Haskell", "title": "141D - Take-off Ramps", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/141/D", "problem_id": "1024155"}
+{"lang": "Haskell", "title": "141D - Take-off Ramps", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/141/D", "problem_id": "1024147"}
+{"lang": "Haskell", "title": "141A - Amusing Joke", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1023997"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1023920"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1023901"}
+{"lang": "Haskell", "title": "141A - Amusing Joke", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1020261"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "50ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1020110"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1019349"}
+{"lang": "Haskell", "title": "141B - Hopscotch", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1019036"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012868"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "1330ms", "verdict": "WRONG_ANSWER", "memory": "25600KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012756"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "25600KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012731"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012723"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012719"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012718"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012712"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012685"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012678"}
+{"lang": "Haskell", "title": "140C - New Year Snowmen", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/140/C", "problem_id": "1012676"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1012636"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1012627"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1010411"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1010402"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1010392"}
+{"lang": "Haskell", "title": "140A - New Year Table", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1010378"}
+{"lang": "Haskell", "title": "132A - Turing Tape", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/132/A", "problem_id": "934527"}
+{"lang": "Haskell", "title": "132B - Piet", "time": "90ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/132/B", "problem_id": "925766"}
+{"lang": "Haskell", "title": "132A - Turing Tape", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/132/A", "problem_id": "920465"}
+{"lang": "Haskell", "title": "134B - Pairs of Numbers", "time": "1140ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/134/B", "problem_id": "915735"}
+{"lang": "Haskell", "title": "134A - Average Numbers", "time": "1330ms", "verdict": "OK", "memory": "33900KB", "problem_link": "/problemset/problem/134/A", "problem_id": "915123"}
+{"lang": "GNU C++", "title": "134A - Average Numbers", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/134/A", "problem_id": "915114"}
+{"lang": "Befunge", "title": "130J - Date calculation", "time": "160ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/130/J", "problem_id": "882910"}
+{"lang": "Befunge", "title": "130I - Array sorting", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4200KB", "problem_link": "/problemset/problem/130/I", "problem_id": "882902"}
+{"lang": "Befunge", "title": "130I - Array sorting", "time": "1860ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/130/I", "problem_id": "882726"}
+{"lang": "Befunge", "title": "130H - Balanced brackets", "time": "170ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/H", "problem_id": "882543"}
+{"lang": "Befunge", "title": "130I - Array sorting", "time": "1700ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/130/I", "problem_id": "882478"}
+{"lang": "Befunge", "title": "130G - CAPS LOCK ON", "time": "190ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/G", "problem_id": "882343"}
+{"lang": "Befunge", "title": "130I - Array sorting", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4200KB", "problem_link": "/problemset/problem/130/I", "problem_id": "882330"}
+{"lang": "Befunge", "title": "130G - CAPS LOCK ON", "time": "190ms", "verdict": "WRONG_ANSWER", "memory": "4200KB", "problem_link": "/problemset/problem/130/G", "problem_id": "882309"}
+{"lang": "Befunge", "title": "130E - Tribonacci numbers", "time": "500ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/E", "problem_id": "881995"}
+{"lang": "Befunge", "title": "130F - Prime factorization", "time": "190ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/F", "problem_id": "881733"}
+{"lang": "Befunge", "title": "130D - Exponentiation", "time": "190ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/D", "problem_id": "881561"}
+{"lang": "Befunge", "title": "130B - Gnikool Ssalg", "time": "190ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/B", "problem_id": "881215"}
+{"lang": "Befunge", "title": "130C - Decimal sum", "time": "170ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/C", "problem_id": "881164"}
+{"lang": "Befunge", "title": "130A - Hexagonal numbers", "time": "170ms", "verdict": "OK", "memory": "4200KB", "problem_link": "/problemset/problem/130/A", "problem_id": "881018"}
+{"lang": "Haskell", "title": "117C - Cycle", "time": "1360ms", "verdict": "OK", "memory": "43100KB", "problem_link": "/problemset/problem/117/C", "problem_id": "720332"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "719962"}
+{"lang": "Haskell", "title": "117C - Cycle", "time": "2130ms", "verdict": "OK", "memory": "43100KB", "problem_link": "/problemset/problem/117/C", "problem_id": "717967"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "716498"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "716420"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "715838"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "715763"}
+{"lang": "Haskell", "title": "117B - Very Interesting Game", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/117/B", "problem_id": "715718"}
+{"lang": "Haskell", "title": "117A - Elevator", "time": "2160ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/117/A", "problem_id": "714459"}
+{"lang": "Haskell", "title": "117A - Elevator", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/117/A", "problem_id": "714370"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "1440ms", "verdict": "OK", "memory": "41000KB", "problem_link": "/problemset/problem/115/C", "problem_id": "705900"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "1440ms", "verdict": "WRONG_ANSWER", "memory": "32800KB", "problem_link": "/problemset/problem/115/C", "problem_id": "705899"}
+{"lang": "Haskell", "title": "115A - Party", "time": "450ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/115/A", "problem_id": "705883"}
+{"lang": "Haskell", "title": "115A - Party", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/115/A", "problem_id": "705882"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "720ms", "verdict": "OK", "memory": "79000KB", "problem_link": "/problemset/problem/115/C", "problem_id": "700979"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "220ms", "verdict": "WRONG_ANSWER", "memory": "27700KB", "problem_link": "/problemset/problem/115/C", "problem_id": "700774"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/115/C", "problem_id": "700678"}
+{"lang": "Haskell", "title": "115C - Plumber", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "12300KB", "problem_link": "/problemset/problem/115/C", "problem_id": "700588"}
+{"lang": "Haskell", "title": "115B - Lawnmower", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/115/B", "problem_id": "698151"}
+{"lang": "Haskell", "title": "115A - Party", "time": "470ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/115/A", "problem_id": "696211"}
+{"lang": "Haskell", "title": "113A - Grammar Lessons", "time": "50ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/113/A", "problem_id": "684140"}
+{"lang": "Haskell", "title": "113A - Grammar Lessons", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/113/A", "problem_id": "684125"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "1630ms", "verdict": "OK", "memory": "122100KB", "problem_link": "/problemset/problem/113/B", "problem_id": "683959"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "1640ms", "verdict": "OK", "memory": "122100KB", "problem_link": "/problemset/problem/113/B", "problem_id": "683768"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "230800KB", "problem_link": "/problemset/problem/113/B", "problem_id": "683761"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "1630ms", "verdict": "WRONG_ANSWER", "memory": "125100KB", "problem_link": "/problemset/problem/113/B", "problem_id": "683671"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "1640ms", "verdict": "WRONG_ANSWER", "memory": "122100KB", "problem_link": "/problemset/problem/113/B", "problem_id": "683323"}
+{"lang": "Haskell", "title": "113B - Petr#", "time": "1810ms", "verdict": "WRONG_ANSWER", "memory": "163100KB", "problem_link": "/problemset/problem/113/B", "problem_id": "682634"}
+{"lang": "Haskell", "title": "113A - Grammar Lessons", "time": "60ms", "verdict": "OK", "memory": "5100KB", "problem_link": "/problemset/problem/113/A", "problem_id": "675552"}
+{"lang": "Haskell", "title": "113A - Grammar Lessons", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/113/A", "problem_id": "674752"}
+{"lang": "Haskell", "title": "1A - Theatre Square", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/1/A", "problem_id": "674015"}
+{"lang": "Haskell", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "674013"}
+{"lang": "Haskell", "title": "111A - Petya and Inequiations", "time": "60ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/111/A", "problem_id": "666027"}
+{"lang": "Haskell", "title": "111A - Petya and Inequiations", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/111/A", "problem_id": "663357"}
+{"lang": "Haskell", "title": "111A - Petya and Inequiations", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/111/A", "problem_id": "663077"}
+{"lang": "Haskell", "title": "111C - Petya and Spiders", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/111/C", "problem_id": "662426"}
+{"lang": "Haskell", "title": "111C - Petya and Spiders", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/111/C", "problem_id": "661805"}
+{"lang": "Haskell", "title": "111C - Petya and Spiders", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/111/C", "problem_id": "661415"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/109/C", "problem_id": "652857"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "43100KB", "problem_link": "/problemset/problem/109/C", "problem_id": "652833"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "43100KB", "problem_link": "/problemset/problem/109/C", "problem_id": "652826"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56400KB", "problem_link": "/problemset/problem/109/C", "problem_id": "652820"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56400KB", "problem_link": "/problemset/problem/109/C", "problem_id": "652800"}
+{"lang": "Haskell", "title": "109A - Lucky Sum of Digits", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "11300KB", "problem_link": "/problemset/problem/109/A", "problem_id": "648263"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "10ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/109/C", "problem_id": "647851"}
+{"lang": "Haskell", "title": "109C - Lucky Tree", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/109/C", "problem_id": "647439"}
+{"lang": "Haskell", "title": "108A - Palindromic Times", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/108/A", "problem_id": "635520"}
+{"lang": "Haskell", "title": "106A - Card Game", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/106/A", "problem_id": "622295"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "250ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/102/A", "problem_id": "620883"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "230ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/102/A", "problem_id": "620877"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/102/A", "problem_id": "620861"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/102/A", "problem_id": "620437"}
+{"lang": "Haskell", "title": "102A - Clothes", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/102/A", "problem_id": "620402"}
+{"lang": "Haskell", "title": "104A - Blackjack", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/104/A", "problem_id": "617872"}
+{"lang": "Haskell", "title": "104A - Blackjack", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/104/A", "problem_id": "617805"}
+{"lang": "Haskell", "title": "94A - Restoring Password", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/94/A", "problem_id": "613870"}
+{"lang": "Haskell", "title": "99A - Help Far Away Kingdom", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/99/A", "problem_id": "613773"}
+{"lang": "Haskell", "title": "99A - Help Far Away Kingdom", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/99/A", "problem_id": "613772"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "690ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613732"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "750ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613467"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "660ms", "verdict": "OK", "memory": "23600KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613449"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15400KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613444"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16400KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613440"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613439"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613437"}
+{"lang": "Haskell", "title": "101A - Homework", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/101/A", "problem_id": "613433"}
+{"lang": "Haskell", "title": "103A - Testing Pants for Sadness", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/103/A", "problem_id": "613426"}
+{"lang": "Haskell", "title": "103A - Testing Pants for Sadness", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/103/A", "problem_id": "613425"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "612971"}
+{"lang": "Haskell", "title": "105B - Dark Assembly", "time": "330ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/105/B", "problem_id": "610157"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609956"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609955"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609952"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609949"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609945"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609944"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609943"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609907"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609902"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609900"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609899"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609897"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609895"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609893"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609891"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609888"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609887"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609885"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/105/A", "problem_id": "609884"}
+{"lang": "Haskell", "title": "105C - Item World", "time": "50ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/105/C", "problem_id": "608163"}
+{"lang": "Haskell", "title": "105B - Dark Assembly", "time": "880ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/105/B", "problem_id": "606994"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "605852"}
+{"lang": "Haskell", "title": "105A - Transmigration", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/105/A", "problem_id": "605814"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550548"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "81000KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550546"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "86200KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550541"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550537"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "163100KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550501"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550466"}
+{"lang": "Haskell", "title": "68A - Irrational problem", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/68/A", "problem_id": "550394"}
+{"lang": "Haskell", "title": "89B - Widget Library", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/89/B", "problem_id": "550392"}
+{"lang": "Haskell", "title": "68A - Irrational problem", "time": "90ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/68/A", "problem_id": "550204"}
+{"lang": "Haskell", "title": "68A - Irrational problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/68/A", "problem_id": "550203"}
+{"lang": "Haskell", "title": "68A - Irrational problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/68/A", "problem_id": "550201"}
+{"lang": "Haskell", "title": "68A - Irrational problem", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/68/A", "problem_id": "550200"}
+{"lang": "Haskell", "title": "89A - Robbery", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/89/A", "problem_id": "541368"}
+{"lang": "Haskell", "title": "89A - Robbery", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/89/A", "problem_id": "541356"}
+{"lang": "Haskell", "title": "92A - Chips", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/92/A", "problem_id": "540274"}
+{"lang": "Haskell", "title": "92A - Chips", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/92/A", "problem_id": "540270"}
+{"lang": "Haskell", "title": "93A - Frames", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/93/A", "problem_id": "540265"}
+{"lang": "Haskell", "title": "95A - Hockey", "time": "200ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/95/A", "problem_id": "540238"}
+{"lang": "Haskell", "title": "95A - Hockey", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/95/A", "problem_id": "540236"}
+{"lang": "Haskell", "title": "95A - Hockey", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/95/A", "problem_id": "540232"}
+{"lang": "Haskell", "title": "96A - Football", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/96/A", "problem_id": "540178"}
+{"lang": "GNU C++", "title": "88E - Interesting Game", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1900KB", "problem_link": "/problemset/problem/88/E", "problem_id": "481198"}
+{"lang": "Haskell", "title": "88E - Interesting Game", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/88/E", "problem_id": "481181"}
+{"lang": "Haskell", "title": "88B - Keyboard", "time": "250ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/88/B", "problem_id": "480160"}
+{"lang": "Haskell", "title": "88D - Vasya and Types", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/88/D", "problem_id": "479306"}
+{"lang": "Haskell", "title": "88C - Trains", "time": "380ms", "verdict": "RUNTIME_ERROR", "memory": "29700KB", "problem_link": "/problemset/problem/88/C", "problem_id": "478195"}
+{"lang": "Haskell", "title": "88A - Chord", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/88/A", "problem_id": "477343"}
+{"lang": "Haskell", "title": "85D - Sum of Medians", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "158000KB", "problem_link": "/problemset/problem/85/D", "problem_id": "464932"}
+{"lang": "Haskell", "title": "85D - Sum of Medians", "time": "2880ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/85/D", "problem_id": "464616"}
+{"lang": "Haskell", "title": "85D - Sum of Medians", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "48200KB", "problem_link": "/problemset/problem/85/D", "problem_id": "464574"}
+{"lang": "Haskell", "title": "85D - Sum of Medians", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46100KB", "problem_link": "/problemset/problem/85/D", "problem_id": "464422"}
+{"lang": "Haskell", "title": "85A - Domino", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/85/A", "problem_id": "463071"}
+{"lang": "Haskell", "title": "85A - Domino", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/85/A", "problem_id": "462787"}
+{"lang": "Haskell", "title": "74C - Chessboard Billiard", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "120000KB", "problem_link": "/problemset/problem/74/C", "problem_id": "457392"}
+{"lang": "Haskell", "title": "8A - Train and Peter", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "457248"}
+{"lang": "Haskell", "title": "8A - Train and Peter", "time": "420ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/8/A", "problem_id": "457164"}
+{"lang": "Haskell", "title": "8A - Train and Peter", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/8/A", "problem_id": "457162"}
+{"lang": "Haskell", "title": "6A - Triangle", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/6/A", "problem_id": "457045"}
+{"lang": "Haskell", "title": "81A - Plug-in", "time": "60ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/81/A", "problem_id": "456755"}
+{"lang": "Haskell", "title": "5A - Chat Servers Outgoing Traffic", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/5/A", "problem_id": "454939"}
+{"lang": "Haskell", "title": "4A - Watermelon", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/4/A", "problem_id": "454930"}
+{"lang": "Haskell", "title": "5A - Chat Servers Outgoing Traffic", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/5/A", "problem_id": "454912"}
+{"lang": "Haskell", "title": "4A - Watermelon", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/4/A", "problem_id": "454891"}
+{"lang": "Haskell", "title": "4A - Watermelon", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/4/A", "problem_id": "454889"}
+{"lang": "Haskell", "title": "4A - Watermelon", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/4/A", "problem_id": "454850"}
+{"lang": "Haskell", "title": "84A - Toy Army", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/84/A", "problem_id": "454551"}
+{"lang": "Haskell", "title": "84A - Toy Army", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/84/A", "problem_id": "454549"}
+{"lang": "Haskell", "title": "84A - Toy Army", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/84/A", "problem_id": "454546"}
+{"lang": "Haskell", "title": "3A - Shortest path of the king", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/3/A", "problem_id": "454454"}
+{"lang": "Haskell", "title": "1A - Theatre Square", "time": "10ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/1/A", "problem_id": "453577"}
+{"lang": "Haskell", "title": "83A - Magical Array", "time": "1260ms", "verdict": "OK", "memory": "34900KB", "problem_link": "/problemset/problem/83/A", "problem_id": "446726"}
+{"lang": "Haskell", "title": "82A - Double Cola", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/82/A", "problem_id": "434862"}
+{"lang": "Haskell", "title": "82A - Double Cola", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/82/A", "problem_id": "434719"}
+{"lang": "Haskell", "title": "82A - Double Cola", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/82/A", "problem_id": "434681"}
+{"lang": "Haskell", "title": "81E - Pairs", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2000KB", "problem_link": "/problemset/problem/81/E", "problem_id": "428477"}
+{"lang": "Haskell", "title": "81D - Polycarp's Picture Gallery", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/81/D", "problem_id": "427526"}
+{"lang": "Haskell", "title": "81D - Polycarp's Picture Gallery", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/81/D", "problem_id": "427434"}
+{"lang": "Haskell", "title": "81D - Polycarp's Picture Gallery", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/81/D", "problem_id": "427233"}
+{"lang": "Haskell", "title": "81C - Average Score", "time": "840ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/81/C", "problem_id": "426216"}
+{"lang": "Haskell", "title": "81B - Sequence Formatting", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/81/B", "problem_id": "425091"}
+{"lang": "Haskell", "title": "81A - Plug-in", "time": "750ms", "verdict": "OK", "memory": "10200KB", "problem_link": "/problemset/problem/81/A", "problem_id": "423607"}
+{"lang": "Haskell", "title": "77B - Falling Anvils", "time": "300ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/77/B", "problem_id": "401321"}
+{"lang": "Haskell", "title": "77B - Falling Anvils", "time": "10ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/77/B", "problem_id": "400739"}
+{"lang": "Haskell", "title": "77B - Falling Anvils", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/77/B", "problem_id": "400716"}
+{"lang": "Haskell", "title": "77B - Falling Anvils", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/77/B", "problem_id": "400567"}
+{"lang": "Haskell", "title": "77A - Heroes", "time": "60ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/77/A", "problem_id": "399704"}
+{"lang": "Haskell", "title": "77A - Heroes", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/77/A", "problem_id": "399638"}
+{"lang": "Haskell", "title": "76E - Points", "time": "90ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/76/E", "problem_id": "382755"}
+{"lang": "Haskell", "title": "76E - Points", "time": "340ms", "verdict": "OK", "memory": "14300KB", "problem_link": "/problemset/problem/76/E", "problem_id": "382087"}
+{"lang": "Haskell", "title": "76E - Points", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/76/E", "problem_id": "382086"}
+{"lang": "Haskell", "title": "76E - Points", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/76/E", "problem_id": "382085"}
+{"lang": "Haskell", "title": "76E - Points", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381727"}
+{"lang": "Haskell", "title": "76E - Points", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "14300KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381580"}
+{"lang": "Haskell", "title": "76E - Points", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381577"}
+{"lang": "Haskell", "title": "76E - Points", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "14300KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381562"}
+{"lang": "Haskell", "title": "76E - Points", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "55400KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381541"}
+{"lang": "Haskell", "title": "76E - Points", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "39000KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381536"}
+{"lang": "Haskell", "title": "76D - Plus and xor", "time": "10ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/76/D", "problem_id": "381399"}
+{"lang": "Haskell", "title": "62B - Tyndex.Brome", "time": "30ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/62/B", "problem_id": "305584"}
+{"lang": "Haskell", "title": "62B - Tyndex.Brome", "time": "10ms", "verdict": "CHALLENGED", "memory": "2000KB", "problem_link": "/problemset/problem/62/B", "problem_id": "305337"}
+{"lang": "Haskell", "title": "62A - A Student's Dream", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/62/A", "problem_id": "303572"}
+{"lang": "Mono C#", "title": "2B - The least round way", "time": "1030ms", "verdict": "OK", "memory": "28400KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11402"}
+{"lang": "Mono C#", "title": "2B - The least round way", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11401"}
+{"lang": "Mono C#", "title": "2B - The least round way", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11399"}
+{"lang": "Mono C#", "title": "2B - The least round way", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/2/B", "problem_id": "11398"}
+{"lang": "Mono C#", "title": "30D - King's Problem?", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/30/D", "problem_id": "130125"}
+{"lang": "Mono C#", "title": "30D - King's Problem?", "time": "110ms", "verdict": "PRESENTATION_ERROR", "memory": "5900KB", "problem_link": "/problemset/problem/30/D", "problem_id": "130102"}
+{"lang": "Mono C#", "title": "30D - King's Problem?", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/30/D", "problem_id": "129976"}
+{"lang": "Mono C#", "title": "30D - King's Problem?", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/30/D", "problem_id": "129870"}
+{"lang": "Mono C#", "title": "30D - King's Problem?", "time": "110ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/D", "problem_id": "129848"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "140ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129381"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129355"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129297"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129268"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129257"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129225"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "110ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129210"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129178"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129165"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129114"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "80ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129039"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "129021"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "130ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "128979"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "128954"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "128915"}
+{"lang": "Mono C#", "title": "30C - Shooting Gallery", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/30/C", "problem_id": "128865"}
+{"lang": "Mono C#", "title": "30B - Codeforces World Finals", "time": "130ms", "verdict": "OK", "memory": "5800KB", "problem_link": "/problemset/problem/30/B", "problem_id": "128392"}
+{"lang": "Mono C#", "title": "30B - Codeforces World Finals", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/30/B", "problem_id": "128259"}
+{"lang": "Mono C#", "title": "30A - Accounting", "time": "130ms", "verdict": "OK", "memory": "5800KB", "problem_link": "/problemset/problem/30/A", "problem_id": "127890"}
+{"lang": "Mono C#", "title": "30A - Accounting", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/30/A", "problem_id": "127849"}
+{"lang": "Mono C#", "title": "22E - Scheme", "time": "1530ms", "verdict": "OK", "memory": "19700KB", "problem_link": "/problemset/problem/22/E", "problem_id": "95171"}
+{"lang": "Mono C#", "title": "22E - Scheme", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "19700KB", "problem_link": "/problemset/problem/22/E", "problem_id": "95153"}
+{"lang": "Mono C#", "title": "22E - Scheme", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/22/E", "problem_id": "95006"}
+{"lang": "Mono C#", "title": "22D - Segments", "time": "130ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/22/D", "problem_id": "94501"}
+{"lang": "Mono C#", "title": "22D - Segments", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/22/D", "problem_id": "94426"}
+{"lang": "Mono C#", "title": "22C - System Administrator", "time": "550ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/22/C", "problem_id": "94189"}
+{"lang": "Mono C#", "title": "22C - System Administrator", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "5800KB", "problem_link": "/problemset/problem/22/C", "problem_id": "94154"}
+{"lang": "Mono C#", "title": "22C - System Administrator", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/22/C", "problem_id": "94103"}
+{"lang": "Mono C#", "title": "22C - System Administrator", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5800KB", "problem_link": "/problemset/problem/22/C", "problem_id": "94085"}
+{"lang": "Mono C#", "title": "22B - Bargaining Table", "time": "110ms", "verdict": "OK", "memory": "5800KB", "problem_link": "/problemset/problem/22/B", "problem_id": "93905"}
+{"lang": "Mono C#", "title": "22A - Second Order Statistics", "time": "110ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/22/A", "problem_id": "93697"}
+{"lang": "Mono C#", "title": "22A - Second Order Statistics", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/22/A", "problem_id": "93679"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "67987"}
+{"lang": "Mono C#", "title": "15C - Industrial Nim", "time": "1130ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/15/C", "problem_id": "67168"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "67129"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "66928"}
+{"lang": "Mono C#", "title": "15C - Industrial Nim", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/C", "problem_id": "66702"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "66671"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "66377"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "66311"}
+{"lang": "Mono C#", "title": "15B - Laser", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5800KB", "problem_link": "/problemset/problem/15/B", "problem_id": "66090"}
+{"lang": "Mono C#", "title": "15A - Cottage Village", "time": "130ms", "verdict": "OK", "memory": "6200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "65323"}
+{"lang": "Mono C#", "title": "15A - Cottage Village", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/15/A", "problem_id": "65194"}
+{"lang": "Mono C#", "title": "14A - Letter", "time": "140ms", "verdict": "OK", "memory": "6100KB", "problem_link": "/problemset/problem/14/A", "problem_id": "64147"}
+{"lang": "Mono C#", "title": "14A - Letter", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/14/A", "problem_id": "64146"}
+{"lang": "Mono C#", "title": "14A - Letter", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/14/A", "problem_id": "64145"}
+{"lang": "Mono C#", "title": "14A - Letter", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/14/A", "problem_id": "64144"}
+{"lang": "Haskell", "title": "7C - Line", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/7/C", "problem_id": "861037"}
+{"lang": "Haskell", "title": "7C - Line", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "113900KB", "problem_link": "/problemset/problem/7/C", "problem_id": "861021"}
+{"lang": "Haskell", "title": "7C - Line", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/7/C", "problem_id": "861017"}
+{"lang": "Haskell", "title": "7B - Memory Manager", "time": "30ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "860981"}
+{"lang": "Haskell", "title": "7B - Memory Manager", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "860976"}
+{"lang": "Haskell", "title": "7A - Kalevitch and Chess", "time": "50ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/7/A", "problem_id": "860949"}
+{"lang": "Haskell", "title": "7A - Kalevitch and Chess", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/7/A", "problem_id": "860940"}

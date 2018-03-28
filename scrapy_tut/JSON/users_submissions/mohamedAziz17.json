@@ -1,0 +1,45 @@
+{"lang": "GNU C", "title": "101291A - Alphabet", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "1800KB", "problem_link": "/problemset/gymProblem/101291/A", "problem_id": "26064597"}
+{"lang": "GNU C", "title": "101306B - Chocolate", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/gymProblem/101306/B", "problem_id": "25979446"}
+{"lang": "Python 2", "title": "101020F - The Best Strategy", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/gymProblem/101020/F", "problem_id": "22101991"}
+{"lang": "Python 2", "title": "101020F - The Best Strategy", "time": "78ms", "verdict": "RUNTIME_ERROR", "memory": "5100KB", "problem_link": "/problemset/gymProblem/101020/F", "problem_id": "22101987"}
+{"lang": "Python 2", "title": "101020J - Good Coins", "time": "108ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/gymProblem/101020/J", "problem_id": "22101721"}
+{"lang": "Python 2", "title": "101020A - Window", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/gymProblem/101020/A", "problem_id": "22101514"}
+{"lang": "Python 2", "title": "101149B - No Time for Dragons", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/gymProblem/101149/B", "problem_id": "22084865"}
+{"lang": "Python 2", "title": "101149A - Balls in Urn", "time": "295ms", "verdict": "OK", "memory": "11200KB", "problem_link": "/problemset/gymProblem/101149/A", "problem_id": "22084779"}
+{"lang": "Python 2", "title": "101147D - Popcorn", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896399"}
+{"lang": "GNU C", "title": "101147D - Popcorn", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896349"}
+{"lang": "GNU C", "title": "101147D - Popcorn", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896181"}
+{"lang": "Python 3", "title": "101147D - Popcorn", "time": "61ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896108"}
+{"lang": "Python 3", "title": "101147D - Popcorn", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896094"}
+{"lang": "Python 2", "title": "101147D - Popcorn", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101147/D", "problem_id": "21896028"}
+{"lang": "Python 2", "title": "101061F - Fairness", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101061/F", "problem_id": "19923093"}
+{"lang": "Python 2", "title": "101061D - Max or Min .. that is the question!", "time": "46ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101061/D", "problem_id": "19910792"}
+{"lang": "Python 2", "title": "101061A - Cards", "time": "30ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101061/A", "problem_id": "19910475"}
+{"lang": "Python 2", "title": "101028H - The Endless River", "time": "436ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/H", "problem_id": "19891566"}
+{"lang": "Python 2", "title": "101028F - Good Words", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/gymProblem/101028/F", "problem_id": "19888830"}
+{"lang": "Python 2", "title": "101028E - Teams", "time": "701ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/gymProblem/101028/E", "problem_id": "19888619"}
+{"lang": "Python 3", "title": "101028D - X and paintings", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/D", "problem_id": "19888481"}
+{"lang": "Python 3", "title": "101028D - X and paintings", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101028/D", "problem_id": "19888318"}
+{"lang": "PyPy 2", "title": "101028D - X and paintings", "time": "77ms", "verdict": "RUNTIME_ERROR", "memory": "21300KB", "problem_link": "/problemset/gymProblem/101028/D", "problem_id": "19888281"}
+{"lang": "Python 2", "title": "101028D - X and paintings", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/D", "problem_id": "19888239"}
+{"lang": "Python 2", "title": "101028C - A or B Equals C", "time": "46ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/C", "problem_id": "19888083"}
+{"lang": "Python 2", "title": "101028B - Bonapity", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/B", "problem_id": "19887900"}
+{"lang": "Python 2", "title": "101028B - Bonapity", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/B", "problem_id": "19887869"}
+{"lang": "Python 2", "title": "101028B - Bonapity", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/B", "problem_id": "19887821"}
+{"lang": "Python 2", "title": "101028B - Bonapity", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/B", "problem_id": "19887788"}
+{"lang": "Python 2", "title": "101028A - Codeforces Rating", "time": "46ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/gymProblem/101028/A", "problem_id": "19887702"}
+{"lang": "Python 2", "title": "617A - Elephant", "time": "108ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/617/A", "problem_id": "17254925"}
+{"lang": "Python 2", "title": "479A - Expression", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/479/A", "problem_id": "16267363"}
+{"lang": "Python 2", "title": "486A - Calculating Function", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "16267289"}
+{"lang": "Python 2", "title": "486A - Calculating Function", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "16266878"}
+{"lang": "Python 2", "title": "41A - Translation", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/41/A", "problem_id": "16266732"}
+{"lang": "FPC", "title": "472A - Design Tutorial: Learn from Math", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/472/A", "problem_id": "13624103"}
+{"lang": "Python 2", "title": "263A - Beautiful Matrix", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "13621248"}
+{"lang": "Python 2", "title": "263A - Beautiful Matrix", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "13621197"}
+{"lang": "Python 2", "title": "50A - Domino piling", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/50/A", "problem_id": "13621071"}
+{"lang": "FPC", "title": "71A - Way Too Long Words", "time": "60ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/71/A", "problem_id": "13621004"}
+{"lang": "Python 2", "title": "158A - Next Round", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "13407651"}
+{"lang": "Python 2", "title": "158A - Next Round", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "13407624"}
+{"lang": "Python 2", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "13407555"}
+{"lang": "Python 2", "title": "1A - Theatre Square", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "13407456"}
+{"lang": "Python 2", "title": "1A - Theatre Square", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "5200KB", "problem_link": "/problemset/problem/1/A", "problem_id": "13407356"}

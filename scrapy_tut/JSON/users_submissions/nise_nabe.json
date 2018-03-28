@@ -1,0 +1,992 @@
+{"lang": "Java 8", "title": "799A - Carrot Cakes", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/799/A", "problem_id": "27038918"}
+{"lang": "Java 8", "title": "799C - Fountains", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/799/C", "problem_id": "27032881"}
+{"lang": "Java 8", "title": "798B - Mike and strings", "time": "171ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/798/B", "problem_id": "26545799"}
+{"lang": "Java 8", "title": "798A - Mike and palindrome", "time": "171ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/798/A", "problem_id": "26543408"}
+{"lang": "Java 8", "title": "448B - Suffix Structures", "time": "171ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/448/B", "problem_id": "7137890"}
+{"lang": "Java 8", "title": "448A - Rewards", "time": "187ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/448/A", "problem_id": "7127495"}
+{"lang": "Java 7", "title": "448A - Rewards", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/448/A", "problem_id": "7127402"}
+{"lang": "Java 8", "title": "448A - Rewards", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/448/A", "problem_id": "7127334"}
+{"lang": "Go", "title": "378A - Playing with Dice", "time": "15ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/378/A", "problem_id": "5552966"}
+{"lang": "Go", "title": "344B - Simple Molecules", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/344/B", "problem_id": "4463781"}
+{"lang": "Go", "title": "344A - Magnets", "time": "124ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/344/A", "problem_id": "4460638"}
+{"lang": "Go", "title": "342A - Xenia and Divisors", "time": "1248ms", "verdict": "OK", "memory": "3100KB", "problem_link": "/problemset/problem/342/A", "problem_id": "4458488"}
+{"lang": "Go", "title": "342A - Xenia and Divisors", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/342/A", "problem_id": "4458432"}
+{"lang": "Go", "title": "339B - Xenia and Ringroad", "time": "62ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/339/B", "problem_id": "4449372"}
+{"lang": "Go", "title": "339B - Xenia and Ringroad", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1900KB", "problem_link": "/problemset/problem/339/B", "problem_id": "4449346"}
+{"lang": "Go", "title": "339B - Xenia and Ringroad", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/339/B", "problem_id": "4449342"}
+{"lang": "Go", "title": "318A - Even Odds", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/318/A", "problem_id": "4449227"}
+{"lang": "Go", "title": "276A - Lunch Rush", "time": "62ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/276/A", "problem_id": "4444440"}
+{"lang": "Go", "title": "276A - Lunch Rush", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/276/A", "problem_id": "4444420"}
+{"lang": "Go", "title": "270A - Fancy Fence", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/270/A", "problem_id": "4436959"}
+{"lang": "Go", "title": "278A - Circle Line", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/278/A", "problem_id": "4436933"}
+{"lang": "Go", "title": "208A - Dubstep", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/208/A", "problem_id": "4436377"}
+{"lang": "Go", "title": "339A - Helpful Maths", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/339/A", "problem_id": "4436308"}
+{"lang": "Go", "title": "339A - Helpful Maths", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "4436287"}
+{"lang": "Go", "title": "268B - Buttons", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/B", "problem_id": "4436281"}
+{"lang": "Go", "title": "237A - Free Cash", "time": "156ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/237/A", "problem_id": "4435898"}
+{"lang": "Go", "title": "237A - Free Cash", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/237/A", "problem_id": "4435880"}
+{"lang": "Go", "title": "263A - Beautiful Matrix", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/263/A", "problem_id": "4435852"}
+{"lang": "Go", "title": "281A - Word Capitalization", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/281/A", "problem_id": "4435836"}
+{"lang": "Go", "title": "271A - Beautiful Year", "time": "62ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/271/A", "problem_id": "4435828"}
+{"lang": "Go", "title": "268A - Games", "time": "62ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/268/A", "problem_id": "4432958"}
+{"lang": "Go", "title": "266B - Queue at the School", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/266/B", "problem_id": "4432824"}
+{"lang": "Go", "title": "236A - Boy or Girl", "time": "62ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/236/A", "problem_id": "4432668"}
+{"lang": "Go", "title": "236A - Boy or Girl", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/236/A", "problem_id": "4432574"}
+{"lang": "Go", "title": "236A - Boy or Girl", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/236/A", "problem_id": "4432566"}
+{"lang": "Go", "title": "228A - Is your horseshoe on the other hoof?", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/228/A", "problem_id": "4431126"}
+{"lang": "Go", "title": "282A - Bit++", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/282/A", "problem_id": "4430932"}
+{"lang": "Go", "title": "266A - Stones on the Table", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/266/A", "problem_id": "4430767"}
+{"lang": "Go", "title": "231A - Team", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/231/A", "problem_id": "4430486"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "30ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4429660"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4429655"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4429653"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4429636"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4429633"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "3760095"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "3760092"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "3760076"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "3760071"}
+{"lang": "Java 6", "title": "246A - Buggy Sorting", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/246/A", "problem_id": "2620004"}
+{"lang": "Java 6", "title": "246A - Buggy Sorting", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/246/A", "problem_id": "2619962"}
+{"lang": "Java 6", "title": "233A - Perfect Permutation", "time": "93ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/233/A", "problem_id": "2340356"}
+{"lang": "Java 6", "title": "230A - Dragons", "time": "125ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2275318"}
+{"lang": "Java 6", "title": "230A - Dragons", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2275233"}
+{"lang": "Java 6", "title": "230A - Dragons", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2273922"}
+{"lang": "Java 6", "title": "230A - Dragons", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2273693"}
+{"lang": "Java 6", "title": "224B - Array", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/224/B", "problem_id": "2192798"}
+{"lang": "Java 6", "title": "224A - Parallelepiped", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/224/A", "problem_id": "2189905"}
+{"lang": "Java 6", "title": "224A - Parallelepiped", "time": "440ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/224/A", "problem_id": "2189832"}
+{"lang": "Java 6", "title": "224A - Parallelepiped", "time": "500ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/224/A", "problem_id": "2189646"}
+{"lang": "Java 6", "title": "222A - Shooshuns and Sequence", "time": "420ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/222/A", "problem_id": "2180316"}
+{"lang": "Java 6", "title": "214A - System of Equations", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/214/A", "problem_id": "1953455"}
+{"lang": "Java 6", "title": "192B - Walking in the Rain", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/192/B", "problem_id": "1726695"}
+{"lang": "Java 6", "title": "192A - Funky Numbers", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/192/A", "problem_id": "1725856"}
+{"lang": "Java 6", "title": "192A - Funky Numbers", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/192/A", "problem_id": "1725798"}
+{"lang": "Java 6", "title": "192A - Funky Numbers", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/192/A", "problem_id": "1725725"}
+{"lang": "Java 6", "title": "155A - I_love_\\%username\\%", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/155/A", "problem_id": "1663451"}
+{"lang": "Java 6", "title": "149A - Business trip", "time": "90ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/149/A", "problem_id": "1663406"}
+{"lang": "Java 6", "title": "149A - Business trip", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/149/A", "problem_id": "1663402"}
+{"lang": "Java 6", "title": "186B - Growing Mushrooms", "time": "230ms", "verdict": "OK", "memory": "42700KB", "problem_link": "/problemset/problem/186/B", "problem_id": "1657218"}
+{"lang": "Java 6", "title": "186A - Comparing Strings", "time": "90ms", "verdict": "CHALLENGED", "memory": "42200KB", "problem_link": "/problemset/problem/186/A", "problem_id": "1654286"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "480ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646640"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646627"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646619"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646616"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42200KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646614"}
+{"lang": "Java 6", "title": "159A - Friends or Not", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/159/A", "problem_id": "1646611"}
+{"lang": "Java 6", "title": "165A - Supercentral Point", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/165/A", "problem_id": "1646553"}
+{"lang": "Java 6", "title": "118B - Present from Lena", "time": "90ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/118/B", "problem_id": "1646498"}
+{"lang": "Java 6", "title": "118B - Present from Lena", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/118/B", "problem_id": "1646497"}
+{"lang": "Java 6", "title": "118B - Present from Lena", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/118/B", "problem_id": "1646495"}
+{"lang": "Java 6", "title": "160A - Twins", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/160/A", "problem_id": "1646472"}
+{"lang": "Java 6", "title": "158D - Ice Sculptures", "time": "200ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/158/D", "problem_id": "1646395"}
+{"lang": "Java 6", "title": "158D - Ice Sculptures", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/D", "problem_id": "1646392"}
+{"lang": "Java 6", "title": "119A - Epic Game", "time": "90ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/119/A", "problem_id": "1646240"}
+{"lang": "Java 6", "title": "158C - Cd and pwd commands", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/158/C", "problem_id": "1645047"}
+{"lang": "Java 6", "title": "158B - Taxi", "time": "330ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/158/B", "problem_id": "1644607"}
+{"lang": "Java 6", "title": "158B - Taxi", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/B", "problem_id": "1644604"}
+{"lang": "Java 6", "title": "158A - Next Round", "time": "90ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/158/A", "problem_id": "1644583"}
+{"lang": "Java 6", "title": "158A - Next Round", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/A", "problem_id": "1644567"}
+{"lang": "Java 6", "title": "158C - Cd and pwd commands", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/C", "problem_id": "1644562"}
+{"lang": "Java 6", "title": "158B - Taxi", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/B", "problem_id": "1644479"}
+{"lang": "Java 6", "title": "158A - Next Round", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/158/A", "problem_id": "1644454"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1644427"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1644421"}
+{"lang": "Java 7", "title": "175A - Robot Bicorn Attack", "time": "130ms", "verdict": "OK", "memory": "43900KB", "problem_link": "/problemset/problem/175/A", "problem_id": "1537594"}
+{"lang": "Java 7", "title": "175A - Robot Bicorn Attack", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "43900KB", "problem_link": "/problemset/problem/175/A", "problem_id": "1536817"}
+{"lang": "Java 7", "title": "175A - Robot Bicorn Attack", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "43900KB", "problem_link": "/problemset/problem/175/A", "problem_id": "1536740"}
+{"lang": "Java 6", "title": "175A - Robot Bicorn Attack", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42200KB", "problem_link": "/problemset/problem/175/A", "problem_id": "1536726"}
+{"lang": "Java 7", "title": "175A - Robot Bicorn Attack", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "43900KB", "problem_link": "/problemset/problem/175/A", "problem_id": "1536692"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "80ms", "verdict": "OK", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461451"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461439"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461399"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461372"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461305"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461274"}
+{"lang": "Java 7", "title": "171D - Broken checker", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "43800KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461227"}
+{"lang": "PHP", "title": "171D - Broken checker", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "6900KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461113"}
+{"lang": "PHP", "title": "171D - Broken checker", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "6900KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461075"}
+{"lang": "PHP", "title": "171D - Broken checker", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "6900KB", "problem_link": "/problemset/problem/171/D", "problem_id": "1461052"}
+{"lang": "PHP", "title": "171C - A Piece of Cake", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "6900KB", "problem_link": "/problemset/problem/171/C", "problem_id": "1461027"}
+{"lang": "Java 7", "title": "171B - Star", "time": "110ms", "verdict": "OK", "memory": "43800KB", "problem_link": "/problemset/problem/171/B", "problem_id": "1460215"}
+{"lang": "Java 7", "title": "171A - Mysterious numbers - 1", "time": "110ms", "verdict": "OK", "memory": "43800KB", "problem_link": "/problemset/problem/171/A", "problem_id": "1459650"}
+{"lang": "Java 6", "title": "166A - Rank List", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1392190"}
+{"lang": "Java 6", "title": "166A - Rank List", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/166/A", "problem_id": "1392017"}
+{"lang": "Java 6", "title": "152A - Marks", "time": "90ms", "verdict": "OK", "memory": "43900KB", "problem_link": "/problemset/problem/152/A", "problem_id": "1207834"}
+{"lang": "Java 6", "title": "151A - Soft Drinking", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/151/A", "problem_id": "1187524"}
+{"lang": "Java 6", "title": "149A - Business trip", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/149/A", "problem_id": "1166605"}
+{"lang": "Java 6", "title": "148A - Insomnia cure", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/148/A", "problem_id": "1135607"}
+{"lang": "Java 6", "title": "148A - Insomnia cure", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/148/A", "problem_id": "1135218"}
+{"lang": "Java 6", "title": "148A - Insomnia cure", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/148/A", "problem_id": "1134901"}
+{"lang": "Java 6", "title": "146C - Lucky Conversion", "time": "140ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/146/C", "problem_id": "1103207"}
+{"lang": "Java 6", "title": "146B - Lucky Mask", "time": "390ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1102545"}
+{"lang": "Java 6", "title": "146B - Lucky Mask", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1102486"}
+{"lang": "Java 6", "title": "146B - Lucky Mask", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/146/B", "problem_id": "1102401"}
+{"lang": "Java 6", "title": "146A - Lucky Ticket", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/146/A", "problem_id": "1101312"}
+{"lang": "Java 6", "title": "146A - Lucky Ticket", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/146/A", "problem_id": "1101242"}
+{"lang": "Java 6", "title": "144C - Anagram Search", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/144/C", "problem_id": "1080987"}
+{"lang": "Java 6", "title": "144B - Meeting", "time": "390ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/144/B", "problem_id": "1079767"}
+{"lang": "Java 6", "title": "144B - Meeting", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "43400KB", "problem_link": "/problemset/problem/144/B", "problem_id": "1077725"}
+{"lang": "Java 6", "title": "144A - Arrival of the General", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/144/A", "problem_id": "1075600"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1040201"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1040170"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1035203"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "90ms", "verdict": "SKIPPED", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1035137"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1034955"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1034865"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1034834"}
+{"lang": "Java 6", "title": "143B - Help Kingdom of Far Far Away 2", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42100KB", "problem_link": "/problemset/problem/143/B", "problem_id": "1034747"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1031910"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1031821"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1031734"}
+{"lang": "Java 6", "title": "143A - Help Vasilisa the Wise 2", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/143/A", "problem_id": "1031583"}
+{"lang": "Java 6", "title": "141C - Queue", "time": "200ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1025289"}
+{"lang": "Java 6", "title": "141C - Queue", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1025209"}
+{"lang": "Java 6", "title": "141C - Queue", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1025205"}
+{"lang": "Java 6", "title": "141A - Amusing Joke", "time": "90ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1024031"}
+{"lang": "Java 6", "title": "141C - Queue", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/141/C", "problem_id": "1022618"}
+{"lang": "Java 6", "title": "141B - Hopscotch", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/141/B", "problem_id": "1020559"}
+{"lang": "Java 6", "title": "141A - Amusing Joke", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1018784"}
+{"lang": "Java 6", "title": "141A - Amusing Joke", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1018712"}
+{"lang": "Java 6", "title": "141A - Amusing Joke", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1018624"}
+{"lang": "Java 6", "title": "141A - Amusing Joke", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/141/A", "problem_id": "1018261"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1009664"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1009560"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1009543"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1009522"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1009475"}
+{"lang": "Java 6", "title": "140A - New Year Table", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1007702"}
+{"lang": "GNU C++", "title": "140A - New Year Table", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/140/A", "problem_id": "1007680"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/147/A", "problem_id": "996867"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/147/A", "problem_id": "996863"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/147/A", "problem_id": "996860"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/147/A", "problem_id": "996852"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/147/A", "problem_id": "996203"}
+{"lang": "Java 6", "title": "147A - Punctuation", "time": "90ms", "verdict": "SKIPPED", "memory": "42100KB", "problem_link": "/problemset/problem/147/A", "problem_id": "995901"}
+{"lang": "Java 6", "title": "137C - History", "time": "940ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/137/C", "problem_id": "995518"}
+{"lang": "Java 6", "title": "137C - History", "time": "910ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/137/C", "problem_id": "995516"}
+{"lang": "Java 6", "title": "137C - History", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/137/C", "problem_id": "995498"}
+{"lang": "Java 6", "title": "137C - History", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/137/C", "problem_id": "995496"}
+{"lang": "Java 6", "title": "137C - History", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/137/C", "problem_id": "995495"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "160ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/139/B", "problem_id": "995462"}
+{"lang": "Java 6", "title": "129A - Cookies", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/129/A", "problem_id": "995360"}
+{"lang": "Java 6", "title": "118A - String Task", "time": "90ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/118/A", "problem_id": "995358"}
+{"lang": "Java 6", "title": "131A - cAPS lOCK", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/131/A", "problem_id": "995357"}
+{"lang": "Java 6", "title": "131A - cAPS lOCK", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/131/A", "problem_id": "995356"}
+{"lang": "Java 6", "title": "131A - cAPS lOCK", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/131/A", "problem_id": "995355"}
+{"lang": "Java 6", "title": "131A - cAPS lOCK", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/131/A", "problem_id": "995354"}
+{"lang": "Java 6", "title": "137A - Postcards and photos", "time": "90ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/137/A", "problem_id": "994808"}
+{"lang": "Java 6", "title": "137A - Postcards and photos", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/137/A", "problem_id": "994802"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/139/B", "problem_id": "978545"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/139/B", "problem_id": "978461"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/139/B", "problem_id": "977709"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/139/B", "problem_id": "977650"}
+{"lang": "Java 6", "title": "139B - Wallpaper", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/139/B", "problem_id": "977542"}
+{"lang": "Java 6", "title": "139A - Petr and Book", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/139/A", "problem_id": "974294"}
+{"lang": "Java 6", "title": "137C - History", "time": "860ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/137/C", "problem_id": "960488"}
+{"lang": "Java 6", "title": "137B - Permutation", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/137/B", "problem_id": "958954"}
+{"lang": "Java 6", "title": "137B - Permutation", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42100KB", "problem_link": "/problemset/problem/137/B", "problem_id": "958828"}
+{"lang": "Java 6", "title": "137A - Postcards and photos", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/137/A", "problem_id": "958545"}
+{"lang": "Java 6", "title": "136B - Ternary Logic", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/136/B", "problem_id": "948993"}
+{"lang": "Java 6", "title": "136A - Presents", "time": "230ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/136/A", "problem_id": "937546"}
+{"lang": "Java 6", "title": "133B - Unary", "time": "160ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/133/B", "problem_id": "925920"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "925493"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "160ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "925392"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "925356"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "925310"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "924171"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "923667"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "34400KB", "problem_link": "/problemset/problem/133/A", "problem_id": "923588"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34500KB", "problem_link": "/problemset/problem/133/A", "problem_id": "921864"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/133/A", "problem_id": "921814"}
+{"lang": "Java 6", "title": "133A - HQ9+", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/133/A", "problem_id": "921363"}
+{"lang": "Java 6", "title": "127B - Canvas Frames", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/127/B", "problem_id": "847748"}
+{"lang": "Java 6", "title": "127A - Wasted Time", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/127/A", "problem_id": "844181"}
+{"lang": "Java 6", "title": "124A - The number of positions", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/124/A", "problem_id": "827938"}
+{"lang": "Java 6", "title": "122B - Lucky Substring", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/122/B", "problem_id": "802639"}
+{"lang": "Java 6", "title": "122A - Lucky Division", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/122/A", "problem_id": "800055"}
+{"lang": "Java 6", "title": "110B - Lucky String", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/110/B", "problem_id": "785044"}
+{"lang": "Java 6", "title": "110A - Nearly Lucky Number", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/110/A", "problem_id": "784954"}
+{"lang": "Java 6", "title": "110A - Nearly Lucky Number", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/110/A", "problem_id": "784942"}
+{"lang": "Java 6", "title": "110A - Nearly Lucky Number", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34500KB", "problem_link": "/problemset/problem/110/A", "problem_id": "784934"}
+{"lang": "Java 6", "title": "110A - Nearly Lucky Number", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34500KB", "problem_link": "/problemset/problem/110/A", "problem_id": "784925"}
+{"lang": "Java 6", "title": "120C - Winnie-the-Pooh and honey", "time": "130ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/120/C", "problem_id": "780349"}
+{"lang": "Java 6", "title": "120C - Winnie-the-Pooh and honey", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "34500KB", "problem_link": "/problemset/problem/120/C", "problem_id": "780344"}
+{"lang": "Java 6", "title": "120B - Quiz League", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/120/B", "problem_id": "780164"}
+{"lang": "Java 6", "title": "120B - Quiz League", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/120/B", "problem_id": "780136"}
+{"lang": "Java 6", "title": "120B - Quiz League", "time": "0ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/120/B", "problem_id": "780128"}
+{"lang": "Java 6", "title": "120A - Elevator", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/120/A", "problem_id": "779990"}
+{"lang": "Java 6", "title": "116B - Little Pigs and Wolves", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34500KB", "problem_link": "/problemset/problem/116/B", "problem_id": "702658"}
+{"lang": "Java 6", "title": "116D - Lawnmower", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "34500KB", "problem_link": "/problemset/problem/116/D", "problem_id": "701115"}
+{"lang": "Java 6", "title": "116C - Party", "time": "170ms", "verdict": "OK", "memory": "34600KB", "problem_link": "/problemset/problem/116/C", "problem_id": "698500"}
+{"lang": "Java 6", "title": "116B - Little Pigs and Wolves", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34500KB", "problem_link": "/problemset/problem/116/B", "problem_id": "697511"}
+{"lang": "Java 6", "title": "116A - Tram", "time": "170ms", "verdict": "OK", "memory": "34600KB", "problem_link": "/problemset/problem/116/A", "problem_id": "695830"}
+{"lang": "Java 6", "title": "114A - Cifera", "time": "130ms", "verdict": "OK", "memory": "34500KB", "problem_link": "/problemset/problem/114/A", "problem_id": "674757"}
+{"lang": "Java 6", "title": "112A - Petya and Strings", "time": "130ms", "verdict": "OK", "memory": "34400KB", "problem_link": "/problemset/problem/112/A", "problem_id": "659211"}
+{"lang": "Java 6", "title": "112B - Petya and Square", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/112/B", "problem_id": "658905"}
+{"lang": "Java 6", "title": "112A - Petya and Strings", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/112/A", "problem_id": "657440"}
+{"lang": "Java 6", "title": "108A - Palindromic Times", "time": "130ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/108/A", "problem_id": "627584"}
+{"lang": "Java 6", "title": "108A - Palindromic Times", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/108/A", "problem_id": "627490"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "130ms", "verdict": "OK", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619842"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619750"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619694"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619485"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619472"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "619447"}
+{"lang": "Java 6", "title": "106B - Choosing Laptop", "time": "130ms", "verdict": "OK", "memory": "34400KB", "problem_link": "/problemset/problem/106/B", "problem_id": "618220"}
+{"lang": "Java 6", "title": "106B - Choosing Laptop", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/B", "problem_id": "617781"}
+{"lang": "Java 6", "title": "106B - Choosing Laptop", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/106/B", "problem_id": "617743"}
+{"lang": "Java 6", "title": "106A - Card Game", "time": "90ms", "verdict": "CHALLENGED", "memory": "34400KB", "problem_link": "/problemset/problem/106/A", "problem_id": "616353"}
+{"lang": "Java 6", "title": "102C - Homework", "time": "360ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/102/C", "problem_id": "580148"}
+{"lang": "Java 6", "title": "102C - Homework", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/102/C", "problem_id": "580076"}
+{"lang": "Java 6", "title": "102B - Sum of Digits", "time": "140ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/102/B", "problem_id": "578907"}
+{"lang": "Java 6", "title": "102A - Clothes", "time": "130ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/102/A", "problem_id": "578383"}
+{"lang": "Pike", "title": "100D - World of Mouth", "time": "2720ms", "verdict": "OK", "memory": "34600KB", "problem_link": "/problemset/problem/100/D", "problem_id": "571392"}
+{"lang": "Pike", "title": "100I - Rotation", "time": "130ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/100/I", "problem_id": "571085"}
+{"lang": "Pike", "title": "100A - Carpeting the Room", "time": "130ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/100/A", "problem_id": "570896"}
+{"lang": "Pike", "title": "100A - Carpeting the Room", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/100/A", "problem_id": "570867"}
+{"lang": "Pike", "title": "100B - Friendly Numbers", "time": "230ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/100/B", "problem_id": "570769"}
+{"lang": "Pike", "title": "100B - Friendly Numbers", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/100/B", "problem_id": "570674"}
+{"lang": "Pike", "title": "100C - A+B", "time": "130ms", "verdict": "OK", "memory": "6500KB", "problem_link": "/problemset/problem/100/C", "problem_id": "570661"}
+{"lang": "Pike", "title": "100C - A+B", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/100/C", "problem_id": "570638"}
+{"lang": "Pike", "title": "100B - Friendly Numbers", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/100/B", "problem_id": "570537"}
+{"lang": "Pike", "title": "100C - A+B", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "6500KB", "problem_link": "/problemset/problem/100/C", "problem_id": "570262"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/92/B", "problem_id": "544385"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34500KB", "problem_link": "/problemset/problem/92/B", "problem_id": "544367"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34400KB", "problem_link": "/problemset/problem/92/B", "problem_id": "544362"}
+{"lang": "Java 6", "title": "95A - Hockey", "time": "130ms", "verdict": "OK", "memory": "34500KB", "problem_link": "/problemset/problem/95/A", "problem_id": "544327"}
+{"lang": "Java 6", "title": "95A - Hockey", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/95/A", "problem_id": "544320"}
+{"lang": "Java 6", "title": "95A - Hockey", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/95/A", "problem_id": "544319"}
+{"lang": "Java 6", "title": "96A - Football", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/96/A", "problem_id": "536875"}
+{"lang": "Java 6", "title": "96D - Volleyball", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/96/D", "problem_id": "536203"}
+{"lang": "Java 6", "title": "96B - Lucky Numbers (easy)", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/96/B", "problem_id": "533364"}
+{"lang": "Java 6", "title": "96A - Football", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/96/A", "problem_id": "532153"}
+{"lang": "Java 6", "title": "94C - Frames", "time": "130ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/94/C", "problem_id": "522641"}
+{"lang": "Java 6", "title": "94C - Frames", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/94/C", "problem_id": "522583"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "110ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/94/B", "problem_id": "522206"}
+{"lang": "Java 6", "title": "94C - Frames", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/94/C", "problem_id": "518963"}
+{"lang": "Java 6", "title": "94C - Frames", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/94/C", "problem_id": "518820"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/94/B", "problem_id": "517204"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/94/B", "problem_id": "517117"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/94/B", "problem_id": "516643"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/94/B", "problem_id": "515958"}
+{"lang": "Java 6", "title": "94B - Friends", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/94/B", "problem_id": "515933"}
+{"lang": "Java 6", "title": "94A - Restoring Password", "time": "130ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/94/A", "problem_id": "514930"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "34400KB", "problem_link": "/problemset/problem/92/B", "problem_id": "503967"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "34400KB", "problem_link": "/problemset/problem/92/B", "problem_id": "503912"}
+{"lang": "Java 6", "title": "92B - Binary Number", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "42000KB", "problem_link": "/problemset/problem/92/B", "problem_id": "503878"}
+{"lang": "Java 6", "title": "92A - Chips", "time": "110ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/92/A", "problem_id": "503721"}
+{"lang": "Java 6", "title": "90B - African Crossword", "time": "160ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/90/B", "problem_id": "490848"}
+{"lang": "Java 6", "title": "90A - Cableway", "time": "110ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/90/A", "problem_id": "489603"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "440ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/88/B", "problem_id": "481932"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479437"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479393"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479330"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479242"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479171"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479149"}
+{"lang": "Java 6", "title": "88B - Keyboard", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/88/B", "problem_id": "479131"}
+{"lang": "Java 6", "title": "88A - Chord", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/88/A", "problem_id": "477580"}
+{"lang": "Java 6", "title": "83A - Magical Array", "time": "390ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/83/A", "problem_id": "453555"}
+{"lang": "Java 6", "title": "84B - Magical Array", "time": "390ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/84/B", "problem_id": "453531"}
+{"lang": "Java 6", "title": "84B - Magical Array", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/84/B", "problem_id": "453511"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "1380ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451970"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451667"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451647"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451557"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451525"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "50ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451479"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451393"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451353"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451291"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451202"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451138"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "451082"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "450956"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "450873"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "450845"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "450807"}
+{"lang": "Java 6", "title": "84C - Biathlon", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/84/C", "problem_id": "450407"}
+{"lang": "Java 6", "title": "84B - Magical Array", "time": "390ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/B", "problem_id": "448175"}
+{"lang": "Java 6", "title": "84B - Magical Array", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/84/B", "problem_id": "447988"}
+{"lang": "Java 6", "title": "84A - Toy Army", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/84/A", "problem_id": "447213"}
+{"lang": "Java 6", "title": "82A - Double Cola", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/82/A", "problem_id": "440972"}
+{"lang": "Java 6", "title": "82A - Double Cola", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/82/A", "problem_id": "440799"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "429546"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "429531"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "429519"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "429500"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "428740"}
+{"lang": "Java 6", "title": "81B - Sequence Formatting", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/B", "problem_id": "428698"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "427072"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "426616"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/81/A", "problem_id": "426531"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "426058"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425607"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425518"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425482"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425418"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425184"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425080"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "425000"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "424259"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "424173"}
+{"lang": "Java 6", "title": "81A - Plug-in", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/81/A", "problem_id": "424088"}
+{"lang": "Java 6", "title": "79B - Colorful Field", "time": "170ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/79/B", "problem_id": "419324"}
+{"lang": "Java 6", "title": "79B - Colorful Field", "time": "750ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/79/B", "problem_id": "418709"}
+{"lang": "Java 6", "title": "79B - Colorful Field", "time": "730ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/79/B", "problem_id": "418691"}
+{"lang": "Java 6", "title": "79A - Bus Game", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/79/A", "problem_id": "418328"}
+{"lang": "Java 6", "title": "79A - Bus Game", "time": "770ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/79/A", "problem_id": "418171"}
+{"lang": "Java 6", "title": "78B - Easter Eggs", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/78/B", "problem_id": "410929"}
+{"lang": "Java 6", "title": "78B - Easter Eggs", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/78/B", "problem_id": "410636"}
+{"lang": "Java 6", "title": "78A - Haiku", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/78/A", "problem_id": "409045"}
+{"lang": "Java 6", "title": "80C - Heroes", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/80/C", "problem_id": "400838"}
+{"lang": "Java 6", "title": "80C - Heroes", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/80/C", "problem_id": "400795"}
+{"lang": "Java 6", "title": "80B - Depression", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/80/B", "problem_id": "397261"}
+{"lang": "Java 6", "title": "80A - Panoramix's Prediction", "time": "160ms", "verdict": "OK", "memory": "34900KB", "problem_link": "/problemset/problem/80/A", "problem_id": "396611"}
+{"lang": "Java 6", "title": "80A - Panoramix's Prediction", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "34400KB", "problem_link": "/problemset/problem/80/A", "problem_id": "396595"}
+{"lang": "Java 6", "title": "74A - Room Leader", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/74/A", "problem_id": "389162"}
+{"lang": "Java 6", "title": "75A - Life Without Zeros", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/75/A", "problem_id": "388475"}
+{"lang": "Java 6", "title": "73D - FreeDiv", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/73/D", "problem_id": "376640"}
+{"lang": "Java 6", "title": "73D - FreeDiv", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/73/D", "problem_id": "375650"}
+{"lang": "Java 6", "title": "71A - Way Too Long Words", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/71/A", "problem_id": "362573"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "359240"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "359226"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "359222"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "359148"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "359123"}
+{"lang": "Java 6", "title": "70A - Cookies", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/70/A", "problem_id": "359088"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358958"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358909"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358865"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358846"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358812"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358782"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358692"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358680"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358654"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358635"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358507"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "110ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358072"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "358049"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "357771"}
+{"lang": "Java 6", "title": "70B - Text Messaging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/B", "problem_id": "357664"}
+{"lang": "Java 6", "title": "70A - Cookies", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/A", "problem_id": "356700"}
+{"lang": "Java 6", "title": "70A - Cookies", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/70/A", "problem_id": "355952"}
+{"lang": "Java 6", "title": "70A - Cookies", "time": "90ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/70/A", "problem_id": "355455"}
+{"lang": "Java 6", "title": "69E - Subsegments", "time": "940ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/69/E", "problem_id": "351411"}
+{"lang": "Java 6", "title": "69E - Subsegments", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/69/E", "problem_id": "351397"}
+{"lang": "Java 6", "title": "69C - Game", "time": "170ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/69/C", "problem_id": "350307"}
+{"lang": "Java 6", "title": "69B - Bets", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/69/B", "problem_id": "349376"}
+{"lang": "Java 6", "title": "69A - Young Physicist", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/69/A", "problem_id": "348478"}
+{"lang": "Io", "title": "72G - Fibonacci army", "time": "170ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/72/G", "problem_id": "347328"}
+{"lang": "Io", "title": "72F - Oil", "time": "170ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/72/F", "problem_id": "347326"}
+{"lang": "Io", "title": "72G - Fibonacci army", "time": "200ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/72/G", "problem_id": "347318"}
+{"lang": "Java 6", "title": "68B - Energy exchange", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/68/B", "problem_id": "343048"}
+{"lang": "Java 6", "title": "68A - Irrational problem", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/68/A", "problem_id": "341123"}
+{"lang": "Java 6", "title": "67A - Partial Teacher", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/67/A", "problem_id": "335981"}
+{"lang": "Java 6", "title": "67A - Partial Teacher", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/67/A", "problem_id": "332804"}
+{"lang": "Java 6", "title": "66C - Petya and File System", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/C", "problem_id": "327220"}
+{"lang": "Java 6", "title": "66A - Petya and Java", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/A", "problem_id": "327201"}
+{"lang": "Java 6", "title": "66C - Petya and File System", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/66/C", "problem_id": "326111"}
+{"lang": "Java 6", "title": "66B - Petya and Countryside", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/B", "problem_id": "324183"}
+{"lang": "Java 6", "title": "66B - Petya and Countryside", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/66/B", "problem_id": "324002"}
+{"lang": "Java 6", "title": "66A - Petya and Java", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/A", "problem_id": "323729"}
+{"lang": "PHP", "title": "65A - Harry Potter and Three Spells", "time": "50ms", "verdict": "OK", "memory": "6000KB", "problem_link": "/problemset/problem/65/A", "problem_id": "323314"}
+{"lang": "PHP", "title": "65A - Harry Potter and Three Spells", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "6000KB", "problem_link": "/problemset/problem/65/A", "problem_id": "323312"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "322160"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "320479"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "320327"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "320238"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "320172"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "110ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "319995"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "319930"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "319861"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "319827"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "80ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "319493"}
+{"lang": "Java 6", "title": "65B - Harry Potter and the History of Magic", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/65/B", "problem_id": "318811"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/65/A", "problem_id": "318023"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "317811"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "317610"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "90ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/65/A", "problem_id": "316380"}
+{"lang": "Java 6", "title": "65A - Harry Potter and Three Spells", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/65/A", "problem_id": "316327"}
+{"lang": "Java 6", "title": "63B - Settlers' Training", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/63/B", "problem_id": "310332"}
+{"lang": "Java 6", "title": "63A - Sinking Ship", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/63/A", "problem_id": "309810"}
+{"lang": "Java 6", "title": "62B - Tyndex.Brome", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/62/B", "problem_id": "309173"}
+{"lang": "Java 6", "title": "62A - A Student's Dream", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/62/A", "problem_id": "309128"}
+{"lang": "Java 6", "title": "61B - Hard Work", "time": "230ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/61/B", "problem_id": "301128"}
+{"lang": "Java 6", "title": "61B - Hard Work", "time": "250ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/61/B", "problem_id": "300541"}
+{"lang": "Java 6", "title": "61B - Hard Work", "time": "230ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/61/B", "problem_id": "300540"}
+{"lang": "Java 6", "title": "61B - Hard Work", "time": "270ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/61/B", "problem_id": "300525"}
+{"lang": "Java 6", "title": "61C - Capture Valerian", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/61/C", "problem_id": "299859"}
+{"lang": "Java 6", "title": "61C - Capture Valerian", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/61/C", "problem_id": "299856"}
+{"lang": "Java 6", "title": "61C - Capture Valerian", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/61/C", "problem_id": "299851"}
+{"lang": "Java 6", "title": "61C - Capture Valerian", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/61/C", "problem_id": "299848"}
+{"lang": "Java 6", "title": "61D - Eternal Victory", "time": "380ms", "verdict": "OK", "memory": "54500KB", "problem_link": "/problemset/problem/61/D", "problem_id": "298154"}
+{"lang": "Java 6", "title": "61C - Capture Valerian", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "42400KB", "problem_link": "/problemset/problem/61/C", "problem_id": "297926"}
+{"lang": "Java 6", "title": "61B - Hard Work", "time": "250ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/61/B", "problem_id": "297652"}
+{"lang": "Java 6", "title": "61A - Ultra-Fast Mathematician", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/61/A", "problem_id": "296466"}
+{"lang": "Tcl", "title": "64H - Table Bowling", "time": "50ms", "verdict": "OK", "memory": "2400KB", "problem_link": "/problemset/problem/64/H", "problem_id": "295763"}
+{"lang": "Tcl", "title": "64H - Table Bowling", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/H", "problem_id": "295762"}
+{"lang": "Tcl", "title": "64H - Table Bowling", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/H", "problem_id": "295751"}
+{"lang": "Tcl", "title": "64H - Table Bowling", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/H", "problem_id": "295747"}
+{"lang": "Tcl", "title": "64H - Table Bowling", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/H", "problem_id": "295746"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "50ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295715"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295701"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295696"}
+{"lang": "Tcl", "title": "64C - Table", "time": "50ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/64/C", "problem_id": "295685"}
+{"lang": "Tcl", "title": "64F - Domain", "time": "60ms", "verdict": "OK", "memory": "2400KB", "problem_link": "/problemset/problem/64/F", "problem_id": "295491"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295138"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295122"}
+{"lang": "Tcl", "title": "64D - Presents", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/64/D", "problem_id": "295083"}
+{"lang": "Tcl", "title": "64G - Path Canonization", "time": "50ms", "verdict": "OK", "memory": "2400KB", "problem_link": "/problemset/problem/64/G", "problem_id": "294898"}
+{"lang": "Tcl", "title": "64G - Path Canonization", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2300KB", "problem_link": "/problemset/problem/64/G", "problem_id": "294892"}
+{"lang": "Tcl", "title": "64I - Sort the Table", "time": "30ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/64/I", "problem_id": "294570"}
+{"lang": "Tcl", "title": "64B - Expression", "time": "50ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/64/B", "problem_id": "293741"}
+{"lang": "Tcl", "title": "64A - Factorial", "time": "50ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/64/A", "problem_id": "293714"}
+{"lang": "Tcl", "title": "64A - Factorial", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "2300KB", "problem_link": "/problemset/problem/64/A", "problem_id": "293665"}
+{"lang": "Java 6", "title": "60B - Serial Time!", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/60/B", "problem_id": "289518"}
+{"lang": "Java 6", "title": "60A - Where Are My Flakes?", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/60/A", "problem_id": "288940"}
+{"lang": "Java 6", "title": "60A - Where Are My Flakes?", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/60/A", "problem_id": "288688"}
+{"lang": "Java 6", "title": "60A - Where Are My Flakes?", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/60/A", "problem_id": "288268"}
+{"lang": "Java 6", "title": "59D - Team Arrangement", "time": "610ms", "verdict": "OK", "memory": "49300KB", "problem_link": "/problemset/problem/59/D", "problem_id": "285767"}
+{"lang": "Java 6", "title": "59D - Team Arrangement", "time": "630ms", "verdict": "OK", "memory": "47900KB", "problem_link": "/problemset/problem/59/D", "problem_id": "285766"}
+{"lang": "Java 6", "title": "59D - Team Arrangement", "time": "2050ms", "verdict": "OK", "memory": "45200KB", "problem_link": "/problemset/problem/59/D", "problem_id": "285765"}
+{"lang": "Java 6", "title": "59D - Team Arrangement", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/D", "problem_id": "285763"}
+{"lang": "Java 6", "title": "59E - Shortest Path", "time": "1260ms", "verdict": "OK", "memory": "103500KB", "problem_link": "/problemset/problem/59/E", "problem_id": "283827"}
+{"lang": "Java 6", "title": "59E - Shortest Path", "time": "440ms", "verdict": "OK", "memory": "92200KB", "problem_link": "/problemset/problem/59/E", "problem_id": "283824"}
+{"lang": "Java 6", "title": "59E - Shortest Path", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/59/E", "problem_id": "283822"}
+{"lang": "Java 6", "title": "59E - Shortest Path", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/59/E", "problem_id": "283820"}
+{"lang": "Java 6", "title": "59E - Shortest Path", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "48100KB", "problem_link": "/problemset/problem/59/E", "problem_id": "283818"}
+{"lang": "Java 6", "title": "59C - Title", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "282242"}
+{"lang": "Java 6", "title": "59C - Title", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "282233"}
+{"lang": "Java 6", "title": "59C - Title", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/59/C", "problem_id": "282222"}
+{"lang": "Java 6", "title": "59C - Title", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "282220"}
+{"lang": "Java 6", "title": "59C - Title", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "281350"}
+{"lang": "Java 6", "title": "59C - Title", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/59/C", "problem_id": "281322"}
+{"lang": "Java 6", "title": "59B - Fortune Telling", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/B", "problem_id": "280846"}
+{"lang": "Java 6", "title": "59A - Word", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/A", "problem_id": "280637"}
+{"lang": "Java 6", "title": "58B - Coins", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/58/B", "problem_id": "274713"}
+{"lang": "Java 6", "title": "58A - Chat room", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/58/A", "problem_id": "271956"}
+{"lang": "Java 6", "title": "58A - Chat room", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/58/A", "problem_id": "269011"}
+{"lang": "Java 6", "title": "57B - Martian Architecture", "time": "980ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/57/B", "problem_id": "264912"}
+{"lang": "Java 6", "title": "57A - Square Earth?", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/57/A", "problem_id": "264756"}
+{"lang": "Java 6", "title": "57A - Square Earth?", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/57/A", "problem_id": "263996"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "300ms", "verdict": "OK", "memory": "85800KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258857"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "170ms", "verdict": "WRONG_ANSWER", "memory": "56900KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258855"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "170ms", "verdict": "WRONG_ANSWER", "memory": "56900KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258843"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "230ms", "verdict": "WRONG_ANSWER", "memory": "58500KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258804"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258790"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258780"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258753"}
+{"lang": "Java 6", "title": "56D - Changing a String", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/56/D", "problem_id": "258487"}
+{"lang": "Java 6", "title": "56C - Corporation Mail", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/56/C", "problem_id": "258163"}
+{"lang": "Java 6", "title": "56B - Spoilt Permutation", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/56/B", "problem_id": "257324"}
+{"lang": "Java 6", "title": "56B - Spoilt Permutation", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/56/B", "problem_id": "257214"}
+{"lang": "Java 6", "title": "56B - Spoilt Permutation", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/56/B", "problem_id": "257058"}
+{"lang": "Java 6", "title": "56A - Bar", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/56/A", "problem_id": "256644"}
+{"lang": "Python 2", "title": "55A - Flea travel", "time": "80ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/55/A", "problem_id": "255283"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "50ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/4/A", "problem_id": "254573"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2600KB", "problem_link": "/problemset/problem/4/A", "problem_id": "254572"}
+{"lang": "Java 6", "title": "53E - Dead Ends", "time": "810ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/53/E", "problem_id": "251926"}
+{"lang": "Java 6", "title": "55B - Smallest number", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/55/B", "problem_id": "251614"}
+{"lang": "Java 6", "title": "55B - Smallest number", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/55/B", "problem_id": "251605"}
+{"lang": "Java 6", "title": "55B - Smallest number", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/55/B", "problem_id": "251568"}
+{"lang": "Java 6", "title": "55A - Flea travel", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/55/A", "problem_id": "251536"}
+{"lang": "Java 6", "title": "9C - Hexadecimal's Numbers", "time": "90ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/9/C", "problem_id": "248404"}
+{"lang": "Java 6", "title": "9B - Running Student", "time": "90ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/9/B", "problem_id": "248276"}
+{"lang": "Java 6", "title": "9B - Running Student", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/9/B", "problem_id": "248275"}
+{"lang": "Java 6", "title": "54B - Cutting Jigsaw Puzzle", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/54/B", "problem_id": "246331"}
+{"lang": "Java 6", "title": "54B - Cutting Jigsaw Puzzle", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/54/B", "problem_id": "246313"}
+{"lang": "Java 6", "title": "54B - Cutting Jigsaw Puzzle", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/54/B", "problem_id": "245924"}
+{"lang": "Java 6", "title": "54A - Presents", "time": "110ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/54/A", "problem_id": "245122"}
+{"lang": "Java 6", "title": "54A - Presents", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/54/A", "problem_id": "245028"}
+{"lang": "Java 6", "title": "54A - Presents", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/54/A", "problem_id": "244808"}
+{"lang": "Java 6", "title": "54A - Presents", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/54/A", "problem_id": "244777"}
+{"lang": "Java 6", "title": "24A - Ring road", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/24/A", "problem_id": "241734"}
+{"lang": "Java 6", "title": "24A - Ring road", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/24/A", "problem_id": "241718"}
+{"lang": "Java 6", "title": "5B - Center Alignment", "time": "200ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/5/B", "problem_id": "241691"}
+{"lang": "Java 6", "title": "5A - Chat Servers Outgoing Traffic", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/5/A", "problem_id": "241678"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "241671"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "241669"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "890ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241661"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241636"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241627"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241610"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241596"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241592"}
+{"lang": "Java 6", "title": "1B - Spreadsheet", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/1/B", "problem_id": "241587"}
+{"lang": "Java 6", "title": "53D - Physical Education", "time": "250ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/53/D", "problem_id": "240433"}
+{"lang": "Java 6", "title": "53D - Physical Education", "time": "270ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/53/D", "problem_id": "240432"}
+{"lang": "Java 6", "title": "53D - Physical Education", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/53/D", "problem_id": "240429"}
+{"lang": "Java 6", "title": "53D - Physical Education", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/53/D", "problem_id": "240413"}
+{"lang": "Java 6", "title": "53C - Little Frog", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/53/C", "problem_id": "239605"}
+{"lang": "Java 6", "title": "53E - Dead Ends", "time": "90ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/53/E", "problem_id": "239432"}
+{"lang": "Java 6", "title": "53E - Dead Ends", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/53/E", "problem_id": "239323"}
+{"lang": "Java 6", "title": "53A - Autocomplete", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/53/A", "problem_id": "237902"}
+{"lang": "Java 6", "title": "52A - 123-sequence", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/52/A", "problem_id": "236882"}
+{"lang": "Java 6", "title": "52A - 123-sequence", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/52/A", "problem_id": "236878"}
+{"lang": "Java 6", "title": "52A - 123-sequence", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46100KB", "problem_link": "/problemset/problem/52/A", "problem_id": "236384"}
+{"lang": "Java 6", "title": "51B - bHTML Tables Analisys", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/51/B", "problem_id": "233674"}
+{"lang": "Java 6", "title": "51A - Cheaterius's Problem", "time": "170ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/51/A", "problem_id": "233292"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "270ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "229100"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "228620"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "228579"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "228546"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "228488"}
+{"lang": "Java 6", "title": "50B - Choosing Symbol Pairs", "time": "80ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/50/B", "problem_id": "226983"}
+{"lang": "Java 6", "title": "50A - Domino piling", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/50/A", "problem_id": "226506"}
+{"lang": "Java 6", "title": "47A - Triangular numbers", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/47/A", "problem_id": "215957"}
+{"lang": "Java 6", "title": "49D - Game", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/49/D", "problem_id": "223761"}
+{"lang": "Java 6", "title": "49B - Sum", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/49/B", "problem_id": "222995"}
+{"lang": "Java 6", "title": "49A - Sleuth", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/49/A", "problem_id": "222428"}
+{"lang": "Java 6", "title": "48B - Land Lot", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/48/B", "problem_id": "221425"}
+{"lang": "Java 6", "title": "48A - Rock-paper-scissors", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/48/A", "problem_id": "221424"}
+{"lang": "Java 6", "title": "48D - Permutations", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "34400KB", "problem_link": "/problemset/problem/48/D", "problem_id": "219781"}
+{"lang": "Java 6", "title": "48B - Land Lot", "time": "140ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/48/B", "problem_id": "219376"}
+{"lang": "Java 6", "title": "48A - Rock-paper-scissors", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/48/A", "problem_id": "219018"}
+{"lang": "Java 6", "title": "47C - Crossword", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/47/C", "problem_id": "214972"}
+{"lang": "Java 6", "title": "47C - Crossword", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/47/C", "problem_id": "214968"}
+{"lang": "Java 6", "title": "47C - Crossword", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/47/C", "problem_id": "214507"}
+{"lang": "Java 6", "title": "47B - Coins", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/47/B", "problem_id": "213796"}
+{"lang": "Java 6", "title": "47A - Triangular numbers", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/47/A", "problem_id": "213373"}
+{"lang": "Java 6", "title": "46C - Hamsters and Tigers", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/46/C", "problem_id": "209106"}
+{"lang": "Java 6", "title": "46C - Hamsters and Tigers", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/46/C", "problem_id": "208721"}
+{"lang": "Java 6", "title": "46B - T-shirts from Sponsor", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/46/B", "problem_id": "207726"}
+{"lang": "Java 6", "title": "46B - T-shirts from Sponsor", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/46/B", "problem_id": "207706"}
+{"lang": "Java 6", "title": "46B - T-shirts from Sponsor", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/46/B", "problem_id": "207692"}
+{"lang": "Java 6", "title": "46A - Ball Game", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/46/A", "problem_id": "207199"}
+{"lang": "Python 2", "title": "41A - Translation", "time": "60ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/41/A", "problem_id": "190740"}
+{"lang": "Python 2", "title": "41A - Translation", "time": "50ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/41/A", "problem_id": "190739"}
+{"lang": "Python 2", "title": "43B - Letter", "time": "50ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/43/B", "problem_id": "205339"}
+{"lang": "Python 2", "title": "43B - Letter", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "2700KB", "problem_link": "/problemset/problem/43/B", "problem_id": "205338"}
+{"lang": "Python 2", "title": "43A - Football", "time": "60ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/43/A", "problem_id": "204868"}
+{"lang": "Python 2", "title": "43A - Football", "time": "50ms", "verdict": "RUNTIME_ERROR", "memory": "2700KB", "problem_link": "/problemset/problem/43/A", "problem_id": "204865"}
+{"lang": "Python 2", "title": "43A - Football", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "2800KB", "problem_link": "/problemset/problem/43/A", "problem_id": "204863"}
+{"lang": "Java 6", "title": "43B - Letter", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/43/B", "problem_id": "204765"}
+{"lang": "Java 6", "title": "43A - Football", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/43/A", "problem_id": "204751"}
+{"lang": "Python 2", "title": "4A - Watermelon", "time": "50ms", "verdict": "OK", "memory": "2700KB", "problem_link": "/problemset/problem/4/A", "problem_id": "21380"}
+{"lang": "Python 2", "title": "4A - Watermelon", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "2700KB", "problem_link": "/problemset/problem/4/A", "problem_id": "21379"}
+{"lang": "Java 6", "title": "42A - Guilty --- to the kitchen!", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/42/A", "problem_id": "199485"}
+{"lang": "Java 6", "title": "45A - Codecraft III", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/45/A", "problem_id": "195119"}
+{"lang": "Java 6", "title": "45A - Codecraft III", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/45/A", "problem_id": "191212"}
+{"lang": "Java 6", "title": "41E - 3-cycles", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/41/E", "problem_id": "188730"}
+{"lang": "Java 6", "title": "41B - Martian Dollar", "time": "200ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/41/B", "problem_id": "188665"}
+{"lang": "Java 6", "title": "41B - Martian Dollar", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/41/B", "problem_id": "188628"}
+{"lang": "Java 6", "title": "41D - Pawn", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/41/D", "problem_id": "188573"}
+{"lang": "Java 6", "title": "41D - Pawn", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/41/D", "problem_id": "188496"}
+{"lang": "Java 6", "title": "41C - Email address", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/41/C", "problem_id": "187297"}
+{"lang": "Java 6", "title": "41C - Email address", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/41/C", "problem_id": "186777"}
+{"lang": "Java 6", "title": "41B - Martian Dollar", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/41/B", "problem_id": "186548"}
+{"lang": "Java 6", "title": "41A - Translation", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/41/A", "problem_id": "186089"}
+{"lang": "Java 6", "title": "44B - Cola", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/B", "problem_id": "185264"}
+{"lang": "Java 6", "title": "44B - Cola", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/B", "problem_id": "185263"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "184789"}
+{"lang": "Java 6", "title": "44C - Holidays", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/C", "problem_id": "184788"}
+{"lang": "Java 6", "title": "44A - Indian Summer", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/A", "problem_id": "184787"}
+{"lang": "Java 6", "title": "44D - Hyperdrive", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/D", "problem_id": "184048"}
+{"lang": "Java 6", "title": "44D - Hyperdrive", "time": "30ms", "verdict": "PRESENTATION_ERROR", "memory": "42100KB", "problem_link": "/problemset/problem/44/D", "problem_id": "184044"}
+{"lang": "Java 6", "title": "44D - Hyperdrive", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/44/D", "problem_id": "183982"}
+{"lang": "Java 6", "title": "44D - Hyperdrive", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/D", "problem_id": "183967"}
+{"lang": "Java 6", "title": "44B - Cola", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/B", "problem_id": "183597"}
+{"lang": "Java 6", "title": "44B - Cola", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/B", "problem_id": "183524"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "183106"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182970"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182961"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182909"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182864"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182848"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182824"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182813"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182791"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "1920ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182623"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "1910ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182584"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "50ms", "verdict": "PRESENTATION_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182570"}
+{"lang": "Java 6", "title": "44E - Anfisa the Monkey", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/44/E", "problem_id": "182536"}
+{"lang": "Java 6", "title": "44C - Holidays", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/C", "problem_id": "182073"}
+{"lang": "Java 6", "title": "44A - Indian Summer", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/44/A", "problem_id": "181456"}
+{"lang": "GNU C++", "title": "44A - Indian Summer", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/44/A", "problem_id": "181447"}
+{"lang": "GNU C++", "title": "40B - Repaintings", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180491"}
+{"lang": "GNU C", "title": "40B - Repaintings", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180489"}
+{"lang": "GNU C", "title": "40B - Repaintings", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180487"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180484"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180475"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180466"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180461"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180458"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180457"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180456"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180455"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180426"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180416"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180410"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180403"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180401"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180399"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180395"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180387"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "180385"}
+{"lang": "Java 6", "title": "40B - Repaintings", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/B", "problem_id": "180186"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "177903"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "177877"}
+{"lang": "Java 6", "title": "40A - Find Color", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/40/A", "problem_id": "177828"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11730"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11729"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11728"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11727"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11726"}
+{"lang": "Java 6", "title": "38C - Blinds", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/C", "problem_id": "175535"}
+{"lang": "Java 6", "title": "38B - Chess", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/B", "problem_id": "175533"}
+{"lang": "Java 6", "title": "38A - Army", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/A", "problem_id": "175532"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "200ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "175530"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "175238"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "175208"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "175191"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "175186"}
+{"lang": "Java 6", "title": "38C - Blinds", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/C", "problem_id": "175086"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "174187"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/38/E", "problem_id": "174184"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "174109"}
+{"lang": "Java 6", "title": "38E - Let's Go Rolling!", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/38/E", "problem_id": "174101"}
+{"lang": "Java 6", "title": "38B - Chess", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/B", "problem_id": "173217"}
+{"lang": "Java 6", "title": "38B - Chess", "time": "50ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/38/B", "problem_id": "173185"}
+{"lang": "Java 6", "title": "38A - Army", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/38/A", "problem_id": "172612"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11634"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11633"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11632"}
+{"lang": "Java 6", "title": "2A - Winner", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "11631"}
+{"lang": "Java 6", "title": "31C - Schedule", "time": "500ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/31/C", "problem_id": "137421"}
+{"lang": "Java 6", "title": "31C - Schedule", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/C", "problem_id": "137420"}
+{"lang": "Java 6", "title": "31B - Sysadmin Bob", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/B", "problem_id": "137419"}
+{"lang": "Java 6", "title": "31B - Sysadmin Bob", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/B", "problem_id": "137418"}
+{"lang": "Java 6", "title": "31B - Sysadmin Bob", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/B", "problem_id": "137417"}
+{"lang": "Java 6", "title": "31A - Worms Evolution", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/31/A", "problem_id": "137416"}
+{"lang": "Java 6", "title": "31A - Worms Evolution", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/A", "problem_id": "137415"}
+{"lang": "Java 6", "title": "39D - Cubical Planet", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/39/D", "problem_id": "164239"}
+{"lang": "Java 6", "title": "37B - Computer Game", "time": "140ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/37/B", "problem_id": "168762"}
+{"lang": "Java 6", "title": "39H - Multiplication Table", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/39/H", "problem_id": "164235"}
+{"lang": "Java 6", "title": "37C - Old Berland Language", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/37/C", "problem_id": "167125"}
+{"lang": "Java 6", "title": "37C - Old Berland Language", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/37/C", "problem_id": "166635"}
+{"lang": "Java 6", "title": "37A - Towers", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/37/A", "problem_id": "165578"}
+{"lang": "Java 6", "title": "39B - Company Income Growth", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/39/B", "problem_id": "164194"}
+{"lang": "Java 6", "title": "36B - Fractal", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/36/B", "problem_id": "159470"}
+{"lang": "Java 6", "title": "36A - Extra-terrestrial Intelligence", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/36/A", "problem_id": "159469"}
+{"lang": "Java 6", "title": "35D - Animals", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/35/D", "problem_id": "155639"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "130ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/35/A", "problem_id": "155622"}
+{"lang": "Java 6", "title": "35C - Fire Again", "time": "1910ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/35/C", "problem_id": "155620"}
+{"lang": "Java 6", "title": "35C - Fire Again", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "42400KB", "problem_link": "/problemset/problem/35/C", "problem_id": "155619"}
+{"lang": "Java 6", "title": "35C - Fire Again", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/35/C", "problem_id": "155616"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "170ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155597"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "160ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155596"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155589"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155585"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155580"}
+{"lang": "Java 6", "title": "36B - Fractal", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42400KB", "problem_link": "/problemset/problem/36/B", "problem_id": "158470"}
+{"lang": "Java 6", "title": "36B - Fractal", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/36/B", "problem_id": "158460"}
+{"lang": "Java 6", "title": "36B - Fractal", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/36/B", "problem_id": "158148"}
+{"lang": "Java 6", "title": "36A - Extra-terrestrial Intelligence", "time": "90ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/36/A", "problem_id": "157393"}
+{"lang": "Java 6", "title": "36A - Extra-terrestrial Intelligence", "time": "0ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/36/A", "problem_id": "157389"}
+{"lang": "Java 6", "title": "35B - Warehouse", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/35/B", "problem_id": "155034"}
+{"lang": "Java 6", "title": "35C - Fire Again", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "57000KB", "problem_link": "/problemset/problem/35/C", "problem_id": "154523"}
+{"lang": "Java 6", "title": "35C - Fire Again", "time": "110ms", "verdict": "PRESENTATION_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/35/C", "problem_id": "154491"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/35/A", "problem_id": "153779"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/35/A", "problem_id": "153686"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/35/A", "problem_id": "153654"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "0ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/35/A", "problem_id": "153565"}
+{"lang": "Java 6", "title": "35A - Shell Game", "time": "0ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/35/A", "problem_id": "153424"}
+{"lang": "Java 6", "title": "34D - Road Map", "time": "270ms", "verdict": "OK", "memory": "43000KB", "problem_link": "/problemset/problem/34/D", "problem_id": "152059"}
+{"lang": "Java 6", "title": "34D - Road Map", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/34/D", "problem_id": "152058"}
+{"lang": "Java 6", "title": "34D - Road Map", "time": "280ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/34/D", "problem_id": "152057"}
+{"lang": "Java 6", "title": "32B - Borze", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/32/B", "problem_id": "141237"}
+{"lang": "Java 6", "title": "32A - Reconnaissance", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/32/A", "problem_id": "141236"}
+{"lang": "Java 6", "title": "34E - Collisions", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/34/E", "problem_id": "151857"}
+{"lang": "Java 6", "title": "34E - Collisions", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/34/E", "problem_id": "151851"}
+{"lang": "Java 6", "title": "34E - Collisions", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/34/E", "problem_id": "151832"}
+{"lang": "Java 6", "title": "34E - Collisions", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/34/E", "problem_id": "151831"}
+{"lang": "Java 6", "title": "34C - Page Numbers", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/34/C", "problem_id": "150967"}
+{"lang": "Java 6", "title": "34C - Page Numbers", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/34/C", "problem_id": "150434"}
+{"lang": "Java 6", "title": "34D - Road Map", "time": "380ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/34/D", "problem_id": "149891"}
+{"lang": "Java 6", "title": "34C - Page Numbers", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/34/C", "problem_id": "149366"}
+{"lang": "Java 6", "title": "34B - Sale", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/34/B", "problem_id": "148601"}
+{"lang": "Java 6", "title": "34A - Reconnaissance 2", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/34/A", "problem_id": "148210"}
+{"lang": "Java 6", "title": "34A - Reconnaissance 2", "time": "90ms", "verdict": "SKIPPED", "memory": "42300KB", "problem_link": "/problemset/problem/34/A", "problem_id": "148051"}
+{"lang": "Java 6", "title": "33C - Wonderful Randomized Sum", "time": "380ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/C", "problem_id": "146801"}
+{"lang": "Java 6", "title": "33C - Wonderful Randomized Sum", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/33/C", "problem_id": "146800"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "145663"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "145662"}
+{"lang": "Java 6", "title": "33D - Knights", "time": "1660ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/33/D", "problem_id": "145634"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "145615"}
+{"lang": "Java 6", "title": "33D - Knights", "time": "1130ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/33/D", "problem_id": "145285"}
+{"lang": "Java 6", "title": "33D - Knights", "time": "1110ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/33/D", "problem_id": "145247"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "145238"}
+{"lang": "Java 6", "title": "33B - String Problem", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/33/B", "problem_id": "145236"}
+{"lang": "Java 6", "title": "33B - String Problem", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42400KB", "problem_link": "/problemset/problem/33/B", "problem_id": "145227"}
+{"lang": "Java 6", "title": "33B - String Problem", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42400KB", "problem_link": "/problemset/problem/33/B", "problem_id": "145214"}
+{"lang": "Java 6", "title": "33B - String Problem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/33/B", "problem_id": "145177"}
+{"lang": "Java 6", "title": "33B - String Problem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/33/B", "problem_id": "145087"}
+{"lang": "Java 6", "title": "33D - Knights", "time": "1340ms", "verdict": "WRONG_ANSWER", "memory": "42500KB", "problem_link": "/problemset/problem/33/D", "problem_id": "144248"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "110ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "142381"}
+{"lang": "Java 6", "title": "33A - What is for dinner?", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/33/A", "problem_id": "142325"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "131209"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "131202"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "131197"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "131191"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "130837"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "130736"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "130704"}
+{"lang": "Java 6", "title": "30B - Codeforces World Finals", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/B", "problem_id": "130290"}
+{"lang": "Java 6", "title": "30A - Accounting", "time": "90ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/30/A", "problem_id": "130050"}
+{"lang": "Java 6", "title": "30A - Accounting", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/30/A", "problem_id": "130023"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "1510ms", "verdict": "OK", "memory": "74400KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126131"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "53500KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126130"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "53500KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126129"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "53500KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126127"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "1550ms", "verdict": "OK", "memory": "74400KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126122"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41900KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126118"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41900KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126116"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56300KB", "problem_link": "/problemset/problem/29/C", "problem_id": "126111"}
+{"lang": "Java 6", "title": "29D - Ant on the Tree", "time": "270ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/29/D", "problem_id": "125462"}
+{"lang": "Java 6", "title": "29C - Mail Stamps", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "53500KB", "problem_link": "/problemset/problem/29/C", "problem_id": "124940"}
+{"lang": "Java 6", "title": "29B - Traffic Lights", "time": "80ms", "verdict": "CHALLENGED", "memory": "41900KB", "problem_link": "/problemset/problem/29/B", "problem_id": "124698"}
+{"lang": "Java 6", "title": "29A - Spit Problem", "time": "90ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/29/A", "problem_id": "124315"}
+{"lang": "Java 6", "title": "27B - Tournament", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41900KB", "problem_link": "/problemset/problem/27/B", "problem_id": "121522"}
+{"lang": "Java 6", "title": "27B - Tournament", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41900KB", "problem_link": "/problemset/problem/27/B", "problem_id": "121521"}
+{"lang": "Java 6", "title": "27A - Next Test", "time": "90ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/27/A", "problem_id": "121412"}
+{"lang": "Java 6", "title": "27B - Tournament", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/27/B", "problem_id": "119077"}
+{"lang": "Java 6", "title": "27B - Tournament", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/27/B", "problem_id": "119062"}
+{"lang": "Java 6", "title": "27A - Next Test", "time": "60ms", "verdict": "CHALLENGED", "memory": "41900KB", "problem_link": "/problemset/problem/27/A", "problem_id": "119058"}
+{"lang": "Java 6", "title": "14D - Two Paths", "time": "140ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/14/D", "problem_id": "64828"}
+{"lang": "Java 6", "title": "26A - Almost Prime", "time": "110ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/26/A", "problem_id": "115100"}
+{"lang": "Java 6", "title": "26B - Regular Bracket Sequence", "time": "220ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/26/B", "problem_id": "114985"}
+{"lang": "Java 6", "title": "26B - Regular Bracket Sequence", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/26/B", "problem_id": "114353"}
+{"lang": "Java 6", "title": "26B - Regular Bracket Sequence", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/26/B", "problem_id": "114291"}
+{"lang": "Java 6", "title": "26A - Almost Prime", "time": "130ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/26/A", "problem_id": "114034"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "520ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "110171"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "550ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "110158"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "520ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "109799"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "500ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108652"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108617"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108563"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108490"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108445"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108426"}
+{"lang": "Java 6", "title": "25C - Roads in Berland", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/25/C", "problem_id": "108344"}
+{"lang": "Java 6", "title": "25B - Phone numbers", "time": "80ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/25/B", "problem_id": "107450"}
+{"lang": "Java 6", "title": "25A - IQ test", "time": "80ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/25/A", "problem_id": "107220"}
+{"lang": "Java 6", "title": "23C - Oranges and Apples", "time": "310ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/23/C", "problem_id": "99464"}
+{"lang": "Java 6", "title": "23C - Oranges and Apples", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/23/C", "problem_id": "99461"}
+{"lang": "Java 6", "title": "23C - Oranges and Apples", "time": "300ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/23/C", "problem_id": "99448"}
+{"lang": "Java 6", "title": "23B - Party", "time": "610ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/23/B", "problem_id": "98529"}
+{"lang": "Java 6", "title": "23A - You're Given a String...", "time": "90ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/23/A", "problem_id": "97550"}
+{"lang": "Java 6", "title": "21B - Intersection", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41900KB", "problem_link": "/problemset/problem/21/B", "problem_id": "92141"}
+{"lang": "Java 6", "title": "21B - Intersection", "time": "80ms", "verdict": "CHALLENGED", "memory": "41900KB", "problem_link": "/problemset/problem/21/B", "problem_id": "91929"}
+{"lang": "Java 6", "title": "21A - Jabber ID", "time": "90ms", "verdict": "OK", "memory": "41900KB", "problem_link": "/problemset/problem/21/A", "problem_id": "91397"}
+{"lang": "Java 6", "title": "19A - World Football Cup", "time": "140ms", "verdict": "OK", "memory": "42000KB", "problem_link": "/problemset/problem/19/A", "problem_id": "87950"}
+{"lang": "Java 6", "title": "19A - World Football Cup", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42000KB", "problem_link": "/problemset/problem/19/A", "problem_id": "87910"}
+{"lang": "Java 6", "title": "19A - World Football Cup", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42000KB", "problem_link": "/problemset/problem/19/A", "problem_id": "87390"}
+{"lang": "Java 6", "title": "18C - Stripe", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/C", "problem_id": "82094"}
+{"lang": "Java 6", "title": "18C - Stripe", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/C", "problem_id": "82004"}
+{"lang": "Java 6", "title": "18C - Stripe", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/C", "problem_id": "81947"}
+{"lang": "Java 6", "title": "18B - Platforms", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/B", "problem_id": "81270"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "80ms", "verdict": "OK", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "80141"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "80067"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "80033"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "90ms", "verdict": "OK", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76564"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "80ms", "verdict": "OK", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76561"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76287"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76281"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76060"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76051"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "76001"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75988"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75548"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75363"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75347"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75309"}
+{"lang": "Java 6", "title": "17A - Noldbach problem", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/17/A", "problem_id": "75286"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72618"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "90ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "72596"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "72574"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "110ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72213"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72192"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72164"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72130"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72074"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72017"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "72009"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71965"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71808"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71777"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71767"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "71572"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "71533"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "71516"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "71472"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "71351"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71168"}
+{"lang": "Java 6", "title": "16D - Logging", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41300KB", "problem_link": "/problemset/problem/16/D", "problem_id": "71138"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "70554"}
+{"lang": "Java 6", "title": "16C - Monitor", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/16/C", "problem_id": "70393"}
+{"lang": "Java 6", "title": "16B - Burglar and Matches", "time": "90ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/16/B", "problem_id": "70206"}
+{"lang": "Java 6", "title": "16A - Flag", "time": "90ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/16/A", "problem_id": "69854"}
+{"lang": "Java 6", "title": "4A - Watermelon", "time": "80ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/4/A", "problem_id": "19949"}
+{"lang": "Java 6", "title": "4A - Watermelon", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/4/A", "problem_id": "19948"}
+{"lang": "Java 6", "title": "15C - Industrial Nim", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/C", "problem_id": "68260"}
+{"lang": "Java 6", "title": "15C - Industrial Nim", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "41200KB", "problem_link": "/problemset/problem/15/C", "problem_id": "68253"}
+{"lang": "Java 6", "title": "15C - Industrial Nim", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/C", "problem_id": "68251"}
+{"lang": "Java 6", "title": "15C - Industrial Nim", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/C", "problem_id": "68250"}
+{"lang": "Java 6", "title": "15B - Laser", "time": "380ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/15/B", "problem_id": "68150"}
+{"lang": "Java 6", "title": "15B - Laser", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/B", "problem_id": "68148"}
+{"lang": "Java 6", "title": "15B - Laser", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/B", "problem_id": "68142"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "140ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68080"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "160ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68077"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68075"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "160ms", "verdict": "OK", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68072"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68069"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68064"}
+{"lang": "Java 6", "title": "15A - Cottage Village", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "41200KB", "problem_link": "/problemset/problem/15/A", "problem_id": "68037"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "110ms", "verdict": "OK", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63432"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63431"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63428"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63413"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63386"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63370"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "110ms", "verdict": "RUNTIME_ERROR", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63354"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63352"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63264"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "63208"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "62775"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "62690"}
+{"lang": "Java 6", "title": "14C - Four Segments", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/14/C", "problem_id": "62662"}
+{"lang": "Java 6", "title": "14B - Young Photographer", "time": "90ms", "verdict": "OK", "memory": "33000KB", "problem_link": "/problemset/problem/14/B", "problem_id": "62109"}
+{"lang": "Java 6", "title": "14B - Young Photographer", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/14/B", "problem_id": "62036"}
+{"lang": "Java 6", "title": "14A - Letter", "time": "130ms", "verdict": "OK", "memory": "33000KB", "problem_link": "/problemset/problem/14/A", "problem_id": "61452"}
+{"lang": "Java 6", "title": "14A - Letter", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/14/A", "problem_id": "61351"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "90ms", "verdict": "OK", "memory": "33000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "58964"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "57531"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "57331"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "33000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "56243"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "56223"}
+{"lang": "Java 6", "title": "13A - Numbers", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/13/A", "problem_id": "56163"}
+{"lang": "Java 6", "title": "12A - Super Agent", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/12/A", "problem_id": "52950"}
+{"lang": "Java 6", "title": "12A - Super Agent", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/12/A", "problem_id": "52943"}
+{"lang": "Java 6", "title": "12D - Ball", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/12/D", "problem_id": "51791"}
+{"lang": "Java 6", "title": "12D - Ball", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/12/D", "problem_id": "51778"}
+{"lang": "Java 6", "title": "12C - Fruits", "time": "90ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/12/C", "problem_id": "51377"}
+{"lang": "Java 6", "title": "12B - Correct Solution?", "time": "80ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/12/B", "problem_id": "50820"}
+{"lang": "Java 6", "title": "12A - Super Agent", "time": "90ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/12/A", "problem_id": "50511"}
+{"lang": "Java 6", "title": "12A - Super Agent", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/12/A", "problem_id": "50495"}
+{"lang": "Java 6", "title": "11B - Jumping Jack", "time": "90ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/11/B", "problem_id": "49013"}
+{"lang": "Java 6", "title": "11A - Increasing Sequence", "time": "90ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/11/A", "problem_id": "48982"}
+{"lang": "Java 6", "title": "11C - How Many Squares?", "time": "380ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/11/C", "problem_id": "48975"}
+{"lang": "Java 6", "title": "11C - How Many Squares?", "time": "250ms", "verdict": "WRONG_ANSWER", "memory": "30100KB", "problem_link": "/problemset/problem/11/C", "problem_id": "48960"}
+{"lang": "Java 6", "title": "11A - Increasing Sequence", "time": "110ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/11/A", "problem_id": "46877"}
+{"lang": "Java 6", "title": "11A - Increasing Sequence", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "30100KB", "problem_link": "/problemset/problem/11/A", "problem_id": "46777"}
+{"lang": "Java 6", "title": "11A - Increasing Sequence", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/11/A", "problem_id": "46702"}
+{"lang": "Java 6", "title": "10A - Power Consumption Calculation", "time": "90ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/10/A", "problem_id": "45350"}
+{"lang": "Java 6", "title": "10A - Power Consumption Calculation", "time": "80ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/10/A", "problem_id": "45276"}
+{"lang": "Java 6", "title": "9B - Running Student", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/9/B", "problem_id": "39844"}
+{"lang": "Java 6", "title": "9B - Running Student", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30100KB", "problem_link": "/problemset/problem/9/B", "problem_id": "39790"}
+{"lang": "Java 6", "title": "9B - Running Student", "time": "30ms", "verdict": "PRESENTATION_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/9/B", "problem_id": "39779"}
+{"lang": "Java 6", "title": "9A - Die Roll", "time": "90ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/9/A", "problem_id": "39053"}
+{"lang": "Java 6", "title": "9A - Die Roll", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/9/A", "problem_id": "38994"}
+{"lang": "Java 6", "title": "9A - Die Roll", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/9/A", "problem_id": "38965"}
+{"lang": "Java 6", "title": "8C - Looking for Order", "time": "7500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "30000KB", "problem_link": "/problemset/problem/8/C", "problem_id": "37374"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "160ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "37146"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "36948"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "36693"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "36641"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "36424"}
+{"lang": "Java 6", "title": "8B - Obsession with Robots", "time": "80ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/8/B", "problem_id": "35540"}
+{"lang": "Java 6", "title": "8B - Obsession with Robots", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/B", "problem_id": "35372"}
+{"lang": "Java 6", "title": "8B - Obsession with Robots", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/B", "problem_id": "35282"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "34792"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "34462"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "34356"}
+{"lang": "Java 6", "title": "8A - Train and Peter", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/8/A", "problem_id": "34304"}
+{"lang": "Java 6", "title": "7B - Memory Manager", "time": "90ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "32015"}
+{"lang": "Java 6", "title": "7B - Memory Manager", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "31779"}
+{"lang": "Java 6", "title": "7B - Memory Manager", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "31616"}
+{"lang": "Java 6", "title": "7B - Memory Manager", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/7/B", "problem_id": "31390"}
+{"lang": "Java 6", "title": "7A - Kalevitch and Chess", "time": "80ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/7/A", "problem_id": "29480"}
+{"lang": "Java 6", "title": "6C - Alice, Bob and Chocolate", "time": "250ms", "verdict": "OK", "memory": "32300KB", "problem_link": "/problemset/problem/6/C", "problem_id": "27428"}
+{"lang": "Java 6", "title": "6C - Alice, Bob and Chocolate", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/6/C", "problem_id": "27425"}
+{"lang": "Java 6", "title": "6B - President's Office", "time": "90ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/6/B", "problem_id": "27413"}
+{"lang": "Java 6", "title": "6B - President's Office", "time": "30ms", "verdict": "PRESENTATION_ERROR", "memory": "30000KB", "problem_link": "/problemset/problem/6/B", "problem_id": "27412"}
+{"lang": "Java 6", "title": "6A - Triangle", "time": "80ms", "verdict": "OK", "memory": "30000KB", "problem_link": "/problemset/problem/6/A", "problem_id": "27360"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1810ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18583"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18582"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18581"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1310ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18580"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1030ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18579"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18578"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18577"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1010ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18576"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18575"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1050ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18574"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18571"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18570"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1030ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18569"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18567"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18562"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1010ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18561"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18558"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18557"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18555"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18554"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18553"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1010ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18552"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "980ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18551"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18550"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18548"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18547"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18546"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18545"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18543"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1300ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18542"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18541"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1050ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18540"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18537"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18536"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18533"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18531"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "950ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18530"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18529"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18516"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18515"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18506"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1000ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18505"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1050ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18500"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "1010ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18499"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18494"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18481"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18474"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18468"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18461"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18460"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18432"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18429"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18427"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18422"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18421"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18419"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18417"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18410"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "29300KB", "problem_link": "/problemset/problem/4/D", "problem_id": "18407"}
+{"lang": "Java 6", "title": "4C - Registration System", "time": "840ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/4/C", "problem_id": "17653"}
+{"lang": "Java 6", "title": "4D - Mysterious Present", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/4/D", "problem_id": "17549"}
+{"lang": "Java 6", "title": "4C - Registration System", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/4/C", "problem_id": "17233"}
+{"lang": "Java 6", "title": "4B - Before an Exam", "time": "90ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/4/B", "problem_id": "17131"}
+{"lang": "Java 6", "title": "4A - Watermelon", "time": "80ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "16632"}
+{"lang": "Java 6", "title": "3B - Lorry", "time": "60ms", "verdict": "PRESENTATION_ERROR", "memory": "29900KB", "problem_link": "/problemset/problem/3/B", "problem_id": "13120"}
+{"lang": "Java 6", "title": "3B - Lorry", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/3/B", "problem_id": "13097"}
+{"lang": "Java 6", "title": "3B - Lorry", "time": "90ms", "verdict": "PRESENTATION_ERROR", "memory": "29900KB", "problem_link": "/problemset/problem/3/B", "problem_id": "13045"}
+{"lang": "Java 6", "title": "3B - Lorry", "time": "80ms", "verdict": "PRESENTATION_ERROR", "memory": "29900KB", "problem_link": "/problemset/problem/3/B", "problem_id": "12992"}
+{"lang": "Java 6", "title": "3B - Lorry", "time": "80ms", "verdict": "PRESENTATION_ERROR", "memory": "29900KB", "problem_link": "/problemset/problem/3/B", "problem_id": "12928"}
+{"lang": "Java 6", "title": "3A - Shortest path of the king", "time": "90ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/3/A", "problem_id": "12325"}
+{"lang": "Java 6", "title": "3A - Shortest path of the king", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/3/A", "problem_id": "12302"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "90ms", "verdict": "OK", "memory": "29900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "1494"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "1492"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "1491"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "1490"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "29900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "1489"}

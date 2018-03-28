@@ -1,0 +1,58 @@
+{"lang": "GNU C++14", "title": "224A - Parallelepiped", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/224/A", "problem_id": "25109782"}
+{"lang": "GNU C++14", "title": "588A - Duff and Meat", "time": "202ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/588/A", "problem_id": "25109453"}
+{"lang": "GNU C++14", "title": "59A - Word", "time": "30ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/59/A", "problem_id": "25108448"}
+{"lang": "GNU C++14", "title": "520A - Pangram", "time": "15ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/520/A", "problem_id": "25108337"}
+{"lang": "GNU C++14", "title": "427B - Prison Transfer", "time": "374ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/427/B", "problem_id": "24899733"}
+{"lang": "GNU C++14", "title": "761A - Dasha and Stairs", "time": "15ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/761/A", "problem_id": "24896318"}
+{"lang": "GNU C++14", "title": "761A - Dasha and Stairs", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/761/A", "problem_id": "24896196"}
+{"lang": "GNU C++14", "title": "761A - Dasha and Stairs", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/761/A", "problem_id": "24896104"}
+{"lang": "GNU C++14", "title": "761A - Dasha and Stairs", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/761/A", "problem_id": "24896079"}
+{"lang": "GNU C++14", "title": "100989C - 1D Cafeteria (A)", "time": "31ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/gymProblem/100989/C", "problem_id": "24895544"}
+{"lang": "GNU C++14", "title": "124A - The number of positions", "time": "30ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/124/A", "problem_id": "24893875"}
+{"lang": "GNU C++14", "title": "318A - Even Odds", "time": "30ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/318/A", "problem_id": "24893387"}
+{"lang": "GNU C++14", "title": "318A - Even Odds", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/318/A", "problem_id": "24876061"}
+{"lang": "GNU C++14", "title": "318A - Even Odds", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/318/A", "problem_id": "24876012"}
+{"lang": "GNU C++14", "title": "318A - Even Odds", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8800KB", "problem_link": "/problemset/problem/318/A", "problem_id": "24874709"}
+{"lang": "GNU C++11", "title": "124A - The number of positions", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/124/A", "problem_id": "24868592"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "15ms", "verdict": "OK", "memory": "1900KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24853712"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24842835"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24840822"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24840411"}
+{"lang": "GNU C++", "title": "282A - Bit++", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24839752"}
+{"lang": "GNU C11", "title": "282A - Bit++", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24839646"}
+{"lang": "GNU C", "title": "282A - Bit++", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24839593"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24837133"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24836202"}
+{"lang": "GNU C++14", "title": "282A - Bit++", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1900KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24831689"}
+{"lang": "GNU C++11", "title": "282A - Bit++", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/282/A", "problem_id": "24831232"}
+{"lang": "GNU C++11", "title": "231A - Team", "time": "30ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/231/A", "problem_id": "24825562"}
+{"lang": "GNU C++11", "title": "100814F - Geometry", "time": "0ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/gymProblem/100814/F", "problem_id": "24809337"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "60ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24424000"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24423991"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "92ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24423974"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24423955"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24423839"}
+{"lang": "PHP", "title": "71A - Way Too Long Words", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/71/A", "problem_id": "24423625"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422178"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422164"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422153"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "60ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422115"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422090"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422043"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24422022"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421991"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421937"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "92ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421918"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421910"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421393"}
+{"lang": "PHP", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/4/A", "problem_id": "24421319"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24419475"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24419441"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24419333"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24419245"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418961"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418539"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418522"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418416"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418319"}
+{"lang": "PHP", "title": "1A - Theatre Square", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "5900KB", "problem_link": "/problemset/problem/1/A", "problem_id": "24418200"}

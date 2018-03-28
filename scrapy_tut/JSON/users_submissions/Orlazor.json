@@ -1,0 +1,143 @@
+{"lang": "Python 3", "title": "550A - Two Substrings", "time": "109ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/550/A", "problem_id": "30307030"}
+{"lang": "Python 3", "title": "550A - Two Substrings", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "900KB", "problem_link": "/problemset/problem/550/A", "problem_id": "30306973"}
+{"lang": "Python 3", "title": "749A - Bachgold Problem", "time": "62ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/749/A", "problem_id": "30284936"}
+{"lang": "Python 3", "title": "621A - Wet Shark and Odd and Even", "time": "124ms", "verdict": "OK", "memory": "8300KB", "problem_link": "/problemset/problem/621/A", "problem_id": "29503695"}
+{"lang": "Python 3", "title": "621A - Wet Shark and Odd and Even", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "8300KB", "problem_link": "/problemset/problem/621/A", "problem_id": "29503266"}
+{"lang": "Python 3", "title": "621A - Wet Shark and Odd and Even", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "7900KB", "problem_link": "/problemset/problem/621/A", "problem_id": "29503199"}
+{"lang": "Python 3", "title": "456A - Laptops", "time": "436ms", "verdict": "OK", "memory": "16400KB", "problem_link": "/problemset/problem/456/A", "problem_id": "29499793"}
+{"lang": "Python 3", "title": "4A - Watermelon", "time": "122ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "28922643"}
+{"lang": "Python 3", "title": "4A - Watermelon", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "28922598"}
+{"lang": "Python 3", "title": "4A - Watermelon", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "28922527"}
+{"lang": "Python 3", "title": "3C - Tic-tac-toe", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "5000KB", "problem_link": "/problemset/problem/3/C", "problem_id": "28901695"}
+{"lang": "Python 3", "title": "3C - Tic-tac-toe", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "5000KB", "problem_link": "/problemset/problem/3/C", "problem_id": "28901534"}
+{"lang": "Python 3", "title": "3C - Tic-tac-toe", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "5000KB", "problem_link": "/problemset/problem/3/C", "problem_id": "28896610"}
+{"lang": "Python 3", "title": "3C - Tic-tac-toe", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "4900KB", "problem_link": "/problemset/problem/3/C", "problem_id": "28896518"}
+{"lang": "Python 2", "title": "3A - Shortest path of the king", "time": "122ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/3/A", "problem_id": "28745704"}
+{"lang": "Python 2", "title": "1B - Spreadsheet", "time": "1870ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28665251"}
+{"lang": "Python 2", "title": "1B - Spreadsheet", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "4600KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28665026"}
+{"lang": "Python 3", "title": "1B - Spreadsheet", "time": "2652ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28664316"}
+{"lang": "Python 3", "title": "734A - Anton and Danik", "time": "62ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/734/A", "problem_id": "28636806"}
+{"lang": "Python 3", "title": "1B - Spreadsheet", "time": "122ms", "verdict": "RUNTIME_ERROR", "memory": "5000KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28636524"}
+{"lang": "Python 3", "title": "1B - Spreadsheet", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28636417"}
+{"lang": "Python 3", "title": "1B - Spreadsheet", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "5000KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28635561"}
+{"lang": "Python 3", "title": "1B - Spreadsheet", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "5000KB", "problem_link": "/problemset/problem/1/B", "problem_id": "28635352"}
+{"lang": "Python 2", "title": "805B - 3-palindrome", "time": "46ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/805/B", "problem_id": "27212265"}
+{"lang": "Python 2", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/230/B", "problem_id": "27192586"}
+{"lang": "Python 2", "title": "230B - T-primes", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/B", "problem_id": "27192228"}
+{"lang": "Python 2", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/230/B", "problem_id": "27192051"}
+{"lang": "Python 2", "title": "579A - Raising Bacteria", "time": "61ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/579/A", "problem_id": "27180674"}
+{"lang": "Python 2", "title": "758A - Holiday Of Equality", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/758/A", "problem_id": "27050888"}
+{"lang": "Python 3", "title": "333A - Secrets", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/333/A", "problem_id": "26808994"}
+{"lang": "Python 3", "title": "333A - Secrets", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/333/A", "problem_id": "26808981"}
+{"lang": "Python 3", "title": "333A - Secrets", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/333/A", "problem_id": "26807556"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/723/A", "problem_id": "26802718"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/723/A", "problem_id": "26802619"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/723/A", "problem_id": "26802558"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/723/A", "problem_id": "26802285"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/723/A", "problem_id": "26802257"}
+{"lang": "Python 2", "title": "455A - Boredom", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "26704754"}
+{"lang": "Python 2", "title": "567B - Berland National Library", "time": "46ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/567/B", "problem_id": "26659304"}
+{"lang": "Python 3", "title": "567B - Berland National Library", "time": "62ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/567/B", "problem_id": "26659292"}
+{"lang": "Python 3", "title": "567B - Berland National Library", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/567/B", "problem_id": "26659280"}
+{"lang": "Python 3", "title": "567B - Berland National Library", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/567/B", "problem_id": "26659267"}
+{"lang": "Python 2", "title": "455A - Boredom", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/455/A", "problem_id": "20336849"}
+{"lang": "Python 2", "title": "455A - Boredom", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "328600KB", "problem_link": "/problemset/problem/455/A", "problem_id": "20336693"}
+{"lang": "Python 2", "title": "556A - Case of the Zeros and Ones", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/556/A", "problem_id": "20336327"}
+{"lang": "Python 2", "title": "556A - Case of the Zeros and Ones", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "500KB", "problem_link": "/problemset/problem/556/A", "problem_id": "20336269"}
+{"lang": "Python 2", "title": "556A - Case of the Zeros and Ones", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "500KB", "problem_link": "/problemset/problem/556/A", "problem_id": "20336204"}
+{"lang": "Python 2", "title": "556A - Case of the Zeros and Ones", "time": "295ms", "verdict": "OK", "memory": "3600KB", "problem_link": "/problemset/problem/556/A", "problem_id": "20336082"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17887333"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17887317"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17887169"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4600KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17887167"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17887155"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17885349"}
+{"lang": "Python 2", "title": "673A - Bear and Game", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17885343"}
+{"lang": "Python 2", "title": "672A - Summer Camp", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/672/A", "problem_id": "17871426"}
+{"lang": "Python 2", "title": "664B - Rebus", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17386263"}
+{"lang": "Python 2", "title": "664B - Rebus", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17385857"}
+{"lang": "Python 2", "title": "664B - Rebus", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17385843"}
+{"lang": "Python 2", "title": "664B - Rebus", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17384351"}
+{"lang": "Python 2", "title": "664A - Complicated GCD", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17384060"}
+{"lang": "Python 2", "title": "664A - Complicated GCD", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17384054"}
+{"lang": "Python 2", "title": "664A - Complicated GCD", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17384030"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12759637"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12759380"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12759202"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12757174"}
+{"lang": "Python 2", "title": "574B - Bear and Three Musketeers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12755526"}
+{"lang": "Python 2", "title": "574A - Bear and Elections", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/574/A", "problem_id": "12751194"}
+{"lang": "Python 2", "title": "567A - Lineland Mail", "time": "499ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/567/A", "problem_id": "12374063"}
+{"lang": "Python 2", "title": "567A - Lineland Mail", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/567/A", "problem_id": "12373986"}
+{"lang": "Python 2", "title": "567A - Lineland Mail", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5200KB", "problem_link": "/problemset/problem/567/A", "problem_id": "12365231"}
+{"lang": "Python 2", "title": "567B - Berland National Library", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/567/B", "problem_id": "12363262"}
+{"lang": "Python 2", "title": "567B - Berland National Library", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/567/B", "problem_id": "12362624"}
+{"lang": "Python 2", "title": "535A - Tavas and Nafas", "time": "62ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/535/A", "problem_id": "10794935"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "61ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10692315"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10692042"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10692022"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10692004"}
+{"lang": "Python 2", "title": "534A - Exam", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10691955"}
+{"lang": "Python 2", "title": "527A - Playing with Paper", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "10334842"}
+{"lang": "Python 3", "title": "520A - Pangram", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10132062"}
+{"lang": "Python 3", "title": "520A - Pangram", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10132060"}
+{"lang": "Python 3", "title": "520A - Pangram", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10132049"}
+{"lang": "Python 3", "title": "519B - A and B and Compilation Errors", "time": "155ms", "verdict": "OK", "memory": "7400KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10132024"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "343ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131978"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "218ms", "verdict": "OK", "memory": "7300KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131945"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "265ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131870"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131859"}
+{"lang": "Python 3", "title": "519B - A and B and Compilation Errors", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131825"}
+{"lang": "Python 3", "title": "519B - A and B and Compilation Errors", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131815"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "218ms", "verdict": "OK", "memory": "7400KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10131570"}
+{"lang": "Python 2", "title": "520B - Two Buttons", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10116185"}
+{"lang": "Python 2", "title": "520A - Pangram", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10115674"}
+{"lang": "Python 2", "title": "520A - Pangram", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10115626"}
+{"lang": "Python 2", "title": "519D - A and B and Interesting Substrings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2300KB", "problem_link": "/problemset/problem/519/D", "problem_id": "10100840"}
+{"lang": "Python 2", "title": "519D - A and B and Interesting Substrings", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/D", "problem_id": "10100697"}
+{"lang": "Python 2", "title": "519C - A and B and Team Training", "time": "217ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "10100182"}
+{"lang": "Python 2", "title": "519C - A and B and Team Training", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "10100166"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "623ms", "verdict": "OK", "memory": "18400KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10098631"}
+{"lang": "Python 2", "title": "519B - A and B and Compilation Errors", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10098570"}
+{"lang": "Python 2", "title": "519A - A and B and Chess", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/A", "problem_id": "10097336"}
+{"lang": "Python 2", "title": "518A - Vitaly and Strings", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10049931"}
+{"lang": "Python 2", "title": "518A - Vitaly and Strings", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10031579"}
+{"lang": "Python 2", "title": "518A - Vitaly and Strings", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10031234"}
+{"lang": "Python 2", "title": "431A - Black Square", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/431/A", "problem_id": "9979746"}
+{"lang": "Python 2", "title": "431A - Black Square", "time": "124ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/431/A", "problem_id": "9979682"}
+{"lang": "Python 2", "title": "25A - IQ test", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "9936022"}
+{"lang": "Python 2", "title": "25A - IQ test", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "9935860"}
+{"lang": "Python 2", "title": "25A - IQ test", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "9935846"}
+{"lang": "Python 2", "title": "25A - IQ test", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/25/A", "problem_id": "9935839"}
+{"lang": "Python 2", "title": "515B - Drazil and His Happy Friends", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/515/B", "problem_id": "9900423"}
+{"lang": "Python 2", "title": "515A - Drazil and Date", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "9891546"}
+{"lang": "Python 2", "title": "515A - Drazil and Date", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "9890334"}
+{"lang": "Python 2", "title": "461A - Appleman and Toastman", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4000KB", "problem_link": "/problemset/problem/461/A", "problem_id": "9870482"}
+{"lang": "Python 2", "title": "461A - Appleman and Toastman", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4200KB", "problem_link": "/problemset/problem/461/A", "problem_id": "9870312"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9869667"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9856981"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9853190"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9846108"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9844709"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9842163"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9841771"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9840390"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9839946"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9839031"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9838722"}
+{"lang": "Python 2", "title": "514A - Chewba\u0441ca and Number", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "9838634"}
+{"lang": "Python 2", "title": "510A - Fox And Snake", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/510/A", "problem_id": "9815891"}
+{"lang": "Python 2", "title": "488A - Giga Tower", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/488/A", "problem_id": "9815741"}
+{"lang": "Python 2", "title": "474A - Keyboard", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/A", "problem_id": "9815233"}
+{"lang": "Python 2", "title": "474A - Keyboard", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/474/A", "problem_id": "9815206"}
+{"lang": "Python 2", "title": "443A - Anton and Letters", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "9771512"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9770183"}
+{"lang": "Python 2", "title": "513A - Game", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9770171"}
+{"lang": "Python 2", "title": "513A - Game", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9763933"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9763819"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9763062"}
+{"lang": "Python 2", "title": "513A - Game", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9756617"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9755962"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9755278"}
+{"lang": "Python 2", "title": "513A - Game", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9754357"}
+{"lang": "Python 2", "title": "513A - Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "9751230"}

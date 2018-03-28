@@ -12,10 +12,10 @@ class ProblemSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        print "ok"
         next_page = response.css('div.pagination ul li')[-1].css('a::attr(href)').extract_first()
         first = 1
         for tr in response.css('table.problems')[0].css('tr'):
+            tags = []
             if(first==1):
                 first = 0
                 continue
@@ -28,13 +28,19 @@ class ProblemSpider(scrapy.Spider):
                 status_link = tr.css('td')[-1].css('a')[0].css('::attr(href)').extract_first().strip()
             for a in tr.css('td div')[1].css('a'):
                 tag = a.css('::text').extract_first()
-                link = a.css('::attr(href)').extract_first()
+                tag_link = a.css('::attr(href)').extract_first()
+                tag = {
+                    'tag': tag,
+                    'link': tag_link
+                }
+                tags.append(tag)
             problem = {
                 'id': id,
                 'link': link,
                 'title': title,
                 'solved_times': solved_times,
-                'status_link': status_link
+                'status_link': status_link,
+                'tags': tags
             }
             print problem
             yield Problem(problem)

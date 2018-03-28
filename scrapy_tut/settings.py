@@ -22,7 +22,7 @@ NEWSPIDER_MODULE = 'scrapy_tut.spiders'
 ROBOTSTXT_OBEY = False
 
 # LOG_LEVEL
-LOG_LEVEL = 'WARNING'
+LOG_LEVEL = 'INFO'
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

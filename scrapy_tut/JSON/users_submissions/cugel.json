@@ -1,0 +1,791 @@
+{"lang": "PyPy 3", "title": "862C - Mahmoud and Ehab and the xor", "time": "171ms", "verdict": "OK", "memory": "10200KB", "problem_link": "/problemset/problem/862/C", "problem_id": "30688655"}
+{"lang": "GNU C++11", "title": "863D - Yet Another Array Queries Problem", "time": "1450ms", "verdict": "OK", "memory": "7900KB", "problem_link": "/problemset/problem/863/D", "problem_id": "30687348"}
+{"lang": "PyPy 3", "title": "863D - Yet Another Array Queries Problem", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26200KB", "problem_link": "/problemset/problem/863/D", "problem_id": "30686984"}
+{"lang": "PyPy 3", "title": "758C - Unfair Poll", "time": "109ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/758/C", "problem_id": "24033230"}
+{"lang": "PyPy 3", "title": "758C - Unfair Poll", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/758/C", "problem_id": "24033211"}
+{"lang": "PyPy 3", "title": "758C - Unfair Poll", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22800KB", "problem_link": "/problemset/problem/758/C", "problem_id": "24033032"}
+{"lang": "PyPy 3", "title": "758C - Unfair Poll", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22800KB", "problem_link": "/problemset/problem/758/C", "problem_id": "24033016"}
+{"lang": "PyPy 3", "title": "758B - Blown Garland", "time": "109ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/758/B", "problem_id": "24032717"}
+{"lang": "PyPy 3", "title": "758A - Holiday Of Equality", "time": "155ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/758/A", "problem_id": "24032609"}
+{"lang": "PyPy 3", "title": "755C - PolandBall and Forest", "time": "109ms", "verdict": "OK", "memory": "24200KB", "problem_link": "/problemset/problem/755/C", "problem_id": "23863924"}
+{"lang": "PyPy 3", "title": "755D - PolandBall and Polygon", "time": "2152ms", "verdict": "CHALLENGED", "memory": "135300KB", "problem_link": "/problemset/problem/755/D", "problem_id": "23862303"}
+{"lang": "PyPy 3", "title": "755C - PolandBall and Forest", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "23300KB", "problem_link": "/problemset/problem/755/C", "problem_id": "23855490"}
+{"lang": "PyPy 3", "title": "755B - PolandBall and Game", "time": "249ms", "verdict": "OK", "memory": "28200KB", "problem_link": "/problemset/problem/755/B", "problem_id": "23852800"}
+{"lang": "PyPy 3", "title": "755B - PolandBall and Game", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/755/B", "problem_id": "23852397"}
+{"lang": "PyPy 3", "title": "755A - PolandBall and Hypothesis", "time": "108ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/755/A", "problem_id": "23851610"}
+{"lang": "PyPy 3", "title": "755B - PolandBall and Game", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/755/B", "problem_id": "23849841"}
+{"lang": "PyPy 3", "title": "755A - PolandBall and Hypothesis", "time": "93ms", "verdict": "IDLENESS_LIMIT_EXCEEDED", "memory": "22600KB", "problem_link": "/problemset/problem/755/A", "problem_id": "23846853"}
+{"lang": "PyPy 3", "title": "753A - Santa Claus and Candies", "time": "124ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/753/A", "problem_id": "23783396"}
+{"lang": "PyPy 3", "title": "754C - Vladik and chat", "time": "218ms", "verdict": "OK", "memory": "28800KB", "problem_link": "/problemset/problem/754/C", "problem_id": "23783234"}
+{"lang": "PyPy 3", "title": "754C - Vladik and chat", "time": "155ms", "verdict": "RUNTIME_ERROR", "memory": "22600KB", "problem_link": "/problemset/problem/754/C", "problem_id": "23783116"}
+{"lang": "PyPy 3", "title": "757C - Felicity is Coming!", "time": "1918ms", "verdict": "OK", "memory": "99200KB", "problem_link": "/problemset/problem/757/C", "problem_id": "23771114"}
+{"lang": "PyPy 3", "title": "757C - Felicity is Coming!", "time": "1247ms", "verdict": "WRONG_ANSWER", "memory": "96000KB", "problem_link": "/problemset/problem/757/C", "problem_id": "23770889"}
+{"lang": "PyPy 3", "title": "757C - Felicity is Coming!", "time": "1232ms", "verdict": "WRONG_ANSWER", "memory": "96100KB", "problem_link": "/problemset/problem/757/C", "problem_id": "23770681"}
+{"lang": "PyPy 3", "title": "757C - Felicity is Coming!", "time": "1543ms", "verdict": "WRONG_ANSWER", "memory": "96100KB", "problem_link": "/problemset/problem/757/C", "problem_id": "23770113"}
+{"lang": "PyPy 3", "title": "757B - Bash's Big Day", "time": "327ms", "verdict": "OK", "memory": "29700KB", "problem_link": "/problemset/problem/757/B", "problem_id": "23769321"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "2448ms", "verdict": "OK", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23767846"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "202ms", "verdict": "RUNTIME_ERROR", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23767166"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23766026"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23765215"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23765172"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23765029"}
+{"lang": "GNU C++11", "title": "757E - Bash Plays with Functions", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "111800KB", "problem_link": "/problemset/problem/757/E", "problem_id": "23764451"}
+{"lang": "PyPy 3", "title": "757C - Felicity is Coming!", "time": "1559ms", "verdict": "WRONG_ANSWER", "memory": "88800KB", "problem_link": "/problemset/problem/757/C", "problem_id": "23755149"}
+{"lang": "Python 3", "title": "757B - Bash's Big Day", "time": "234ms", "verdict": "WRONG_ANSWER", "memory": "11500KB", "problem_link": "/problemset/problem/757/B", "problem_id": "23746810"}
+{"lang": "Python 3", "title": "757A - Gotta Catch Em' All!", "time": "78ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/757/A", "problem_id": "23740401"}
+{"lang": "Python 3", "title": "754B - Ilya and tic-tac-toe game", "time": "78ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/754/B", "problem_id": "23734204"}
+{"lang": "Python 3", "title": "754B - Ilya and tic-tac-toe game", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/754/B", "problem_id": "23734159"}
+{"lang": "Python 3", "title": "754A - Lesha and array splitting", "time": "77ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/754/A", "problem_id": "23733966"}
+{"lang": "GNU C++11", "title": "750D - New Year and Fireworks", "time": "46ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/750/D", "problem_id": "23446567"}
+{"lang": "PyPy 3", "title": "750C - New Year and Rating", "time": "452ms", "verdict": "OK", "memory": "28300KB", "problem_link": "/problemset/problem/750/C", "problem_id": "23433338"}
+{"lang": "PyPy 3", "title": "750C - New Year and Rating", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "22800KB", "problem_link": "/problemset/problem/750/C", "problem_id": "23433119"}
+{"lang": "PyPy 3", "title": "750B - New Year and North Pole", "time": "155ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/750/B", "problem_id": "23429197"}
+{"lang": "PyPy 3", "title": "750B - New Year and North Pole", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22800KB", "problem_link": "/problemset/problem/750/B", "problem_id": "23427800"}
+{"lang": "PyPy 3", "title": "750B - New Year and North Pole", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22800KB", "problem_link": "/problemset/problem/750/B", "problem_id": "23426361"}
+{"lang": "PyPy 3", "title": "750A - New Year and Hurry", "time": "109ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/750/A", "problem_id": "23422562"}
+{"lang": "PyPy 3", "title": "748E - Santa Claus and Tangerines", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "110200KB", "problem_link": "/problemset/problem/748/E", "problem_id": "23348945"}
+{"lang": "PyPy 3", "title": "748E - Santa Claus and Tangerines", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "23100KB", "problem_link": "/problemset/problem/748/E", "problem_id": "23348730"}
+{"lang": "PyPy 3", "title": "748E - Santa Claus and Tangerines", "time": "764ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/748/E", "problem_id": "23348660"}
+{"lang": "PyPy 3", "title": "748E - Santa Claus and Tangerines", "time": "467ms", "verdict": "WRONG_ANSWER", "memory": "156300KB", "problem_link": "/problemset/problem/748/E", "problem_id": "23348645"}
+{"lang": "PyPy 3", "title": "748E - Santa Claus and Tangerines", "time": "826ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/748/E", "problem_id": "23348628"}
+{"lang": "PyPy 3", "title": "748D - Santa Claus and a Palindrome", "time": "249ms", "verdict": "OK", "memory": "30100KB", "problem_link": "/problemset/problem/748/D", "problem_id": "23347817"}
+{"lang": "PyPy 3", "title": "748D - Santa Claus and a Palindrome", "time": "265ms", "verdict": "WRONG_ANSWER", "memory": "29900KB", "problem_link": "/problemset/problem/748/D", "problem_id": "23347751"}
+{"lang": "PyPy 3", "title": "748D - Santa Claus and a Palindrome", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "22800KB", "problem_link": "/problemset/problem/748/D", "problem_id": "23347731"}
+{"lang": "PyPy 3", "title": "748D - Santa Claus and a Palindrome", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "30200KB", "problem_link": "/problemset/problem/748/D", "problem_id": "23347705"}
+{"lang": "PyPy 3", "title": "748C - Santa Claus and Robot", "time": "140ms", "verdict": "OK", "memory": "24800KB", "problem_link": "/problemset/problem/748/C", "problem_id": "23347206"}
+{"lang": "PyPy 3", "title": "748B - Santa Claus and Keyboard Check", "time": "124ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/748/B", "problem_id": "23346885"}
+{"lang": "PyPy 3", "title": "748A - Santa Claus and a Place in a Class", "time": "233ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/748/A", "problem_id": "23346669"}
+{"lang": "PyPy 3", "title": "747E - Comments", "time": "1933ms", "verdict": "OK", "memory": "120100KB", "problem_link": "/problemset/problem/747/E", "problem_id": "23252677"}
+{"lang": "PyPy 3", "title": "746E - Numbers Exchange", "time": "873ms", "verdict": "OK", "memory": "51900KB", "problem_link": "/problemset/problem/746/E", "problem_id": "23189352"}
+{"lang": "PyPy 3", "title": "747D - Winter Is Coming", "time": "311ms", "verdict": "OK", "memory": "35300KB", "problem_link": "/problemset/problem/747/D", "problem_id": "23189197"}
+{"lang": "PyPy 3", "title": "747D - Winter Is Coming", "time": "218ms", "verdict": "RUNTIME_ERROR", "memory": "35000KB", "problem_link": "/problemset/problem/747/D", "problem_id": "23189157"}
+{"lang": "PyPy 3", "title": "747D - Winter Is Coming", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/747/D", "problem_id": "23189097"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "46ms", "verdict": "OK", "memory": "7000KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188789"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188745"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188722"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188681"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188526"}
+{"lang": "GNU C++11", "title": "749C - Voting", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4600KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23188489"}
+{"lang": "PyPy 3", "title": "749C - Voting", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "27100KB", "problem_link": "/problemset/problem/749/C", "problem_id": "23187600"}
+{"lang": "PyPy 3", "title": "749B - Parallelogram is Back", "time": "124ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/749/B", "problem_id": "23184692"}
+{"lang": "PyPy 3", "title": "749A - Bachgold Problem", "time": "156ms", "verdict": "OK", "memory": "26400KB", "problem_link": "/problemset/problem/749/A", "problem_id": "23184612"}
+{"lang": "PyPy 3", "title": "749A - Bachgold Problem", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/749/A", "problem_id": "23184602"}
+{"lang": "PyPy 3", "title": "747C - Servers", "time": "545ms", "verdict": "OK", "memory": "36400KB", "problem_link": "/problemset/problem/747/C", "problem_id": "23184529"}
+{"lang": "PyPy 3", "title": "747B - Mammoth's Genome Decoding", "time": "202ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/747/B", "problem_id": "23184241"}
+{"lang": "PyPy 3", "title": "747B - Mammoth's Genome Decoding", "time": "109ms", "verdict": "RUNTIME_ERROR", "memory": "22600KB", "problem_link": "/problemset/problem/747/B", "problem_id": "23184192"}
+{"lang": "PyPy 3", "title": "747A - Display Size", "time": "171ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/747/A", "problem_id": "23183713"}
+{"lang": "PyPy 3", "title": "746D - Green and Black Tea", "time": "171ms", "verdict": "OK", "memory": "23700KB", "problem_link": "/problemset/problem/746/D", "problem_id": "23183629"}
+{"lang": "PyPy 3", "title": "746C - Tram", "time": "155ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/746/C", "problem_id": "23183072"}
+{"lang": "PyPy 3", "title": "746C - Tram", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/746/C", "problem_id": "23182996"}
+{"lang": "PyPy 3", "title": "746D - Green and Black Tea", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/746/D", "problem_id": "23095592"}
+{"lang": "PyPy 3", "title": "746D - Green and Black Tea", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "23200KB", "problem_link": "/problemset/problem/746/D", "problem_id": "23093371"}
+{"lang": "PyPy 3", "title": "746D - Green and Black Tea", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "22500KB", "problem_link": "/problemset/problem/746/D", "problem_id": "23093159"}
+{"lang": "PyPy 3", "title": "746C - Tram", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/746/C", "problem_id": "23090648"}
+{"lang": "PyPy 3", "title": "746C - Tram", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/746/C", "problem_id": "23090519"}
+{"lang": "PyPy 3", "title": "746B - Decoding", "time": "109ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/746/B", "problem_id": "23085529"}
+{"lang": "PyPy 3", "title": "746A - Compote", "time": "109ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/746/A", "problem_id": "23082401"}
+{"lang": "PyPy 3", "title": "745B - Hongcow Solves A Puzzle", "time": "124ms", "verdict": "OK", "memory": "23400KB", "problem_link": "/problemset/problem/745/B", "problem_id": "23072161"}
+{"lang": "PyPy 3", "title": "409H - A + B Strikes Back", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/409/H", "problem_id": "23071990"}
+{"lang": "PyPy 3", "title": "409H - A + B Strikes Back", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/409/H", "problem_id": "23071977"}
+{"lang": "GNU C++11", "title": "743D - Chloe and pleasant prizes", "time": "623ms", "verdict": "OK", "memory": "49000KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23071960"}
+{"lang": "GNU C++11", "title": "743D - Chloe and pleasant prizes", "time": "577ms", "verdict": "WRONG_ANSWER", "memory": "43400KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23071948"}
+{"lang": "GNU C++11", "title": "743D - Chloe and pleasant prizes", "time": "530ms", "verdict": "WRONG_ANSWER", "memory": "38100KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23071775"}
+{"lang": "PyPy 3", "title": "745D - Hongcow's Game", "time": "233ms", "verdict": "OK", "memory": "26300KB", "problem_link": "/problemset/problem/745/D", "problem_id": "23065454"}
+{"lang": "PyPy 3", "title": "745C - Hongcow Builds A Nation", "time": "296ms", "verdict": "OK", "memory": "28300KB", "problem_link": "/problemset/problem/745/C", "problem_id": "23059045"}
+{"lang": "PyPy 3", "title": "745B - Hongcow Solves A Puzzle", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "23200KB", "problem_link": "/problemset/problem/745/B", "problem_id": "23057030"}
+{"lang": "PyPy 3", "title": "745A - Hongcow Learns the Cyclic Shift", "time": "124ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/745/A", "problem_id": "23052106"}
+{"lang": "PyPy 3", "title": "739A - Alyona and mex", "time": "358ms", "verdict": "OK", "memory": "12900KB", "problem_link": "/problemset/problem/739/A", "problem_id": "23045978"}
+{"lang": "PyPy 3", "title": "739A - Alyona and mex", "time": "1107ms", "verdict": "OK", "memory": "14500KB", "problem_link": "/problemset/problem/739/A", "problem_id": "23045937"}
+{"lang": "PyPy 3", "title": "740B - Alyona and flowers", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/740/B", "problem_id": "23045784"}
+{"lang": "PyPy 3", "title": "740A - Alyona and copybooks", "time": "108ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/740/A", "problem_id": "23045608"}
+{"lang": "PyPy 3", "title": "741C - Arpa\u2019s overnight party and Mehrdad\u2019s silent entering", "time": "717ms", "verdict": "OK", "memory": "9300KB", "problem_link": "/problemset/problem/741/C", "problem_id": "23044496"}
+{"lang": "GNU C++11", "title": "552D - Vanya and Triangles", "time": "546ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23031274"}
+{"lang": "GNU C++11", "title": "552D - Vanya and Triangles", "time": "312ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23031188"}
+{"lang": "GNU C++11", "title": "552D - Vanya and Triangles", "time": "343ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23031153"}
+{"lang": "PyPy 3", "title": "552D - Vanya and Triangles", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16600KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23030536"}
+{"lang": "PyPy 3", "title": "552D - Vanya and Triangles", "time": "218ms", "verdict": "RUNTIME_ERROR", "memory": "16300KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23030517"}
+{"lang": "PyPy 3", "title": "552D - Vanya and Triangles", "time": "186ms", "verdict": "RUNTIME_ERROR", "memory": "16300KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23030506"}
+{"lang": "PyPy 3", "title": "552D - Vanya and Triangles", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16600KB", "problem_link": "/problemset/problem/552/D", "problem_id": "23030460"}
+{"lang": "PyPy 3", "title": "559A - Gerald's Hexagon", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/559/A", "problem_id": "23029711"}
+{"lang": "PyPy 3", "title": "230B - T-primes", "time": "1246ms", "verdict": "OK", "memory": "35900KB", "problem_link": "/problemset/problem/230/B", "problem_id": "23029209"}
+{"lang": "GNU C++11", "title": "566F - Clique in the Divisibility Graph", "time": "623ms", "verdict": "OK", "memory": "11700KB", "problem_link": "/problemset/problem/566/F", "problem_id": "23028771"}
+{"lang": "GNU C++11", "title": "566F - Clique in the Divisibility Graph", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/566/F", "problem_id": "23028763"}
+{"lang": "PyPy 3", "title": "566F - Clique in the Divisibility Graph", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "64000KB", "problem_link": "/problemset/problem/566/F", "problem_id": "23028449"}
+{"lang": "PyPy 3", "title": "566F - Clique in the Divisibility Graph", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/566/F", "problem_id": "23028194"}
+{"lang": "PyPy 3", "title": "566F - Clique in the Divisibility Graph", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "63800KB", "problem_link": "/problemset/problem/566/F", "problem_id": "23027988"}
+{"lang": "PyPy 3", "title": "603B - Moodular Arithmetic", "time": "139ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/603/B", "problem_id": "23026922"}
+{"lang": "PyPy 3", "title": "675A - Infinite Sequence", "time": "109ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/675/A", "problem_id": "23026177"}
+{"lang": "PyPy 3", "title": "675A - Infinite Sequence", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/675/A", "problem_id": "23026151"}
+{"lang": "PyPy 3", "title": "675B - Restoring Painting", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/675/B", "problem_id": "23026074"}
+{"lang": "PyPy 3", "title": "685A - Robbers' watch", "time": "592ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/685/A", "problem_id": "23025778"}
+{"lang": "PyPy 3", "title": "678C - Joty and Chocolate", "time": "280ms", "verdict": "OK", "memory": "16200KB", "problem_link": "/problemset/problem/678/C", "problem_id": "23019578"}
+{"lang": "PyPy 3", "title": "678D - Iterated Linear Function", "time": "170ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/678/D", "problem_id": "23019505"}
+{"lang": "PyPy 3", "title": "707C - Pythagorean Triples", "time": "155ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/707/C", "problem_id": "23019219"}
+{"lang": "PyPy 3", "title": "707C - Pythagorean Triples", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/707/C", "problem_id": "23019214"}
+{"lang": "PyPy 3", "title": "707C - Pythagorean Triples", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/707/C", "problem_id": "23019205"}
+{"lang": "PyPy 3", "title": "689C - Mike and Chocolate Thieves", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "17600KB", "problem_link": "/problemset/problem/689/C", "problem_id": "23017731"}
+{"lang": "PyPy 3", "title": "689C - Mike and Chocolate Thieves", "time": "233ms", "verdict": "RUNTIME_ERROR", "memory": "7800KB", "problem_link": "/problemset/problem/689/C", "problem_id": "23017683"}
+{"lang": "PyPy 3", "title": "689C - Mike and Chocolate Thieves", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "800KB", "problem_link": "/problemset/problem/689/C", "problem_id": "23017399"}
+{"lang": "PyPy 3", "title": "689C - Mike and Chocolate Thieves", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/689/C", "problem_id": "23017053"}
+{"lang": "PyPy 3", "title": "701B - Cells Not Under Attack", "time": "529ms", "verdict": "OK", "memory": "22200KB", "problem_link": "/problemset/problem/701/B", "problem_id": "23015755"}
+{"lang": "PyPy 3", "title": "710D - Two Arithmetic Progressions", "time": "233ms", "verdict": "WRONG_ANSWER", "memory": "16500KB", "problem_link": "/problemset/problem/710/D", "problem_id": "23015494"}
+{"lang": "PyPy 3", "title": "732A - Buy a Shovel", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/732/A", "problem_id": "23014441"}
+{"lang": "PyPy 3", "title": "732A - Buy a Shovel", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/732/A", "problem_id": "23014398"}
+{"lang": "PyPy 3", "title": "712C - Memory and De-Evolution", "time": "140ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/712/C", "problem_id": "23013863"}
+{"lang": "PyPy 3", "title": "711E - ZS and The Birthday Paradox", "time": "171ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/711/E", "problem_id": "23013679"}
+{"lang": "PyPy 3", "title": "711E - ZS and The Birthday Paradox", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "400KB", "problem_link": "/problemset/problem/711/E", "problem_id": "23013573"}
+{"lang": "PyPy 3", "title": "715A - Plus and Square Root", "time": "327ms", "verdict": "OK", "memory": "26900KB", "problem_link": "/problemset/problem/715/A", "problem_id": "23012784"}
+{"lang": "PyPy 3", "title": "727C - Guess the Array", "time": "421ms", "verdict": "OK", "memory": "5000KB", "problem_link": "/problemset/problem/727/C", "problem_id": "23011441"}
+{"lang": "PyPy 3", "title": "727C - Guess the Array", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/727/C", "problem_id": "23011376"}
+{"lang": "PyPy 3", "title": "733B - Parade", "time": "342ms", "verdict": "OK", "memory": "6600KB", "problem_link": "/problemset/problem/733/B", "problem_id": "23011025"}
+{"lang": "PyPy 3", "title": "733B - Parade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8400KB", "problem_link": "/problemset/problem/733/B", "problem_id": "23010992"}
+{"lang": "PyPy 3", "title": "734F - Anton and School", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/734/F", "problem_id": "23009545"}
+{"lang": "PyPy 3", "title": "734B - Anton and Digits", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/734/B", "problem_id": "23004823"}
+{"lang": "GNU C++11", "title": "743D - Chloe and pleasant prizes", "time": "561ms", "verdict": "WRONG_ANSWER", "memory": "36100KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23003317"}
+{"lang": "GNU C++11", "title": "743D - Chloe and pleasant prizes", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23003313"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23001949"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23001911"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "841ms", "verdict": "RUNTIME_ERROR", "memory": "27000KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23001098"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "842ms", "verdict": "RUNTIME_ERROR", "memory": "27100KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23001054"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23001032"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26300KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23000996"}
+{"lang": "PyPy 3", "title": "743D - Chloe and pleasant prizes", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/743/D", "problem_id": "23000916"}
+{"lang": "PyPy 3", "title": "743C - Vladik and fractions", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/743/C", "problem_id": "23000128"}
+{"lang": "PyPy 3", "title": "743B - Chloe and the sequence", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/743/B", "problem_id": "22999958"}
+{"lang": "PyPy 3", "title": "743A - Vladik and flights", "time": "109ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/743/A", "problem_id": "22999901"}
+{"lang": "PyPy 3", "title": "741C - Arpa\u2019s overnight party and Mehrdad\u2019s silent entering", "time": "452ms", "verdict": "OK", "memory": "32500KB", "problem_link": "/problemset/problem/741/C", "problem_id": "22770741"}
+{"lang": "PyPy 3", "title": "742D - Arpa's weak amphitheater and Mehrdad's valuable Hoses", "time": "390ms", "verdict": "OK", "memory": "29600KB", "problem_link": "/problemset/problem/742/D", "problem_id": "22765966"}
+{"lang": "PyPy 3", "title": "742C - Arpa's loud Owf and Mehrdad's evil plan", "time": "265ms", "verdict": "OK", "memory": "38900KB", "problem_link": "/problemset/problem/742/C", "problem_id": "22744189"}
+{"lang": "PyPy 3", "title": "742C - Arpa's loud Owf and Mehrdad's evil plan", "time": "77ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/742/C", "problem_id": "22742842"}
+{"lang": "PyPy 3", "title": "742B - Arpa\u2019s obvious problem and Mehrdad\u2019s terrible solution", "time": "171ms", "verdict": "OK", "memory": "30400KB", "problem_link": "/problemset/problem/742/B", "problem_id": "22736430"}
+{"lang": "PyPy 3", "title": "742A - Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat", "time": "156ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/742/A", "problem_id": "22732568"}
+{"lang": "PyPy 3", "title": "735D - Taxes", "time": "109ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/735/D", "problem_id": "22542631"}
+{"lang": "PyPy 3", "title": "735C - Tennis Championship", "time": "93ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/735/C", "problem_id": "22539763"}
+{"lang": "PyPy 3", "title": "735B - Urbanization", "time": "202ms", "verdict": "OK", "memory": "29500KB", "problem_link": "/problemset/problem/735/B", "problem_id": "22534541"}
+{"lang": "PyPy 3", "title": "735A - Ostap and Grasshopper", "time": "109ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/735/A", "problem_id": "22532119"}
+{"lang": "PyPy 3", "title": "735A - Ostap and Grasshopper", "time": "155ms", "verdict": "SKIPPED", "memory": "22800KB", "problem_link": "/problemset/problem/735/A", "problem_id": "22531627"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "124ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21299551"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21299422"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21299288"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21298845"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21298575"}
+{"lang": "GNU C++11", "title": "724D - Dense Subsequence", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/724/D", "problem_id": "21297752"}
+{"lang": "GNU C++11", "title": "724D - Dense Subsequence", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/724/D", "problem_id": "21297438"}
+{"lang": "PyPy 3", "title": "724C - Ray Tracing", "time": "1590ms", "verdict": "OK", "memory": "39100KB", "problem_link": "/problemset/problem/724/C", "problem_id": "21293577"}
+{"lang": "PyPy 3", "title": "724C - Ray Tracing", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38500KB", "problem_link": "/problemset/problem/724/C", "problem_id": "21293262"}
+{"lang": "PyPy 3", "title": "724C - Ray Tracing", "time": "451ms", "verdict": "WRONG_ANSWER", "memory": "39000KB", "problem_link": "/problemset/problem/724/C", "problem_id": "21291312"}
+{"lang": "PyPy 3", "title": "724B - Batch Sort", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21284435"}
+{"lang": "PyPy 3", "title": "724A - Checking the Calendar", "time": "140ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/724/A", "problem_id": "21280070"}
+{"lang": "PyPy 3", "title": "709D - Recover the String", "time": "140ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/709/D", "problem_id": "20346123"}
+{"lang": "PyPy 3", "title": "709D - Recover the String", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/709/D", "problem_id": "20346032"}
+{"lang": "PyPy 3", "title": "709D - Recover the String", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/709/D", "problem_id": "20345693"}
+{"lang": "PyPy 3", "title": "709A - Juicer", "time": "202ms", "verdict": "OK", "memory": "7700KB", "problem_link": "/problemset/problem/709/A", "problem_id": "20344834"}
+{"lang": "PyPy 3", "title": "709A - Juicer", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/709/A", "problem_id": "20344819"}
+{"lang": "GNU C++11", "title": "688D - Remainders Game", "time": "764ms", "verdict": "OK", "memory": "3900KB", "problem_link": "/problemset/problem/688/D", "problem_id": "18810003"}
+{"lang": "PyPy 3", "title": "688D - Remainders Game", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "74900KB", "problem_link": "/problemset/problem/688/D", "problem_id": "18804713"}
+{"lang": "PyPy 3", "title": "688C - NP-Hard Problem", "time": "1403ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/688/C", "problem_id": "18795027"}
+{"lang": "PyPy 3", "title": "688B - Lovely Palindromes", "time": "124ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/688/B", "problem_id": "18788499"}
+{"lang": "PyPy 3", "title": "688A - Opponents", "time": "108ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/688/A", "problem_id": "18787440"}
+{"lang": "GNU C++11", "title": "682C - Alyona and the Tree", "time": "265ms", "verdict": "OK", "memory": "9000KB", "problem_link": "/problemset/problem/682/C", "problem_id": "18557745"}
+{"lang": "PyPy 3", "title": "682B - Alyona and Mex", "time": "264ms", "verdict": "OK", "memory": "9700KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18548879"}
+{"lang": "PyPy 3", "title": "682A - Alyona and Numbers", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/682/A", "problem_id": "18547765"}
+{"lang": "Kotlin", "title": "683A - The Check of the Point", "time": "187ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/683/A", "problem_id": "18524487"}
+{"lang": "PyPy 3", "title": "684A2 - Online Exam", "time": "311ms", "verdict": "PARTIAL", "memory": "7300KB", "problem_link": "/problemset/problem/684/A2", "problem_id": "18520816"}
+{"lang": "PyPy 3", "title": "684A2 - Online Exam", "time": "234ms", "verdict": "SKIPPED", "memory": "6900KB", "problem_link": "/problemset/problem/684/A2", "problem_id": "18520151"}
+{"lang": "PyPy 3", "title": "676E - The Last Fight Between Human and AI", "time": "218ms", "verdict": "OK", "memory": "28200KB", "problem_link": "/problemset/problem/676/E", "problem_id": "18248585"}
+{"lang": "PyPy 3", "title": "676E - The Last Fight Between Human and AI", "time": "109ms", "verdict": "RUNTIME_ERROR", "memory": "22700KB", "problem_link": "/problemset/problem/676/E", "problem_id": "18248500"}
+{"lang": "PyPy 3", "title": "676E - The Last Fight Between Human and AI", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "28200KB", "problem_link": "/problemset/problem/676/E", "problem_id": "18248462"}
+{"lang": "PyPy 3", "title": "676A - Nicholas and Permutation", "time": "124ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/676/A", "problem_id": "18248257"}
+{"lang": "PyPy 3", "title": "676C - Vasya and String", "time": "218ms", "verdict": "OK", "memory": "27600KB", "problem_link": "/problemset/problem/676/C", "problem_id": "18248130"}
+{"lang": "PyPy 3", "title": "677C - Vanya and Label", "time": "155ms", "verdict": "OK", "memory": "24300KB", "problem_link": "/problemset/problem/677/C", "problem_id": "18193694"}
+{"lang": "PyPy 3", "title": "677B - Vanya and Food Processor", "time": "264ms", "verdict": "OK", "memory": "32600KB", "problem_link": "/problemset/problem/677/B", "problem_id": "18189608"}
+{"lang": "PyPy 3", "title": "677A - Vanya and Fence", "time": "109ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/677/A", "problem_id": "18186056"}
+{"lang": "PyPy 3", "title": "672C - Recycling Bottles", "time": "1232ms", "verdict": "OK", "memory": "45300KB", "problem_link": "/problemset/problem/672/C", "problem_id": "17863192"}
+{"lang": "PyPy 3", "title": "672B - Different is Good", "time": "108ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/672/B", "problem_id": "17863125"}
+{"lang": "PyPy 3", "title": "672C - Recycling Bottles", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46100KB", "problem_link": "/problemset/problem/672/C", "problem_id": "17863117"}
+{"lang": "PyPy 3", "title": "672A - Summer Camp", "time": "124ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/672/A", "problem_id": "17863090"}
+{"lang": "PyPy 3", "title": "673D - Bear and Two Paths", "time": "171ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/673/D", "problem_id": "17790077"}
+{"lang": "PyPy 3", "title": "673C - Bear and Colors", "time": "732ms", "verdict": "OK", "memory": "121300KB", "problem_link": "/problemset/problem/673/C", "problem_id": "17788586"}
+{"lang": "PyPy 3", "title": "673B - Problems for Round", "time": "342ms", "verdict": "OK", "memory": "28200KB", "problem_link": "/problemset/problem/673/B", "problem_id": "17783746"}
+{"lang": "PyPy 3", "title": "673B - Problems for Round", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "27900KB", "problem_link": "/problemset/problem/673/B", "problem_id": "17783307"}
+{"lang": "PyPy 3", "title": "673A - Bear and Game", "time": "186ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17780136"}
+{"lang": "PyPy 3", "title": "670E - Correct Bracket Sequence Editor", "time": "639ms", "verdict": "OK", "memory": "64200KB", "problem_link": "/problemset/problem/670/E", "problem_id": "17750343"}
+{"lang": "PyPy 3", "title": "670F - Restore a Number", "time": "763ms", "verdict": "OK", "memory": "107800KB", "problem_link": "/problemset/problem/670/F", "problem_id": "17750057"}
+{"lang": "PyPy 3", "title": "670D2 - Magic Powder - 2", "time": "639ms", "verdict": "OK", "memory": "34500KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17749588"}
+{"lang": "PyPy 3", "title": "670F - Restore a Number", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/670/F", "problem_id": "17749558"}
+{"lang": "PyPy 3", "title": "670D2 - Magic Powder - 2", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17749433"}
+{"lang": "PyPy 3", "title": "670F - Restore a Number", "time": "701ms", "verdict": "WRONG_ANSWER", "memory": "87700KB", "problem_link": "/problemset/problem/670/F", "problem_id": "17747873"}
+{"lang": "PyPy 3", "title": "670F - Restore a Number", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "22700KB", "problem_link": "/problemset/problem/670/F", "problem_id": "17747061"}
+{"lang": "GNU C++11", "title": "670D2 - Magic Powder - 2", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "2900KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17738010"}
+{"lang": "GNU C++11", "title": "670D2 - Magic Powder - 2", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17736581"}
+{"lang": "GNU C++11", "title": "670D2 - Magic Powder - 2", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17734844"}
+{"lang": "PyPy 3", "title": "670D2 - Magic Powder - 2", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17734770"}
+{"lang": "GNU C++11", "title": "670D2 - Magic Powder - 2", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/670/D2", "problem_id": "17734240"}
+{"lang": "GNU C++11", "title": "670D1 - Magic Powder - 1", "time": "15ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/670/D1", "problem_id": "17734117"}
+{"lang": "PyPy 3", "title": "670C - Cinema", "time": "1543ms", "verdict": "OK", "memory": "62300KB", "problem_link": "/problemset/problem/670/C", "problem_id": "17728145"}
+{"lang": "PyPy 3", "title": "670B - Game of Robots", "time": "218ms", "verdict": "OK", "memory": "31800KB", "problem_link": "/problemset/problem/670/B", "problem_id": "17726364"}
+{"lang": "PyPy 3", "title": "670B - Game of Robots", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/670/B", "problem_id": "17724738"}
+{"lang": "PyPy 3", "title": "670A - Holidays", "time": "156ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/670/A", "problem_id": "17724117"}
+{"lang": "PyPy 3", "title": "670B - Game of Robots", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/670/B", "problem_id": "17723153"}
+{"lang": "PyPy 3", "title": "670A - Holidays", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22600KB", "problem_link": "/problemset/problem/670/A", "problem_id": "17723030"}
+{"lang": "PyPy 3", "title": "667C - Reberland Linguistics", "time": "140ms", "verdict": "OK", "memory": "24300KB", "problem_link": "/problemset/problem/667/C", "problem_id": "17577358"}
+{"lang": "PyPy 3", "title": "667C - Reberland Linguistics", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "22700KB", "problem_link": "/problemset/problem/667/C", "problem_id": "17577058"}
+{"lang": "GNU C++11", "title": "667C - Reberland Linguistics", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/667/C", "problem_id": "17575993"}
+{"lang": "PyPy 3", "title": "667B - Coat of Anticubism", "time": "155ms", "verdict": "OK", "memory": "28500KB", "problem_link": "/problemset/problem/667/B", "problem_id": "17571599"}
+{"lang": "PyPy 3", "title": "667A - Pouring Rain", "time": "109ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/667/A", "problem_id": "17569798"}
+{"lang": "PyPy 3", "title": "665D - Simple Subset", "time": "373ms", "verdict": "OK", "memory": "30900KB", "problem_link": "/problemset/problem/665/D", "problem_id": "17472783"}
+{"lang": "PyPy 3", "title": "663A - Rebus", "time": "155ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/663/A", "problem_id": "17421614"}
+{"lang": "PyPy 3", "title": "663A - Rebus", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "22600KB", "problem_link": "/problemset/problem/663/A", "problem_id": "17421587"}
+{"lang": "PyPy 3", "title": "664A - Complicated GCD", "time": "186ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17421035"}
+{"lang": "J", "title": "661B - Seasons", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/661/B", "problem_id": "17270874"}
+{"lang": "J", "title": "661A - Lazy Caterer Sequence", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/661/A", "problem_id": "17268613"}
+{"lang": "PyPy 3", "title": "652B - z-sort", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/652/B", "problem_id": "17267269"}
+{"lang": "PyPy 3", "title": "656F - Ace It!", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/656/F", "problem_id": "17267139"}
+{"lang": "PyPy 3", "title": "660E - Different Subsets For All Tuples", "time": "124ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/660/E", "problem_id": "17241631"}
+{"lang": "PyPy 3", "title": "660E - Different Subsets For All Tuples", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/660/E", "problem_id": "17241476"}
+{"lang": "PyPy 3", "title": "660E - Different Subsets For All Tuples", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "22700KB", "problem_link": "/problemset/problem/660/E", "problem_id": "17241437"}
+{"lang": "PyPy 3", "title": "660E - Different Subsets For All Tuples", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/660/E", "problem_id": "17241356"}
+{"lang": "PyPy 3", "title": "660E - Different Subsets For All Tuples", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "23200KB", "problem_link": "/problemset/problem/660/E", "problem_id": "17241159"}
+{"lang": "PyPy 3", "title": "660D - Number of Parallelograms", "time": "3743ms", "verdict": "OK", "memory": "142200KB", "problem_link": "/problemset/problem/660/D", "problem_id": "17238346"}
+{"lang": "PyPy 3", "title": "660D - Number of Parallelograms", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/660/D", "problem_id": "17237997"}
+{"lang": "PyPy 3", "title": "660D - Number of Parallelograms", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "160800KB", "problem_link": "/problemset/problem/660/D", "problem_id": "17237651"}
+{"lang": "PyPy 3", "title": "660D - Number of Parallelograms", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "216400KB", "problem_link": "/problemset/problem/660/D", "problem_id": "17237449"}
+{"lang": "GNU C++11", "title": "660C - Hard Process", "time": "327ms", "verdict": "OK", "memory": "3200KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17235974"}
+{"lang": "PyPy 3", "title": "660B - Seating On Bus", "time": "186ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/660/B", "problem_id": "17233577"}
+{"lang": "PyPy 3", "title": "660A - Co-prime Array", "time": "327ms", "verdict": "OK", "memory": "39000KB", "problem_link": "/problemset/problem/660/A", "problem_id": "17231781"}
+{"lang": "PyPy 3", "title": "656A - Da Vinci Powers", "time": "109ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/656/A", "problem_id": "17118712"}
+{"lang": "PyPy 3", "title": "656A - Da Vinci Powers", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/656/A", "problem_id": "17118703"}
+{"lang": "PyPy 3", "title": "656A - Da Vinci Powers", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/656/A", "problem_id": "17118654"}
+{"lang": "PyPy 3", "title": "656A - Da Vinci Powers", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/656/A", "problem_id": "17118649"}
+{"lang": "PyPy 3", "title": "656C - Without Text", "time": "109ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/656/C", "problem_id": "17118607"}
+{"lang": "PyPy 3", "title": "656D - Rosetta Problem", "time": "109ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/656/D", "problem_id": "17118391"}
+{"lang": "PyPy 3", "title": "656E - Out of Controls", "time": "109ms", "verdict": "OK", "memory": "22500KB", "problem_link": "/problemset/problem/656/E", "problem_id": "17117971"}
+{"lang": "PyPy 3", "title": "656E - Out of Controls", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/E", "problem_id": "17117914"}
+{"lang": "PyPy 3", "title": "656E - Out of Controls", "time": "124ms", "verdict": "OK", "memory": "23300KB", "problem_link": "/problemset/problem/656/E", "problem_id": "17117787"}
+{"lang": "PyPy 3", "title": "656E - Out of Controls", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/E", "problem_id": "17117417"}
+{"lang": "GNU C++11", "title": "656E - Out of Controls", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/E", "problem_id": "17117415"}
+{"lang": "PyPy 3", "title": "656B - Scrambled", "time": "124ms", "verdict": "OK", "memory": "23700KB", "problem_link": "/problemset/problem/656/B", "problem_id": "17115955"}
+{"lang": "GNU C++11", "title": "656G - You're a Professional", "time": "15ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17114733"}
+{"lang": "GNU C++11", "title": "656G - You're a Professional", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17114476"}
+{"lang": "GNU C++11", "title": "656G - You're a Professional", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17113165"}
+{"lang": "JavaScript", "title": "656G - You're a Professional", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17110979"}
+{"lang": "Python 3", "title": "656G - You're a Professional", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17110641"}
+{"lang": "PyPy 3", "title": "656G - You're a Professional", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17110416"}
+{"lang": "PyPy 3", "title": "656G - You're a Professional", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/656/G", "problem_id": "17109994"}
+{"lang": "PyPy 3", "title": "656D - Rosetta Problem", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/656/D", "problem_id": "17105053"}
+{"lang": "PyPy 3", "title": "656B - Scrambled", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "22700KB", "problem_link": "/problemset/problem/656/B", "problem_id": "17097675"}
+{"lang": "PyPy 3", "title": "656B - Scrambled", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "22500KB", "problem_link": "/problemset/problem/656/B", "problem_id": "17097487"}
+{"lang": "PyPy 3", "title": "659E - New Reform", "time": "452ms", "verdict": "OK", "memory": "34300KB", "problem_link": "/problemset/problem/659/E", "problem_id": "17070707"}
+{"lang": "PyPy 3", "title": "659D - Bicycle Race", "time": "187ms", "verdict": "OK", "memory": "22800KB", "problem_link": "/problemset/problem/659/D", "problem_id": "17070410"}
+{"lang": "PyPy 3", "title": "659C - Tanya and Toys", "time": "265ms", "verdict": "OK", "memory": "35600KB", "problem_link": "/problemset/problem/659/C", "problem_id": "17070118"}
+{"lang": "PyPy 3", "title": "659B - Qualifying Contest", "time": "701ms", "verdict": "OK", "memory": "34700KB", "problem_link": "/problemset/problem/659/B", "problem_id": "17070001"}
+{"lang": "PyPy 3", "title": "659A - Round House", "time": "109ms", "verdict": "OK", "memory": "22700KB", "problem_link": "/problemset/problem/659/A", "problem_id": "17069779"}
+{"lang": "PyPy 3", "title": "658A - Bear and Reverse Radewoosh", "time": "171ms", "verdict": "OK", "memory": "22600KB", "problem_link": "/problemset/problem/658/A", "problem_id": "17069733"}
+{"lang": "Python 3", "title": "639C - Bear and Polynomials", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20000KB", "problem_link": "/problemset/problem/639/C", "problem_id": "17009418"}
+{"lang": "PyPy 3", "title": "639C - Bear and Polynomials", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41200KB", "problem_link": "/problemset/problem/639/C", "problem_id": "17009408"}
+{"lang": "PyPy 3", "title": "639C - Bear and Polynomials", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "41100KB", "problem_link": "/problemset/problem/639/C", "problem_id": "17009150"}
+{"lang": "PyPy 3", "title": "639C - Bear and Polynomials", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "22700KB", "problem_link": "/problemset/problem/639/C", "problem_id": "17007988"}
+{"lang": "MS C++", "title": "639C - Bear and Polynomials", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "7500KB", "problem_link": "/problemset/problem/639/C", "problem_id": "17007286"}
+{"lang": "MS C++", "title": "639B - Bear and Forgotten Tree 3", "time": "389ms", "verdict": "OK", "memory": "3600KB", "problem_link": "/problemset/problem/639/B", "problem_id": "16998275"}
+{"lang": "MS C++", "title": "639B - Bear and Forgotten Tree 3", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/639/B", "problem_id": "16998122"}
+{"lang": "MS C++", "title": "639B - Bear and Forgotten Tree 3", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/639/B", "problem_id": "16996881"}
+{"lang": "MS C++", "title": "639B - Bear and Forgotten Tree 3", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/639/B", "problem_id": "16996745"}
+{"lang": "Python 3", "title": "639A - Bear and Displayed Friends", "time": "1762ms", "verdict": "OK", "memory": "17600KB", "problem_link": "/problemset/problem/639/A", "problem_id": "16992556"}
+{"lang": "PyPy 3", "title": "639A - Bear and Displayed Friends", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "22500KB", "problem_link": "/problemset/problem/639/A", "problem_id": "16992287"}
+{"lang": "PyPy 3", "title": "644B - Processing Queries", "time": "2573ms", "verdict": "OK", "memory": "48600KB", "problem_link": "/problemset/problem/644/B", "problem_id": "16818660"}
+{"lang": "PyPy 3", "title": "644A - Parliament of Berland", "time": "124ms", "verdict": "OK", "memory": "23200KB", "problem_link": "/problemset/problem/644/A", "problem_id": "16817312"}
+{"lang": "PyPy 3", "title": "655C - Enduring Exodus", "time": "202ms", "verdict": "OK", "memory": "9700KB", "problem_link": "/problemset/problem/655/C", "problem_id": "16795049"}
+{"lang": "PyPy 3", "title": "655A - Amity Assessment", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/655/A", "problem_id": "16792428"}
+{"lang": "PyPy 3", "title": "655C - Enduring Exodus", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/655/C", "problem_id": "16791232"}
+{"lang": "PyPy 3", "title": "655B - Mischievous Mess Makers", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/655/B", "problem_id": "16787113"}
+{"lang": "PyPy 3", "title": "385B - Bear and Strings", "time": "109ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/385/B", "problem_id": "16706488"}
+{"lang": "PyPy 3", "title": "385A - Bear and Raspberry", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/385/A", "problem_id": "16706435"}
+{"lang": "PyPy 3", "title": "637D - Running with Obstacles", "time": "686ms", "verdict": "OK", "memory": "20700KB", "problem_link": "/problemset/problem/637/D", "problem_id": "16705651"}
+{"lang": "PyPy 3", "title": "637C - Promocodes with Mistakes", "time": "249ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/637/C", "problem_id": "16705510"}
+{"lang": "PyPy 3", "title": "637C - Promocodes with Mistakes", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/637/C", "problem_id": "16705346"}
+{"lang": "PyPy 3", "title": "637B - Chat Order", "time": "498ms", "verdict": "OK", "memory": "20100KB", "problem_link": "/problemset/problem/637/B", "problem_id": "16705221"}
+{"lang": "PyPy 3", "title": "637A - Voting for Photos", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/637/A", "problem_id": "16705133"}
+{"lang": "PyPy 3", "title": "549D - Haar Features", "time": "155ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/549/D", "problem_id": "16650664"}
+{"lang": "PyPy 3", "title": "651B - Beautiful Paintings", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/651/B", "problem_id": "16628745"}
+{"lang": "GNU C++11", "title": "651D - Image Preview", "time": "124ms", "verdict": "OK", "memory": "5900KB", "problem_link": "/problemset/problem/651/D", "problem_id": "16577564"}
+{"lang": "GNU C++11", "title": "651D - Image Preview", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/651/D", "problem_id": "16576999"}
+{"lang": "PyPy 3", "title": "651A - Joysticks", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/651/A", "problem_id": "16569991"}
+{"lang": "PyPy 3", "title": "651C - Watchmen", "time": "1528ms", "verdict": "OK", "memory": "33400KB", "problem_link": "/problemset/problem/651/C", "problem_id": "16568946"}
+{"lang": "PyPy 3", "title": "651B - Beautiful Paintings", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/651/B", "problem_id": "16565945"}
+{"lang": "PyPy 3", "title": "633D - Fibonacci-ish", "time": "342ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/633/D", "problem_id": "16553359"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "1996ms", "verdict": "OK", "memory": "31100KB", "problem_link": "/problemset/problem/609/D", "problem_id": "16553251"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/609/D", "problem_id": "16553214"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "71700KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16509495"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "69000KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16509454"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38900KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16509235"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "35600KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16509218"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38200KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508940"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "36600KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508783"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "44200KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508763"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "37900KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508724"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "40900KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508600"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508568"}
+{"lang": "PyPy 3", "title": "631E - Product Sum", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/631/E", "problem_id": "16508411"}
+{"lang": "PyPy 3", "title": "631B - Print Check", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8400KB", "problem_link": "/problemset/problem/631/B", "problem_id": "16501871"}
+{"lang": "PyPy 3", "title": "631B - Print Check", "time": "514ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/631/B", "problem_id": "16501830"}
+{"lang": "PyPy 3", "title": "631B - Print Check", "time": "530ms", "verdict": "OK", "memory": "8100KB", "problem_link": "/problemset/problem/631/B", "problem_id": "16501784"}
+{"lang": "PyPy 3", "title": "631C - Report", "time": "1013ms", "verdict": "OK", "memory": "29000KB", "problem_link": "/problemset/problem/631/C", "problem_id": "16501349"}
+{"lang": "PyPy 3", "title": "631B - Print Check", "time": "498ms", "verdict": "OK", "memory": "9100KB", "problem_link": "/problemset/problem/631/B", "problem_id": "16500319"}
+{"lang": "PyPy 3", "title": "631C - Report", "time": "1871ms", "verdict": "WRONG_ANSWER", "memory": "30200KB", "problem_link": "/problemset/problem/631/C", "problem_id": "16496716"}
+{"lang": "PyPy 3", "title": "631C - Report", "time": "1965ms", "verdict": "SKIPPED", "memory": "25300KB", "problem_link": "/problemset/problem/631/C", "problem_id": "16496372"}
+{"lang": "PyPy 3", "title": "631B - Print Check", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "9100KB", "problem_link": "/problemset/problem/631/B", "problem_id": "16489835"}
+{"lang": "PyPy 3", "title": "631A - Interview", "time": "171ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/631/A", "problem_id": "16486836"}
+{"lang": "PyPy 3", "title": "177C2 - Party", "time": "1994ms", "verdict": "OK", "memory": "7100KB", "problem_link": "/problemset/problem/177/C2", "problem_id": "16473569"}
+{"lang": "PyPy 3", "title": "177C1 - Party", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/177/C1", "problem_id": "16473566"}
+{"lang": "PyPy 3", "title": "177C1 - Party", "time": "216ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/177/C1", "problem_id": "16473521"}
+{"lang": "PyPy 3", "title": "618E - Robot Arm", "time": "6629ms", "verdict": "OK", "memory": "103600KB", "problem_link": "/problemset/problem/618/E", "problem_id": "16471850"}
+{"lang": "PyPy 3", "title": "618E - Robot Arm", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/618/E", "problem_id": "16471834"}
+{"lang": "PyPy 3", "title": "177B2 - Rectangular Game", "time": "218ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/177/B2", "problem_id": "16455866"}
+{"lang": "PyPy 3", "title": "177B1 - Rectangular Game", "time": "216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/177/B1", "problem_id": "16455863"}
+{"lang": "PyPy 3", "title": "177A2 - Good Matrix Elements", "time": "342ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/177/A2", "problem_id": "16455798"}
+{"lang": "PyPy 3", "title": "177A1 - Good Matrix Elements", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/177/A1", "problem_id": "16455789"}
+{"lang": "PyPy 3", "title": "632D - Longest Subsequence", "time": "1778ms", "verdict": "OK", "memory": "103500KB", "problem_link": "/problemset/problem/632/D", "problem_id": "16455393"}
+{"lang": "PyPy 3", "title": "632D - Longest Subsequence", "time": "1887ms", "verdict": "OK", "memory": "104300KB", "problem_link": "/problemset/problem/632/D", "problem_id": "16455365"}
+{"lang": "PyPy 3", "title": "632D - Longest Subsequence", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "92300KB", "problem_link": "/problemset/problem/632/D", "problem_id": "16455229"}
+{"lang": "PyPy 3", "title": "632D - Longest Subsequence", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "91300KB", "problem_link": "/problemset/problem/632/D", "problem_id": "16454992"}
+{"lang": "PyPy 3", "title": "632C - The Smallest String Concatenation", "time": "654ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/632/C", "problem_id": "16454225"}
+{"lang": "PyPy 3", "title": "632C - The Smallest String Concatenation", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/632/C", "problem_id": "16454189"}
+{"lang": "PyPy 3", "title": "635C - XOR Equation", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/635/C", "problem_id": "16453322"}
+{"lang": "PyPy 3", "title": "585D - Lizard Era: Beginning", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "112100KB", "problem_link": "/problemset/problem/585/D", "problem_id": "16450831"}
+{"lang": "GNU C++11", "title": "632C - The Smallest String Concatenation", "time": "312ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/632/C", "problem_id": "16448403"}
+{"lang": "PyPy 3", "title": "632B - Alice, Bob, Two Teams", "time": "997ms", "verdict": "OK", "memory": "52000KB", "problem_link": "/problemset/problem/632/B", "problem_id": "16445593"}
+{"lang": "PyPy 3", "title": "632A - Grandma Laura and Apples", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/632/A", "problem_id": "16444562"}
+{"lang": "PyPy 3", "title": "385E - Bear in the Field", "time": "218ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/385/E", "problem_id": "16434769"}
+{"lang": "Python 3", "title": "635C - XOR Equation", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/635/C", "problem_id": "16424166"}
+{"lang": "Python 3", "title": "635D - Factory Repairs", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "10800KB", "problem_link": "/problemset/problem/635/D", "problem_id": "16417454"}
+{"lang": "PyPy 3", "title": "635D - Factory Repairs", "time": "1981ms", "verdict": "OK", "memory": "44600KB", "problem_link": "/problemset/problem/635/D", "problem_id": "16414444"}
+{"lang": "PyPy 3", "title": "635C - XOR Equation", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/635/C", "problem_id": "16412580"}
+{"lang": "PyPy 3", "title": "635C - XOR Equation", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/635/C", "problem_id": "16411548"}
+{"lang": "PyPy 3", "title": "635C - XOR Equation", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/635/C", "problem_id": "16411308"}
+{"lang": "PyPy 3", "title": "635B - Island Puzzle", "time": "451ms", "verdict": "OK", "memory": "15500KB", "problem_link": "/problemset/problem/635/B", "problem_id": "16409055"}
+{"lang": "PyPy 3", "title": "635A - Orchestra", "time": "140ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/635/A", "problem_id": "16408349"}
+{"lang": "PyPy 3", "title": "633A - Ebony and Ivory", "time": "327ms", "verdict": "OK", "memory": "16000KB", "problem_link": "/problemset/problem/633/A", "problem_id": "16374781"}
+{"lang": "PyPy 3", "title": "633C - Spy Syndrome 2", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5900KB", "problem_link": "/problemset/problem/633/C", "problem_id": "16369281"}
+{"lang": "PyPy 3", "title": "633D - Fibonacci-ish", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "21300KB", "problem_link": "/problemset/problem/633/D", "problem_id": "16361358"}
+{"lang": "Python 3", "title": "633B - A Trivial Problem", "time": "140ms", "verdict": "OK", "memory": "16100KB", "problem_link": "/problemset/problem/633/B", "problem_id": "16356085"}
+{"lang": "Python 3", "title": "633A - Ebony and Ivory", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "1300KB", "problem_link": "/problemset/problem/633/A", "problem_id": "16353083"}
+{"lang": "PyPy 3", "title": "594B - Max and Bike", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/594/B", "problem_id": "16338937"}
+{"lang": "Python 3", "title": "594A - Warrior and Archer", "time": "249ms", "verdict": "OK", "memory": "15400KB", "problem_link": "/problemset/problem/594/A", "problem_id": "16314499"}
+{"lang": "Python 3", "title": "71A - Way Too Long Words", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/71/A", "problem_id": "16266066"}
+{"lang": "Python 3", "title": "4A - Watermelon", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "16266039"}
+{"lang": "Python 3", "title": "4A - Watermelon", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "16266025"}
+{"lang": "GNU C++11", "title": "585D - Lizard Era: Beginning", "time": "1403ms", "verdict": "OK", "memory": "20900KB", "problem_link": "/problemset/problem/585/D", "problem_id": "16264419"}
+{"lang": "Python 3", "title": "585D - Lizard Era: Beginning", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38300KB", "problem_link": "/problemset/problem/585/D", "problem_id": "16260810"}
+{"lang": "Python 3", "title": "585D - Lizard Era: Beginning", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/585/D", "problem_id": "16260785"}
+{"lang": "Python 3", "title": "585C - Alice, Bob, Oranges and Apples", "time": "124ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/585/C", "problem_id": "16259065"}
+{"lang": "PyPy 3", "title": "585A - Gennady the Dentist", "time": "732ms", "verdict": "OK", "memory": "7500KB", "problem_link": "/problemset/problem/585/A", "problem_id": "16251610"}
+{"lang": "PyPy 3", "title": "629D - Babaei and Birthday Cake", "time": "1824ms", "verdict": "OK", "memory": "32800KB", "problem_link": "/problemset/problem/629/D", "problem_id": "16250166"}
+{"lang": "PyPy 3", "title": "629D - Babaei and Birthday Cake", "time": "1762ms", "verdict": "WRONG_ANSWER", "memory": "30400KB", "problem_link": "/problemset/problem/629/D", "problem_id": "16249520"}
+{"lang": "PyPy 3", "title": "629D - Babaei and Birthday Cake", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/629/D", "problem_id": "16249418"}
+{"lang": "Python 3", "title": "629B - Far Relative\u2019s Problem", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/629/B", "problem_id": "16234732"}
+{"lang": "Python 3", "title": "629A - Far Relative\u2019s Birthday Cake", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/629/A", "problem_id": "16232799"}
+{"lang": "PyPy 3", "title": "628C - Bear and String Distance", "time": "140ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/628/C", "problem_id": "16207734"}
+{"lang": "PyPy 3", "title": "628C - Bear and String Distance", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/628/C", "problem_id": "16207229"}
+{"lang": "PyPy 3", "title": "628C - Bear and String Distance", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/628/C", "problem_id": "16205503"}
+{"lang": "PyPy 3", "title": "628B - New Skateboard", "time": "249ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/628/B", "problem_id": "16203997"}
+{"lang": "Python 3", "title": "628A - Tennis Tournament", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/628/A", "problem_id": "16203197"}
+{"lang": "PyPy 3", "title": "630E - A rectangle", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/E", "problem_id": "16182066"}
+{"lang": "Python 3", "title": "630E - A rectangle", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/630/E", "problem_id": "16181725"}
+{"lang": "PyPy 3", "title": "630E - A rectangle", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/630/E", "problem_id": "16180209"}
+{"lang": "PyPy 3", "title": "630E - A rectangle", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/630/E", "problem_id": "16180023"}
+{"lang": "Python 3", "title": "630P - Area of a Star", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/P", "problem_id": "16179308"}
+{"lang": "PyPy 3", "title": "630O - Arrow", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/O", "problem_id": "16176455"}
+{"lang": "PyPy 3", "title": "630Q - Pyramids", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/Q", "problem_id": "16174258"}
+{"lang": "Python 3", "title": "630E - A rectangle", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/630/E", "problem_id": "16169919"}
+{"lang": "PyPy 3", "title": "630M - Turn", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/M", "problem_id": "16167995"}
+{"lang": "PyPy 3", "title": "630L - Cracking the Code", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/L", "problem_id": "16165602"}
+{"lang": "PyPy 3", "title": "630N - Forecast", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/N", "problem_id": "16164230"}
+{"lang": "PyPy 3", "title": "630N - Forecast", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/630/N", "problem_id": "16163659"}
+{"lang": "PyPy 3", "title": "630I - Parking Lot", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/I", "problem_id": "16159485"}
+{"lang": "PyPy 3", "title": "630R - Game", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/R", "problem_id": "16158331"}
+{"lang": "Python 3", "title": "630I - Parking Lot", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/630/I", "problem_id": "16155634"}
+{"lang": "Python 3", "title": "630K - Indivisibility", "time": "62ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/630/K", "problem_id": "16153404"}
+{"lang": "PyPy 3", "title": "630H - Benches", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/H", "problem_id": "16150817"}
+{"lang": "Python 3", "title": "630G - Challenge Pennants", "time": "77ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/630/G", "problem_id": "16150166"}
+{"lang": "PyPy 3", "title": "630J - Divisibility", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/J", "problem_id": "16148890"}
+{"lang": "Python 3", "title": "630F - Selection of Personnel", "time": "77ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/630/F", "problem_id": "16148036"}
+{"lang": "PyPy 3", "title": "630D - Hexagons!", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/D", "problem_id": "16146234"}
+{"lang": "PyPy 3", "title": "630C - Lucky Numbers", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/C", "problem_id": "16145552"}
+{"lang": "Python 3", "title": "630B - Moore's Law", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/B", "problem_id": "16144893"}
+{"lang": "Python 3", "title": "630A - Again Twenty Five!", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/630/A", "problem_id": "16143598"}
+{"lang": "PyPy 3", "title": "615C - Running Track", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "364600KB", "problem_link": "/problemset/problem/615/C", "problem_id": "16061006"}
+{"lang": "PyPy 3", "title": "615C - Running Track", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/615/C", "problem_id": "16060953"}
+{"lang": "PyPy 3", "title": "616D - Longest k-Good Segment", "time": "857ms", "verdict": "OK", "memory": "38800KB", "problem_link": "/problemset/problem/616/D", "problem_id": "16029751"}
+{"lang": "Python 3", "title": "620B - Grandfather Dovlet\u2019s calculator", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/620/B", "problem_id": "16025800"}
+{"lang": "PyPy 3", "title": "620C - Pearls in a Row", "time": "748ms", "verdict": "OK", "memory": "31300KB", "problem_link": "/problemset/problem/620/C", "problem_id": "16025493"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "2558ms", "verdict": "OK", "memory": "34200KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16017514"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "1372ms", "verdict": "WRONG_ANSWER", "memory": "27900KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16017386"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "1107ms", "verdict": "WRONG_ANSWER", "memory": "20700KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16017244"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "1746ms", "verdict": "WRONG_ANSWER", "memory": "21500KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16016915"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "108ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16016899"}
+{"lang": "PyPy 3", "title": "626E - Simple Skewness", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/626/E", "problem_id": "16016882"}
+{"lang": "PyPy 3", "title": "626D - Jerry's Protest", "time": "592ms", "verdict": "OK", "memory": "7000KB", "problem_link": "/problemset/problem/626/D", "problem_id": "16003588"}
+{"lang": "Python 3", "title": "626C - Block Towers", "time": "436ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/C", "problem_id": "15999998"}
+{"lang": "Python 3", "title": "626B - Cards", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/B", "problem_id": "15993914"}
+{"lang": "Python 3", "title": "626A - Robot Sequence", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/A", "problem_id": "15992039"}
+{"lang": "PyPy 3", "title": "622D - Optimal Number Permutation", "time": "857ms", "verdict": "OK", "memory": "108000KB", "problem_link": "/problemset/problem/622/D", "problem_id": "15979770"}
+{"lang": "GNU C++11", "title": "622C - Not Equal on a Segment", "time": "639ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979638"}
+{"lang": "GNU C++11", "title": "622C - Not Equal on a Segment", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979600"}
+{"lang": "GNU C++11", "title": "622C - Not Equal on a Segment", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979575"}
+{"lang": "GNU C++11", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1500KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979489"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15900KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979406"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "9700KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979384"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979372"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15800KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979244"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15900KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979231"}
+{"lang": "Python 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6700KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979220"}
+{"lang": "PyPy 3", "title": "622C - Not Equal on a Segment", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "15800KB", "problem_link": "/problemset/problem/622/C", "problem_id": "15979107"}
+{"lang": "PyPy 3", "title": "622B - The Time", "time": "155ms", "verdict": "OK", "memory": "5700KB", "problem_link": "/problemset/problem/622/B", "problem_id": "15969202"}
+{"lang": "PyPy 3", "title": "622A - Infinite Sequence", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/622/A", "problem_id": "15968868"}
+{"lang": "PyPy 3", "title": "620A - Professor GukiZ's Robot", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/620/A", "problem_id": "15946949"}
+{"lang": "PyPy 3", "title": "489A - SwapSort", "time": "202ms", "verdict": "OK", "memory": "5000KB", "problem_link": "/problemset/problem/489/A", "problem_id": "15902707"}
+{"lang": "PyPy 3", "title": "489C - Given Length and Sum of Digits...", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "15902128"}
+{"lang": "PyPy 3", "title": "489C - Given Length and Sum of Digits...", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "15901943"}
+{"lang": "PyPy 3", "title": "489B - BerSU Ball", "time": "108ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/489/B", "problem_id": "15901686"}
+{"lang": "PyPy 3", "title": "579B - Finding Team Member", "time": "1747ms", "verdict": "OK", "memory": "32500KB", "problem_link": "/problemset/problem/579/B", "problem_id": "15892832"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "28300KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15884789"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "34600KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15884635"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "36800KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15884525"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "36200KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883888"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26300KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883854"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "33300KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883591"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883581"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "38300KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883514"}
+{"lang": "Python 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56800KB", "problem_link": "/problemset/problem/609/D", "problem_id": "15883016"}
+{"lang": "PyPy 3", "title": "618E - Robot Arm", "time": "6925ms", "verdict": "OK", "memory": "105200KB", "problem_link": "/problemset/problem/618/E", "problem_id": "15881988"}
+{"lang": "PyPy 3", "title": "618E - Robot Arm", "time": "8000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "98300KB", "problem_link": "/problemset/problem/618/E", "problem_id": "15879158"}
+{"lang": "Python 3", "title": "625B - War of the Corporations", "time": "841ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/625/B", "problem_id": "15869100"}
+{"lang": "Python 3", "title": "625B - War of the Corporations", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/B", "problem_id": "15868814"}
+{"lang": "Python 3", "title": "625C - K-special Tables", "time": "1029ms", "verdict": "OK", "memory": "8500KB", "problem_link": "/problemset/problem/625/C", "problem_id": "15861205"}
+{"lang": "Python 3", "title": "625A - Guest From the Past", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "15854917"}
+{"lang": "GNU C++11", "title": "623B - Array GCD", "time": "1278ms", "verdict": "OK", "memory": "31300KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15841670"}
+{"lang": "GNU C++11", "title": "623B - Array GCD", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15841646"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "514ms", "verdict": "OK", "memory": "8600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840390"}
+{"lang": "MS C++", "title": "572E - CNF 2", "time": "483ms", "verdict": "OK", "memory": "9400KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840308"}
+{"lang": "MS C++", "title": "572E - CNF 2", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840252"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840215"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840188"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15840130"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15839859"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "997ms", "verdict": "WRONG_ANSWER", "memory": "8600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15839650"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15839536"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15839518"}
+{"lang": "PyPy 3", "title": "409E - Dome", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/409/E", "problem_id": "15832267"}
+{"lang": "PyPy 3", "title": "616A - Comparing Two Long Integers", "time": "280ms", "verdict": "OK", "memory": "9200KB", "problem_link": "/problemset/problem/616/A", "problem_id": "15831742"}
+{"lang": "PyPy 3", "title": "616A - Comparing Two Long Integers", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/616/A", "problem_id": "15831375"}
+{"lang": "PyPy 3", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "30800KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15831323"}
+{"lang": "PyPy 3", "title": "623B - Array GCD", "time": "78ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15831264"}
+{"lang": "Python 3", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "84600KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15830855"}
+{"lang": "Python 3", "title": "623B - Array GCD", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "62900KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15827665"}
+{"lang": "Python 3", "title": "623B - Array GCD", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "171500KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15826519"}
+{"lang": "Python 3", "title": "623B - Array GCD", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "1300KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15826508"}
+{"lang": "Python 3", "title": "623B - Array GCD", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15825891"}
+{"lang": "Python 3", "title": "623B - Array GCD", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "75800KB", "problem_link": "/problemset/problem/623/B", "problem_id": "15825106"}
+{"lang": "Python 3", "title": "623A - Graph and String", "time": "483ms", "verdict": "OK", "memory": "12000KB", "problem_link": "/problemset/problem/623/A", "problem_id": "15821449"}
+{"lang": "Python 3", "title": "623A - Graph and String", "time": "186ms", "verdict": "RUNTIME_ERROR", "memory": "3000KB", "problem_link": "/problemset/problem/623/A", "problem_id": "15821172"}
+{"lang": "Python 3", "title": "623A - Graph and String", "time": "187ms", "verdict": "RUNTIME_ERROR", "memory": "3000KB", "problem_link": "/problemset/problem/623/A", "problem_id": "15820882"}
+{"lang": "Python 3", "title": "623A - Graph and String", "time": "187ms", "verdict": "RUNTIME_ERROR", "memory": "3100KB", "problem_link": "/problemset/problem/623/A", "problem_id": "15820845"}
+{"lang": "Python 3", "title": "624B - Making a String", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/624/B", "problem_id": "15820308"}
+{"lang": "Python 3", "title": "624A - Save Luke", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/624/A", "problem_id": "15820235"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "25200KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15787105"}
+{"lang": "GNU C++11", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "25200KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15787049"}
+{"lang": "Python 3", "title": "572E - CNF 2", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "77800KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15785917"}
+{"lang": "Python 3", "title": "572E - CNF 2", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/572/E", "problem_id": "15785549"}
+{"lang": "Python 3", "title": "572B - Order Book", "time": "77ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/572/B", "problem_id": "15782200"}
+{"lang": "Python 3", "title": "572B - Order Book", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/572/B", "problem_id": "15782131"}
+{"lang": "Python 3", "title": "572A - Arrays", "time": "139ms", "verdict": "OK", "memory": "10400KB", "problem_link": "/problemset/problem/572/A", "problem_id": "15781769"}
+{"lang": "Io", "title": "72I - Goofy Numbers", "time": "310ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/72/I", "problem_id": "15761271"}
+{"lang": "Io", "title": "72H - Reverse It!", "time": "218ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/72/H", "problem_id": "15761179"}
+{"lang": "Io", "title": "72H - Reverse It!", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/72/H", "problem_id": "15761165"}
+{"lang": "Io", "title": "72H - Reverse It!", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/72/H", "problem_id": "15761130"}
+{"lang": "Io", "title": "72G - Fibonacci army", "time": "186ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/72/G", "problem_id": "15760909"}
+{"lang": "Io", "title": "72C - Extraordinarily Nice Numbers", "time": "216ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/72/C", "problem_id": "15760872"}
+{"lang": "Io", "title": "72A - Goshtasp, Vishtasp and Eidi", "time": "686ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/72/A", "problem_id": "15760779"}
+{"lang": "Python 3", "title": "290B - QR code", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/B", "problem_id": "15743239"}
+{"lang": "Python 3", "title": "290A - Mysterious strings", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/290/A", "problem_id": "15743123"}
+{"lang": "Befunge", "title": "130J - Date calculation", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/J", "problem_id": "15742782"}
+{"lang": "Befunge", "title": "130I - Array sorting", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/I", "problem_id": "15742280"}
+{"lang": "Befunge", "title": "130H - Balanced brackets", "time": "184ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/130/H", "problem_id": "15741968"}
+{"lang": "Befunge", "title": "130G - CAPS LOCK ON", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/G", "problem_id": "15741868"}
+{"lang": "Befunge", "title": "130G - CAPS LOCK ON", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/130/G", "problem_id": "15741852"}
+{"lang": "Befunge", "title": "130F - Prime factorization", "time": "216ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/F", "problem_id": "15741751"}
+{"lang": "Befunge", "title": "130E - Tribonacci numbers", "time": "716ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/E", "problem_id": "15741534"}
+{"lang": "Befunge", "title": "130E - Tribonacci numbers", "time": "154ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/130/E", "problem_id": "15741379"}
+{"lang": "Befunge", "title": "130D - Exponentiation", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/D", "problem_id": "15741159"}
+{"lang": "Befunge", "title": "130D - Exponentiation", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/130/D", "problem_id": "15741150"}
+{"lang": "Befunge", "title": "130C - Decimal sum", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/C", "problem_id": "15740953"}
+{"lang": "Befunge", "title": "130B - Gnikool Ssalg", "time": "186ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/130/B", "problem_id": "15740873"}
+{"lang": "Befunge", "title": "130A - Hexagonal numbers", "time": "184ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/130/A", "problem_id": "15740814"}
+{"lang": "FALSE", "title": "470H - Array Sorting", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/H", "problem_id": "15723975"}
+{"lang": "FALSE", "title": "470G - Hamming Distance", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/G", "problem_id": "15722039"}
+{"lang": "FALSE", "title": "470F - Pairwise Sums", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/F", "problem_id": "15721937"}
+{"lang": "FALSE", "title": "470E - Chessboard", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/E", "problem_id": "15721671"}
+{"lang": "FALSE", "title": "470E - Chessboard", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/470/E", "problem_id": "15721660"}
+{"lang": "FALSE", "title": "470D - Caesar Cipher", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/D", "problem_id": "15721482"}
+{"lang": "FALSE", "title": "470D - Caesar Cipher", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/470/D", "problem_id": "15721467"}
+{"lang": "FALSE", "title": "470C - Eval", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/C", "problem_id": "15721381"}
+{"lang": "FALSE", "title": "470B - Hexakosioihexekontahexaphobia", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/B", "problem_id": "15721194"}
+{"lang": "FALSE", "title": "470B - Hexakosioihexekontahexaphobia", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/470/B", "problem_id": "15721152"}
+{"lang": "FALSE", "title": "470A - Crystal Ball Sequence", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/470/A", "problem_id": "15720852"}
+{"lang": "Python 3", "title": "621D - Rat Kwesh and Cheese", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/621/D", "problem_id": "15718586"}
+{"lang": "Python 3", "title": "621D - Rat Kwesh and Cheese", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/621/D", "problem_id": "15717885"}
+{"lang": "Python 3", "title": "621D - Rat Kwesh and Cheese", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/621/D", "problem_id": "15717819"}
+{"lang": "Python 3", "title": "621D - Rat Kwesh and Cheese", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/621/D", "problem_id": "15717634"}
+{"lang": "Python 3", "title": "621E - Wet Shark and Blocks", "time": "343ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/621/E", "problem_id": "15715398"}
+{"lang": "Python 3", "title": "621E - Wet Shark and Blocks", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/621/E", "problem_id": "15714963"}
+{"lang": "Python 3", "title": "621C - Wet Shark and Flowers", "time": "701ms", "verdict": "OK", "memory": "9200KB", "problem_link": "/problemset/problem/621/C", "problem_id": "15709190"}
+{"lang": "Python 3", "title": "621B - Wet Shark and Bishops", "time": "841ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/621/B", "problem_id": "15698963"}
+{"lang": "Python 3", "title": "621A - Wet Shark and Odd and Even", "time": "124ms", "verdict": "OK", "memory": "7900KB", "problem_link": "/problemset/problem/621/A", "problem_id": "15696451"}
+{"lang": "Python 3", "title": "618E - Robot Arm", "time": "8000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46900KB", "problem_link": "/problemset/problem/618/E", "problem_id": "15678644"}
+{"lang": "Python 3", "title": "618D - Hamiltonian Spanning Tree", "time": "1762ms", "verdict": "OK", "memory": "58900KB", "problem_link": "/problemset/problem/618/D", "problem_id": "15668852"}
+{"lang": "Python 3", "title": "618D - Hamiltonian Spanning Tree", "time": "1497ms", "verdict": "WRONG_ANSWER", "memory": "54600KB", "problem_link": "/problemset/problem/618/D", "problem_id": "15668598"}
+{"lang": "Python 3", "title": "618D - Hamiltonian Spanning Tree", "time": "1419ms", "verdict": "WRONG_ANSWER", "memory": "43200KB", "problem_link": "/problemset/problem/618/D", "problem_id": "15665186"}
+{"lang": "Python 3", "title": "618D - Hamiltonian Spanning Tree", "time": "1060ms", "verdict": "RUNTIME_ERROR", "memory": "42900KB", "problem_link": "/problemset/problem/618/D", "problem_id": "15664646"}
+{"lang": "Python 3", "title": "618C - Constellation", "time": "748ms", "verdict": "OK", "memory": "18500KB", "problem_link": "/problemset/problem/618/C", "problem_id": "15657027"}
+{"lang": "Python 3", "title": "618B - Guess the Permutation", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/618/B", "problem_id": "15653804"}
+{"lang": "Python 3", "title": "618A - Slime Combining", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/618/A", "problem_id": "15651566"}
+{"lang": "Python 3", "title": "617D - Polyline", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/617/D", "problem_id": "15539550"}
+{"lang": "Python 3", "title": "617D - Polyline", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/617/D", "problem_id": "15539506"}
+{"lang": "Python 3", "title": "617D - Polyline", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/617/D", "problem_id": "15539028"}
+{"lang": "Python 3", "title": "617D - Polyline", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/617/D", "problem_id": "15532899"}
+{"lang": "Python 3", "title": "617D - Polyline", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/617/D", "problem_id": "15531373"}
+{"lang": "Python 3", "title": "617C - Watering Flowers", "time": "93ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/617/C", "problem_id": "15525144"}
+{"lang": "Python 3", "title": "617B - Chocolate", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "15521130"}
+{"lang": "Python 3", "title": "617B - Chocolate", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "15520638"}
+{"lang": "Python 3", "title": "617B - Chocolate", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "15520129"}
+{"lang": "Python 3", "title": "617A - Elephant", "time": "78ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/A", "problem_id": "15517265"}
+{"lang": "Python 3", "title": "409E - Dome", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/409/E", "problem_id": "15417428"}
+{"lang": "Python 3", "title": "509C - Sums of Digits", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/509/C", "problem_id": "15408612"}
+{"lang": "Python 3", "title": "509B - Painting Pebbles", "time": "92ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/509/B", "problem_id": "15408390"}
+{"lang": "Python 3", "title": "509B - Painting Pebbles", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "500KB", "problem_link": "/problemset/problem/509/B", "problem_id": "15408362"}
+{"lang": "Python 3", "title": "509A - Maximum in Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/509/A", "problem_id": "15408223"}
+{"lang": "Python 3", "title": "613B - Skills", "time": "1045ms", "verdict": "OK", "memory": "16100KB", "problem_link": "/problemset/problem/613/B", "problem_id": "15377652"}
+{"lang": "Python 3", "title": "614B - Gena's Code", "time": "155ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/614/B", "problem_id": "15374792"}
+{"lang": "Python 3", "title": "614B - Gena's Code", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/B", "problem_id": "15374648"}
+{"lang": "Python 3", "title": "614B - Gena's Code", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/B", "problem_id": "15374374"}
+{"lang": "Python 3", "title": "613C - Necklace", "time": "62ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/613/C", "problem_id": "15373895"}
+{"lang": "Python 3", "title": "614E - Necklace", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/614/E", "problem_id": "15371486"}
+{"lang": "Python 3", "title": "614E - Necklace", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/614/E", "problem_id": "15371065"}
+{"lang": "Python 3", "title": "614C - Peter and Snow Blower", "time": "686ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/614/C", "problem_id": "15364669"}
+{"lang": "Python 3", "title": "614C - Peter and Snow Blower", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/C", "problem_id": "15353481"}
+{"lang": "Python 3", "title": "614B - Gena's Code", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1600KB", "problem_link": "/problemset/problem/614/B", "problem_id": "15350616"}
+{"lang": "Python 3", "title": "614A - Link/Cut Tree", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15347033"}
+{"lang": "Python 3", "title": "616A - Comparing Two Long Integers", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3100KB", "problem_link": "/problemset/problem/616/A", "problem_id": "15300761"}
+{"lang": "Python 3", "title": "616B - Dinner with Emma", "time": "62ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/616/B", "problem_id": "15300044"}
+{"lang": "Python 3", "title": "616A - Comparing Two Long Integers", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3200KB", "problem_link": "/problemset/problem/616/A", "problem_id": "15299719"}
+{"lang": "Python 3", "title": "190D - Non-Secret Cypher", "time": "2152ms", "verdict": "OK", "memory": "29700KB", "problem_link": "/problemset/problem/190/D", "problem_id": "15271317"}
+{"lang": "Python 3", "title": "190C - STL", "time": "1714ms", "verdict": "OK", "memory": "13300KB", "problem_link": "/problemset/problem/190/C", "problem_id": "15270853"}
+{"lang": "Python 3", "title": "190C - STL", "time": "498ms", "verdict": "RUNTIME_ERROR", "memory": "7500KB", "problem_link": "/problemset/problem/190/C", "problem_id": "15270630"}
+{"lang": "Python 3", "title": "190B - Surrounded", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/190/B", "problem_id": "15270295"}
+{"lang": "Python 3", "title": "190B - Surrounded", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/190/B", "problem_id": "15270282"}
+{"lang": "Python 3", "title": "190A - Vasya and the Bus", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15270039"}
+{"lang": "Python 3", "title": "190A - Vasya and the Bus", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15270037"}
+{"lang": "Python 3", "title": "190A - Vasya and the Bus", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15270031"}
+{"lang": "Python 3", "title": "190A - Vasya and the Bus", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15270023"}
+{"lang": "Python 3", "title": "190A - Vasya and the Bus", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "15270018"}
+{"lang": "Python 3", "title": "598D - Igor In the Museum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8300KB", "problem_link": "/problemset/problem/598/D", "problem_id": "15262168"}
+{"lang": "Python 3", "title": "598D - Igor In the Museum", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/598/D", "problem_id": "15262163"}
+{"lang": "PyPy 3", "title": "598D - Igor In the Museum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "13200KB", "problem_link": "/problemset/problem/598/D", "problem_id": "15262146"}
+{"lang": "Python 3", "title": "598D - Igor In the Museum", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "7900KB", "problem_link": "/problemset/problem/598/D", "problem_id": "15262132"}
+{"lang": "Python 3", "title": "570B - Simple Game", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "15261964"}
+{"lang": "Python 3", "title": "570B - Simple Game", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "15261953"}
+{"lang": "Python 3", "title": "570B - Simple Game", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "15261944"}
+{"lang": "Python 3", "title": "580C - Kefa and Park", "time": "997ms", "verdict": "OK", "memory": "23900KB", "problem_link": "/problemset/problem/580/C", "problem_id": "15261909"}
+{"lang": "Python 3", "title": "580C - Kefa and Park", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/580/C", "problem_id": "15261884"}
+{"lang": "Python 3", "title": "540C - Ice Cave", "time": "468ms", "verdict": "OK", "memory": "29300KB", "problem_link": "/problemset/problem/540/C", "problem_id": "15261718"}
+{"lang": "Python 3", "title": "557D - Vitaly and Cycle", "time": "686ms", "verdict": "OK", "memory": "15400KB", "problem_link": "/problemset/problem/557/D", "problem_id": "15261645"}
+{"lang": "Python 3", "title": "615B - Longtail Hedgehog", "time": "1185ms", "verdict": "OK", "memory": "25100KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15261125"}
+{"lang": "Python 3", "title": "615B - Longtail Hedgehog", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15261120"}
+{"lang": "Python 3", "title": "615B - Longtail Hedgehog", "time": "561ms", "verdict": "RUNTIME_ERROR", "memory": "20400KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15261081"}
+{"lang": "Python 3", "title": "615E - Hexagons", "time": "108ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/615/E", "problem_id": "15258829"}
+{"lang": "Python 3", "title": "615E - Hexagons", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "900KB", "problem_link": "/problemset/problem/615/E", "problem_id": "15258749"}
+{"lang": "Python 3", "title": "615E - Hexagons", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/615/E", "problem_id": "15258230"}
+{"lang": "Python 3", "title": "615D - Multipliers", "time": "358ms", "verdict": "OK", "memory": "15000KB", "problem_link": "/problemset/problem/615/D", "problem_id": "15256757"}
+{"lang": "GNU C++11", "title": "615B - Longtail Hedgehog", "time": "873ms", "verdict": "OK", "memory": "15300KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15247871"}
+{"lang": "GNU C++11", "title": "615B - Longtail Hedgehog", "time": "343ms", "verdict": "WRONG_ANSWER", "memory": "9000KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15247046"}
+{"lang": "GNU C++11", "title": "615B - Longtail Hedgehog", "time": "343ms", "verdict": "WRONG_ANSWER", "memory": "9000KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15246411"}
+{"lang": "Python 3", "title": "615D - Multipliers", "time": "217ms", "verdict": "WRONG_ANSWER", "memory": "14200KB", "problem_link": "/problemset/problem/615/D", "problem_id": "15244106"}
+{"lang": "Python 3", "title": "615D - Multipliers", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "14200KB", "problem_link": "/problemset/problem/615/D", "problem_id": "15242879"}
+{"lang": "Python 3", "title": "615B - Longtail Hedgehog", "time": "77ms", "verdict": "RUNTIME_ERROR", "memory": "700KB", "problem_link": "/problemset/problem/615/B", "problem_id": "15242846"}
+{"lang": "Python 3", "title": "615D - Multipliers", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/615/D", "problem_id": "15242546"}
+{"lang": "Python 3", "title": "615A - Bulbs", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/615/A", "problem_id": "15239022"}
+{"lang": "Python 3", "title": "615A - Bulbs", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/615/A", "problem_id": "15238116"}
+{"lang": "Python 3", "title": "553B - Kyoya and Permutation", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/553/B", "problem_id": "15212069"}
+{"lang": "Python 3", "title": "540C - Ice Cave", "time": "233ms", "verdict": "RUNTIME_ERROR", "memory": "2600KB", "problem_link": "/problemset/problem/540/C", "problem_id": "15208524"}
+{"lang": "PyPy 3", "title": "540B - School Marks", "time": "140ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/540/B", "problem_id": "15203924"}
+{"lang": "PyPy 3", "title": "540A - Combination Lock", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/540/A", "problem_id": "15203763"}
+{"lang": "PyPy 3", "title": "313C - Ilya and Matrix", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "100500KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193872"}
+{"lang": "MS C++", "title": "313C - Ilya and Matrix", "time": "296ms", "verdict": "OK", "memory": "4100KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193817"}
+{"lang": "MS C++", "title": "313C - Ilya and Matrix", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8200KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193716"}
+{"lang": "GNU C++11", "title": "313C - Ilya and Matrix", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "8200KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193697"}
+{"lang": "GNU C++11", "title": "313C - Ilya and Matrix", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193684"}
+{"lang": "Python 3", "title": "313C - Ilya and Matrix", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "71500KB", "problem_link": "/problemset/problem/313/C", "problem_id": "15193306"}
+{"lang": "MS C++", "title": "546D - Soldier and Number Game", "time": "888ms", "verdict": "OK", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "15193081"}
+{"lang": "MS C++", "title": "546D - Soldier and Number Game", "time": "670ms", "verdict": "WRONG_ANSWER", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "15192890"}
+{"lang": "MS C++", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "15192864"}
+{"lang": "MS C++", "title": "546D - Soldier and Number Game", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "15192855"}
+{"lang": "GNU C++11", "title": "546D - Soldier and Number Game", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "15192837"}
+{"lang": "GNU C++11", "title": "2B - The least round way", "time": "4836ms", "verdict": "OK", "memory": "12300KB", "problem_link": "/problemset/problem/2/B", "problem_id": "15192326"}
+{"lang": "Python 3", "title": "37C - Old Berland Language", "time": "154ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/37/C", "problem_id": "15192017"}
+{"lang": "Python 3", "title": "37C - Old Berland Language", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/37/C", "problem_id": "15191989"}
+{"lang": "Python 3", "title": "37B - Computer Game", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/37/B", "problem_id": "15191276"}
+{"lang": "Python 3", "title": "37B - Computer Game", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/37/B", "problem_id": "15191045"}
+{"lang": "Python 3", "title": "37A - Towers", "time": "154ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/37/A", "problem_id": "15190721"}
+{"lang": "GNU C++11", "title": "2B - The least round way", "time": "4928ms", "verdict": "RUNTIME_ERROR", "memory": "12300KB", "problem_link": "/problemset/problem/2/B", "problem_id": "15182898"}
+{"lang": "GNU C++11", "title": "2B - The least round way", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/2/B", "problem_id": "15182840"}
+{"lang": "GNU C++11", "title": "611D - New Year and Ancient Prophecy", "time": "1481ms", "verdict": "OK", "memory": "98100KB", "problem_link": "/problemset/problem/611/D", "problem_id": "15182384"}
+{"lang": "GNU C++11", "title": "490C - Hacking Cypher", "time": "187ms", "verdict": "OK", "memory": "19500KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15182205"}
+{"lang": "GNU C++11", "title": "490C - Hacking Cypher", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15182182"}
+{"lang": "GNU C++11", "title": "490C - Hacking Cypher", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15182166"}
+{"lang": "GNU C++11", "title": "490C - Hacking Cypher", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15182106"}
+{"lang": "Python 3", "title": "490C - Hacking Cypher", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15182105"}
+{"lang": "Python 3", "title": "490C - Hacking Cypher", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "47800KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15181318"}
+{"lang": "Python 3", "title": "490C - Hacking Cypher", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "44000KB", "problem_link": "/problemset/problem/490/C", "problem_id": "15181280"}
+{"lang": "Python 3", "title": "485B - Valuable Resources", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/485/B", "problem_id": "15180849"}
+{"lang": "Python 3", "title": "485A - Factory", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/485/A", "problem_id": "15180798"}
+{"lang": "Python 3", "title": "485A - Factory", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/485/A", "problem_id": "15180793"}
+{"lang": "Python 3", "title": "486A - Calculating Function", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "15180751"}
+{"lang": "Python 3", "title": "468C - Hack it!", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/468/C", "problem_id": "15180707"}
+{"lang": "Python 3", "title": "469D - Two Sets", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/469/D", "problem_id": "15175318"}
+{"lang": "Python 3", "title": "469C - 24 Game", "time": "483ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/469/C", "problem_id": "15173334"}
+{"lang": "Python 3", "title": "469B - Chat Online", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/B", "problem_id": "15173227"}
+{"lang": "Python 3", "title": "469A - I Wanna Be the Guy", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "15173142"}
+{"lang": "Python 3", "title": "469A - I Wanna Be the Guy", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "15173124"}
+{"lang": "Python 3", "title": "611D - New Year and Ancient Prophecy", "time": "2500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "114600KB", "problem_link": "/problemset/problem/611/D", "problem_id": "15128760"}
+{"lang": "Python 3", "title": "611D - New Year and Ancient Prophecy", "time": "2500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "17300KB", "problem_link": "/problemset/problem/611/D", "problem_id": "15128732"}
+{"lang": "Python 3", "title": "611D - New Year and Ancient Prophecy", "time": "2500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "111300KB", "problem_link": "/problemset/problem/611/D", "problem_id": "15128602"}
+{"lang": "Python 3", "title": "611E - New Year and Three Musketeers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/611/E", "problem_id": "15126185"}
+{"lang": "Python 3", "title": "611C - New Year and Domino", "time": "2074ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/611/C", "problem_id": "15120695"}
+{"lang": "Python 3", "title": "611B - New Year and Old Property", "time": "93ms", "verdict": "OK", "memory": "700KB", "problem_link": "/problemset/problem/611/B", "problem_id": "15109131"}
+{"lang": "Python 3", "title": "611A - New Year and Days", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/611/A", "problem_id": "15102531"}
+{"lang": "Python 3", "title": "581C - Developing Skills", "time": "233ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/581/C", "problem_id": "15095943"}
+{"lang": "Python 3", "title": "581B - Luxurious Houses", "time": "467ms", "verdict": "OK", "memory": "8000KB", "problem_link": "/problemset/problem/581/B", "problem_id": "15095606"}
+{"lang": "Python 3", "title": "581A - Vasya the Hipster", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/581/A", "problem_id": "15095442"}
+{"lang": "Python 3", "title": "492E - Vanya and Field", "time": "436ms", "verdict": "OK", "memory": "6300KB", "problem_link": "/problemset/problem/492/E", "problem_id": "15095097"}
+{"lang": "Python 3", "title": "568B - Symmetric and Transitive", "time": "62ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/568/B", "problem_id": "15094167"}
+{"lang": "Python 3", "title": "592B - The Monster and the Squirrel", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "15089628"}
+{"lang": "Python 3", "title": "592C - The Big Race", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/592/C", "problem_id": "15089388"}
+{"lang": "Python 3", "title": "599D - Spongebob and Squares", "time": "686ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/599/D", "problem_id": "15086606"}
+{"lang": "Python 3", "title": "514B - Han Solo and Lazer Gun", "time": "61ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/514/B", "problem_id": "15084918"}
+{"lang": "Python 3", "title": "514B - Han Solo and Lazer Gun", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "15084888"}
+{"lang": "Python 3", "title": "514B - Han Solo and Lazer Gun", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "15084803"}
+{"lang": "Python 3", "title": "514A - Chewba\u0441ca and Number", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "15084611"}
+{"lang": "Python 3", "title": "610C - Harmony Analysis", "time": "77ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/610/C", "problem_id": "15048549"}
+{"lang": "Python 3", "title": "610B - Vika and Squares", "time": "280ms", "verdict": "OK", "memory": "20900KB", "problem_link": "/problemset/problem/610/B", "problem_id": "15046268"}
+{"lang": "Python 3", "title": "610A - Pasha and Stick", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/610/A", "problem_id": "15043208"}
+{"lang": "Python 3", "title": "40E - Number Table", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/40/E", "problem_id": "15028927"}
+{"lang": "Python 3", "title": "40E - Number Table", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/40/E", "problem_id": "15028697"}
+{"lang": "Python 3", "title": "40B - Repaintings", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/40/B", "problem_id": "15027189"}
+{"lang": "PyPy 3", "title": "40A - Find Color", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/40/A", "problem_id": "15027011"}
+{"lang": "PyPy 3", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "71700KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15026745"}
+{"lang": "GNU C++", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "18200KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15026541"}
+{"lang": "MS C++", "title": "612E - Square Root of Permutation", "time": "1123ms", "verdict": "OK", "memory": "52500KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15026408"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16600KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15026352"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "13600KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15026106"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "16900KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15025076"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "19400KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15024898"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "18200KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15022586"}
+{"lang": "GNU C++11", "title": "612E - Square Root of Permutation", "time": "1825ms", "verdict": "RUNTIME_ERROR", "memory": "12700KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15022435"}
+{"lang": "Python 3", "title": "612E - Square Root of Permutation", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "77900KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15021755"}
+{"lang": "Python 3", "title": "612E - Square Root of Permutation", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15021622"}
+{"lang": "Python 3", "title": "612E - Square Root of Permutation", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "200KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15021615"}
+{"lang": "Python 3", "title": "612E - Square Root of Permutation", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/612/E", "problem_id": "15021353"}
+{"lang": "GNU C++11", "title": "612D - The Union of k-Segments", "time": "1154ms", "verdict": "OK", "memory": "41000KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15020677"}
+{"lang": "GNU C++11", "title": "612D - The Union of k-Segments", "time": "2496ms", "verdict": "WRONG_ANSWER", "memory": "103100KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15018699"}
+{"lang": "Python 3", "title": "612D - The Union of k-Segments", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15018685"}
+{"lang": "GNU C++11", "title": "612D - The Union of k-Segments", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "45900KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15018288"}
+{"lang": "Python 3", "title": "612D - The Union of k-Segments", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "168800KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15016444"}
+{"lang": "Python 3", "title": "612C - Replace To Make Regular Bracket Sequence", "time": "857ms", "verdict": "OK", "memory": "10300KB", "problem_link": "/problemset/problem/612/C", "problem_id": "15013196"}
+{"lang": "Python 3", "title": "612C - Replace To Make Regular Bracket Sequence", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/C", "problem_id": "15012954"}
+{"lang": "Python 3", "title": "612B - HDD is Outdated Technology", "time": "421ms", "verdict": "OK", "memory": "19500KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15011328"}
+{"lang": "Python 3", "title": "612A - The Text Splitting", "time": "61ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15010180"}
+{"lang": "GNU C++11", "title": "612A - The Text Splitting", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15010139"}
+{"lang": "Python 3", "title": "612A - The Text Splitting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15009662"}
+{"lang": "Python 3", "title": "547A - Mike and Frog", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "300KB", "problem_link": "/problemset/problem/547/A", "problem_id": "14989275"}
+{"lang": "Python 3", "title": "547A - Mike and Frog", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "200KB", "problem_link": "/problemset/problem/547/A", "problem_id": "14989251"}
+{"lang": "Python 3", "title": "550B - Preparing Olympiad", "time": "249ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/550/B", "problem_id": "14975652"}
+{"lang": "Python 3", "title": "550A - Two Substrings", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/550/A", "problem_id": "14975320"}
+{"lang": "Python 3", "title": "551C - GukiZ hates Boxes", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/551/C", "problem_id": "14974831"}
+{"lang": "Python 3", "title": "551D - GukiZ and Binary Operations", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/551/D", "problem_id": "14973862"}
+{"lang": "Python 3", "title": "551D - GukiZ and Binary Operations", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/551/D", "problem_id": "14972568"}
+{"lang": "Python 3", "title": "551D - GukiZ and Binary Operations", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/551/D", "problem_id": "14972524"}
+{"lang": "Python 3", "title": "551D - GukiZ and Binary Operations", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/551/D", "problem_id": "14972455"}
+{"lang": "GNU C++11", "title": "551D - GukiZ and Binary Operations", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/551/D", "problem_id": "14972449"}
+{"lang": "GNU C++11", "title": "2B - The least round way", "time": "498ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "65500KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14965679"}
+{"lang": "GNU C++11", "title": "607B - Zuma", "time": "77ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/607/B", "problem_id": "14964326"}
+{"lang": "Python 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56400KB", "problem_link": "/problemset/problem/609/D", "problem_id": "14961179"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/609/D", "problem_id": "14961174"}
+{"lang": "PyPy 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "24200KB", "problem_link": "/problemset/problem/609/D", "problem_id": "14961102"}
+{"lang": "PyPy 3", "title": "2B - The least round way", "time": "3150ms", "verdict": "WRONG_ANSWER", "memory": "30000KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14960966"}
+{"lang": "PyPy 3", "title": "2B - The least round way", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "18600KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14960709"}
+{"lang": "PyPy 3", "title": "2B - The least round way", "time": "2432ms", "verdict": "RUNTIME_ERROR", "memory": "11800KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14960685"}
+{"lang": "PyPy 3", "title": "2B - The least round way", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "28700KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14960363"}
+{"lang": "Python 3", "title": "608C - Chain Reaction", "time": "748ms", "verdict": "OK", "memory": "10200KB", "problem_link": "/problemset/problem/608/C", "problem_id": "14951018"}
+{"lang": "Python 3", "title": "608B - Hamming Distance Sum", "time": "233ms", "verdict": "OK", "memory": "9100KB", "problem_link": "/problemset/problem/608/B", "problem_id": "14947027"}
+{"lang": "Python 3", "title": "608A - Saitama Destroys Hotel", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/608/A", "problem_id": "14944335"}
+{"lang": "Python 3", "title": "608A - Saitama Destroys Hotel", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/608/A", "problem_id": "14942563"}
+{"lang": "Python 3", "title": "519C - A and B and Team Training", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "14939516"}
+{"lang": "Python 3", "title": "520C - DNA Alignment", "time": "140ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/520/C", "problem_id": "14939422"}
+{"lang": "Python 3", "title": "609D - Gadgets for dollars and pounds", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56200KB", "problem_link": "/problemset/problem/609/D", "problem_id": "14892920"}
+{"lang": "Python 3", "title": "609C - Load Balancing", "time": "187ms", "verdict": "OK", "memory": "7200KB", "problem_link": "/problemset/problem/609/C", "problem_id": "14882514"}
+{"lang": "Python 3", "title": "609C - Load Balancing", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/609/C", "problem_id": "14880305"}
+{"lang": "Python 3", "title": "609B - The Best Gift", "time": "140ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/609/B", "problem_id": "14879052"}
+{"lang": "Python 3", "title": "609A - USB Flash Drives", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/609/A", "problem_id": "14877746"}
+{"lang": "Python 3", "title": "534C - Polycarpus' Dice", "time": "998ms", "verdict": "OK", "memory": "14500KB", "problem_link": "/problemset/problem/534/C", "problem_id": "14747426"}
+{"lang": "Python 3", "title": "605A - Sorting Railway Cars", "time": "218ms", "verdict": "OK", "memory": "10100KB", "problem_link": "/problemset/problem/605/A", "problem_id": "14740721"}
+{"lang": "Python 3", "title": "605A - Sorting Railway Cars", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/605/A", "problem_id": "14740620"}
+{"lang": "Python 3", "title": "552C - Vanya and Scales", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/C", "problem_id": "14737177"}
+{"lang": "Python 3", "title": "552B - Vanya and Books", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "14737061"}
+{"lang": "Python 3", "title": "552A - Vanya and Table", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/A", "problem_id": "14736976"}
+{"lang": "Python 3", "title": "604B - More Cowbell", "time": "124ms", "verdict": "OK", "memory": "7100KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14736919"}
+{"lang": "Python 3", "title": "605B - Lazy Student", "time": "1201ms", "verdict": "OK", "memory": "20100KB", "problem_link": "/problemset/problem/605/B", "problem_id": "14736620"}
+{"lang": "Python 3", "title": "605B - Lazy Student", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/605/B", "problem_id": "14736572"}
+{"lang": "Python 3", "title": "605B - Lazy Student", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/605/B", "problem_id": "14736552"}
+{"lang": "Python 3", "title": "606B - Testing Robots", "time": "529ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/606/B", "problem_id": "14735707"}
+{"lang": "Python 3", "title": "606A - Magic Spheres", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/606/A", "problem_id": "14735189"}
+{"lang": "Python 3", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "37300KB", "problem_link": "/problemset/problem/546/D", "problem_id": "14700133"}
+{"lang": "Python 3", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "37300KB", "problem_link": "/problemset/problem/546/D", "problem_id": "14699654"}
+{"lang": "Python 3", "title": "546D - Soldier and Number Game", "time": "1169ms", "verdict": "WRONG_ANSWER", "memory": "39100KB", "problem_link": "/problemset/problem/546/D", "problem_id": "14692636"}
+{"lang": "Python 3", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "154700KB", "problem_link": "/problemset/problem/546/D", "problem_id": "14692634"}
+{"lang": "Python 3", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "100400KB", "problem_link": "/problemset/problem/546/D", "problem_id": "14692586"}
+{"lang": "Python 3", "title": "567C - Geometric Progression", "time": "654ms", "verdict": "OK", "memory": "23900KB", "problem_link": "/problemset/problem/567/C", "problem_id": "14690315"}
+{"lang": "Python 3", "title": "567C - Geometric Progression", "time": "655ms", "verdict": "WRONG_ANSWER", "memory": "23900KB", "problem_link": "/problemset/problem/567/C", "problem_id": "14690225"}
+{"lang": "Python 3", "title": "576A - Vasya and Petya's Game", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/576/A", "problem_id": "14689182"}
+{"lang": "Python 3", "title": "577B - Modulo Sum", "time": "452ms", "verdict": "OK", "memory": "69200KB", "problem_link": "/problemset/problem/577/B", "problem_id": "14688558"}
+{"lang": "Python 3", "title": "579A - Raising Bacteria", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "14680422"}
+{"lang": "Python 3", "title": "580A - Kefa and First Steps", "time": "139ms", "verdict": "OK", "memory": "8600KB", "problem_link": "/problemset/problem/580/A", "problem_id": "14680339"}
+{"lang": "Python 3", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "14680219"}
+{"lang": "Python 3", "title": "584A - Olesya and Rodion", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "14680211"}
+{"lang": "Python 3", "title": "580B - Kefa and Company", "time": "764ms", "verdict": "OK", "memory": "8100KB", "problem_link": "/problemset/problem/580/B", "problem_id": "14680134"}
+{"lang": "Python 3", "title": "584D - Dima and Lisa", "time": "966ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/584/D", "problem_id": "14679919"}
+{"lang": "Python 3", "title": "553A - Kyoya and Colored Balls", "time": "62ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/553/A", "problem_id": "14679644"}
+{"lang": "Python 3", "title": "9A - Die Roll", "time": "186ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/9/A", "problem_id": "14625839"}
+{"lang": "Python 3", "title": "7C - Line", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/7/C", "problem_id": "14625737"}
+{"lang": "Python 3", "title": "7C - Line", "time": "122ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/7/C", "problem_id": "14625674"}
+{"lang": "Python 3", "title": "3B - Lorry", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/3/B", "problem_id": "14625149"}
+{"lang": "Python 3", "title": "3B - Lorry", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/3/B", "problem_id": "14624722"}
+{"lang": "Python 3", "title": "3B - Lorry", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/3/B", "problem_id": "14624700"}
+{"lang": "Python 3", "title": "3A - Shortest path of the king", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/3/A", "problem_id": "14624347"}
+{"lang": "Python 3", "title": "2B - The least round way", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "46600KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14623540"}
+{"lang": "Python 3", "title": "2B - The least round way", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "35000KB", "problem_link": "/problemset/problem/2/B", "problem_id": "14623095"}
+{"lang": "Python 3", "title": "2A - Winner", "time": "154ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/2/A", "problem_id": "14621116"}
+{"lang": "Python 3", "title": "1A - Theatre Square", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "14619347"}
+{"lang": "Python 3", "title": "588B - Duff in Love", "time": "577ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/588/B", "problem_id": "14608154"}
+{"lang": "Python 3", "title": "588B - Duff in Love", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/588/B", "problem_id": "14608125"}
+{"lang": "Python 3", "title": "588B - Duff in Love", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/588/B", "problem_id": "14608113"}
+{"lang": "Python 3", "title": "595B - Pasha and Phone", "time": "296ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14608003"}
+{"lang": "Python 3", "title": "595B - Pasha and Phone", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14607985"}
+{"lang": "Python 3", "title": "596A - Wilbur and Swimming Pool", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14607701"}
+{"lang": "Python 3", "title": "596A - Wilbur and Swimming Pool", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14607679"}
+{"lang": "Python 3", "title": "596A - Wilbur and Swimming Pool", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14607553"}
+{"lang": "Python 3", "title": "596A - Wilbur and Swimming Pool", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14607470"}
+{"lang": "Python 3", "title": "596B - Wilbur and Array", "time": "202ms", "verdict": "OK", "memory": "16800KB", "problem_link": "/problemset/problem/596/B", "problem_id": "14607356"}
+{"lang": "Python 3", "title": "597A - Divisibility", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "14607127"}
+{"lang": "Python 3", "title": "597A - Divisibility", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "14606590"}
+{"lang": "Python 3", "title": "597A - Divisibility", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "14606542"}
+{"lang": "Python 3", "title": "598A - Tricky Sum", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/598/A", "problem_id": "14606177"}

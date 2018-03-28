@@ -27,3 +27,8 @@ class Problem(scrapy.Item):
     title = scrapy.Field()
     solved_times = scrapy.Field()
     status_link = scrapy.Field()
+    tags = scrapy.Field()
+
+class User(scrapy.Item):
+    link = scrapy.Field()
+    name = scrapy.Field()

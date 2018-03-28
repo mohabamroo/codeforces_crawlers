@@ -1,0 +1,345 @@
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "8094134"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "8093864"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "122ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "8093195"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "8091689"}
+{"lang": "Ruby", "title": "158A - Next Round", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "8091030"}
+{"lang": "GNU C++", "title": "344B - Simple Molecules", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/344/B", "problem_id": "4496110"}
+{"lang": "GNU C++", "title": "344A - Magnets", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/A", "problem_id": "4495839"}
+{"lang": "Java 6", "title": "336A - Vasily the Bear and Triangle", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "4275140"}
+{"lang": "Java 6", "title": "336A - Vasily the Bear and Triangle", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "4275127"}
+{"lang": "GNU C++", "title": "294B - Shaass and Bookshelf", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/294/B", "problem_id": "3485564"}
+{"lang": "GNU C++", "title": "294A - Shaass and Oskols", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/294/A", "problem_id": "3483722"}
+{"lang": "GNU C++", "title": "141A - Amusing Joke", "time": "15ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/141/A", "problem_id": "3291971"}
+{"lang": "GNU C++", "title": "252C - Points on Line", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/252/C", "problem_id": "2707065"}
+{"lang": "GNU C++", "title": "252A - Little Xor", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/252/A", "problem_id": "2703160"}
+{"lang": "GNU C++", "title": "252A - Little Xor", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/252/A", "problem_id": "2703044"}
+{"lang": "GNU C++", "title": "233C - Cycles", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/233/C", "problem_id": "2347091"}
+{"lang": "GNU C++", "title": "233B - Non-square Equation", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/233/B", "problem_id": "2342336"}
+{"lang": "GNU C++", "title": "233A - Perfect Permutation", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/233/A", "problem_id": "2340046"}
+{"lang": "GNU C++", "title": "230C - Shifts", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "21000KB", "problem_link": "/problemset/problem/230/C", "problem_id": "2286322"}
+{"lang": "GNU C++", "title": "230C - Shifts", "time": "234ms", "verdict": "WRONG_ANSWER", "memory": "21000KB", "problem_link": "/problemset/problem/230/C", "problem_id": "2286232"}
+{"lang": "GNU C++", "title": "230C - Shifts", "time": "203ms", "verdict": "WRONG_ANSWER", "memory": "6100KB", "problem_link": "/problemset/problem/230/C", "problem_id": "2285044"}
+{"lang": "GNU C++", "title": "230B - T-primes", "time": "359ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/230/B", "problem_id": "2284005"}
+{"lang": "GNU C++", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2600KB", "problem_link": "/problemset/problem/230/B", "problem_id": "2283509"}
+{"lang": "GNU C++", "title": "230B - T-primes", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "2600KB", "problem_link": "/problemset/problem/230/B", "problem_id": "2283049"}
+{"lang": "GNU C++", "title": "230B - T-primes", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "2600KB", "problem_link": "/problemset/problem/230/B", "problem_id": "2282304"}
+{"lang": "GNU C++", "title": "230B - T-primes", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "2600KB", "problem_link": "/problemset/problem/230/B", "problem_id": "2280932"}
+{"lang": "GNU C++", "title": "230A - Dragons", "time": "46ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2275126"}
+{"lang": "GNU C++", "title": "230A - Dragons", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2274927"}
+{"lang": "GNU C++", "title": "230A - Dragons", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/230/A", "problem_id": "2274202"}
+{"lang": "GNU C++", "title": "225B - Well-known Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2217810"}
+{"lang": "GNU C++", "title": "225C - Barcode", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "2500KB", "problem_link": "/problemset/problem/225/C", "problem_id": "2217144"}
+{"lang": "GNU C++", "title": "225C - Barcode", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2500KB", "problem_link": "/problemset/problem/225/C", "problem_id": "2217015"}
+{"lang": "GNU C++", "title": "225B - Well-known Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2500KB", "problem_link": "/problemset/problem/225/B", "problem_id": "2216824"}
+{"lang": "GNU C++", "title": "225C - Barcode", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "2500KB", "problem_link": "/problemset/problem/225/C", "problem_id": "2216663"}
+{"lang": "GNU C++", "title": "225A - Dice Tower", "time": "31ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/225/A", "problem_id": "2213669"}
+{"lang": "GNU C++", "title": "222C - Reducing Fractions", "time": "580ms", "verdict": "WRONG_ANSWER", "memory": "118900KB", "problem_link": "/problemset/problem/222/C", "problem_id": "2119565"}
+{"lang": "GNU C++", "title": "222C - Reducing Fractions", "time": "1010ms", "verdict": "WRONG_ANSWER", "memory": "118900KB", "problem_link": "/problemset/problem/222/C", "problem_id": "2117511"}
+{"lang": "GNU C++", "title": "222C - Reducing Fractions", "time": "840ms", "verdict": "WRONG_ANSWER", "memory": "118900KB", "problem_link": "/problemset/problem/222/C", "problem_id": "2116147"}
+{"lang": "GNU C++", "title": "222C - Reducing Fractions", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/222/C", "problem_id": "2116111"}
+{"lang": "GNU C++", "title": "222C - Reducing Fractions", "time": "690ms", "verdict": "WRONG_ANSWER", "memory": "118900KB", "problem_link": "/problemset/problem/222/C", "problem_id": "2115761"}
+{"lang": "GNU C++", "title": "222B - Cosmic Tables", "time": "2530ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/222/B", "problem_id": "2114181"}
+{"lang": "GNU C++", "title": "222B - Cosmic Tables", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/222/B", "problem_id": "2113932"}
+{"lang": "GNU C++", "title": "222B - Cosmic Tables", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5400KB", "problem_link": "/problemset/problem/222/B", "problem_id": "2113081"}
+{"lang": "GNU C++", "title": "222B - Cosmic Tables", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/222/B", "problem_id": "2112778"}
+{"lang": "GNU C++", "title": "222A - Shooshuns and Sequence", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2400KB", "problem_link": "/problemset/problem/222/A", "problem_id": "2111370"}
+{"lang": "GNU C++", "title": "222A - Shooshuns and Sequence", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/222/A", "problem_id": "2111279"}
+{"lang": "GNU C++", "title": "221D - Little Elephant and Array", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/221/D", "problem_id": "2080683"}
+{"lang": "GNU C++", "title": "221D - Little Elephant and Array", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5500KB", "problem_link": "/problemset/problem/221/D", "problem_id": "2079520"}
+{"lang": "GNU C++", "title": "221B - Little Elephant and Numbers", "time": "30ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/221/B", "problem_id": "2075425"}
+{"lang": "GNU C++", "title": "221C - Little Elephant and Problem", "time": "160ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/221/C", "problem_id": "2073770"}
+{"lang": "GNU C++", "title": "221A - Little Elephant and Function", "time": "30ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/221/A", "problem_id": "2072833"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "30ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2058983"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "30ms", "verdict": "SKIPPED", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2058884"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2058382"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2058229"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2058204"}
+{"lang": "GNU C++", "title": "219C - Color Stripe", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/C", "problem_id": "2058168"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2057876"}
+{"lang": "GNU C++", "title": "219B - Special Offer! Super Price 999 Bourles!", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/219/B", "problem_id": "2057737"}
+{"lang": "GNU C++", "title": "219A - k-String", "time": "30ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/219/A", "problem_id": "2055177"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "30ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2029756"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2029470"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1400KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2029367"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2029343"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1400KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2029255"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1800KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2028641"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2028516"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2028198"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "9500KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2027877"}
+{"lang": "GNU C++", "title": "218C - Ice Skating", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "9300KB", "problem_link": "/problemset/problem/218/C", "problem_id": "2027782"}
+{"lang": "GNU C++", "title": "218B - Airport", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/218/B", "problem_id": "2026333"}
+{"lang": "Java 7", "title": "218A - Mountain Scenery", "time": "140ms", "verdict": "OK", "memory": "44100KB", "problem_link": "/problemset/problem/218/A", "problem_id": "2024781"}
+{"lang": "Java 7", "title": "218A - Mountain Scenery", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "44000KB", "problem_link": "/problemset/problem/218/A", "problem_id": "2024451"}
+{"lang": "Java 7", "title": "218A - Mountain Scenery", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "44000KB", "problem_link": "/problemset/problem/218/A", "problem_id": "2024034"}
+{"lang": "GNU C++", "title": "218A - Mountain Scenery", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/218/A", "problem_id": "2024002"}
+{"lang": "GNU C++", "title": "70A - Cookies", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/70/A", "problem_id": "2018129"}
+{"lang": "GNU C++", "title": "70A - Cookies", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/70/A", "problem_id": "2018126"}
+{"lang": "GNU C++", "title": "216B - Forming Teams", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1500KB", "problem_link": "/problemset/problem/216/B", "problem_id": "2012353"}
+{"lang": "GNU C++", "title": "216A - Tiling with Hexagons", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/216/A", "problem_id": "2008365"}
+{"lang": "GNU C++", "title": "216A - Tiling with Hexagons", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/216/A", "problem_id": "2006929"}
+{"lang": "GNU C++", "title": "216A - Tiling with Hexagons", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/216/A", "problem_id": "2006509"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "470ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987797"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987694"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987674"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "420ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987615"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "420ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987590"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1987117"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986938"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986812"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986586"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "440ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986485"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "690ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986372"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986204"}
+{"lang": "GNU C++", "title": "215D - Hot Days", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/D", "problem_id": "1986097"}
+{"lang": "GNU C++", "title": "215B - Olympic Medal", "time": "1030ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/215/B", "problem_id": "1984868"}
+{"lang": "GNU C++", "title": "215B - Olympic Medal", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/B", "problem_id": "1983812"}
+{"lang": "GNU C++", "title": "215B - Olympic Medal", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/215/B", "problem_id": "1983501"}
+{"lang": "Java 6", "title": "215A - Bicycle Chain", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/215/A", "problem_id": "1981793"}
+{"lang": "Java 6", "title": "215A - Bicycle Chain", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/215/A", "problem_id": "1981463"}
+{"lang": "GNU C++", "title": "215A - Bicycle Chain", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/215/A", "problem_id": "1981389"}
+{"lang": "GNU C++", "title": "214B - Hometask", "time": "90ms", "verdict": "OK", "memory": "2300KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1960129"}
+{"lang": "GNU C++", "title": "214B - Hometask", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1958808"}
+{"lang": "GNU C++", "title": "214B - Hometask", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1956841"}
+{"lang": "GNU C++", "title": "214B - Hometask", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1956624"}
+{"lang": "GNU C++", "title": "214B - Hometask", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "2300KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1956381"}
+{"lang": "Java 6", "title": "214B - Hometask", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "51500KB", "problem_link": "/problemset/problem/214/B", "problem_id": "1954529"}
+{"lang": "Java 6", "title": "214A - System of Equations", "time": "140ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/214/A", "problem_id": "1953345"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "170ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1933031"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "170ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1931441"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1931042"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1930327"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1930165"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1930078"}
+{"lang": "Java 6", "title": "208D - Prizes, Prizes, more Prizes", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/208/D", "problem_id": "1928927"}
+{"lang": "Java 6", "title": "208D - Prizes, Prizes, more Prizes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/208/D", "problem_id": "1928775"}
+{"lang": "Java 6", "title": "208D - Prizes, Prizes, more Prizes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42200KB", "problem_link": "/problemset/problem/208/D", "problem_id": "1928605"}
+{"lang": "Java 6", "title": "208D - Prizes, Prizes, more Prizes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/208/D", "problem_id": "1928375"}
+{"lang": "Java 6", "title": "208B - Solitaire", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42400KB", "problem_link": "/problemset/problem/208/B", "problem_id": "1927069"}
+{"lang": "Java 6", "title": "208A - Dubstep", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/208/A", "problem_id": "1924731"}
+{"lang": "Ruby", "title": "199C - About Bacteria", "time": "190ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/199/C", "problem_id": "1850446"}
+{"lang": "Ruby", "title": "199C - About Bacteria", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "5600KB", "problem_link": "/problemset/problem/199/C", "problem_id": "1850445"}
+{"lang": "Ruby", "title": "199C - About Bacteria", "time": "130ms", "verdict": "RUNTIME_ERROR", "memory": "5600KB", "problem_link": "/problemset/problem/199/C", "problem_id": "1850444"}
+{"lang": "Ruby", "title": "199C - About Bacteria", "time": "140ms", "verdict": "OK", "memory": "5700KB", "problem_link": "/problemset/problem/199/C", "problem_id": "1850443"}
+{"lang": "GNU C++0x", "title": "199C - About Bacteria", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/199/C", "problem_id": "1850396"}
+{"lang": "Ruby", "title": "199A - Hexadecimal's theorem", "time": "140ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/199/A", "problem_id": "1849737"}
+{"lang": "Ruby", "title": "199A - Hexadecimal's theorem", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "5600KB", "problem_link": "/problemset/problem/199/A", "problem_id": "1849728"}
+{"lang": "Ruby", "title": "199A - Hexadecimal's theorem", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "5600KB", "problem_link": "/problemset/problem/199/A", "problem_id": "1849721"}
+{"lang": "Java 6", "title": "199A - Hexadecimal's theorem", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/199/A", "problem_id": "1817493"}
+{"lang": "Java 6", "title": "199A - Hexadecimal's theorem", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/199/A", "problem_id": "1817409"}
+{"lang": "Java 6", "title": "195B - After Training", "time": "440ms", "verdict": "OK", "memory": "42500KB", "problem_link": "/problemset/problem/195/B", "problem_id": "1780615"}
+{"lang": "Java 6", "title": "195B - After Training", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/195/B", "problem_id": "1779524"}
+{"lang": "Java 6", "title": "195B - After Training", "time": "130ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/195/B", "problem_id": "1779299"}
+{"lang": "Java 6", "title": "195A - Let's Watch Football", "time": "140ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/195/A", "problem_id": "1778635"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1700153"}
+{"lang": "Java 6", "title": "190C - STL", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/190/C", "problem_id": "1695859"}
+{"lang": "Java 6", "title": "190B - Surrounded", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/190/B", "problem_id": "1694923"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1693701"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1693409"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1693028"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1692528"}
+{"lang": "Java 6", "title": "190A - Vasya and the Bus", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1692212"}
+{"lang": "Ruby", "title": "190A - Vasya and the Bus", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/190/A", "problem_id": "1692116"}
+{"lang": "Ruby", "title": "189B - Counting Rhombi", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/189/B", "problem_id": "1682272"}
+{"lang": "Ruby", "title": "189B - Counting Rhombi", "time": "130ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/189/B", "problem_id": "1682265"}
+{"lang": "Ruby", "title": "189A - Cut Ribbon", "time": "130ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/189/A", "problem_id": "1682223"}
+{"lang": "Java 6", "title": "189A - Cut Ribbon", "time": "140ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/189/A", "problem_id": "1682195"}
+{"lang": "Java 6", "title": "189A - Cut Ribbon", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/189/A", "problem_id": "1682181"}
+{"lang": "Java 6", "title": "189A - Cut Ribbon", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/189/A", "problem_id": "1682108"}
+{"lang": "Java 6", "title": "189A - Cut Ribbon", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42200KB", "problem_link": "/problemset/problem/189/A", "problem_id": "1675177"}
+{"lang": "Java 6", "title": "148B - Escape", "time": "110ms", "verdict": "OK", "memory": "42200KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1138226"}
+{"lang": "Java 6", "title": "148B - Escape", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1136760"}
+{"lang": "Java 6", "title": "148B - Escape", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/148/B", "problem_id": "1136071"}
+{"lang": "Java 6", "title": "148A - Insomnia cure", "time": "110ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/148/A", "problem_id": "1134486"}
+{"lang": "Ruby", "title": "139A - Petr and Book", "time": "110ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/139/A", "problem_id": "994015"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/B", "problem_id": "853911"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/B", "problem_id": "853910"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "110ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/127/B", "problem_id": "853906"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/127/B", "problem_id": "853052"}
+{"lang": "Ruby", "title": "127B - Canvas Frames", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/B", "problem_id": "853036"}
+{"lang": "Ruby", "title": "127A - Wasted Time", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/A", "problem_id": "852997"}
+{"lang": "Java 6", "title": "127B - Canvas Frames", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/127/B", "problem_id": "845774"}
+{"lang": "Java 6", "title": "127B - Canvas Frames", "time": "90ms", "verdict": "RUNTIME_ERROR", "memory": "42100KB", "problem_link": "/problemset/problem/127/B", "problem_id": "845686"}
+{"lang": "Java 6", "title": "127A - Wasted Time", "time": "160ms", "verdict": "OK", "memory": "42100KB", "problem_link": "/problemset/problem/127/A", "problem_id": "844498"}
+{"lang": "Java 6", "title": "127A - Wasted Time", "time": "110ms", "verdict": "SKIPPED", "memory": "34500KB", "problem_link": "/problemset/problem/127/A", "problem_id": "844474"}
+{"lang": "Ruby", "title": "127A - Wasted Time", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/A", "problem_id": "844100"}
+{"lang": "Ruby", "title": "127A - Wasted Time", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/127/A", "problem_id": "843973"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "7700KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843534"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843521"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843494"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843425"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843411"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/124/A", "problem_id": "843395"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843388"}
+{"lang": "Ruby", "title": "124B - Permutations", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/124/B", "problem_id": "843296"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "90ms", "verdict": "OK", "memory": "3600KB", "problem_link": "/problemset/problem/124/A", "problem_id": "843251"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/124/A", "problem_id": "843249"}
+{"lang": "Ruby", "title": "124A - The number of positions", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/124/A", "problem_id": "843238"}
+{"lang": "Ruby", "title": "121B - Lucky Transformation", "time": "1190ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/121/B", "problem_id": "842274"}
+{"lang": "Ruby", "title": "121B - Lucky Transformation", "time": "1200ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/121/B", "problem_id": "842268"}
+{"lang": "Ruby", "title": "121A - Lucky Sum", "time": "90ms", "verdict": "OK", "memory": "5400KB", "problem_link": "/problemset/problem/121/A", "problem_id": "842264"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "842244"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "3400KB", "problem_link": "/problemset/problem/122/A", "problem_id": "842240"}
+{"lang": "Ruby", "title": "122D - Lucky Transformation", "time": "1130ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/122/D", "problem_id": "814131"}
+{"lang": "Ruby", "title": "122D - Lucky Transformation", "time": "1160ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/122/D", "problem_id": "814127"}
+{"lang": "Ruby", "title": "122D - Lucky Transformation", "time": "1140ms", "verdict": "WRONG_ANSWER", "memory": "3800KB", "problem_link": "/problemset/problem/122/D", "problem_id": "814125"}
+{"lang": "Ruby", "title": "122D - Lucky Transformation", "time": "1140ms", "verdict": "WRONG_ANSWER", "memory": "3800KB", "problem_link": "/problemset/problem/122/D", "problem_id": "814124"}
+{"lang": "Ruby", "title": "122D - Lucky Transformation", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/122/D", "problem_id": "813546"}
+{"lang": "Ruby", "title": "122C - Lucky Sum", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/122/C", "problem_id": "813522"}
+{"lang": "Ruby", "title": "122C - Lucky Sum", "time": "90ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/122/C", "problem_id": "813520"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "3400KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813519"}
+{"lang": "Ruby", "title": "122C - Lucky Sum", "time": "90ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/122/C", "problem_id": "813518"}
+{"lang": "Ruby", "title": "122C - Lucky Sum", "time": "90ms", "verdict": "OK", "memory": "3400KB", "problem_link": "/problemset/problem/122/C", "problem_id": "813514"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813474"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813471"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813464"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813459"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813454"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "90ms", "verdict": "OK", "memory": "3600KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813446"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "3600KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813441"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "140ms", "verdict": "RUNTIME_ERROR", "memory": "5200KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813439"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "140ms", "verdict": "RUNTIME_ERROR", "memory": "5200KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813437"}
+{"lang": "Ruby", "title": "122B - Lucky Substring", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/122/B", "problem_id": "813421"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "813273"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "813270"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "813268"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "813259"}
+{"lang": "Ruby", "title": "122A - Lucky Division", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/122/A", "problem_id": "813258"}
+{"lang": "Java 6", "title": "114B - PFAST Inc.", "time": "520ms", "verdict": "OK", "memory": "34700KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691369"}
+{"lang": "Java 6", "title": "114B - PFAST Inc.", "time": "480ms", "verdict": "OK", "memory": "34700KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691360"}
+{"lang": "Java 6", "title": "114B - PFAST Inc.", "time": "450ms", "verdict": "WRONG_ANSWER", "memory": "34700KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691358"}
+{"lang": "Java 6", "title": "114B - PFAST Inc.", "time": "160ms", "verdict": "RUNTIME_ERROR", "memory": "34600KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691353"}
+{"lang": "Java 6", "title": "114B - PFAST Inc.", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34400KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691352"}
+{"lang": "Ruby", "title": "114B - PFAST Inc.", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/114/B", "problem_id": "691351"}
+{"lang": "Ruby", "title": "114A - Cifera", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691250"}
+{"lang": "Ruby", "title": "114A - Cifera", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691240"}
+{"lang": "Ruby", "title": "114A - Cifera", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691238"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691176"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691152"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691148"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691146"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691145"}
+{"lang": "GNU C++0x", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691143"}
+{"lang": "GNU C++", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691140"}
+{"lang": "GNU C++", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691138"}
+{"lang": "GNU C++", "title": "114A - Cifera", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691133"}
+{"lang": "GNU C++", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691117"}
+{"lang": "GNU C++", "title": "114A - Cifera", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/114/A", "problem_id": "691115"}
+{"lang": "GNU C++", "title": "108B - Datatypes", "time": "230ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/108/B", "problem_id": "639499"}
+{"lang": "GNU C++", "title": "108B - Datatypes", "time": "250ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/108/B", "problem_id": "639498"}
+{"lang": "GNU C++", "title": "108A - Palindromic Times", "time": "30ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/108/A", "problem_id": "639482"}
+{"lang": "GNU C++", "title": "108A - Palindromic Times", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1300KB", "problem_link": "/problemset/problem/108/A", "problem_id": "639480"}
+{"lang": "GNU C", "title": "108A - Palindromic Times", "time": "10ms", "verdict": "RUNTIME_ERROR", "memory": "1300KB", "problem_link": "/problemset/problem/108/A", "problem_id": "639479"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549806"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549805"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549803"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549801"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549799"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549798"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549797"}
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "549795"}
+{"lang": "GNU C++", "title": "96B - Lucky Numbers (easy)", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/96/B", "problem_id": "535129"}
+{"lang": "GNU C++", "title": "96B - Lucky Numbers (easy)", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/96/B", "problem_id": "535002"}
+{"lang": "GNU C++", "title": "96B - Lucky Numbers (easy)", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/96/B", "problem_id": "534880"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/96/A", "problem_id": "532378"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/96/A", "problem_id": "532204"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "532145"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/96/A", "problem_id": "531956"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/94/A", "problem_id": "531744"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/94/A", "problem_id": "531715"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/94/A", "problem_id": "531678"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/94/A", "problem_id": "531677"}
+{"lang": "Ruby", "title": "94A - Restoring Password", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/94/A", "problem_id": "531675"}
+{"lang": "Ruby", "title": "82A - Double Cola", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/82/A", "problem_id": "530663"}
+{"lang": "Ruby", "title": "82A - Double Cola", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/82/A", "problem_id": "530660"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530465"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530463"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530460"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530450"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "80ms", "verdict": "RUNTIME_ERROR", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530447"}
+{"lang": "Ruby", "title": "71A - Way Too Long Words", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/71/A", "problem_id": "530440"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530212"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "80ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530203"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "90ms", "verdict": "OK", "memory": "3800KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530197"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530169"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530153"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "10ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530148"}
+{"lang": "GNU C", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1300KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530147"}
+{"lang": "GNU C++0x", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530146"}
+{"lang": "GNU C++0x", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530144"}
+{"lang": "GNU C++0x", "title": "1A - Theatre Square", "time": "30ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530138"}
+{"lang": "GNU C++0x", "title": "1A - Theatre Square", "time": "10ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530137"}
+{"lang": "GNU C++0x", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530135"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "3500KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530116"}
+{"lang": "Ruby", "title": "1A - Theatre Square", "time": "90ms", "verdict": "OK", "memory": "3500KB", "problem_link": "/problemset/problem/1/A", "problem_id": "530115"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "387197"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "387189"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "385402"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "385271"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "385170"}
+{"lang": "Java 6", "title": "75D - Big Maximum Sum", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/D", "problem_id": "384916"}
+{"lang": "Java 6", "title": "75B - Facetook Priority Wall", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/75/B", "problem_id": "384314"}
+{"lang": "Java 6", "title": "75B - Facetook Priority Wall", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/B", "problem_id": "384245"}
+{"lang": "Java 6", "title": "75B - Facetook Priority Wall", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/75/B", "problem_id": "384113"}
+{"lang": "Java 6", "title": "75A - Life Without Zeros", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/75/A", "problem_id": "383055"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2900KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381494"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381472"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "10ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381423"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "10ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381414"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "2100KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381288"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2100KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381078"}
+{"lang": "GNU C++", "title": "76E - Points", "time": "330ms", "verdict": "RUNTIME_ERROR", "memory": "1400KB", "problem_link": "/problemset/problem/76/E", "problem_id": "381060"}
+{"lang": "Java 6", "title": "68B - Energy exchange", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/68/B", "problem_id": "342754"}
+{"lang": "Java 6", "title": "68A - Irrational problem", "time": "160ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/68/A", "problem_id": "342576"}
+{"lang": "Java 6", "title": "68B - Energy exchange", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/68/B", "problem_id": "342541"}
+{"lang": "Java 6", "title": "68B - Energy exchange", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/68/B", "problem_id": "342464"}
+{"lang": "Java 6", "title": "68B - Energy exchange", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/68/B", "problem_id": "342442"}
+{"lang": "Java 6", "title": "68A - Irrational problem", "time": "110ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/68/A", "problem_id": "341074"}
+{"lang": "Java 6", "title": "67D - Optical Experiment", "time": "2230ms", "verdict": "OK", "memory": "195000KB", "problem_link": "/problemset/problem/67/D", "problem_id": "336037"}
+{"lang": "Java 6", "title": "67D - Optical Experiment", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/67/D", "problem_id": "336034"}
+{"lang": "Java 6", "title": "67D - Optical Experiment", "time": "5000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "156600KB", "problem_link": "/problemset/problem/67/D", "problem_id": "335470"}
+{"lang": "Java 6", "title": "67B - Restoration of the Permutation", "time": "190ms", "verdict": "OK", "memory": "42400KB", "problem_link": "/problemset/problem/67/B", "problem_id": "334492"}
+{"lang": "Java 6", "title": "67A - Partial Teacher", "time": "160ms", "verdict": "WRONG_ANSWER", "memory": "42100KB", "problem_link": "/problemset/problem/67/A", "problem_id": "333201"}
+{"lang": "Java 6", "title": "67A - Partial Teacher", "time": "90ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/67/A", "problem_id": "332884"}
+{"lang": "Java 6", "title": "66C - Petya and File System", "time": "140ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/C", "problem_id": "326929"}
+{"lang": "Java 6", "title": "66C - Petya and File System", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/66/C", "problem_id": "326833"}
+{"lang": "Java 6", "title": "66B - Petya and Countryside", "time": "140ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/B", "problem_id": "325480"}
+{"lang": "Java 6", "title": "66B - Petya and Countryside", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/66/B", "problem_id": "325444"}
+{"lang": "Java 6", "title": "66A - Petya and Java", "time": "130ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/66/A", "problem_id": "324146"}
+{"lang": "Java 6", "title": "63B - Settlers' Training", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/63/B", "problem_id": "311507"}
+{"lang": "Java 6", "title": "63B - Settlers' Training", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/63/B", "problem_id": "311277"}
+{"lang": "Java 6", "title": "63A - Sinking Ship", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/63/A", "problem_id": "310373"}
+{"lang": "Java 6", "title": "63A - Sinking Ship", "time": "10ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/63/A", "problem_id": "310280"}
+{"lang": "Java 6", "title": "60A - Where Are My Flakes?", "time": "80ms", "verdict": "CHALLENGED", "memory": "42300KB", "problem_link": "/problemset/problem/60/A", "problem_id": "289593"}
+{"lang": "Java 6", "title": "58A - Chat room", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/58/A", "problem_id": "287478"}
+{"lang": "Java 6", "title": "58A - Chat room", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "286044"}
+{"lang": "Java 6", "title": "58A - Chat room", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "286034"}
+{"lang": "Java 6", "title": "59C - Title", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "285133"}
+{"lang": "Java 6", "title": "59C - Title", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "285053"}
+{"lang": "Java 6", "title": "59C - Title", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "285016"}
+{"lang": "Java 6", "title": "59C - Title", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/59/C", "problem_id": "285014"}
+{"lang": "Java 6", "title": "59C - Title", "time": "90ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/C", "problem_id": "285012"}
+{"lang": "Java 6", "title": "59C - Title", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/59/C", "problem_id": "284989"}
+{"lang": "Java 6", "title": "59B - Fortune Telling", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/B", "problem_id": "284915"}
+{"lang": "Java 6", "title": "59B - Fortune Telling", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/B", "problem_id": "284910"}
+{"lang": "Java 6", "title": "59B - Fortune Telling", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/B", "problem_id": "284907"}
+{"lang": "Java 6", "title": "59B - Fortune Telling", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/B", "problem_id": "284904"}
+{"lang": "Java 6", "title": "59A - Word", "time": "90ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/59/A", "problem_id": "284863"}
+{"lang": "Java 6", "title": "59A - Word", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/59/A", "problem_id": "284861"}
+{"lang": "Java 6", "title": "59A - Word", "time": "50ms", "verdict": "RUNTIME_ERROR", "memory": "34000KB", "problem_link": "/problemset/problem/59/A", "problem_id": "284857"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "80ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/1/A", "problem_id": "280475"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "34000KB", "problem_link": "/problemset/problem/1/A", "problem_id": "280435"}
+{"lang": "Java 6", "title": "31B - Sysadmin Bob", "time": "80ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/31/B", "problem_id": "134119"}
+{"lang": "Java 6", "title": "31A - Worms Evolution", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "42300KB", "problem_link": "/problemset/problem/31/A", "problem_id": "133377"}
+{"lang": "Java 6", "title": "31A - Worms Evolution", "time": "50ms", "verdict": "RUNTIME_ERROR", "memory": "42300KB", "problem_link": "/problemset/problem/31/A", "problem_id": "133336"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "60ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/1/A", "problem_id": "5405"}
+{"lang": "Java 6", "title": "1A - Theatre Square", "time": "60ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/1/A", "problem_id": "5404"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "80ms", "verdict": "OK", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82614"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82613"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "50ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82612"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82604"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82601"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82588"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82583"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "60ms", "verdict": "RUNTIME_ERROR", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82581"}
+{"lang": "Java 6", "title": "18A - Triangle", "time": "30ms", "verdict": "RUNTIME_ERROR", "memory": "41400KB", "problem_link": "/problemset/problem/18/A", "problem_id": "82572"}

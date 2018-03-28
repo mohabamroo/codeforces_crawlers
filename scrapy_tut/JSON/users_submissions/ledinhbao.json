@@ -1,0 +1,719 @@
+{"lang": "Ruby", "title": "4A - Watermelon", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "32546453"}
+{"lang": "Python 2", "title": "734B - Anton and Digits", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/734/B", "problem_id": "22269076"}
+{"lang": "Python 2", "title": "734B - Anton and Digits", "time": "31ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/734/B", "problem_id": "22269044"}
+{"lang": "GNU C++", "title": "734C - Anton and Making Potions", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3100KB", "problem_link": "/problemset/problem/734/C", "problem_id": "22247887"}
+{"lang": "GNU C++", "title": "734C - Anton and Making Potions", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3100KB", "problem_link": "/problemset/problem/734/C", "problem_id": "22243750"}
+{"lang": "Python 2", "title": "734B - Anton and Digits", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/734/B", "problem_id": "22231124"}
+{"lang": "Python 2", "title": "734A - Anton and Danik", "time": "77ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/734/A", "problem_id": "22228918"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "280ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224559"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224533"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224519"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224464"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224454"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224436"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224398"}
+{"lang": "PyPy 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "22224387"}
+{"lang": "GNU C++", "title": "712C - Memory and De-Evolution", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/712/C", "problem_id": "22223775"}
+{"lang": "GNU C++", "title": "714C - Sonya and Queries", "time": "545ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/714/C", "problem_id": "22203934"}
+{"lang": "GNU C++", "title": "714C - Sonya and Queries", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/714/C", "problem_id": "22203495"}
+{"lang": "GNU C++", "title": "723D - Lakes in Berland", "time": "15ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/723/D", "problem_id": "22189066"}
+{"lang": "GNU C++", "title": "723D - Lakes in Berland", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/723/D", "problem_id": "22188912"}
+{"lang": "GNU C++", "title": "723C - Polycarp at the Radio", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/723/C", "problem_id": "22187962"}
+{"lang": "GNU C++", "title": "723C - Polycarp at the Radio", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/C", "problem_id": "22187916"}
+{"lang": "GNU C++", "title": "723C - Polycarp at the Radio", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/C", "problem_id": "22187782"}
+{"lang": "GNU C++", "title": "723C - Polycarp at the Radio", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/C", "problem_id": "22187764"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "312ms", "verdict": "OK", "memory": "17400KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179760"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "5700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179725"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "10400KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179684"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "217ms", "verdict": "WRONG_ANSWER", "memory": "10700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179648"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "11300KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179590"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "234ms", "verdict": "WRONG_ANSWER", "memory": "11300KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22179359"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "9500KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178552"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "217ms", "verdict": "WRONG_ANSWER", "memory": "9700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178426"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "9900KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178091"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178081"}
+{"lang": "Python 2", "title": "731C - Socks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178079"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "9700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "22178002"}
+{"lang": "GNU C++", "title": "732D - Exams", "time": "46ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/732/D", "problem_id": "22176606"}
+{"lang": "GNU C++", "title": "732D - Exams", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/732/D", "problem_id": "22176560"}
+{"lang": "GNU C++", "title": "732D - Exams", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/732/D", "problem_id": "22176224"}
+{"lang": "GNU C++", "title": "732D - Exams", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/732/D", "problem_id": "22176139"}
+{"lang": "GNU C++", "title": "732D - Exams", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/732/D", "problem_id": "22176137"}
+{"lang": "Python 2", "title": "625B - War of the Corporations", "time": "171ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/625/B", "problem_id": "22158794"}
+{"lang": "Python 2", "title": "625B - War of the Corporations", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/B", "problem_id": "22158791"}
+{"lang": "Python 2", "title": "625B - War of the Corporations", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/B", "problem_id": "22158775"}
+{"lang": "Python 2", "title": "733A - Grasshopper And the String", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/733/A", "problem_id": "21970612"}
+{"lang": "Python 2", "title": "733A - Grasshopper And the String", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/733/A", "problem_id": "21970588"}
+{"lang": "GNU C++", "title": "631B - Print Check", "time": "92ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/631/B", "problem_id": "21886382"}
+{"lang": "GNU C++", "title": "631B - Print Check", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "98200KB", "problem_link": "/problemset/problem/631/B", "problem_id": "21886316"}
+{"lang": "GNU C++", "title": "631B - Print Check", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/631/B", "problem_id": "21886312"}
+{"lang": "Python 2", "title": "631A - Interview", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/631/A", "problem_id": "21886217"}
+{"lang": "Python 2", "title": "625A - Guest From the Past", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "21829724"}
+{"lang": "Python 2", "title": "625A - Guest From the Past", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "21829690"}
+{"lang": "Python 2", "title": "625A - Guest From the Past", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "21829634"}
+{"lang": "Python 2", "title": "625A - Guest From the Past", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "21829580"}
+{"lang": "Python 2", "title": "625A - Guest From the Past", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "21829504"}
+{"lang": "Python 2", "title": "629B - Far Relative\u2019s Problem", "time": "187ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/629/B", "problem_id": "21733615"}
+{"lang": "Python 2", "title": "629B - Far Relative\u2019s Problem", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/629/B", "problem_id": "21733524"}
+{"lang": "Python 2", "title": "629A - Far Relative\u2019s Birthday Cake", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/629/A", "problem_id": "21733446"}
+{"lang": "Python 2", "title": "730J - Bottles", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/730/J", "problem_id": "21709749"}
+{"lang": "Python 2", "title": "730J - Bottles", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/730/J", "problem_id": "21709700"}
+{"lang": "Python 2", "title": "730J - Bottles", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/730/J", "problem_id": "21709552"}
+{"lang": "Python 2", "title": "730G - Car Repair Shop", "time": "561ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/730/G", "problem_id": "21706883"}
+{"lang": "Python 2", "title": "730G - Car Repair Shop", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/730/G", "problem_id": "21705358"}
+{"lang": "Python 2", "title": "730H - Delete Them", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/730/H", "problem_id": "21703047"}
+{"lang": "Python 2", "title": "730H - Delete Them", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/730/H", "problem_id": "21702853"}
+{"lang": "Python 2", "title": "730H - Delete Them", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/730/H", "problem_id": "21702782"}
+{"lang": "Python 2", "title": "725C - Hidden Word", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/725/C", "problem_id": "21698291"}
+{"lang": "Python 2", "title": "725C - Hidden Word", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/725/C", "problem_id": "21698269"}
+{"lang": "Python 2", "title": "725C - Hidden Word", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/725/C", "problem_id": "21698089"}
+{"lang": "Python 2", "title": "725C - Hidden Word", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/725/C", "problem_id": "21697931"}
+{"lang": "Python 2", "title": "725B - Food on the Plane", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/725/B", "problem_id": "21697406"}
+{"lang": "Python 2", "title": "725B - Food on the Plane", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/725/B", "problem_id": "21697372"}
+{"lang": "Python 2", "title": "725A - Jumping Ball", "time": "109ms", "verdict": "OK", "memory": "600KB", "problem_link": "/problemset/problem/725/A", "problem_id": "21697233"}
+{"lang": "Python 2", "title": "725A - Jumping Ball", "time": "109ms", "verdict": "RUNTIME_ERROR", "memory": "600KB", "problem_link": "/problemset/problem/725/A", "problem_id": "21697219"}
+{"lang": "Python 2", "title": "624B - Making a String", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/624/B", "problem_id": "21657749"}
+{"lang": "Python 2", "title": "624B - Making a String", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/624/B", "problem_id": "21657693"}
+{"lang": "Python 2", "title": "624B - Making a String", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/624/B", "problem_id": "21657682"}
+{"lang": "Python 2", "title": "624A - Save Luke", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/624/A", "problem_id": "21657534"}
+{"lang": "Python 2", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "77ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/732/B", "problem_id": "21554101"}
+{"lang": "Python 2", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/732/B", "problem_id": "21554096"}
+{"lang": "Python 2", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/732/B", "problem_id": "21554081"}
+{"lang": "Python 2", "title": "732C - Sanatorium", "time": "62ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/732/C", "problem_id": "21554064"}
+{"lang": "Python 2", "title": "732C - Sanatorium", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/732/C", "problem_id": "21535640"}
+{"lang": "Python 2", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "46ms", "verdict": "CHALLENGED", "memory": "4500KB", "problem_link": "/problemset/problem/732/B", "problem_id": "21529706"}
+{"lang": "Python 2", "title": "732B - Cormen --- The Best Friend Of a Man", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/732/B", "problem_id": "21529117"}
+{"lang": "GNU C++", "title": "732A - Buy a Shovel", "time": "31ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/732/A", "problem_id": "21524065"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "11300KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21518424"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "11300KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21508998"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21497138"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "7700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21497067"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7700KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21493963"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21493831"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7600KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21493551"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7600KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21490551"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7600KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21490210"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7500KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21489063"}
+{"lang": "GNU C++", "title": "731C - Socks", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/731/C", "problem_id": "21488895"}
+{"lang": "GNU C++", "title": "731B - Coupons and Discounts", "time": "46ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/731/B", "problem_id": "21480561"}
+{"lang": "Python 2", "title": "731B - Coupons and Discounts", "time": "202ms", "verdict": "SKIPPED", "memory": "14800KB", "problem_link": "/problemset/problem/731/B", "problem_id": "21479786"}
+{"lang": "Python 2", "title": "731A - Night at the Museum", "time": "46ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/731/A", "problem_id": "21477959"}
+{"lang": "GNU C++", "title": "618C - Constellation", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/618/C", "problem_id": "21474741"}
+{"lang": "GNU C++", "title": "618B - Guess the Permutation", "time": "15ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/618/B", "problem_id": "21474076"}
+{"lang": "Python 2", "title": "618A - Slime Combining", "time": "77ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/618/A", "problem_id": "21473616"}
+{"lang": "GNU C++", "title": "621C - Wet Shark and Flowers", "time": "46ms", "verdict": "OK", "memory": "2800KB", "problem_link": "/problemset/problem/621/C", "problem_id": "21460088"}
+{"lang": "Python 2", "title": "621C - Wet Shark and Flowers", "time": "405ms", "verdict": "OK", "memory": "7400KB", "problem_link": "/problemset/problem/621/C", "problem_id": "21459975"}
+{"lang": "GNU C++", "title": "621B - Wet Shark and Bishops", "time": "78ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/621/B", "problem_id": "21458241"}
+{"lang": "Python 2", "title": "621B - Wet Shark and Bishops", "time": "733ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/621/B", "problem_id": "21457824"}
+{"lang": "Python 2", "title": "621A - Wet Shark and Odd and Even", "time": "155ms", "verdict": "OK", "memory": "10100KB", "problem_link": "/problemset/problem/621/A", "problem_id": "21457626"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "748ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21417411"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21417262"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21417173"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414216"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414192"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414182"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414177"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "499ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414157"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "29200KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21414024"}
+{"lang": "GNU C++", "title": "446C - DZY Loves Fibonacci Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "24300KB", "problem_link": "/problemset/problem/446/C", "problem_id": "21404549"}
+{"lang": "GNU C++", "title": "380C - Sereja and Brackets", "time": "327ms", "verdict": "OK", "memory": "52800KB", "problem_link": "/problemset/problem/380/C", "problem_id": "21396507"}
+{"lang": "GNU C++", "title": "380C - Sereja and Brackets", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/380/C", "problem_id": "21396489"}
+{"lang": "Python 2", "title": "380C - Sereja and Brackets", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/380/C", "problem_id": "21396484"}
+{"lang": "GNU C++", "title": "380C - Sereja and Brackets", "time": "966ms", "verdict": "OK", "memory": "52900KB", "problem_link": "/problemset/problem/380/C", "problem_id": "21396471"}
+{"lang": "Python 2", "title": "380C - Sereja and Brackets", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "56800KB", "problem_link": "/problemset/problem/380/C", "problem_id": "21396169"}
+{"lang": "Python 2", "title": "724B - Batch Sort", "time": "124ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21299169"}
+{"lang": "Python 2", "title": "724B - Batch Sort", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/724/B", "problem_id": "21287737"}
+{"lang": "Python 2", "title": "724A - Checking the Calendar", "time": "62ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/724/A", "problem_id": "21282560"}
+{"lang": "Python 2", "title": "707C - Pythagorean Triples", "time": "77ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/707/C", "problem_id": "21259570"}
+{"lang": "Python 2", "title": "707C - Pythagorean Triples", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/707/C", "problem_id": "21259549"}
+{"lang": "Python 2", "title": "707B - Bakery", "time": "514ms", "verdict": "OK", "memory": "21600KB", "problem_link": "/problemset/problem/707/B", "problem_id": "21258504"}
+{"lang": "Python 2", "title": "707A - Brain's Photos", "time": "62ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/707/A", "problem_id": "21258115"}
+{"lang": "Python 2", "title": "723B - Text Document Analysis", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/723/B", "problem_id": "21241071"}
+{"lang": "Python 2", "title": "723B - Text Document Analysis", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/B", "problem_id": "21226124"}
+{"lang": "Python 2", "title": "723B - Text Document Analysis", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/B", "problem_id": "21225986"}
+{"lang": "Python 2", "title": "723B - Text Document Analysis", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/B", "problem_id": "21225930"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/723/A", "problem_id": "21225773"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/A", "problem_id": "21225752"}
+{"lang": "Python 2", "title": "723A - The New Year: Meeting Friends", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/723/A", "problem_id": "21225717"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "234ms", "verdict": "OK", "memory": "3000KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107946"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2600KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107845"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3000KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107764"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3300KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107732"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "3000KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107708"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "600KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107585"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "700KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107454"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21107377"}
+{"lang": "Python 2", "title": "719C - Efim and Strange Grade", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/719/C", "problem_id": "21106761"}
+{"lang": "Python 2", "title": "719B - Anatoly and Cockroaches", "time": "186ms", "verdict": "OK", "memory": "2500KB", "problem_link": "/problemset/problem/719/B", "problem_id": "21106263"}
+{"lang": "Python 2", "title": "719A - Vitya in the Countryside", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/719/A", "problem_id": "21104128"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "436ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20910884"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20910740"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20910607"}
+{"lang": "Python 2", "title": "716C - Plus and Square Root", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/716/C", "problem_id": "20899083"}
+{"lang": "Python 2", "title": "716C - Plus and Square Root", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/716/C", "problem_id": "20899076"}
+{"lang": "Python 2", "title": "716C - Plus and Square Root", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/716/C", "problem_id": "20899049"}
+{"lang": "Python 2", "title": "617C - Watering Flowers", "time": "77ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/617/C", "problem_id": "20891705"}
+{"lang": "Python 2", "title": "617B - Chocolate", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "20891369"}
+{"lang": "Python 2", "title": "617B - Chocolate", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "20891327"}
+{"lang": "Python 2", "title": "617C - Watering Flowers", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/617/C", "problem_id": "20884211"}
+{"lang": "Python 2", "title": "617C - Watering Flowers", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/617/C", "problem_id": "20881979"}
+{"lang": "Python 2", "title": "617B - Chocolate", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/617/B", "problem_id": "20881509"}
+{"lang": "Python 2", "title": "617A - Elephant", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/A", "problem_id": "20881294"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "155ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818445"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "500KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818382"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818356"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818236"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818214"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20818097"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1300KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20817943"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20817923"}
+{"lang": "Python 2", "title": "614B - Gena's Code", "time": "500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "500KB", "problem_link": "/problemset/problem/614/B", "problem_id": "20817639"}
+{"lang": "Python 2", "title": "614A - Link/Cut Tree", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "20817396"}
+{"lang": "Python 2", "title": "714B - Filya and Homework", "time": "155ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/714/B", "problem_id": "20792595"}
+{"lang": "Python 2", "title": "714B - Filya and Homework", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/714/B", "problem_id": "20792567"}
+{"lang": "Python 2", "title": "714A - Meeting of Old Friends", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/714/A", "problem_id": "20792453"}
+{"lang": "Python 2", "title": "716B - Complete the Word", "time": "421ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/716/B", "problem_id": "20776547"}
+{"lang": "Python 2", "title": "716B - Complete the Word", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/716/B", "problem_id": "20776368"}
+{"lang": "Python 2", "title": "716B - Complete the Word", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/716/B", "problem_id": "20776024"}
+{"lang": "Python 2", "title": "716A - Crazy Computer", "time": "171ms", "verdict": "OK", "memory": "5700KB", "problem_link": "/problemset/problem/716/A", "problem_id": "20775146"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "389ms", "verdict": "WRONG_ANSWER", "memory": "4600KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541200"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "451ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541145"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "452ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541103"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541052"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541026"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20541014"}
+{"lang": "Python 2", "title": "712B - Memory and Trident", "time": "78ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/712/B", "problem_id": "20540732"}
+{"lang": "Python 2", "title": "712B - Memory and Trident", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/712/B", "problem_id": "20540722"}
+{"lang": "Python 2", "title": "712B - Memory and Trident", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/712/B", "problem_id": "20540720"}
+{"lang": "Python 2", "title": "712B - Memory and Trident", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/712/B", "problem_id": "20540684"}
+{"lang": "Python 2", "title": "712B - Memory and Trident", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/712/B", "problem_id": "20540679"}
+{"lang": "Python 2", "title": "712A - Memory and Crow", "time": "249ms", "verdict": "OK", "memory": "5500KB", "problem_link": "/problemset/problem/712/A", "problem_id": "20540569"}
+{"lang": "Python 2", "title": "711B - Chris and Magic Square", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/711/B", "problem_id": "20487960"}
+{"lang": "Python 2", "title": "711A - Bus to Udayland", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/711/A", "problem_id": "20484619"}
+{"lang": "Python 2", "title": "675A - Infinite Sequence", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/675/A", "problem_id": "17963604"}
+{"lang": "Python 2", "title": "675A - Infinite Sequence", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/675/A", "problem_id": "17963587"}
+{"lang": "Python 2", "title": "675A - Infinite Sequence", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/problem/675/A", "problem_id": "17963579"}
+{"lang": "Python 2", "title": "675A - Infinite Sequence", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/675/A", "problem_id": "17962570"}
+{"lang": "Python 2", "title": "672A - Summer Camp", "time": "62ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/672/A", "problem_id": "17927397"}
+{"lang": "Python 2", "title": "615A - Bulbs", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/615/A", "problem_id": "15240537"}
+{"lang": "Python 2", "title": "612D - The Union of k-Segments", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15030163"}
+{"lang": "Python 2", "title": "612D - The Union of k-Segments", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15030094"}
+{"lang": "Python 2", "title": "612D - The Union of k-Segments", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15029928"}
+{"lang": "Python 2", "title": "612D - The Union of k-Segments", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/612/D", "problem_id": "15029862"}
+{"lang": "Python 2", "title": "612C - Replace To Make Regular Bracket Sequence", "time": "904ms", "verdict": "OK", "memory": "9500KB", "problem_link": "/problemset/problem/612/C", "problem_id": "15029189"}
+{"lang": "Python 2", "title": "612C - Replace To Make Regular Bracket Sequence", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/C", "problem_id": "15029172"}
+{"lang": "Python 2", "title": "612B - HDD is Outdated Technology", "time": "280ms", "verdict": "OK", "memory": "10800KB", "problem_link": "/problemset/problem/612/B", "problem_id": "15029004"}
+{"lang": "Python 2", "title": "612A - The Text Splitting", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15028853"}
+{"lang": "Python 2", "title": "612A - The Text Splitting", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15028806"}
+{"lang": "Python 2", "title": "612A - The Text Splitting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15028722"}
+{"lang": "Python 2", "title": "608B - Hamming Distance Sum", "time": "421ms", "verdict": "OK", "memory": "7900KB", "problem_link": "/problemset/problem/608/B", "problem_id": "14955687"}
+{"lang": "Python 2", "title": "608A - Saitama Destroys Hotel", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/608/A", "problem_id": "14952483"}
+{"lang": "Python 2", "title": "606A - Magic Spheres", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/606/A", "problem_id": "14797989"}
+{"lang": "Python 2", "title": "604B - More Cowbell", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14603891"}
+{"lang": "Python 2", "title": "604B - More Cowbell", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14603131"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14602084"}
+{"lang": "Python 2", "title": "604B - More Cowbell", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14602013"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14601739"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14600514"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14599701"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14598695"}
+{"lang": "Python 2", "title": "604C - Alternative Thinking", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/604/C", "problem_id": "14596103"}
+{"lang": "Python 2", "title": "604B - More Cowbell", "time": "124ms", "verdict": "CHALLENGED", "memory": "5500KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14592309"}
+{"lang": "Python 2", "title": "604B - More Cowbell", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/604/B", "problem_id": "14591274"}
+{"lang": "Python 2", "title": "604A - Uncowed Forces", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/604/A", "problem_id": "14587543"}
+{"lang": "Python 2", "title": "600C - Make Palindrome", "time": "140ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14555042"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "31ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554698"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554672"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554662"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554605"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554409"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554394"}
+{"lang": "GNU C++", "title": "600C - Make Palindrome", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/600/C", "problem_id": "14554247"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "764ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14553904"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14553750"}
+{"lang": "Python 2", "title": "600A - Extract Numbers", "time": "62ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14553536"}
+{"lang": "Python 2", "title": "600A - Extract Numbers", "time": "296ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14553490"}
+{"lang": "Python 2", "title": "600A - Extract Numbers", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14553483"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "1497ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14525659"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "1513ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14525602"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14525563"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14525541"}
+{"lang": "GNU C++", "title": "600A - Extract Numbers", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/600/A", "problem_id": "14525467"}
+{"lang": "GNU C++", "title": "600B - Queries about less or equal elements", "time": "202ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/600/B", "problem_id": "14523194"}
+{"lang": "GNU C++", "title": "600B - Queries about less or equal elements", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/600/B", "problem_id": "14523114"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14508374"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14508274"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "202ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507896"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "187ms", "verdict": "RUNTIME_ERROR", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507864"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507807"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507799"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "171ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507775"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507748"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507614"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "186ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507580"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507360"}
+{"lang": "Python 2", "title": "602B - Approximating a Constant Range", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "5400KB", "problem_link": "/problemset/problem/602/B", "problem_id": "14507173"}
+{"lang": "Python 2", "title": "602A - Two Bases", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/602/A", "problem_id": "14506032"}
+{"lang": "Python 2", "title": "602A - Two Bases", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/602/A", "problem_id": "14506026"}
+{"lang": "Python 2", "title": "602A - Two Bases", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/602/A", "problem_id": "14505988"}
+{"lang": "GNU C++", "title": "599B - Spongebob and Joke", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2400KB", "problem_link": "/problemset/problem/599/B", "problem_id": "14372427"}
+{"lang": "Python 2", "title": "599A - Patrick and Shopping", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14368829"}
+{"lang": "Python 2", "title": "599A - Patrick and Shopping", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14367271"}
+{"lang": "GNU C++", "title": "599A - Patrick and Shopping", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14366170"}
+{"lang": "GNU C++", "title": "599A - Patrick and Shopping", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "14363729"}
+{"lang": "Python 2", "title": "596B - Wilbur and Array", "time": "202ms", "verdict": "OK", "memory": "10900KB", "problem_link": "/problemset/problem/596/B", "problem_id": "14303241"}
+{"lang": "Python 2", "title": "596B - Wilbur and Array", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "5000KB", "problem_link": "/problemset/problem/596/B", "problem_id": "14303235"}
+{"lang": "Python 2", "title": "596A - Wilbur and Swimming Pool", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14303014"}
+{"lang": "GNU C++", "title": "596A - Wilbur and Swimming Pool", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14303009"}
+{"lang": "GNU C++", "title": "598A - Tricky Sum", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/598/A", "problem_id": "14247361"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "46ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14160578"}
+{"lang": "Python 2", "title": "595B - Pasha and Phone", "time": "342ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14160414"}
+{"lang": "Python 2", "title": "595A - Vitaly and Night", "time": "61ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14160205"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "31ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14159353"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "31ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14157424"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14156820"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14155005"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14154467"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14153931"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14153785"}
+{"lang": "GNU C++", "title": "595B - Pasha and Phone", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14153437"}
+{"lang": "GNU C++", "title": "595A - Vitaly and Night", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14147647"}
+{"lang": "GNU C++", "title": "595A - Vitaly and Night", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14147292"}
+{"lang": "GNU C++", "title": "595A - Vitaly and Night", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14147098"}
+{"lang": "GNU C++", "title": "588E - Duff in the Army", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "159700KB", "problem_link": "/problemset/problem/588/E", "problem_id": "14123653"}
+{"lang": "GNU C++", "title": "588E - Duff in the Army", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "159700KB", "problem_link": "/problemset/problem/588/E", "problem_id": "14123597"}
+{"lang": "GNU C++", "title": "592D - Super M", "time": "124ms", "verdict": "OK", "memory": "7300KB", "problem_link": "/problemset/problem/592/D", "problem_id": "14092787"}
+{"lang": "GNU C++", "title": "592D - Super M", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "5200KB", "problem_link": "/problemset/problem/592/D", "problem_id": "14092761"}
+{"lang": "GNU C++", "title": "592D - Super M", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "5200KB", "problem_link": "/problemset/problem/592/D", "problem_id": "14091636"}
+{"lang": "GNU C++", "title": "593B - Anton and Lines", "time": "46ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14084101"}
+{"lang": "GNU C++", "title": "593B - Anton and Lines", "time": "62ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14084085"}
+{"lang": "Python 2", "title": "593B - Anton and Lines", "time": "530ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14084060"}
+{"lang": "Python 2", "title": "593B - Anton and Lines", "time": "561ms", "verdict": "OK", "memory": "11500KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14084052"}
+{"lang": "Python 2", "title": "593B - Anton and Lines", "time": "577ms", "verdict": "OK", "memory": "12500KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14084015"}
+{"lang": "GNU C++", "title": "593D - Happy Tree Party", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "24800KB", "problem_link": "/problemset/problem/593/D", "problem_id": "14076668"}
+{"lang": "GNU C++", "title": "593D - Happy Tree Party", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "10200KB", "problem_link": "/problemset/problem/593/D", "problem_id": "14076652"}
+{"lang": "GNU C++", "title": "593D - Happy Tree Party", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "24800KB", "problem_link": "/problemset/problem/593/D", "problem_id": "14074251"}
+{"lang": "GNU C++", "title": "593D - Happy Tree Party", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "10200KB", "problem_link": "/problemset/problem/593/D", "problem_id": "14073920"}
+{"lang": "GNU C++", "title": "593B - Anton and Lines", "time": "46ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14067731"}
+{"lang": "GNU C++", "title": "593B - Anton and Lines", "time": "46ms", "verdict": "SKIPPED", "memory": "800KB", "problem_link": "/problemset/problem/593/B", "problem_id": "14067224"}
+{"lang": "GNU C++", "title": "593A - 2Char", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "14064987"}
+{"lang": "Python 2", "title": "592C - The Big Race", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/C", "problem_id": "14052049"}
+{"lang": "GNU C++", "title": "592C - The Big Race", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/592/C", "problem_id": "14051560"}
+{"lang": "Python 2", "title": "552C - Vanya and Scales", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/C", "problem_id": "14043575"}
+{"lang": "Python 2", "title": "552B - Vanya and Books", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "14042744"}
+{"lang": "Python 2", "title": "552B - Vanya and Books", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "14042689"}
+{"lang": "Python 2", "title": "552B - Vanya and Books", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "14042416"}
+{"lang": "Python 2", "title": "552B - Vanya and Books", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/552/B", "problem_id": "14042358"}
+{"lang": "Python 2", "title": "552A - Vanya and Table", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/552/A", "problem_id": "14041440"}
+{"lang": "PyPy 2", "title": "552A - Vanya and Table", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/552/A", "problem_id": "14041413"}
+{"lang": "PyPy 2", "title": "554B - Ohana Cleans Up", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/554/B", "problem_id": "14040696"}
+{"lang": "Python 2", "title": "554B - Ohana Cleans Up", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/554/B", "problem_id": "14040553"}
+{"lang": "PyPy 2", "title": "554B - Ohana Cleans Up", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/554/B", "problem_id": "14040521"}
+{"lang": "PyPy 2", "title": "554B - Ohana Cleans Up", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/554/B", "problem_id": "14040506"}
+{"lang": "PyPy 2", "title": "554A - Kyoya and Photobooks", "time": "78ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/554/A", "problem_id": "14040359"}
+{"lang": "PyPy 2", "title": "554A - Kyoya and Photobooks", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/554/A", "problem_id": "14040339"}
+{"lang": "PyPy 2", "title": "379A - New Year Candles", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "14036362"}
+{"lang": "PyPy 2", "title": "379A - New Year Candles", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "14036360"}
+{"lang": "PyPy 2", "title": "379A - New Year Candles", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "14036336"}
+{"lang": "PyPy 2", "title": "379A - New Year Candles", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/379/A", "problem_id": "14036116"}
+{"lang": "PyPy 2", "title": "41A - Translation", "time": "154ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/41/A", "problem_id": "14032632"}
+{"lang": "PyPy 2", "title": "472A - Design Tutorial: Learn from Math", "time": "62ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/472/A", "problem_id": "14031792"}
+{"lang": "PyPy 2", "title": "570A - Elections", "time": "77ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/570/A", "problem_id": "14031513"}
+{"lang": "PyPy 2", "title": "591A - Wizards' Duel", "time": "77ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "14031372"}
+{"lang": "Python 3", "title": "591A - Wizards' Duel", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "14031253"}
+{"lang": "Python 3", "title": "591A - Wizards' Duel", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "14031235"}
+{"lang": "Python 3", "title": "591A - Wizards' Duel", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "14031225"}
+{"lang": "GNU C++", "title": "592B - The Monster and the Squirrel", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "13984494"}
+{"lang": "GNU C++", "title": "592B - The Monster and the Squirrel", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "13984380"}
+{"lang": "GNU C++", "title": "592B - The Monster and the Squirrel", "time": "15ms", "verdict": "CHALLENGED", "memory": "0KB", "problem_link": "/problemset/problem/592/B", "problem_id": "13980579"}
+{"lang": "GNU C++", "title": "592A - PawnChess", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/592/A", "problem_id": "13976194"}
+{"lang": "GNU C++", "title": "592A - PawnChess", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/592/A", "problem_id": "13975194"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13910823"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13908975"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13908957"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13908940"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13908890"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13908753"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "140ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13908585"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3900KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13850679"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13849324"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13849122"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13849051"}
+{"lang": "GNU C++", "title": "591C - Median Smoothing", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3900KB", "problem_link": "/problemset/problem/591/C", "problem_id": "13848573"}
+{"lang": "GNU C++", "title": "591B - Rebranding", "time": "78ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/591/B", "problem_id": "13845008"}
+{"lang": "GNU C++", "title": "591B - Rebranding", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "200KB", "problem_link": "/problemset/problem/591/B", "problem_id": "13844112"}
+{"lang": "GNU C++", "title": "591A - Wizards' Duel", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "13839343"}
+{"lang": "GNU C++", "title": "591A - Wizards' Duel", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/591/A", "problem_id": "13838343"}
+{"lang": "GNU C++", "title": "589D - Boulevard", "time": "46ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/589/D", "problem_id": "13690498"}
+{"lang": "GNU C++", "title": "589D - Boulevard", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/589/D", "problem_id": "13690135"}
+{"lang": "GNU C++", "title": "589D - Boulevard", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/589/D", "problem_id": "13689388"}
+{"lang": "GNU C++", "title": "589D - Boulevard", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/589/D", "problem_id": "13688116"}
+{"lang": "GNU C++", "title": "589B - Layer Cake", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/589/B", "problem_id": "13685628"}
+{"lang": "GNU C++", "title": "589J - Cleaner Robot", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/589/J", "problem_id": "13683061"}
+{"lang": "GNU C++", "title": "589A - Email Aliases", "time": "467ms", "verdict": "OK", "memory": "6800KB", "problem_link": "/problemset/problem/589/A", "problem_id": "13680482"}
+{"lang": "GNU C++", "title": "589A - Email Aliases", "time": "390ms", "verdict": "WRONG_ANSWER", "memory": "5500KB", "problem_link": "/problemset/problem/589/A", "problem_id": "13680378"}
+{"lang": "GNU C++", "title": "589A - Email Aliases", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "900KB", "problem_link": "/problemset/problem/589/A", "problem_id": "13679869"}
+{"lang": "GNU C++", "title": "589I - Lottery", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/589/I", "problem_id": "13678509"}
+{"lang": "GNU C++", "title": "588E - Duff in the Army", "time": "4000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "4300KB", "problem_link": "/problemset/problem/588/E", "problem_id": "13651102"}
+{"lang": "GNU C++", "title": "588E - Duff in the Army", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/588/E", "problem_id": "13650796"}
+{"lang": "GNU C++", "title": "588E - Duff in the Army", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/588/E", "problem_id": "13650551"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "265ms", "verdict": "OK", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13646774"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13646453"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13646146"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "156ms", "verdict": "CHALLENGED", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13641305"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13639605"}
+{"lang": "GNU C++", "title": "588C - Duff and Weight Lifting", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "7800KB", "problem_link": "/problemset/problem/588/C", "problem_id": "13636550"}
+{"lang": "GNU C++", "title": "588B - Duff in Love", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/588/B", "problem_id": "13633781"}
+{"lang": "GNU C++", "title": "588A - Duff and Meat", "time": "46ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/588/A", "problem_id": "13629274"}
+{"lang": "GNU C++", "title": "588A - Duff and Meat", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/588/A", "problem_id": "13628544"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13581012"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13580935"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13570470"}
+{"lang": "GNU C++", "title": "586C - Gennady the Dentist", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/586/C", "problem_id": "13570339"}
+{"lang": "GNU C++", "title": "586B - Laurenty and Shop", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/586/B", "problem_id": "13568464"}
+{"lang": "GNU C++", "title": "586A - Alena's Schedule", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/586/A", "problem_id": "13566363"}
+{"lang": "GNU C++", "title": "580D - Kefa and Dishes", "time": "311ms", "verdict": "OK", "memory": "42300KB", "problem_link": "/problemset/problem/580/D", "problem_id": "13505509"}
+{"lang": "GNU C++", "title": "580D - Kefa and Dishes", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "21100KB", "problem_link": "/problemset/problem/580/D", "problem_id": "13505481"}
+{"lang": "GNU C++", "title": "583D - Once Again...", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "22300KB", "problem_link": "/problemset/problem/583/D", "problem_id": "13460641"}
+{"lang": "GNU C++", "title": "584D - Dima and Lisa", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/584/D", "problem_id": "13460055"}
+{"lang": "GNU C++", "title": "583D - Once Again...", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/583/D", "problem_id": "13459965"}
+{"lang": "GNU C++", "title": "584D - Dima and Lisa", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/D", "problem_id": "13459918"}
+{"lang": "GNU C++", "title": "584D - Dima and Lisa", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/D", "problem_id": "13459570"}
+{"lang": "GNU C++", "title": "584C - Marina and Vasya", "time": "62ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/584/C", "problem_id": "13453808"}
+{"lang": "GNU C++", "title": "584C - Marina and Vasya", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/C", "problem_id": "13453195"}
+{"lang": "GNU C++", "title": "584C - Marina and Vasya", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/C", "problem_id": "13452883"}
+{"lang": "GNU C++", "title": "584B - Kolya and Tanya", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/584/B", "problem_id": "13448714"}
+{"lang": "GNU C++", "title": "584B - Kolya and Tanya", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/B", "problem_id": "13448637"}
+{"lang": "GNU C++", "title": "584B - Kolya and Tanya", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/B", "problem_id": "13446400"}
+{"lang": "GNU C++", "title": "584B - Kolya and Tanya", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/584/B", "problem_id": "13446084"}
+{"lang": "GNU C++", "title": "584A - Olesya and Rodion", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/584/A", "problem_id": "13441405"}
+{"lang": "GNU C++", "title": "582B - Once Again...", "time": "61ms", "verdict": "WRONG_ANSWER", "memory": "22300KB", "problem_link": "/problemset/problem/582/B", "problem_id": "13434903"}
+{"lang": "GNU C++", "title": "582B - Once Again...", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3000KB", "problem_link": "/problemset/problem/582/B", "problem_id": "13434883"}
+{"lang": "GNU C++", "title": "583C - GCD Table", "time": "140ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/583/C", "problem_id": "13385326"}
+{"lang": "GNU C++", "title": "583C - GCD Table", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "1000KB", "problem_link": "/problemset/problem/583/C", "problem_id": "13381230"}
+{"lang": "GNU C++", "title": "583B - Robot's Task", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/583/B", "problem_id": "13373784"}
+{"lang": "GNU C++", "title": "583A - Asphalting Roads", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/583/A", "problem_id": "13364888"}
+{"lang": "GNU C++", "title": "581B - Luxurious Houses", "time": "62ms", "verdict": "OK", "memory": "400KB", "problem_link": "/problemset/problem/581/B", "problem_id": "13278460"}
+{"lang": "GNU C++", "title": "581D - Three Logos", "time": "30ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/581/D", "problem_id": "13278142"}
+{"lang": "GNU C++", "title": "581B - Luxurious Houses", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/581/B", "problem_id": "13278111"}
+{"lang": "GNU C++", "title": "581C - Developing Skills", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/581/C", "problem_id": "13266986"}
+{"lang": "GNU C++", "title": "581B - Luxurious Houses", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/581/B", "problem_id": "13262624"}
+{"lang": "GNU C++", "title": "581A - Vasya the Hipster", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/581/A", "problem_id": "13259836"}
+{"lang": "GNU C++", "title": "580C - Kefa and Park", "time": "93ms", "verdict": "OK", "memory": "8200KB", "problem_link": "/problemset/problem/580/C", "problem_id": "13171136"}
+{"lang": "GNU C++", "title": "580A - Kefa and First Steps", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/580/A", "problem_id": "13170548"}
+{"lang": "GNU C++", "title": "580C - Kefa and Park", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "3100KB", "problem_link": "/problemset/problem/580/C", "problem_id": "13167451"}
+{"lang": "GNU C++", "title": "580C - Kefa and Park", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1200KB", "problem_link": "/problemset/problem/580/C", "problem_id": "13166252"}
+{"lang": "GNU C++", "title": "580C - Kefa and Park", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1200KB", "problem_link": "/problemset/problem/580/C", "problem_id": "13163790"}
+{"lang": "GNU C++", "title": "580C - Kefa and Park", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1200KB", "problem_link": "/problemset/problem/580/C", "problem_id": "13162588"}
+{"lang": "GNU C++", "title": "580B - Kefa and Company", "time": "46ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/580/B", "problem_id": "13154077"}
+{"lang": "GNU C++", "title": "580B - Kefa and Company", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/580/B", "problem_id": "13152869"}
+{"lang": "GNU C++", "title": "580A - Kefa and First Steps", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/580/A", "problem_id": "13146130"}
+{"lang": "GNU C++", "title": "579D - \"Or\" Game", "time": "62ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13109314"}
+{"lang": "GNU C++", "title": "579D - \"Or\" Game", "time": "468ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13109303"}
+{"lang": "GNU C++", "title": "579D - \"Or\" Game", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "14100KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13098211"}
+{"lang": "GNU C++", "title": "579D - \"Or\" Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13098190"}
+{"lang": "GNU C++", "title": "579D - \"Or\" Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/579/D", "problem_id": "13098173"}
+{"lang": "GNU C++", "title": "579C - A Problem about Polyline", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/C", "problem_id": "13097875"}
+{"lang": "GNU C++", "title": "579B - Finding Team Member", "time": "124ms", "verdict": "OK", "memory": "9200KB", "problem_link": "/problemset/problem/579/B", "problem_id": "13097210"}
+{"lang": "GNU C++", "title": "579B - Finding Team Member", "time": "93ms", "verdict": "RUNTIME_ERROR", "memory": "9200KB", "problem_link": "/problemset/problem/579/B", "problem_id": "13097206"}
+{"lang": "GNU C++", "title": "579A - Raising Bacteria", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "13097060"}
+{"lang": "GNU C++", "title": "579A - Raising Bacteria", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "13097034"}
+{"lang": "GNU C++", "title": "577B - Modulo Sum", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/B", "problem_id": "12958264"}
+{"lang": "GNU C++", "title": "577B - Modulo Sum", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/577/B", "problem_id": "12958231"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12939461"}
+{"lang": "GNU C++", "title": "577C - Vasya and Petya's Game", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/577/C", "problem_id": "12938397"}
+{"lang": "GNU C++", "title": "577A - Multiplication Table", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/577/A", "problem_id": "12930125"}
+{"lang": "GNU C++", "title": "574B - Bear and Three Musketeers", "time": "62ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12766384"}
+{"lang": "GNU C++", "title": "574B - Bear and Three Musketeers", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12766030"}
+{"lang": "GNU C++", "title": "574C - Bear and Poker", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/574/C", "problem_id": "12765905"}
+{"lang": "GNU C++", "title": "574C - Bear and Poker", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2200KB", "problem_link": "/problemset/problem/574/C", "problem_id": "12764816"}
+{"lang": "GNU C++", "title": "574B - Bear and Three Musketeers", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12759306"}
+{"lang": "GNU C++", "title": "574B - Bear and Three Musketeers", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/574/B", "problem_id": "12757154"}
+{"lang": "GNU C++", "title": "574C - Bear and Poker", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "2200KB", "problem_link": "/problemset/problem/574/C", "problem_id": "12753439"}
+{"lang": "GNU C++", "title": "574C - Bear and Poker", "time": "46ms", "verdict": "RUNTIME_ERROR", "memory": "7300KB", "problem_link": "/problemset/problem/574/C", "problem_id": "12752449"}
+{"lang": "GNU C++", "title": "574C - Bear and Poker", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "2200KB", "problem_link": "/problemset/problem/574/C", "problem_id": "12752174"}
+{"lang": "GNU C++", "title": "574A - Bear and Elections", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/574/A", "problem_id": "12747737"}
+{"lang": "GNU C++", "title": "574A - Bear and Elections", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/574/A", "problem_id": "12747661"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "31ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12659013"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12658790"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12656950"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12656173"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12656060"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12655935"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12654693"}
+{"lang": "GNU C++", "title": "572B - Order Book", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/572/B", "problem_id": "12653163"}
+{"lang": "GNU C++", "title": "572A - Arrays", "time": "61ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/572/A", "problem_id": "12647644"}
+{"lang": "GNU C++", "title": "572A - Arrays", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "100KB", "problem_link": "/problemset/problem/572/A", "problem_id": "12647417"}
+{"lang": "GNU C++", "title": "570C - Replacement", "time": "171ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/570/C", "problem_id": "12521328"}
+{"lang": "GNU C++", "title": "570B - Simple Game", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "12521079"}
+{"lang": "GNU C++", "title": "570B - Simple Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "12521054"}
+{"lang": "GNU C++", "title": "570B - Simple Game", "time": "15ms", "verdict": "CHALLENGED", "memory": "0KB", "problem_link": "/problemset/problem/570/B", "problem_id": "12498334"}
+{"lang": "GNU C++", "title": "570A - Elections", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/570/A", "problem_id": "12496073"}
+{"lang": "GNU C++", "title": "569C - Primes or Palindromes?", "time": "46ms", "verdict": "OK", "memory": "3900KB", "problem_link": "/problemset/problem/569/C", "problem_id": "12460772"}
+{"lang": "GNU C++", "title": "569B - Inventory", "time": "249ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/569/B", "problem_id": "12449410"}
+{"lang": "GNU C++", "title": "569B - Inventory", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/569/B", "problem_id": "12449037"}
+{"lang": "GNU C++", "title": "569A - Music", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/569/A", "problem_id": "12447501"}
+{"lang": "GNU C++", "title": "569A - Music", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/569/A", "problem_id": "12446005"}
+{"lang": "GNU C++", "title": "569A - Music", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/569/A", "problem_id": "12445089"}
+{"lang": "GNU C++", "title": "567B - Berland National Library", "time": "15ms", "verdict": "OK", "memory": "200KB", "problem_link": "/problemset/problem/567/B", "problem_id": "12359697"}
+{"lang": "GNU C++", "title": "567A - Lineland Mail", "time": "561ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/567/A", "problem_id": "12354295"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "171ms", "verdict": "OK", "memory": "5200KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12226092"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "2400KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12225885"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "873ms", "verdict": "OK", "memory": "1700KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12225767"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224976"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224821"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1600KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224682"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "121400KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224618"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224582"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "28300KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224225"}
+{"lang": "GNU C++", "title": "560D - Equivalent Strings", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "26600KB", "problem_link": "/problemset/problem/560/D", "problem_id": "12224204"}
+{"lang": "GNU C++", "title": "560A - Currency System in Geraldion", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/A", "problem_id": "12203537"}
+{"lang": "PHP", "title": "560A - Currency System in Geraldion", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/A", "problem_id": "12203264"}
+{"lang": "GNU C++", "title": "560C - Gerald's Hexagon", "time": "46ms", "verdict": "OK", "memory": "11800KB", "problem_link": "/problemset/problem/560/C", "problem_id": "12201483"}
+{"lang": "GNU C++", "title": "560C - Gerald's Hexagon", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "15700KB", "problem_link": "/problemset/problem/560/C", "problem_id": "12201274"}
+{"lang": "GNU C++", "title": "560B - Gerald is into Art", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/560/B", "problem_id": "12200434"}
+{"lang": "GNU C++", "title": "560B - Gerald is into Art", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/B", "problem_id": "12200342"}
+{"lang": "GNU C++", "title": "560B - Gerald is into Art", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/560/B", "problem_id": "12200154"}
+{"lang": "GNU C++", "title": "560A - Currency System in Geraldion", "time": "31ms", "verdict": "OK", "memory": "1000KB", "problem_link": "/problemset/problem/560/A", "problem_id": "12199942"}
+{"lang": "GNU C++", "title": "556A - Case of the Zeros and Ones", "time": "46ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/556/A", "problem_id": "12117046"}
+{"lang": "GNU C++", "title": "557C - Arthur and Table", "time": "342ms", "verdict": "OK", "memory": "1200KB", "problem_link": "/problemset/problem/557/C", "problem_id": "12117017"}
+{"lang": "GNU C++", "title": "557C - Arthur and Table", "time": "358ms", "verdict": "WRONG_ANSWER", "memory": "1200KB", "problem_link": "/problemset/problem/557/C", "problem_id": "12116839"}
+{"lang": "GNU C++", "title": "557C - Arthur and Table", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1200KB", "problem_link": "/problemset/problem/557/C", "problem_id": "12116777"}
+{"lang": "GNU C++", "title": "558C - Amr and Chemistry", "time": "608ms", "verdict": "OK", "memory": "900KB", "problem_link": "/problemset/problem/558/C", "problem_id": "12078726"}
+{"lang": "GNU C++", "title": "558C - Amr and Chemistry", "time": "935ms", "verdict": "WRONG_ANSWER", "memory": "67700KB", "problem_link": "/problemset/problem/558/C", "problem_id": "12078584"}
+{"lang": "GNU C++", "title": "558C - Amr and Chemistry", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/558/C", "problem_id": "12059201"}
+{"lang": "GNU C++", "title": "558C - Amr and Chemistry", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "3200KB", "problem_link": "/problemset/problem/558/C", "problem_id": "12059083"}
+{"lang": "GNU C++", "title": "558C - Amr and Chemistry", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/558/C", "problem_id": "12058660"}
+{"lang": "GNU C++", "title": "558B - Amr and The Large Array", "time": "202ms", "verdict": "OK", "memory": "11800KB", "problem_link": "/problemset/problem/558/B", "problem_id": "12049214"}
+{"lang": "GNU C++", "title": "558A - Lala Land and Apple Trees", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/558/A", "problem_id": "12047034"}
+{"lang": "GNU C++", "title": "557B - Pasha and Tea", "time": "483ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/557/B", "problem_id": "11867730"}
+{"lang": "GNU C++", "title": "557B - Pasha and Tea", "time": "483ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/557/B", "problem_id": "11867565"}
+{"lang": "GNU C++", "title": "557B - Pasha and Tea", "time": "483ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/557/B", "problem_id": "11858298"}
+{"lang": "GNU C++", "title": "557A - Ilya and Diplomas", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/557/A", "problem_id": "11854952"}
+{"lang": "GNU C++", "title": "557A - Ilya and Diplomas", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/557/A", "problem_id": "11854553"}
+{"lang": "GNU C++", "title": "556C - Case of Matryoshkas", "time": "296ms", "verdict": "OK", "memory": "500KB", "problem_link": "/problemset/problem/556/C", "problem_id": "11796617"}
+{"lang": "GNU C++", "title": "556B - Case of Fake Numbers", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/556/B", "problem_id": "11792041"}
+{"lang": "GNU C++", "title": "556A - Case of the Zeros and Ones", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "500KB", "problem_link": "/problemset/problem/556/A", "problem_id": "11787354"}
+{"lang": "GNU C++", "title": "535C - Tavas and Karafs", "time": "889ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/535/C", "problem_id": "10720670"}
+{"lang": "GNU C++", "title": "535C - Tavas and Karafs", "time": "841ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/535/C", "problem_id": "10720105"}
+{"lang": "GNU C++", "title": "535A - Tavas and Nafas", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "10717418"}
+{"lang": "GNU C++", "title": "535A - Tavas and Nafas", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "10717098"}
+{"lang": "GNU C++", "title": "535B - Tavas and SaDDas", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/B", "problem_id": "10715059"}
+{"lang": "GNU C++", "title": "535A - Tavas and Nafas", "time": "15ms", "verdict": "CHALLENGED", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "10706993"}
+{"lang": "GNU C++", "title": "535A - Tavas and Nafas", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/535/A", "problem_id": "10706519"}
+{"lang": "GNU C++", "title": "534B - Covered Path", "time": "61ms", "verdict": "OK", "memory": "4300KB", "problem_link": "/problemset/problem/534/B", "problem_id": "10680356"}
+{"lang": "GNU C++", "title": "534B - Covered Path", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/B", "problem_id": "10676636"}
+{"lang": "GNU C++", "title": "534B - Covered Path", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/B", "problem_id": "10676481"}
+{"lang": "GNU C++", "title": "534B - Covered Path", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/B", "problem_id": "10676183"}
+{"lang": "GNU C++", "title": "534A - Exam", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10673594"}
+{"lang": "GNU C++", "title": "534A - Exam", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10671841"}
+{"lang": "GNU C++", "title": "534A - Exam", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10671100"}
+{"lang": "GNU C++", "title": "534A - Exam", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10670242"}
+{"lang": "GNU C++", "title": "534A - Exam", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/534/A", "problem_id": "10669863"}
+{"lang": "GNU C++", "title": "526B - Om Nom and Dark Park", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/526/B", "problem_id": "10582843"}
+{"lang": "GNU C++", "title": "526A - King of Thieves", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/526/A", "problem_id": "10579067"}
+{"lang": "GNU C++", "title": "526A - King of Thieves", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/526/A", "problem_id": "10578402"}
+{"lang": "GNU C++", "title": "526A - King of Thieves", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/526/A", "problem_id": "10578171"}
+{"lang": "GNU C++", "title": "525A - Vitaliy and Pie", "time": "93ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/525/A", "problem_id": "10461247"}
+{"lang": "GNU C++", "title": "525A - Vitaliy and Pie", "time": "31ms", "verdict": "SKIPPED", "memory": "500KB", "problem_link": "/problemset/problem/525/A", "problem_id": "10460316"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "6100KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10457261"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10454036"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10453533"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "100KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10453514"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10430001"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429981"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429860"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429748"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429417"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429335"}
+{"lang": "GNU C++", "title": "514C - Watto and Mechanism", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/514/C", "problem_id": "10429317"}
+{"lang": "GNU C++", "title": "514B - Han Solo and Lazer Gun", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/B", "problem_id": "10429081"}
+{"lang": "GNU C++", "title": "514A - Chewba\u0441ca and Number", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/514/A", "problem_id": "10429006"}
+{"lang": "GNU C++", "title": "515C - Drazil and Factorial", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "10406561"}
+{"lang": "GNU C++", "title": "515C - Drazil and Factorial", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "10406539"}
+{"lang": "GNU C++", "title": "515C - Drazil and Factorial", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "10406529"}
+{"lang": "GNU C++", "title": "515C - Drazil and Factorial", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "10406508"}
+{"lang": "GNU C++", "title": "515C - Drazil and Factorial", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/C", "problem_id": "10406494"}
+{"lang": "GNU C++", "title": "515B - Drazil and His Happy Friends", "time": "530ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/B", "problem_id": "10406396"}
+{"lang": "GNU C++", "title": "515B - Drazil and His Happy Friends", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/B", "problem_id": "10406330"}
+{"lang": "GNU C++", "title": "515B - Drazil and His Happy Friends", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/B", "problem_id": "10406282"}
+{"lang": "GNU C++", "title": "515A - Drazil and Date", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "10406242"}
+{"lang": "GNU C++", "title": "515A - Drazil and Date", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "10406193"}
+{"lang": "GNU C++", "title": "515A - Drazil and Date", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/515/A", "problem_id": "10406188"}
+{"lang": "GNU C++", "title": "520B - Two Buttons", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10390984"}
+{"lang": "GNU C++", "title": "520B - Two Buttons", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10390823"}
+{"lang": "GNU C++", "title": "527A - Playing with Paper", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "10364802"}
+{"lang": "GNU C++", "title": "527A - Playing with Paper", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/527/A", "problem_id": "10364793"}
+{"lang": "GNU C++", "title": "518D - Ilya and Escalator", "time": "46ms", "verdict": "OK", "memory": "31600KB", "problem_link": "/problemset/problem/518/D", "problem_id": "10364488"}
+{"lang": "GNU C++", "title": "518D - Ilya and Escalator", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "31600KB", "problem_link": "/problemset/problem/518/D", "problem_id": "10364466"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "343ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10311781"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "358ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10311768"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "100KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10311761"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10311492"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10310514"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10310486"}
+{"lang": "GNU C++", "title": "518C - Anya and Smartphone", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/C", "problem_id": "10310361"}
+{"lang": "GNU C++", "title": "518B - Tanya and Postcard", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/518/B", "problem_id": "10296295"}
+{"lang": "GNU C++", "title": "518B - Tanya and Postcard", "time": "77ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/518/B", "problem_id": "10296292"}
+{"lang": "GNU C++", "title": "518B - Tanya and Postcard", "time": "78ms", "verdict": "WRONG_ANSWER", "memory": "700KB", "problem_link": "/problemset/problem/518/B", "problem_id": "10264212"}
+{"lang": "GNU C++", "title": "518A - Vitaly and Strings", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10256553"}
+{"lang": "GNU C++", "title": "518A - Vitaly and Strings", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10256274"}
+{"lang": "GNU C++", "title": "518A - Vitaly and Strings", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/518/A", "problem_id": "10256217"}
+{"lang": "GNU C++", "title": "519D - A and B and Interesting Substrings", "time": "78ms", "verdict": "OK", "memory": "8800KB", "problem_link": "/problemset/problem/519/D", "problem_id": "10253626"}
+{"lang": "GNU C++", "title": "519D - A and B and Interesting Substrings", "time": "77ms", "verdict": "WRONG_ANSWER", "memory": "8300KB", "problem_link": "/problemset/problem/519/D", "problem_id": "10253616"}
+{"lang": "GNU C++", "title": "519D - A and B and Interesting Substrings", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "600KB", "problem_link": "/problemset/problem/519/D", "problem_id": "10253614"}
+{"lang": "GNU C++", "title": "519C - A and B and Team Training", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/C", "problem_id": "10228694"}
+{"lang": "GNU C++", "title": "519B - A and B and Compilation Errors", "time": "717ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/B", "problem_id": "10228563"}
+{"lang": "GNU C++", "title": "519A - A and B and Chess", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/519/A", "problem_id": "10228384"}
+{"lang": "GNU C++", "title": "519A - A and B and Chess", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/519/A", "problem_id": "10228372"}
+{"lang": "GNU C++", "title": "520B - Two Buttons", "time": "31ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10228311"}
+{"lang": "GNU C++", "title": "520B - Two Buttons", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10214796"}
+{"lang": "GNU C++", "title": "520B - Two Buttons", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/520/B", "problem_id": "10214766"}
+{"lang": "GNU C++", "title": "520A - Pangram", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/A", "problem_id": "10214662"}
+{"lang": "GNU C++", "title": "471D - MUH and Cube Walls", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/471/D", "problem_id": "8033351"}
+{"lang": "GNU C++", "title": "471D - MUH and Cube Walls", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "1600KB", "problem_link": "/problemset/problem/471/D", "problem_id": "8032649"}
+{"lang": "GNU C++", "title": "471C - MUH and House of Cards", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/471/C", "problem_id": "8032502"}
+{"lang": "GNU C++", "title": "471C - MUH and House of Cards", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/C", "problem_id": "8032487"}
+{"lang": "GNU C++", "title": "471C - MUH and House of Cards", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/C", "problem_id": "8032417"}
+{"lang": "GNU C++", "title": "471C - MUH and House of Cards", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/C", "problem_id": "8031770"}
+{"lang": "GNU C++", "title": "471B - MUH and Important Things", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/471/B", "problem_id": "8026361"}
+{"lang": "GNU C++", "title": "471B - MUH and Important Things", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/B", "problem_id": "8026202"}
+{"lang": "GNU C++", "title": "471B - MUH and Important Things", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/B", "problem_id": "8026179"}
+{"lang": "GNU C++", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "8020767"}
+{"lang": "GNU C++", "title": "471A - MUH and Sticks", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/471/A", "problem_id": "8020758"}
+{"lang": "GNU C++", "title": "469A - I Wanna Be the Guy", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "7890688"}
+{"lang": "GNU C++", "title": "469A - I Wanna Be the Guy", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/469/A", "problem_id": "7890662"}
+{"lang": "GNU C++", "title": "467A - George and Accommodation", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "7848294"}
+{"lang": "GNU C++", "title": "467A - George and Accommodation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "7848285"}
+{"lang": "GNU C++", "title": "467A - George and Accommodation", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/467/A", "problem_id": "7848276"}
+{"lang": "GNU C++", "title": "460A - Vasya and Socks", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/460/A", "problem_id": "7570371"}
+{"lang": "GNU C++", "title": "431B - Shower Line", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/431/B", "problem_id": "6672943"}
+{"lang": "GNU C++", "title": "431A - Black Square", "time": "31ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/431/A", "problem_id": "6672283"}
+{"lang": "GNU C++", "title": "432C - Prime Swaps", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1000KB", "problem_link": "/problemset/problem/432/C", "problem_id": "6640505"}
+{"lang": "GNU C++", "title": "432C - Prime Swaps", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "1000KB", "problem_link": "/problemset/problem/432/C", "problem_id": "6640465"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6631514"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6631504"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "124ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6631476"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6631339"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6630529"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6630310"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "1600KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6630270"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6627188"}
+{"lang": "GNU C++", "title": "432B - Football Kit", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "800KB", "problem_link": "/problemset/problem/432/B", "problem_id": "6626468"}
+{"lang": "GNU C++", "title": "432A - Choosing Teams", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/432/A", "problem_id": "6623433"}
+{"lang": "GNU C++", "title": "426B - Sereja and Mirroring", "time": "30ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/426/B", "problem_id": "6607733"}
+{"lang": "GNU C++", "title": "426A - Sereja and Mugs", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/426/A", "problem_id": "6607514"}
+{"lang": "GNU C++", "title": "426A - Sereja and Mugs", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/426/A", "problem_id": "6607508"}
+{"lang": "GNU C++", "title": "426A - Sereja and Mugs", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/426/A", "problem_id": "6607504"}
+{"lang": "GNU C++", "title": "427D - Match & Catch", "time": "78ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/427/D", "problem_id": "6602194"}
+{"lang": "GNU C++", "title": "427D - Match & Catch", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "392200KB", "problem_link": "/problemset/problem/427/D", "problem_id": "6601939"}
+{"lang": "GNU C++", "title": "427D - Match & Catch", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/427/D", "problem_id": "6601877"}
+{"lang": "GNU C++", "title": "430A - Points and Segments (easy)", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/430/A", "problem_id": "6590900"}
+{"lang": "GNU C++", "title": "430B - Balls Game", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/430/B", "problem_id": "6589308"}
+{"lang": "GNU C++", "title": "430B - Balls Game", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/430/B", "problem_id": "6589054"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "187ms", "verdict": "OK", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6576395"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6576377"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6575850"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6575800"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6575775"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "3900KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6575489"}
+{"lang": "GNU C++", "title": "427E - Police Patrol", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/427/E", "problem_id": "6575466"}
+{"lang": "GNU C++", "title": "427C - Checkposts", "time": "436ms", "verdict": "OK", "memory": "10200KB", "problem_link": "/problemset/problem/427/C", "problem_id": "6571713"}
+{"lang": "GNU C++", "title": "427C - Checkposts", "time": "436ms", "verdict": "RUNTIME_ERROR", "memory": "6100KB", "problem_link": "/problemset/problem/427/C", "problem_id": "6571655"}
+{"lang": "GNU C++", "title": "427C - Checkposts", "time": "420ms", "verdict": "RUNTIME_ERROR", "memory": "5700KB", "problem_link": "/problemset/problem/427/C", "problem_id": "6571639"}
+{"lang": "GNU C++", "title": "427B - Prison Transfer", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/427/B", "problem_id": "6565116"}
+{"lang": "GNU C++", "title": "427A - Police Recruits", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/427/A", "problem_id": "6547217"}
+{"lang": "GNU C++", "title": "58A - Chat room", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/58/A", "problem_id": "4604758"}
+{"lang": "GNU C++", "title": "69A - Young Physicist", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/69/A", "problem_id": "4599319"}
+{"lang": "GNU C++", "title": "237A - Free Cash", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/237/A", "problem_id": "4599149"}
+{"lang": "GNU C++", "title": "61A - Ultra-Fast Mathematician", "time": "30ms", "verdict": "OK", "memory": "100KB", "problem_link": "/problemset/problem/61/A", "problem_id": "4599044"}
+{"lang": "GNU C++", "title": "122A - Lucky Division", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/122/A", "problem_id": "4599005"}
+{"lang": "GNU C++", "title": "263A - Beautiful Matrix", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "4598968"}
+{"lang": "GNU C++", "title": "271A - Beautiful Year", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/271/A", "problem_id": "4598930"}
+{"lang": "GNU C++", "title": "281A - Word Capitalization", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/281/A", "problem_id": "4597094"}
+{"lang": "GNU C++", "title": "136A - Presents", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/136/A", "problem_id": "4596908"}
+{"lang": "GNU C++", "title": "236A - Boy or Girl", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/236/A", "problem_id": "4573943"}
+{"lang": "GNU C++", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "4573898"}
+{"lang": "GNU C++", "title": "144A - Arrival of the General", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "4573887"}
+{"lang": "GNU C++", "title": "110A - Nearly Lucky Number", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "4573641"}
+{"lang": "GNU C++", "title": "110A - Nearly Lucky Number", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "4573623"}
+{"lang": "GNU C++", "title": "110A - Nearly Lucky Number", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/110/A", "problem_id": "4573595"}
+{"lang": "GNU C++", "title": "228A - Is your horseshoe on the other hoof?", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/228/A", "problem_id": "4573571"}
+{"lang": "GNU C++", "title": "228A - Is your horseshoe on the other hoof?", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/228/A", "problem_id": "4573565"}
+{"lang": "GNU C++", "title": "160A - Twins", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "4571918"}
+{"lang": "GNU C++", "title": "160A - Twins", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/160/A", "problem_id": "4571916"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "4571864"}
+{"lang": "GNU C++", "title": "96A - Football", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/96/A", "problem_id": "4571859"}
+{"lang": "GNU C++", "title": "148A - Insomnia cure", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/148/A", "problem_id": "4565424"}
+{"lang": "GNU C++", "title": "133A - HQ9+", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "4565366"}
+{"lang": "GNU C++", "title": "133A - HQ9+", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/133/A", "problem_id": "4565359"}
+{"lang": "GNU C++", "title": "112A - Petya and Strings", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/112/A", "problem_id": "4565281"}
+{"lang": "GNU C++", "title": "282A - Bit++", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/282/A", "problem_id": "4565261"}
+{"lang": "GNU C++", "title": "119A - Epic Game", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "4565198"}
+{"lang": "GNU C++", "title": "231A - Team", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/231/A", "problem_id": "4565151"}
+{"lang": "GNU C++", "title": "131A - cAPS lOCK", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "4553593"}
+{"lang": "GNU C++", "title": "131A - cAPS lOCK", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/131/A", "problem_id": "4553551"}
+{"lang": "GNU C++", "title": "82A - Double Cola", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/82/A", "problem_id": "4543507"}
+{"lang": "GNU C++", "title": "82A - Double Cola", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/82/A", "problem_id": "4543491"}
+{"lang": "GNU C++", "title": "50A - Domino piling", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/50/A", "problem_id": "4543345"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "92ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543181"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543170"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543161"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543106"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543060"}
+{"lang": "GNU C++", "title": "158B - Taxi", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/158/B", "problem_id": "4543026"}
+{"lang": "GNU C++", "title": "118A - String Task", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/118/A", "problem_id": "4542952"}
+{"lang": "GNU C++", "title": "71A - Way Too Long Words", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/71/A", "problem_id": "4542884"}
+{"lang": "GNU C++", "title": "158A - Next Round", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/A", "problem_id": "4542845"}
+{"lang": "GNU C++", "title": "4A - Watermelon", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/4/A", "problem_id": "4542584"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4542551"}
+{"lang": "GNU C++", "title": "1A - Theatre Square", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "4542536"}
+{"lang": "GNU C++", "title": "336A - Vasily the Bear and Triangle", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "4536433"}
+{"lang": "GNU C++", "title": "336A - Vasily the Bear and Triangle", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "4536408"}
+{"lang": "GNU C++", "title": "336A - Vasily the Bear and Triangle", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/336/A", "problem_id": "4536403"}
+{"lang": "GNU C++", "title": "339B - Xenia and Ringroad", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/339/B", "problem_id": "4500922"}
+{"lang": "GNU C++", "title": "339A - Helpful Maths", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "4494856"}
+{"lang": "GNU C++", "title": "344B - Simple Molecules", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/B", "problem_id": "4488782"}
+{"lang": "GNU C++", "title": "344B - Simple Molecules", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/344/B", "problem_id": "4488773"}
+{"lang": "GNU C++", "title": "296A - Yaroslav and Permutations", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/296/A", "problem_id": "4488659"}
+{"lang": "GNU C++", "title": "296A - Yaroslav and Permutations", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/296/A", "problem_id": "4488641"}
+{"lang": "GNU C++", "title": "344A - Magnets", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/344/A", "problem_id": "4488452"}
+{"lang": "GNU C++", "title": "260C - Balls and Boxes", "time": "234ms", "verdict": "OK", "memory": "800KB", "problem_link": "/problemset/problem/260/C", "problem_id": "3138961"}
+{"lang": "GNU C++", "title": "260C - Balls and Boxes", "time": "15ms", "verdict": "RUNTIME_ERROR", "memory": "800KB", "problem_link": "/problemset/problem/260/C", "problem_id": "3138959"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "124ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138953"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "125ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138941"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138935"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "300KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138925"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "200KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138920"}
+{"lang": "GNU C++", "title": "260C - Balls and Boxes", "time": "0ms", "verdict": "RUNTIME_ERROR", "memory": "800KB", "problem_link": "/problemset/problem/260/C", "problem_id": "3138522"}
+{"lang": "GNU C++", "title": "260C - Balls and Boxes", "time": "0ms", "verdict": "FAILED", "memory": "0KB", "problem_link": "/problemset/problem/260/C", "problem_id": "3138460"}
+{"lang": "GNU C++", "title": "260B - Ancient Prophesy", "time": "0ms", "verdict": "FAILED", "memory": "0KB", "problem_link": "/problemset/problem/260/B", "problem_id": "3138445"}
+{"lang": "GNU C++", "title": "260A - Adding Digits", "time": "15ms", "verdict": "OK", "memory": "300KB", "problem_link": "/problemset/problem/260/A", "problem_id": "3137317"}
+{"lang": "GNU C++", "title": "244C - The Brand New Function", "time": "46ms", "verdict": "OK", "memory": "1400KB", "problem_link": "/problemset/problem/244/C", "problem_id": "3137159"}
+{"lang": "GNU C++", "title": "244C - The Brand New Function", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "3200KB", "problem_link": "/problemset/problem/244/C", "problem_id": "3137121"}
+{"lang": "GNU C++", "title": "244C - The Brand New Function", "time": "1000ms", "verdict": "OK", "memory": "13300KB", "problem_link": "/problemset/problem/244/C", "problem_id": "3136951"}
+{"lang": "GNU C++", "title": "244B - Undoubtedly Lucky Numbers", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/244/B", "problem_id": "3133761"}
+{"lang": "GNU C++", "title": "244A - Dividing Orange", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/244/A", "problem_id": "3133245"}
+{"lang": "GNU C++", "title": "244A - Dividing Orange", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/244/A", "problem_id": "3133235"}
+{"lang": "GNU C++", "title": "244A - Dividing Orange", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/244/A", "problem_id": "3133228"}
+{"lang": "GNU C++", "title": "244A - Dividing Orange", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/244/A", "problem_id": "3133214"}
+{"lang": "GNU C++", "title": "272B - Dima and Sequence", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "400KB", "problem_link": "/problemset/problem/272/B", "problem_id": "3131956"}
+{"lang": "GNU C++", "title": "272A - Dima and Friends", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/272/A", "problem_id": "3131766"}
+{"lang": "GNU C++", "title": "272A - Dima and Friends", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/272/A", "problem_id": "3131757"}
+{"lang": "GNU C++", "title": "268C - Beautiful Sets of Points", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/C", "problem_id": "3130986"}
+{"lang": "GNU C++", "title": "268B - Buttons", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/B", "problem_id": "3130951"}
+{"lang": "GNU C++", "title": "268A - Games", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/268/A", "problem_id": "3036460"}
+{"lang": "GNU C++", "title": "266B - Queue at the School", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/B", "problem_id": "3036374"}
+{"lang": "GNU C++", "title": "266A - Stones on the Table", "time": "15ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/A", "problem_id": "3033534"}
+{"lang": "GNU C++", "title": "224A - Parallelepiped", "time": "31ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/224/A", "problem_id": "2208342"}
+{"lang": "GNU C++", "title": "166E - Tetrahedron", "time": "190ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/166/E", "problem_id": "2203330"}
+{"lang": "GNU C++", "title": "166E - Tetrahedron", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/166/E", "problem_id": "2203322"}
+{"lang": "GNU C++", "title": "166E - Tetrahedron", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/166/E", "problem_id": "2203198"}
+{"lang": "GNU C++", "title": "166C - Median", "time": "30ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/166/C", "problem_id": "2202777"}
+{"lang": "GNU C++", "title": "166C - Median", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/166/C", "problem_id": "2202750"}
+{"lang": "GNU C++", "title": "166C - Median", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "1400KB", "problem_link": "/problemset/problem/166/C", "problem_id": "2202737"}
+{"lang": "GNU C++", "title": "166A - Rank List", "time": "31ms", "verdict": "OK", "memory": "1500KB", "problem_link": "/problemset/problem/166/A", "problem_id": "2170468"}
+{"lang": "GNU C++", "title": "166A - Rank List", "time": "31ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/166/A", "problem_id": "2170465"}
+{"lang": "GNU C++", "title": "166A - Rank List", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "1500KB", "problem_link": "/problemset/problem/166/A", "problem_id": "2170451"}
+{"lang": "GNU C++", "title": "166A - Rank List", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "2170449"}
+{"lang": "GNU C++", "title": "166A - Rank List", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "2170448"}
