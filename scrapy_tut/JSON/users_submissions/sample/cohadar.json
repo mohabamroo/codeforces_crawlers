@@ -1,0 +1,484 @@
+{"lang": "Python 2", "title": "158C - Cd and pwd commands", "time": "218ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/158/C", "problem_id": "22507050"}
+{"lang": "Ruby", "title": "709A - Juicer", "time": "202ms", "verdict": "OK", "memory": "9400KB", "problem_link": "/problemset/problem/709/A", "problem_id": "22493084"}
+{"lang": "Ruby", "title": "709A - Juicer", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "9400KB", "problem_link": "/problemset/problem/709/A", "problem_id": "22492960"}
+{"lang": "Go", "title": "230B - T-primes", "time": "156ms", "verdict": "OK", "memory": "3000KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21693896"}
+{"lang": "Go", "title": "230B - T-primes", "time": "122ms", "verdict": "OK", "memory": "2900KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21693515"}
+{"lang": "Go", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5100KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21693300"}
+{"lang": "Go", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5100KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21693199"}
+{"lang": "Go", "title": "230B - T-primes", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5100KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21693125"}
+{"lang": "Go", "title": "230B - T-primes", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/230/B", "problem_id": "21692892"}
+{"lang": "Go", "title": "119A - Epic Game", "time": "60ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/119/A", "problem_id": "21648569"}
+{"lang": "Go", "title": "432A - Choosing Teams", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/432/A", "problem_id": "21648176"}
+{"lang": "Go", "title": "141A - Amusing Joke", "time": "30ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/141/A", "problem_id": "21647949"}
+{"lang": "Go", "title": "144A - Arrival of the General", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "21647533"}
+{"lang": "Go", "title": "432A - Choosing Teams", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/432/A", "problem_id": "21625702"}
+{"lang": "Go", "title": "141A - Amusing Joke", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/141/A", "problem_id": "21625676"}
+{"lang": "Go", "title": "144A - Arrival of the General", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/144/A", "problem_id": "21625626"}
+{"lang": "Go", "title": "486A - Calculating Function", "time": "31ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/486/A", "problem_id": "21625451"}
+{"lang": "Go", "title": "263A - Beautiful Matrix", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/263/A", "problem_id": "21624935"}
+{"lang": "Go", "title": "122A - Lucky Division", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/122/A", "problem_id": "21600350"}
+{"lang": "Go", "title": "160A - Twins", "time": "30ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/160/A", "problem_id": "21574370"}
+{"lang": "Go", "title": "133A - HQ9+", "time": "60ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/133/A", "problem_id": "21514596"}
+{"lang": "Go", "title": "266A - Stones on the Table", "time": "60ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/266/A", "problem_id": "21514447"}
+{"lang": "Go", "title": "131A - cAPS lOCK", "time": "15ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/131/A", "problem_id": "21514233"}
+{"lang": "Go", "title": "131A - cAPS lOCK", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/131/A", "problem_id": "21514190"}
+{"lang": "Go", "title": "112A - Petya and Strings", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/112/A", "problem_id": "21466454"}
+{"lang": "Go", "title": "96A - Football", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/96/A", "problem_id": "21466336"}
+{"lang": "Go", "title": "158B - Taxi", "time": "1434ms", "verdict": "OK", "memory": "9100KB", "problem_link": "/problemset/problem/158/B", "problem_id": "21466220"}
+{"lang": "Go", "title": "158B - Taxi", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/158/B", "problem_id": "21466146"}
+{"lang": "Go", "title": "158B - Taxi", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/158/B", "problem_id": "21466099"}
+{"lang": "Go", "title": "158B - Taxi", "time": "30ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/158/B", "problem_id": "21465998"}
+{"lang": "Go", "title": "282A - Bit++", "time": "30ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/282/A", "problem_id": "21399848"}
+{"lang": "Go", "title": "231A - Team", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/231/A", "problem_id": "21399678"}
+{"lang": "Go", "title": "231A - Team", "time": "30ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/231/A", "problem_id": "21399656"}
+{"lang": "Go", "title": "231A - Team", "time": "92ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/231/A", "problem_id": "21399621"}
+{"lang": "Go", "title": "231A - Team", "time": "62ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/231/A", "problem_id": "21399572"}
+{"lang": "Go", "title": "50A - Domino piling", "time": "30ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/50/A", "problem_id": "21399407"}
+{"lang": "Go", "title": "118A - String Task", "time": "62ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/118/A", "problem_id": "21391605"}
+{"lang": "Go", "title": "118A - String Task", "time": "60ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/118/A", "problem_id": "21391592"}
+{"lang": "Go", "title": "158A - Next Round", "time": "60ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/158/A", "problem_id": "21366098"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "15ms", "verdict": "OK", "memory": "4800KB", "problem_link": "/problemset/problem/1/A", "problem_id": "21365378"}
+{"lang": "Go", "title": "1A - Theatre Square", "time": "15ms", "verdict": "WRONG_ANSWER", "memory": "4800KB", "problem_link": "/problemset/problem/1/A", "problem_id": "21365306"}
+{"lang": "Java 8", "title": "709A - Juicer", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/709/A", "problem_id": "20486498"}
+{"lang": "Java 8", "title": "710A - King Moves", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/710/A", "problem_id": "20486414"}
+{"lang": "Java 8", "title": "710A - King Moves", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/710/A", "problem_id": "20486329"}
+{"lang": "Java 8", "title": "711A - Bus to Udayland", "time": "202ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/711/A", "problem_id": "20486166"}
+{"lang": "Java 8", "title": "339A - Helpful Maths", "time": "342ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "18878035"}
+{"lang": "Java 8", "title": "339A - Helpful Maths", "time": "278ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "18877979"}
+{"lang": "Python 2", "title": "339A - Helpful Maths", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/339/A", "problem_id": "18877813"}
+{"lang": "Python 2", "title": "246A - Buggy Sorting", "time": "46ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/246/A", "problem_id": "18752282"}
+{"lang": "Python 2", "title": "246A - Buggy Sorting", "time": "46ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/246/A", "problem_id": "18752209"}
+{"lang": "Python 2", "title": "202A - LLPS", "time": "122ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/202/A", "problem_id": "18650341"}
+{"lang": "Java 8", "title": "202A - LLPS", "time": "310ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/202/A", "problem_id": "18650263"}
+{"lang": "Python 2", "title": "484A - Bits", "time": "608ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/484/A", "problem_id": "18650071"}
+{"lang": "Java 8", "title": "484A - Bits", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/484/A", "problem_id": "18649997"}
+{"lang": "Java 8", "title": "484A - Bits", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/484/A", "problem_id": "18649881"}
+{"lang": "Python 2", "title": "550B - Preparing Olympiad", "time": "202ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/B", "problem_id": "18645632"}
+{"lang": "Python 2", "title": "550B - Preparing Olympiad", "time": "358ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/B", "problem_id": "18645115"}
+{"lang": "Java 8", "title": "550B - Preparing Olympiad", "time": "233ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/B", "problem_id": "18644955"}
+{"lang": "Java 8", "title": "535B - Tavas and SaDDas", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/535/B", "problem_id": "18644747"}
+{"lang": "Java 8", "title": "579A - Raising Bacteria", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/579/A", "problem_id": "18644448"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "155ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18574888"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18574692"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18574681"}
+{"lang": "Python 2", "title": "682A - Alyona and Numbers", "time": "62ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/682/A", "problem_id": "18571004"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "217ms", "verdict": "OK", "memory": "5100KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18570834"}
+{"lang": "Python 2", "title": "682B - Alyona and Mex", "time": "187ms", "verdict": "OK", "memory": "5600KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18570748"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "358ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18565885"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "233ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18565538"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18565483"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18565233"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18565097"}
+{"lang": "Java 8", "title": "682C - Alyona and the Tree", "time": "343ms", "verdict": "OK", "memory": "13900KB", "problem_link": "/problemset/problem/682/C", "problem_id": "18558827"}
+{"lang": "Java 8", "title": "682C - Alyona and the Tree", "time": "685ms", "verdict": "SKIPPED", "memory": "4200KB", "problem_link": "/problemset/problem/682/C", "problem_id": "18558331"}
+{"lang": "Java 8", "title": "682C - Alyona and the Tree", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/682/C", "problem_id": "18556762"}
+{"lang": "Java 8", "title": "682B - Alyona and Mex", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/682/B", "problem_id": "18552715"}
+{"lang": "Java 8", "title": "682A - Alyona and Numbers", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/682/A", "problem_id": "18550228"}
+{"lang": "Java 8", "title": "501C - Misha and Forest", "time": "405ms", "verdict": "OK", "memory": "9600KB", "problem_link": "/problemset/problem/501/C", "problem_id": "18546413"}
+{"lang": "Java 8", "title": "501C - Misha and Forest", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "9600KB", "problem_link": "/problemset/problem/501/C", "problem_id": "18546232"}
+{"lang": "Java 8", "title": "501C - Misha and Forest", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/501/C", "problem_id": "18546024"}
+{"lang": "Java 8", "title": "577B - Modulo Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "76200KB", "problem_link": "/problemset/problem/577/B", "problem_id": "18524403"}
+{"lang": "Java 8", "title": "577B - Modulo Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "76200KB", "problem_link": "/problemset/problem/577/B", "problem_id": "18521733"}
+{"lang": "Java 8", "title": "577B - Modulo Sum", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/577/B", "problem_id": "18520242"}
+{"lang": "Java 8", "title": "577B - Modulo Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "123000KB", "problem_link": "/problemset/problem/577/B", "problem_id": "18519835"}
+{"lang": "Python 2", "title": "356A - Knight Tournament", "time": "1887ms", "verdict": "OK", "memory": "23200KB", "problem_link": "/problemset/problem/356/A", "problem_id": "18519339"}
+{"lang": "Java 8", "title": "356A - Knight Tournament", "time": "701ms", "verdict": "OK", "memory": "16900KB", "problem_link": "/problemset/problem/356/A", "problem_id": "18515248"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "155ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18301016"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "155ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300931"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "155ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300565"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "140ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300530"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "124ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300506"}
+{"lang": "MS C++", "title": "101021A - Guess the Number", "time": "0ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300385"}
+{"lang": "MS C++", "title": "101021A - Guess the Number", "time": "31ms", "verdict": "OK", "memory": "2200KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300310"}
+{"lang": "GNU C", "title": "101021A - Guess the Number", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300304"}
+{"lang": "GNU C11", "title": "101021A - Guess the Number", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300292"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "20000KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300260"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "19900KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18300053"}
+{"lang": "Java 8", "title": "101021A - Guess the Number", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "20100KB", "problem_link": "/problemset/gymProblem/101021/A", "problem_id": "18299997"}
+{"lang": "Python 2", "title": "116A - Tram", "time": "124ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/116/A", "problem_id": "18274936"}
+{"lang": "Python 2", "title": "112A - Petya and Strings", "time": "124ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/112/A", "problem_id": "18239829"}
+{"lang": "Python 2", "title": "112A - Petya and Strings", "time": "92ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/112/A", "problem_id": "18239815"}
+{"lang": "Java 8", "title": "112A - Petya and Strings", "time": "340ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/112/A", "problem_id": "18239803"}
+{"lang": "Python 2", "title": "96A - Football", "time": "124ms", "verdict": "OK", "memory": "4700KB", "problem_link": "/problemset/problem/96/A", "problem_id": "18239739"}
+{"lang": "Java 8", "title": "339D - Xenia and Bit Operations", "time": "218ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/339/D", "problem_id": "18239675"}
+{"lang": "Python 2", "title": "637B - Chat Order", "time": "249ms", "verdict": "OK", "memory": "18400KB", "problem_link": "/problemset/problem/637/B", "problem_id": "18239427"}
+{"lang": "Java 8", "title": "637B - Chat Order", "time": "592ms", "verdict": "OK", "memory": "47900KB", "problem_link": "/problemset/problem/637/B", "problem_id": "18239370"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "436ms", "verdict": "WRONG_ANSWER", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227908"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "467ms", "verdict": "WRONG_ANSWER", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227889"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "451ms", "verdict": "WRONG_ANSWER", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227870"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1232ms", "verdict": "OK", "memory": "26800KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227715"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227627"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "514ms", "verdict": "RUNTIME_ERROR", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227533"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1466ms", "verdict": "OK", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227291"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227214"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227193"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227170"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227146"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26600KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18227122"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26300KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18226656"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1387ms", "verdict": "WRONG_ANSWER", "memory": "26900KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18226499"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26500KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18226279"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26000KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18226150"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18225950"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "35400KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18209144"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "35100KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18209114"}
+{"lang": "Java 8", "title": "677B - Vanya and Food Processor", "time": "343ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/677/B", "problem_id": "18201760"}
+{"lang": "Java 8", "title": "677B - Vanya and Food Processor", "time": "265ms", "verdict": "WRONG_ANSWER", "memory": "20400KB", "problem_link": "/problemset/problem/677/B", "problem_id": "18201493"}
+{"lang": "Java 8", "title": "677D - Vanya and Treasure", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "26200KB", "problem_link": "/problemset/problem/677/D", "problem_id": "18197147"}
+{"lang": "Java 8", "title": "677C - Vanya and Label", "time": "155ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/677/C", "problem_id": "18193543"}
+{"lang": "Java 8", "title": "677C - Vanya and Label", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/677/C", "problem_id": "18193313"}
+{"lang": "Java 8", "title": "677B - Vanya and Food Processor", "time": "280ms", "verdict": "CHALLENGED", "memory": "20400KB", "problem_link": "/problemset/problem/677/B", "problem_id": "18190924"}
+{"lang": "Java 8", "title": "677A - Vanya and Fence", "time": "186ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/677/A", "problem_id": "18186132"}
+{"lang": "Java 8", "title": "158B - Taxi", "time": "590ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/158/B", "problem_id": "18185301"}
+{"lang": "Java 8", "title": "282A - Bit++", "time": "155ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/282/A", "problem_id": "18185140"}
+{"lang": "Java 8", "title": "231A - Team", "time": "280ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/231/A", "problem_id": "18185101"}
+{"lang": "Java 8", "title": "50A - Domino piling", "time": "280ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/50/A", "problem_id": "18185028"}
+{"lang": "Java 8", "title": "118A - String Task", "time": "310ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/118/A", "problem_id": "18184950"}
+{"lang": "Java 8", "title": "118A - String Task", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "20400KB", "problem_link": "/problemset/problem/118/A", "problem_id": "18184937"}
+{"lang": "Python 2", "title": "158A - Next Round", "time": "124ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/158/A", "problem_id": "18156643"}
+{"lang": "Python 2", "title": "158A - Next Round", "time": "92ms", "verdict": "RUNTIME_ERROR", "memory": "4500KB", "problem_link": "/problemset/problem/158/A", "problem_id": "18156604"}
+{"lang": "Python 2", "title": "71A - Way Too Long Words", "time": "124ms", "verdict": "OK", "memory": "4600KB", "problem_link": "/problemset/problem/71/A", "problem_id": "18156372"}
+{"lang": "Python 2", "title": "4A - Watermelon", "time": "124ms", "verdict": "OK", "memory": "4500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "18155903"}
+{"lang": "Python 2", "title": "4A - Watermelon", "time": "92ms", "verdict": "WRONG_ANSWER", "memory": "4500KB", "problem_link": "/problemset/problem/4/A", "problem_id": "18155749"}
+{"lang": "Java 8", "title": "676C - Vasya and String", "time": "171ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/676/C", "problem_id": "18086959"}
+{"lang": "Java 8", "title": "676A - Nicholas and Permutation", "time": "155ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/676/A", "problem_id": "18081321"}
+{"lang": "Java 8", "title": "676B - Pyramid of Glasses", "time": "156ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/676/B", "problem_id": "18080710"}
+{"lang": "Java 8", "title": "676A - Nicholas and Permutation", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/676/A", "problem_id": "18075938"}
+{"lang": "Java 8", "title": "573B - Bear and Blocks", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20400KB", "problem_link": "/problemset/problem/573/B", "problem_id": "17983580"}
+{"lang": "Java 8", "title": "383A - Milking cows", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20600KB", "problem_link": "/problemset/problem/383/A", "problem_id": "17981792"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "233ms", "verdict": "OK", "memory": "25900KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17979905"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "529ms", "verdict": "OK", "memory": "24700KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17979291"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20900KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17979242"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20200KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17979147"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "20100KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17979132"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "20100KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17978698"}
+{"lang": "Java 8", "title": "295A - Greg and Array", "time": "1500ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20200KB", "problem_link": "/problemset/problem/295/A", "problem_id": "17978350"}
+{"lang": "Java 8", "title": "343B - Alternating Current", "time": "310ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/343/B", "problem_id": "17978128"}
+{"lang": "Java 8", "title": "343B - Alternating Current", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/343/B", "problem_id": "17978096"}
+{"lang": "Java 8", "title": "343B - Alternating Current", "time": "280ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/343/B", "problem_id": "17977995"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "278ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/348/A", "problem_id": "17969175"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/348/A", "problem_id": "17969150"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "278ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/348/A", "problem_id": "17968667"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20600KB", "problem_link": "/problemset/problem/348/A", "problem_id": "17968419"}
+{"lang": "Java 8", "title": "165B - Burning Midnight Oil", "time": "340ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/165/B", "problem_id": "17967576"}
+{"lang": "Java 8", "title": "251A - Points on Line", "time": "528ms", "verdict": "OK", "memory": "29700KB", "problem_link": "/problemset/problem/251/A", "problem_id": "17967393"}
+{"lang": "Java 8", "title": "271B - Prime Matrix", "time": "1402ms", "verdict": "OK", "memory": "28100KB", "problem_link": "/problemset/problem/271/B", "problem_id": "17966908"}
+{"lang": "Java 8", "title": "271B - Prime Matrix", "time": "872ms", "verdict": "RUNTIME_ERROR", "memory": "20400KB", "problem_link": "/problemset/problem/271/B", "problem_id": "17966779"}
+{"lang": "Java 8", "title": "675D - Tree Construction", "time": "342ms", "verdict": "OK", "memory": "32600KB", "problem_link": "/problemset/problem/675/D", "problem_id": "17953644"}
+{"lang": "Java 8", "title": "675D - Tree Construction", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20000KB", "problem_link": "/problemset/problem/675/D", "problem_id": "17950157"}
+{"lang": "Java 8", "title": "675B - Restoring Painting", "time": "171ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/675/B", "problem_id": "17947072"}
+{"lang": "Java 8", "title": "675A - Infinite Sequence", "time": "186ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/675/A", "problem_id": "17938173"}
+{"lang": "Java 8", "title": "672C - Recycling Bottles", "time": "1013ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/672/C", "problem_id": "17857172"}
+{"lang": "Java 8", "title": "672B - Different is Good", "time": "155ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/672/B", "problem_id": "17847800"}
+{"lang": "Java 8", "title": "672A - Summer Camp", "time": "124ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/672/A", "problem_id": "17846460"}
+{"lang": "Java 8", "title": "349B - Color the Fence", "time": "340ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/349/B", "problem_id": "17845059"}
+{"lang": "Java 8", "title": "349B - Color the Fence", "time": "434ms", "verdict": "OK", "memory": "23900KB", "problem_link": "/problemset/problem/349/B", "problem_id": "17845001"}
+{"lang": "Java 8", "title": "349B - Color the Fence", "time": "310ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/349/B", "problem_id": "17844989"}
+{"lang": "Java 8", "title": "349B - Color the Fence", "time": "278ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/349/B", "problem_id": "17844940"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "670ms", "verdict": "OK", "memory": "37400KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843809"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "577ms", "verdict": "OK", "memory": "37400KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843784"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "31400KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843701"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "19900KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843626"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "19900KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843567"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "592ms", "verdict": "OK", "memory": "33600KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843279"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "638ms", "verdict": "OK", "memory": "33400KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17843102"}
+{"lang": "Java 8", "title": "527C - Glass Carving", "time": "1325ms", "verdict": "OK", "memory": "48300KB", "problem_link": "/problemset/problem/527/C", "problem_id": "17842008"}
+{"lang": "Java 8", "title": "276C - Little Girl and Maximum Sum", "time": "342ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/276/C", "problem_id": "17833623"}
+{"lang": "Java 8", "title": "276C - Little Girl and Maximum Sum", "time": "684ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/276/C", "problem_id": "17833466"}
+{"lang": "Java 8", "title": "276C - Little Girl and Maximum Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20800KB", "problem_link": "/problemset/problem/276/C", "problem_id": "17833452"}
+{"lang": "Java 8", "title": "276C - Little Girl and Maximum Sum", "time": "278ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/276/C", "problem_id": "17833430"}
+{"lang": "Java 8", "title": "276C - Little Girl and Maximum Sum", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20500KB", "problem_link": "/problemset/problem/276/C", "problem_id": "17833350"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "966ms", "verdict": "OK", "memory": "35900KB", "problem_link": "/problemset/problem/567/C", "problem_id": "17833017"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "36500KB", "problem_link": "/problemset/problem/567/C", "problem_id": "17833001"}
+{"lang": "Java 8", "title": "572B - Order Book", "time": "233ms", "verdict": "OK", "memory": "21500KB", "problem_link": "/problemset/problem/572/B", "problem_id": "17832695"}
+{"lang": "Java 8", "title": "572B - Order Book", "time": "233ms", "verdict": "OK", "memory": "21400KB", "problem_link": "/problemset/problem/572/B", "problem_id": "17832284"}
+{"lang": "Java 8", "title": "572B - Order Book", "time": "280ms", "verdict": "OK", "memory": "21300KB", "problem_link": "/problemset/problem/572/B", "problem_id": "17832100"}
+{"lang": "Java 8", "title": "518C - Anya and Smartphone", "time": "436ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/518/C", "problem_id": "17831410"}
+{"lang": "Java 8", "title": "518C - Anya and Smartphone", "time": "436ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/518/C", "problem_id": "17831388"}
+{"lang": "Java 8", "title": "518C - Anya and Smartphone", "time": "452ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/518/C", "problem_id": "17831198"}
+{"lang": "Java 8", "title": "264A - Escape from Stones", "time": "701ms", "verdict": "OK", "memory": "116000KB", "problem_link": "/problemset/problem/264/A", "problem_id": "17824457"}
+{"lang": "Java 8", "title": "264A - Escape from Stones", "time": "748ms", "verdict": "OK", "memory": "115900KB", "problem_link": "/problemset/problem/264/A", "problem_id": "17824321"}
+{"lang": "Java 8", "title": "264A - Escape from Stones", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/264/A", "problem_id": "17824187"}
+{"lang": "Java 8", "title": "501B - Misha and Changing Handles", "time": "249ms", "verdict": "OK", "memory": "21400KB", "problem_link": "/problemset/problem/501/B", "problem_id": "17824016"}
+{"lang": "Java 8", "title": "501B - Misha and Changing Handles", "time": "171ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/501/B", "problem_id": "17823958"}
+{"lang": "Java 8", "title": "650A - Watchmen", "time": "1107ms", "verdict": "OK", "memory": "39700KB", "problem_link": "/problemset/problem/650/A", "problem_id": "17823674"}
+{"lang": "Java 8", "title": "570C - Replacement", "time": "202ms", "verdict": "OK", "memory": "25600KB", "problem_link": "/problemset/problem/570/C", "problem_id": "17823161"}
+{"lang": "Java 8", "title": "570C - Replacement", "time": "716ms", "verdict": "OK", "memory": "30900KB", "problem_link": "/problemset/problem/570/C", "problem_id": "17822882"}
+{"lang": "Java 8", "title": "570C - Replacement", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "21900KB", "problem_link": "/problemset/problem/570/C", "problem_id": "17822862"}
+{"lang": "Java 8", "title": "570C - Replacement", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/570/C", "problem_id": "17822805"}
+{"lang": "Java 8", "title": "158C - Cd and pwd commands", "time": "342ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/158/C", "problem_id": "17818504"}
+{"lang": "Java 8", "title": "158C - Cd and pwd commands", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/158/C", "problem_id": "17818457"}
+{"lang": "Java 8", "title": "427B - Prison Transfer", "time": "499ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/427/B", "problem_id": "17818324"}
+{"lang": "Java 8", "title": "4C - Registration System", "time": "2184ms", "verdict": "OK", "memory": "25600KB", "problem_link": "/problemset/problem/4/C", "problem_id": "17817566"}
+{"lang": "Java 8", "title": "519B - A and B and Compilation Errors", "time": "670ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/519/B", "problem_id": "17817462"}
+{"lang": "Java 8", "title": "519B - A and B and Compilation Errors", "time": "1279ms", "verdict": "OK", "memory": "23500KB", "problem_link": "/problemset/problem/519/B", "problem_id": "17817378"}
+{"lang": "Java 8", "title": "673D - Bear and Two Paths", "time": "140ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/673/D", "problem_id": "17796327"}
+{"lang": "Java 8", "title": "673B - Problems for Round", "time": "155ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/673/B", "problem_id": "17795410"}
+{"lang": "Java 8", "title": "673D - Bear and Two Paths", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/673/D", "problem_id": "17791074"}
+{"lang": "Java 8", "title": "673C - Bear and Colors", "time": "265ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/673/C", "problem_id": "17786131"}
+{"lang": "Java 8", "title": "673A - Bear and Game", "time": "156ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/673/A", "problem_id": "17780724"}
+{"lang": "Java 8", "title": "670F - Restore a Number", "time": "405ms", "verdict": "OK", "memory": "32300KB", "problem_link": "/problemset/problem/670/F", "problem_id": "17746036"}
+{"lang": "Java 8", "title": "670D1 - Magic Powder - 1", "time": "187ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/670/D1", "problem_id": "17733093"}
+{"lang": "Java 8", "title": "670C - Cinema", "time": "327ms", "verdict": "OK", "memory": "31800KB", "problem_link": "/problemset/problem/670/C", "problem_id": "17730722"}
+{"lang": "Java 8", "title": "670B - Game of Robots", "time": "124ms", "verdict": "OK", "memory": "20100KB", "problem_link": "/problemset/problem/670/B", "problem_id": "17725957"}
+{"lang": "Java 8", "title": "670A - Holidays", "time": "171ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/670/A", "problem_id": "17722783"}
+{"lang": "Java 8", "title": "667C - Reberland Linguistics", "time": "0ms", "verdict": "COMPILATION_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/667/C", "problem_id": "17583658"}
+{"lang": "Java 8", "title": "667C - Reberland Linguistics", "time": "124ms", "verdict": "RUNTIME_ERROR", "memory": "20300KB", "problem_link": "/problemset/problem/667/C", "problem_id": "17583264"}
+{"lang": "Java 8", "title": "667A - Pouring Rain", "time": "139ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/667/A", "problem_id": "17570675"}
+{"lang": "Java 8", "title": "669D - Little Artem and Dance", "time": "483ms", "verdict": "OK", "memory": "59000KB", "problem_link": "/problemset/problem/669/D", "problem_id": "17507401"}
+{"lang": "Java 8", "title": "669D - Little Artem and Dance", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20200KB", "problem_link": "/problemset/problem/669/D", "problem_id": "17507261"}
+{"lang": "Java 8", "title": "669D - Little Artem and Dance", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "19900KB", "problem_link": "/problemset/problem/669/D", "problem_id": "17498133"}
+{"lang": "Java 8", "title": "669D - Little Artem and Dance", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "20000KB", "problem_link": "/problemset/problem/669/D", "problem_id": "17497743"}
+{"lang": "Java 8", "title": "669B - Little Artem and Grasshopper", "time": "295ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/669/B", "problem_id": "17484742"}
+{"lang": "Java 8", "title": "669A - Little Artem and Presents", "time": "140ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/669/A", "problem_id": "17482474"}
+{"lang": "Java 8", "title": "664C - International Olympiad", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/664/C", "problem_id": "17351783"}
+{"lang": "Java 8", "title": "664B - Rebus", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17349168"}
+{"lang": "Java 8", "title": "664B - Rebus", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/664/B", "problem_id": "17349045"}
+{"lang": "Java 8", "title": "664A - Complicated GCD", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17345107"}
+{"lang": "Java 8", "title": "664A - Complicated GCD", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/664/A", "problem_id": "17344790"}
+{"lang": "Java 8", "title": "652A - Gabriel and Caterpillar", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/652/A", "problem_id": "17341679"}
+{"lang": "Java 8", "title": "652A - Gabriel and Caterpillar", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/652/A", "problem_id": "17341650"}
+{"lang": "Java 8", "title": "652A - Gabriel and Caterpillar", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/652/A", "problem_id": "17341616"}
+{"lang": "Java 8", "title": "652C - Foe Pairs", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/652/C", "problem_id": "17341423"}
+{"lang": "Java 8", "title": "652B - z-sort", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/652/B", "problem_id": "17340538"}
+{"lang": "Java 8", "title": "652A - Gabriel and Caterpillar", "time": "187ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/652/A", "problem_id": "17340269"}
+{"lang": "Java 8", "title": "652A - Gabriel and Caterpillar", "time": "155ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/652/A", "problem_id": "17340190"}
+{"lang": "Java 8", "title": "660B - Seating On Bus", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/660/B", "problem_id": "17339737"}
+{"lang": "Java 8", "title": "660B - Seating On Bus", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/660/B", "problem_id": "17339505"}
+{"lang": "Java 8", "title": "660A - Co-prime Array", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/660/A", "problem_id": "17337565"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17337050"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "139ms", "verdict": "RUNTIME_ERROR", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17337024"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17336844"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17336817"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17336783"}
+{"lang": "Java 8", "title": "660C - Hard Process", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/660/C", "problem_id": "17336728"}
+{"lang": "Java 8", "title": "660B - Seating On Bus", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/660/B", "problem_id": "17335950"}
+{"lang": "Java 8", "title": "660A - Co-prime Array", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/660/A", "problem_id": "17335820"}
+{"lang": "Java 8", "title": "659F - Polycarp and Hay", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "20400KB", "problem_link": "/problemset/problem/659/F", "problem_id": "17058382"}
+{"lang": "Java 8", "title": "659E - New Reform", "time": "233ms", "verdict": "OK", "memory": "28900KB", "problem_link": "/problemset/problem/659/E", "problem_id": "17054774"}
+{"lang": "Java 8", "title": "659D - Bicycle Race", "time": "140ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/659/D", "problem_id": "17051169"}
+{"lang": "Java 8", "title": "659C - Tanya and Toys", "time": "342ms", "verdict": "OK", "memory": "20800KB", "problem_link": "/problemset/problem/659/C", "problem_id": "17046126"}
+{"lang": "Java 8", "title": "659B - Qualifying Contest", "time": "140ms", "verdict": "OK", "memory": "20100KB", "problem_link": "/problemset/problem/659/B", "problem_id": "17043450"}
+{"lang": "Java 8", "title": "659A - Round House", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "20300KB", "problem_link": "/problemset/problem/659/A", "problem_id": "17038690"}
+{"lang": "Java 8", "title": "658C - Bear and Forgotten Tree 3", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20700KB", "problem_link": "/problemset/problem/658/C", "problem_id": "17009789"}
+{"lang": "Java 8", "title": "658D - Bear and Polynomials", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "20200KB", "problem_link": "/problemset/problem/658/D", "problem_id": "17006848"}
+{"lang": "Java 8", "title": "658C - Bear and Forgotten Tree 3", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/658/C", "problem_id": "17003447"}
+{"lang": "Java 8", "title": "658C - Bear and Forgotten Tree 3", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/658/C", "problem_id": "17002096"}
+{"lang": "Java 8", "title": "658C - Bear and Forgotten Tree 3", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/658/C", "problem_id": "17001942"}
+{"lang": "Java 8", "title": "658C - Bear and Forgotten Tree 3", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "20500KB", "problem_link": "/problemset/problem/658/C", "problem_id": "17000020"}
+{"lang": "Java 8", "title": "658B - Bear and Displayed Friends", "time": "187ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/658/B", "problem_id": "16996947"}
+{"lang": "Java 8", "title": "658B - Bear and Displayed Friends", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "37900KB", "problem_link": "/problemset/problem/658/B", "problem_id": "16994811"}
+{"lang": "Java 8", "title": "658A - Bear and Reverse Radewoosh", "time": "140ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/658/A", "problem_id": "16990988"}
+{"lang": "Java 8", "title": "593B - Anton and Lines", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20000KB", "problem_link": "/problemset/problem/593/B", "problem_id": "16961939"}
+{"lang": "Java 8", "title": "279A - Point on Spiral", "time": "280ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/279/A", "problem_id": "16961119"}
+{"lang": "Java 8", "title": "578A - A Problem about Polyline", "time": "155ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/578/A", "problem_id": "16960180"}
+{"lang": "Java 8", "title": "578A - A Problem about Polyline", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "20300KB", "problem_link": "/problemset/problem/578/A", "problem_id": "16958119"}
+{"lang": "Java 8", "title": "498A - Crazy Town", "time": "187ms", "verdict": "OK", "memory": "21200KB", "problem_link": "/problemset/problem/498/A", "problem_id": "16957335"}
+{"lang": "Java 8", "title": "127A - Wasted Time", "time": "342ms", "verdict": "OK", "memory": "20500KB", "problem_link": "/problemset/problem/127/A", "problem_id": "16957023"}
+{"lang": "Java 8", "title": "157B - Trace", "time": "312ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/157/B", "problem_id": "16956844"}
+{"lang": "Java 8", "title": "6A - Triangle", "time": "218ms", "verdict": "OK", "memory": "25600KB", "problem_link": "/problemset/problem/6/A", "problem_id": "16956647"}
+{"lang": "Java 8", "title": "514B - Han Solo and Lazer Gun", "time": "233ms", "verdict": "OK", "memory": "21300KB", "problem_link": "/problemset/problem/514/B", "problem_id": "16954199"}
+{"lang": "Java 8", "title": "559A - Gerald's Hexagon", "time": "139ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/559/A", "problem_id": "16953840"}
+{"lang": "Java 8", "title": "507B - Amr and Pins", "time": "140ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/507/B", "problem_id": "16953458"}
+{"lang": "Java 8", "title": "560A - Currency System in Geraldion", "time": "155ms", "verdict": "OK", "memory": "20400KB", "problem_link": "/problemset/problem/560/A", "problem_id": "16950976"}
+{"lang": "Java 8", "title": "270A - Fancy Fence", "time": "248ms", "verdict": "OK", "memory": "20300KB", "problem_link": "/problemset/problem/270/A", "problem_id": "16950782"}
+{"lang": "Java 8", "title": "653A - Bear and Three Balls", "time": "140ms", "verdict": "OK", "memory": "21200KB", "problem_link": "/problemset/problem/653/A", "problem_id": "16814428"}
+{"lang": "Java 8", "title": "653C - Bear and Up-Down", "time": "326ms", "verdict": "OK", "memory": "25400KB", "problem_link": "/problemset/problem/653/C", "problem_id": "16813658"}
+{"lang": "Java 8", "title": "653B - Bear and Compressing", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "20100KB", "problem_link": "/problemset/problem/653/B", "problem_id": "16813587"}
+{"lang": "Java 8", "title": "653B - Bear and Compressing", "time": "93ms", "verdict": "WRONG_ANSWER", "memory": "20000KB", "problem_link": "/problemset/problem/653/B", "problem_id": "16813538"}
+{"lang": "Java 8", "title": "653C - Bear and Up-Down", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "20100KB", "problem_link": "/problemset/problem/653/C", "problem_id": "16813344"}
+{"lang": "Java 8", "title": "653B - Bear and Compressing", "time": "124ms", "verdict": "OK", "memory": "20600KB", "problem_link": "/problemset/problem/653/B", "problem_id": "16809488"}
+{"lang": "Java 8", "title": "653A - Bear and Three Balls", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "20400KB", "problem_link": "/problemset/problem/653/A", "problem_id": "16808363"}
+{"lang": "Java 8", "title": "653A - Bear and Three Balls", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "20400KB", "problem_link": "/problemset/problem/653/A", "problem_id": "16807903"}
+{"lang": "Java 8", "title": "546D - Soldier and Number Game", "time": "1325ms", "verdict": "OK", "memory": "90300KB", "problem_link": "/problemset/problem/546/D", "problem_id": "16598263"}
+{"lang": "Java 8", "title": "546D - Soldier and Number Game", "time": "3000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "86500KB", "problem_link": "/problemset/problem/546/D", "problem_id": "16598221"}
+{"lang": "Java 8", "title": "546D - Soldier and Number Game", "time": "452ms", "verdict": "WRONG_ANSWER", "memory": "81700KB", "problem_link": "/problemset/problem/546/D", "problem_id": "16598167"}
+{"lang": "Java 8", "title": "522A - Reposts", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/522/A", "problem_id": "16597621"}
+{"lang": "Java 8", "title": "289B - Polo the Penguin and Matrix", "time": "372ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/289/B", "problem_id": "16592557"}
+{"lang": "Java 8", "title": "289B - Polo the Penguin and Matrix", "time": "904ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/289/B", "problem_id": "16592413"}
+{"lang": "Java 8", "title": "289B - Polo the Penguin and Matrix", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/289/B", "problem_id": "16592389"}
+{"lang": "Java 8", "title": "603A - Alternative Thinking", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/603/A", "problem_id": "16592140"}
+{"lang": "Java 8", "title": "522B - Photo to Remember", "time": "638ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/522/B", "problem_id": "16591802"}
+{"lang": "Java 8", "title": "602B - Approximating a Constant Range", "time": "296ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/602/B", "problem_id": "16562401"}
+{"lang": "Java 8", "title": "553A - Kyoya and Colored Balls", "time": "170ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/553/A", "problem_id": "16555206"}
+{"lang": "Java 8", "title": "467C - George and Job", "time": "249ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/C", "problem_id": "16554758"}
+{"lang": "Java 8", "title": "467C - George and Job", "time": "389ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/C", "problem_id": "16554646"}
+{"lang": "Java 8", "title": "166E - Tetrahedron", "time": "1340ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/E", "problem_id": "16554170"}
+{"lang": "Java 8", "title": "166E - Tetrahedron", "time": "404ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/166/E", "problem_id": "16554114"}
+{"lang": "Java 8", "title": "446A - DZY Loves Sequences", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/446/A", "problem_id": "16551616"}
+{"lang": "Java 8", "title": "446A - DZY Loves Sequences", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/446/A", "problem_id": "16551230"}
+{"lang": "Java 8", "title": "534B - Covered Path", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/534/B", "problem_id": "16524211"}
+{"lang": "Java 8", "title": "459B - Pashmak and Flowers", "time": "468ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/459/B", "problem_id": "16523900"}
+{"lang": "Java 8", "title": "1A - Theatre Square", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/1/A", "problem_id": "16503657"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455280"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "187ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455231"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "217ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455214"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "217ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455192"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "217ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455162"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455155"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "217ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455031"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "202ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16455013"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454966"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454938"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454844"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454798"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "655ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454767"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "732ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454709"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "701ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16454693"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "1294ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16438038"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "100KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437928"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437797"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437741"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437708"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "11600KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437583"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437502"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "100KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437461"}
+{"lang": "Java 8", "title": "433B - Kuriyama Mirai's Stones", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "5800KB", "problem_link": "/problemset/problem/433/B", "problem_id": "16437390"}
+{"lang": "Java 8", "title": "414B - Mashmokh and ACM", "time": "529ms", "verdict": "OK", "memory": "45800KB", "problem_link": "/problemset/problem/414/B", "problem_id": "16432380"}
+{"lang": "Java 8", "title": "431C - k-Tree", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/431/C", "problem_id": "16431710"}
+{"lang": "Java 8", "title": "635B - Island Puzzle", "time": "702ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/635/B", "problem_id": "16410958"}
+{"lang": "Java 8", "title": "635A - Orchestra", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/635/A", "problem_id": "16409208"}
+{"lang": "Java 8", "title": "474D - Flowers", "time": "436ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/D", "problem_id": "16404505"}
+{"lang": "Java 8", "title": "474D - Flowers", "time": "452ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/D", "problem_id": "16404319"}
+{"lang": "Java 8", "title": "474D - Flowers", "time": "156ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/474/D", "problem_id": "16404276"}
+{"lang": "Java 8", "title": "400A - Inna and Choose Options", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/400/A", "problem_id": "16402960"}
+{"lang": "Java 8", "title": "545C - Woodcutters", "time": "436ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/545/C", "problem_id": "16402626"}
+{"lang": "Java 8", "title": "363B - Fence", "time": "311ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/363/B", "problem_id": "16402233"}
+{"lang": "Java 8", "title": "550C - Divisibility by Eight", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/C", "problem_id": "16401864"}
+{"lang": "Java 8", "title": "466C - Number of Ways", "time": "872ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/466/C", "problem_id": "16401358"}
+{"lang": "Java 8", "title": "466C - Number of Ways", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/466/C", "problem_id": "16401240"}
+{"lang": "Java 8", "title": "466C - Number of Ways", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/466/C", "problem_id": "16401012"}
+{"lang": "Java 8", "title": "466C - Number of Ways", "time": "249ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/466/C", "problem_id": "16400961"}
+{"lang": "Java 8", "title": "476B - Dreamoon and WiFi", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/476/B", "problem_id": "16392301"}
+{"lang": "Java 8", "title": "538B - Quasi Binary", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/538/B", "problem_id": "16391660"}
+{"lang": "Java 8", "title": "368B - Sereja and Suffixes", "time": "436ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/368/B", "problem_id": "16391241"}
+{"lang": "Java 8", "title": "368B - Sereja and Suffixes", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/368/B", "problem_id": "16391185"}
+{"lang": "Java 8", "title": "313B - Ilya and Queries", "time": "872ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/313/B", "problem_id": "16389577"}
+{"lang": "Java 8", "title": "550A - Two Substrings", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/550/A", "problem_id": "16388979"}
+{"lang": "Java 8", "title": "489B - BerSU Ball", "time": "170ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/489/B", "problem_id": "16388021"}
+{"lang": "Java 8", "title": "489C - Given Length and Sum of Digits...", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "16387642"}
+{"lang": "Java 8", "title": "489C - Given Length and Sum of Digits...", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "16387609"}
+{"lang": "Java 8", "title": "489C - Given Length and Sum of Digits...", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/489/C", "problem_id": "16387548"}
+{"lang": "Java 8", "title": "189A - Cut Ribbon", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/189/A", "problem_id": "16289021"}
+{"lang": "Java 8", "title": "629B - Far Relative\u2019s Problem", "time": "186ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/629/B", "problem_id": "16237241"}
+{"lang": "Java 8", "title": "629A - Far Relative\u2019s Birthday Cake", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/629/A", "problem_id": "16234531"}
+{"lang": "Java 8", "title": "327A - Flipping Game", "time": "280ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/327/A", "problem_id": "16183475"}
+{"lang": "Java 8", "title": "327A - Flipping Game", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/327/A", "problem_id": "16182595"}
+{"lang": "Java 8", "title": "455A - Boredom", "time": "405ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/455/A", "problem_id": "16150563"}
+{"lang": "Java 8", "title": "580A - Kefa and First Steps", "time": "311ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/580/A", "problem_id": "16143292"}
+{"lang": "Java 8", "title": "580A - Kefa and First Steps", "time": "358ms", "verdict": "OK", "memory": "1300KB", "problem_link": "/problemset/problem/580/A", "problem_id": "16143258"}
+{"lang": "Java 8", "title": "580A - Kefa and First Steps", "time": "327ms", "verdict": "OK", "memory": "2100KB", "problem_link": "/problemset/problem/580/A", "problem_id": "16143221"}
+{"lang": "Java 8", "title": "580A - Kefa and First Steps", "time": "342ms", "verdict": "OK", "memory": "2000KB", "problem_link": "/problemset/problem/580/A", "problem_id": "16143176"}
+{"lang": "Java 8", "title": "337A - Puzzles", "time": "310ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/337/A", "problem_id": "16142864"}
+{"lang": "Java 8", "title": "337A - Puzzles", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/337/A", "problem_id": "16142836"}
+{"lang": "Java 8", "title": "446A - DZY Loves Sequences", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/446/A", "problem_id": "16137663"}
+{"lang": "Java 8", "title": "446A - DZY Loves Sequences", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/446/A", "problem_id": "16137587"}
+{"lang": "Java 8", "title": "520C - DNA Alignment", "time": "156ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/520/C", "problem_id": "16057298"}
+{"lang": "Java 8", "title": "551B - ZgukistringZ", "time": "108ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/551/B", "problem_id": "16056260"}
+{"lang": "Java 8", "title": "551B - ZgukistringZ", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/551/B", "problem_id": "16055921"}
+{"lang": "Java 8", "title": "387B - George and Round", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/387/B", "problem_id": "16042749"}
+{"lang": "Java 8", "title": "116B - Little Pigs and Wolves", "time": "310ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/116/B", "problem_id": "16042612"}
+{"lang": "Java 8", "title": "467B - Fedor and New Game", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/467/B", "problem_id": "16042428"}
+{"lang": "Java 8", "title": "513A - Game", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/513/A", "problem_id": "16042306"}
+{"lang": "Java 8", "title": "443A - Anton and Letters", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/443/A", "problem_id": "16040327"}
+{"lang": "Java 8", "title": "266B - Queue at the School", "time": "248ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/266/B", "problem_id": "16040218"}
+{"lang": "Java 8", "title": "148A - Insomnia cure", "time": "278ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/148/A", "problem_id": "16040150"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/348/A", "problem_id": "16032522"}
+{"lang": "Java 8", "title": "348A - Mafia", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/348/A", "problem_id": "16032394"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16031103"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "373ms", "verdict": "WRONG_ANSWER", "memory": "2000KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16030966"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "327ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16030954"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "405ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16030792"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "358ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16030741"}
+{"lang": "Java 8", "title": "567C - Geometric Progression", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/567/C", "problem_id": "16030405"}
+{"lang": "Java 8", "title": "274A - k-Multiple Free Set", "time": "904ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/274/A", "problem_id": "16023609"}
+{"lang": "Java 8", "title": "274A - k-Multiple Free Set", "time": "872ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/274/A", "problem_id": "16023596"}
+{"lang": "Java 8", "title": "274A - k-Multiple Free Set", "time": "810ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/274/A", "problem_id": "16023531"}
+{"lang": "Java 8", "title": "274A - k-Multiple Free Set", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/274/A", "problem_id": "16023431"}
+{"lang": "Java 8", "title": "538C - Tourist's Notes", "time": "452ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/538/C", "problem_id": "16023094"}
+{"lang": "Java 8", "title": "538C - Tourist's Notes", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/538/C", "problem_id": "16023023"}
+{"lang": "Java 8", "title": "538C - Tourist's Notes", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/538/C", "problem_id": "16022595"}
+{"lang": "Java 8", "title": "604B - More Cowbell", "time": "265ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/604/B", "problem_id": "16021122"}
+{"lang": "Java 8", "title": "166A - Rank List", "time": "278ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "16020479"}
+{"lang": "Java 8", "title": "166A - Rank List", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/166/A", "problem_id": "16020450"}
+{"lang": "Java 8", "title": "279B - Books", "time": "560ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/279/B", "problem_id": "16020095"}
+{"lang": "Java 8", "title": "279B - Books", "time": "248ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/279/B", "problem_id": "16019998"}
+{"lang": "Java 8", "title": "466C - Number of Ways", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/466/C", "problem_id": "16018918"}
+{"lang": "Java 8", "title": "580B - Kefa and Company", "time": "482ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/580/B", "problem_id": "16018355"}
+{"lang": "Java 8", "title": "626C - Block Towers", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/C", "problem_id": "16017545"}
+{"lang": "Java 8", "title": "626C - Block Towers", "time": "1637ms", "verdict": "OK", "memory": "126100KB", "problem_link": "/problemset/problem/626/C", "problem_id": "16006701"}
+{"lang": "Java 8", "title": "626B - Cards", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/B", "problem_id": "16000296"}
+{"lang": "Java 8", "title": "626A - Robot Sequence", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/626/A", "problem_id": "15994554"}
+{"lang": "Java 8", "title": "474B - Worms", "time": "421ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/474/B", "problem_id": "15986563"}
+{"lang": "Java 8", "title": "492B - Vanya and Lanterns", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/492/B", "problem_id": "15986271"}
+{"lang": "Java 8", "title": "593A - 2Char", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "15978960"}
+{"lang": "Java 8", "title": "593A - 2Char", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "15978907"}
+{"lang": "Java 8", "title": "595A - Vitaly and Night", "time": "202ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "15978657"}
+{"lang": "Java 8", "title": "596A - Wilbur and Swimming Pool", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "15978509"}
+{"lang": "Java 8", "title": "597A - Divisibility", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15970853"}
+{"lang": "Java 8", "title": "597A - Divisibility", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15970492"}
+{"lang": "Java 8", "title": "597A - Divisibility", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15970302"}
+{"lang": "Java 8", "title": "597A - Divisibility", "time": "155ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15969025"}
+{"lang": "Java 8", "title": "597A - Divisibility", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/597/A", "problem_id": "15968986"}
+{"lang": "Java 8", "title": "598A - Tricky Sum", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/598/A", "problem_id": "15968742"}
+{"lang": "Java 8", "title": "599A - Patrick and Shopping", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "15948561"}
+{"lang": "Java 8", "title": "599A - Patrick and Shopping", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "15948497"}
+{"lang": "Java 8", "title": "599A - Patrick and Shopping", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/599/A", "problem_id": "15948484"}
+{"lang": "Java 8", "title": "600A - Extract Numbers", "time": "170ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/600/A", "problem_id": "15948348"}
+{"lang": "Java 8", "title": "602A - Two Bases", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/602/A", "problem_id": "15948122"}
+{"lang": "Java 8", "title": "602A - Two Bases", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/602/A", "problem_id": "15948081"}
+{"lang": "Java 8", "title": "604A - Uncowed Forces", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/604/A", "problem_id": "15947913"}
+{"lang": "Java 8", "title": "606A - Magic Spheres", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/606/A", "problem_id": "15922189"}
+{"lang": "Java 8", "title": "606A - Magic Spheres", "time": "139ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/606/A", "problem_id": "15922154"}
+{"lang": "Java 8", "title": "606A - Magic Spheres", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/606/A", "problem_id": "15922145"}
+{"lang": "Java 8", "title": "607A - Chain Reaction", "time": "499ms", "verdict": "OK", "memory": "13300KB", "problem_link": "/problemset/problem/607/A", "problem_id": "15921508"}
+{"lang": "Java 8", "title": "608A - Saitama Destroys Hotel", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/608/A", "problem_id": "15921191"}
+{"lang": "Java 8", "title": "609A - USB Flash Drives", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/609/A", "problem_id": "15921085"}
+{"lang": "Java 8", "title": "610A - Pasha and Stick", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/610/A", "problem_id": "15920968"}
+{"lang": "Java 8", "title": "610A - Pasha and Stick", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/610/A", "problem_id": "15920918"}
+{"lang": "Java 8", "title": "611A - New Year and Days", "time": "187ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/611/A", "problem_id": "15907995"}
+{"lang": "Java 8", "title": "611A - New Year and Days", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/611/A", "problem_id": "15907664"}
+{"lang": "Java 8", "title": "611A - New Year and Days", "time": "140ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/611/A", "problem_id": "15907463"}
+{"lang": "Java 8", "title": "612A - The Text Splitting", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/612/A", "problem_id": "15903959"}
+{"lang": "Java 8", "title": "613A - Peter and Snow Blower", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/613/A", "problem_id": "15903577"}
+{"lang": "Java 8", "title": "614A - Link/Cut Tree", "time": "171ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903464"}
+{"lang": "Java 8", "title": "614A - Link/Cut Tree", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903357"}
+{"lang": "Java 8", "title": "614A - Link/Cut Tree", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903296"}
+{"lang": "Java 7", "title": "614A - Link/Cut Tree", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903243"}
+{"lang": "Java 7", "title": "614A - Link/Cut Tree", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903176"}
+{"lang": "Java 7", "title": "614A - Link/Cut Tree", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903133"}
+{"lang": "Java 7", "title": "614A - Link/Cut Tree", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/614/A", "problem_id": "15903115"}
+{"lang": "Java 7", "title": "615A - Bulbs", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/615/A", "problem_id": "15888229"}
+{"lang": "Java 7", "title": "616A - Comparing Two Long Integers", "time": "342ms", "verdict": "OK", "memory": "1600KB", "problem_link": "/problemset/problem/616/A", "problem_id": "15888164"}
+{"lang": "Java 7", "title": "617A - Elephant", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/617/A", "problem_id": "15888018"}
+{"lang": "Java 7", "title": "618A - Slime Combining", "time": "139ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/618/A", "problem_id": "15887953"}
+{"lang": "Java 7", "title": "620A - Professor GukiZ's Robot", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/620/A", "problem_id": "15887781"}
+{"lang": "Java 7", "title": "621A - Wet Shark and Odd and Even", "time": "326ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/621/A", "problem_id": "15887650"}
+{"lang": "Java 7", "title": "624A - Save Luke", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/624/A", "problem_id": "15886754"}
+{"lang": "Java 7", "title": "625A - Guest From the Past", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "15886621"}
+{"lang": "Java 7", "title": "625C - K-special Tables", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/625/C", "problem_id": "15864717"}
+{"lang": "Java 7", "title": "625A - Guest From the Past", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/625/A", "problem_id": "15855293"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14295283"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14295159"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "265ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14293582"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "670ms", "verdict": "WRONG_ANSWER", "memory": "141300KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14293488"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "264ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14290559"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "186200KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14290480"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "748ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14290383"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "748ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14290186"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "186200KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14289991"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "1013ms", "verdict": "MEMORY_LIMIT_EXCEEDED", "memory": "262100KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14289927"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "202600KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14289756"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "2000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14289385"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14286806"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14286277"}
+{"lang": "Java 7", "title": "596D - Wilbur and Trees", "time": "124ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/596/D", "problem_id": "14285435"}
+{"lang": "Java 7", "title": "596B - Wilbur and Array", "time": "467ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/B", "problem_id": "14276942"}
+{"lang": "Java 7", "title": "596A - Wilbur and Swimming Pool", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/596/A", "problem_id": "14273413"}
+{"lang": "Java 7", "title": "595B - Pasha and Phone", "time": "343ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14155874"}
+{"lang": "Java 7", "title": "595B - Pasha and Phone", "time": "109ms", "verdict": "WRONG_ANSWER", "memory": "0KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14154337"}
+{"lang": "Java 7", "title": "595B - Pasha and Phone", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14151268"}
+{"lang": "Java 7", "title": "595B - Pasha and Phone", "time": "1000ms", "verdict": "TIME_LIMIT_EXCEEDED", "memory": "0KB", "problem_link": "/problemset/problem/595/B", "problem_id": "14150107"}
+{"lang": "Java 7", "title": "595A - Vitaly and Night", "time": "140ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/595/A", "problem_id": "14146209"}
+{"lang": "Java 7", "title": "593A - 2Char", "time": "109ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "14138786"}
+{"lang": "Java 7", "title": "593A - 2Char", "time": "124ms", "verdict": "OK", "memory": "0KB", "problem_link": "/problemset/problem/593/A", "problem_id": "14138738"}

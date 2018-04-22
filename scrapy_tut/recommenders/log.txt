@@ -1,0 +1,67 @@
+2018-04-22 21:21:01,878: INFO:  New session started. Ya saaaater!
+2018-04-22 21:21:02,285: INFO:  Started computing similarity matrix
+2018-04-22 21:21:05,220: INFO:  finished computing similarity matrix
+2018-04-22 21:21:24,351: INFO:  New session started. Ya saaaater!
+2018-04-22 21:21:24,657: INFO:  Started computing similarity matrix
+2018-04-22 21:21:28,683: INFO:  finished computing similarity matrix
+2018-04-22 21:21:28,684: INFO:  Started saving similarity matrix
+2018-04-22 21:23:37,252: INFO:  New session started. Ya saaaater!
+2018-04-22 21:23:37,500: INFO:  Started computing similarity matrix
+2018-04-22 21:23:39,551: INFO:  finished computing similarity matrix
+2018-04-22 21:23:39,552: INFO:  Started saving similarity matrix
+2018-04-22 21:24:07,378: INFO:  New session started. Ya saaaater!
+2018-04-22 21:24:07,724: INFO:  Started computing similarity matrix
+2018-04-22 21:24:09,256: INFO:  finished computing similarity matrix
+2018-04-22 21:24:09,257: INFO:  Started saving similarity matrix
+2018-04-22 21:25:11,220: INFO:  New session started. Ya saaaater!
+2018-04-22 21:25:11,555: INFO:  Started computing similarity matrix
+2018-04-22 21:25:13,642: INFO:  finished computing similarity matrix
+2018-04-22 21:25:13,644: INFO:  Started saving similarity matrix
+2018-04-22 21:28:08,826: INFO:  New session started. Ya saaaater!
+2018-04-22 21:28:09,084: INFO:  Started computing similarity matrix
+2018-04-22 21:28:10,724: INFO:  finished computing similarity matrix
+2018-04-22 21:28:10,726: INFO:  Started saving similarity matrix
+2018-04-22 21:28:27,211: INFO:  New session started. Ya saaaater!
+2018-04-22 21:28:27,687: INFO:  Started computing similarity matrix
+2018-04-22 21:28:29,681: INFO:  finished computing similarity matrix
+2018-04-22 21:28:29,681: INFO:  Started saving similarity matrix
+2018-04-22 21:29:06,203: INFO:  New session started. Ya saaaater!
+2018-04-22 21:29:06,677: INFO:  Started computing similarity matrix
+2018-04-22 21:29:09,039: INFO:  finished computing similarity matrix
+2018-04-22 21:29:09,040: INFO:  Started saving similarity matrix
+2018-04-22 21:29:45,767: INFO:  New session started. Ya saaaater!
+2018-04-22 21:29:46,138: INFO:  Started computing similarity matrix
+2018-04-22 21:29:48,003: INFO:  finished computing similarity matrix
+2018-04-22 21:29:48,003: INFO:  Started saving similarity matrix
+2018-04-22 21:30:02,325: INFO:  New session started. Ya saaaater!
+2018-04-22 21:30:02,871: INFO:  Started computing similarity matrix
+2018-04-22 21:30:05,142: INFO:  finished computing similarity matrix
+2018-04-22 21:30:05,144: INFO:  Started saving similarity matrix
+2018-04-22 21:31:52,381: INFO:  New session started. Ya saaaater!
+2018-04-22 21:31:52,680: INFO:  Started computing similarity matrix
+2018-04-22 21:31:54,723: INFO:  finished computing similarity matrix
+2018-04-22 21:31:54,724: INFO:  Started saving similarity matrix
+2018-04-22 21:32:27,865: INFO:  New session started. Ya saaaater!
+2018-04-22 21:32:28,115: INFO:  Started computing similarity matrix
+2018-04-22 21:32:29,716: INFO:  finished computing similarity matrix
+2018-04-22 21:32:29,716: INFO:  Started saving similarity matrix
+2018-04-22 21:34:17,061: INFO:  New session started. Ya saaaater!
+2018-04-22 21:34:17,341: INFO:  Started computing similarity matrix
+2018-04-22 21:34:19,280: INFO:  finished computing similarity matrix
+2018-04-22 21:34:19,282: INFO:  Started saving similarity matrix
+2018-04-22 21:34:37,786: INFO:  New session started. Ya saaaater!
+2018-04-22 21:34:38,078: INFO:  Started computing similarity matrix
+2018-04-22 21:34:39,816: INFO:  finished computing similarity matrix
+2018-04-22 21:34:39,818: INFO:  Started saving similarity matrix
+2018-04-22 21:34:42,908: INFO:  Finished saving similarity matrix
+2018-04-22 21:34:42,910: INFO:  Started generating recommendations for all
+2018-04-22 21:34:43,132: INFO:  finished geenrating predictions for all
+2018-04-22 22:05:56,644: INFO:  New session started. Ya saaaater!
+2018-04-22 22:05:56,865: INFO:  Started saving user submissions
+2018-04-22 22:06:24,236: INFO:  Finished saving user submissions
+2018-04-22 22:06:24,237: INFO:  Started computing similarity matrix
+2018-04-22 22:06:25,776: INFO:  finished computing similarity matrix
+2018-04-22 22:06:25,778: INFO:  Started saving similarity matrix
+2018-04-22 22:06:26,825: INFO:  Finished saving similarity matrix
+2018-04-22 22:06:26,825: INFO:  Started generating recommendations for all
+2018-04-22 22:06:26,940: INFO:  finished geenrating predictions for all

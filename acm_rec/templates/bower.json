@@ -1,0 +1,21 @@
+{
+  "name": "Commnuity",
+  "version": "1.0.0",
+  "dependencies": {
+    "qrcode": "^1.0.2"
+  },
+  "main": "script.js",
+  "homepage": "https://github.com/mohabamroo/community",
+  "authors": [
+    "MOHAB <mohabamr1@gmail.com>"
+  ],
+  "description": "Platform for clubs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
