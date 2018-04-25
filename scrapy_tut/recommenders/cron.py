@@ -1,7 +1,11 @@
 from crontab import CronTab
-
-cron = CronTab(tab="""* * * * * command""")  
-job = cron.new(command='python cfuu.py')  
-job.minute.every(.1)
-
+# cron = CronTab('root')
+cron = CronTab(tab="""
+  * * * * * command
+""")
+job = cron.new(command='python test.py')  
+job.minute.every(1)
+job.enable()
+print job.is_valid()
+print job.is_enabled()
 cron.write()  

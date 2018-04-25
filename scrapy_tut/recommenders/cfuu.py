@@ -95,7 +95,7 @@ def save_submissions():
         if pre_user == None:
             submissions_collection.insert(entry, check_keys=False)
         else:
-            submissions_collection.predictions_collection({'user': user}, entry, check_keys=False)
+            submissions_collection.update({'user': user}, entry, check_keys=False)
     logging.info('Finished saving user submissions')
 
 def process_user(username):

@@ -36,7 +36,7 @@ router.register(r'groups', GroupViewSet)
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs for the browsable API.
 urlpatterns = [
-    url(r'^', include('recommender.urls')),
+    url(r'^$', include('recommender.urls')),
     url(r'^api/echo/$', views.EchoView.as_view()),
     url(r'^api/users/register/$', views.UserRegister.as_view(), name="user-register"),
     url(r'^api/users/profile/$', views.UserProfile.as_view(), name="user-profile"),

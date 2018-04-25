@@ -20,7 +20,7 @@ import json
 class MongoEncoder(JSONEncoder):
     def default(self, obj, **kwargs):
         if isinstance(obj, ObjectId):
-            return json.loads(str(obj))
+            return str(obj)
         else:            
             return JSONEncoder.default(obj, **kwargs)
 
@@ -72,14 +72,16 @@ def connect_to_mongo():
 
 @api_view(['GET'])
 def recommendations(request):
-    # FIXME: hard-coded username
-        instance = Profile.objects.get(user=request.user)
-        profile = ProfileSerializer(instance, context={'request': request}).data
-        db = connect_to_mongo()
-        recommendations = db['predictions'].find_one({'user': 'chaitan94'})
-        recommendations = MongoEncoder().encode(recommendations)
-        return Response({"message": "Got some data!", "data": request.data, 'profile': profile, 'rec': recommendations})
+    instance = Profile.objects.get(user=request.user)
+    profile = ProfileSerializer(instance, context={'request': request}).data
+    db = connect_to_mongo()
+    recommendations = db['predictions'].find_one({'user': 'chaitan94'})
+    recommendations = MongoEncoder().encode(recommendations)
+    recommendations = json.loads(recommendations)
+    return Response({"message": "Got some data!", "data": request.data, 'profile': profile, 'rec': recommendations})
 
+def index(request):
+    return render(request, 'index.html', context=None)
 class GroupViewSet(viewsets.ModelViewSet):
     """
     API endpoint that allows groups to be viewed or edited.
