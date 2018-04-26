@@ -9,8 +9,7 @@ angular.module('bachelor')
                 getUserStatus: getUserStatus,
                 login: login,
                 logout: logout,
-                register: register,
-                getUser: getUser
+                register: register
             });
 
             function isLoggedIn() {
@@ -35,20 +34,6 @@ angular.module('bachelor')
                     });
             }
 
-            function getUser() {
-                var deferred = $q.defer();
-                if (AuthToken.getToken()) {
-                    $http.post(backendUrl + '/api/user/currentUser').success(function(data) {
-                        deferred.resolve(data.user);
-                    }).error(function(data) {
-                        $q.reject({ msg: "User has no token." });
-                    });
-                } else {
-                    $q.reject({ msg: "User has no token." });
-                }
-                return deferred.promise;
-            }
-
             function login(user_credentials) {
                 var url = backendUrl + '/api/auth/token/obtain/';
                 // create a new instance of deferred
@@ -70,20 +55,16 @@ angular.module('bachelor')
             }
 
             function logout() {
-
                 var deferred = $q.defer();
-
                 AuthToken.setToken();
+                AuthToken.setRefreshToken();
+                AuthToken.setUsername();
                 isLoggedIn();
                 deferred.resolve();
-
-
                 return deferred.promise;
-
             }
 
             function register(user_data) {
-
                 var url = backendUrl + '/api/users/register/';
                 // create a new instance of deferred
                 var deferred = $q.defer();
@@ -113,6 +94,12 @@ angular.module('bachelor')
         else
             $window.localStorage.removeItem('access_token');
     }
+    authTokenFactroy.setUsername = function(username) {
+        if (username)
+            $window.localStorage.setItem('bachelor_username', username);
+        else
+            $window.localStorage.removeItem('bachelor_username');
+    }
 
     authTokenFactroy.setRefreshToken = function(token) {
         if (token)
@@ -121,12 +108,15 @@ angular.module('bachelor')
             $window.localStorage.removeItem('refresh_token');
     }
 
-    authTokenFactroy.getToken = function(token) {
-        return $window.localStorage.getItem('access_token', token);
+    authTokenFactroy.getToken = function() {
+        return $window.localStorage.getItem('access_token');
+    }
+    authTokenFactroy.getUsername = function() {
+        return $window.localStorage.getItem('bachelor_username');
     }
 
-    authTokenFactroy.getRefreshToken = function(token) {
-        return $window.localStorage.getItem('refresh_token', token);
+    authTokenFactroy.getRefreshToken = function() {
+        return $window.localStorage.getItem('refresh_token');
     }
     return authTokenFactroy;
 })
@@ -137,11 +127,10 @@ angular.module('bachelor')
     authInterceptorsFactory.request = function(config) {
         var token = AuthToken.getToken();
         if (token) {
-            config.headers['x-access-token'] = token;
+            config.headers['Authorization'] = "Bearer " + token;
         }
         return config;
     }
-
     return authInterceptorsFactory;
 })
 

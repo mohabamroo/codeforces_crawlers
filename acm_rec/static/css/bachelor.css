@@ -65,3 +65,9 @@ a:hover {
 .recommendationBtn {
     max-width: 400px;
 }
+
+.highlighted {
+    font-weight: bold;
+    color: azure !important;
+    text-decoration: underline;
+}

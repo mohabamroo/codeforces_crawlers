@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 from rest_framework import routers
-from recommender.views import UserViewSet, GroupViewSet
+from users.views import UserViewSet, GroupViewSet
 from django.views import generic
 from rest_framework.schemas import get_schema_view
 from rest_framework_simplejwt.views import (
@@ -36,13 +36,13 @@ router.register(r'groups', GroupViewSet)
 # Wire up our API using automatic URL routing.
 # Additionally, we include login URLs for the browsable API.
 urlpatterns = [
+    url(r'^recommender/', include('recommender.urls')),
+    url(r'^api/users/', include('users.urls')),
     url(r'^$', include('recommender.urls')),
-    url(r'^api/echo/$', views.EchoView.as_view()),
-    url(r'^api/users/register/$', views.UserRegister.as_view(), name="user-register"),
-    url(r'^api/users/profile/$', views.UserProfile.as_view(), name="user-profile"),
-    url(r'^api/users/recommendations/$', views.recommendations, name="user-recommendations"),
-	url(r'^$', generic.RedirectView.as_view(
-         url='/api/', permanent=False)),
+    url(r'^api/users/recommendations/$',
+        views.recommendations, name="user-recommendations"),
+    url(r'^$', generic.RedirectView.as_view(
+        url='/api/', permanent=False)),
     url(r'^api/$', get_schema_view()),
     url(r'^api/auth/', include(
         'rest_framework.urls', namespace='rest_framework')),
@@ -56,5 +56,3 @@ urlpatterns = [
 ]
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
-
-

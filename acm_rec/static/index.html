@@ -14,7 +14,9 @@
     <script src="/static/script.js"></script>
     <script src="/static/controllers/mainController.js "></script>
     <script src="/static/controllers/UserController.js "></script>
-    <script src="/static/services.js "></script>
+    <script src="/static/controllers/RecommenderController.js "></script>
+    <script src="/static/services/general.js "></script>
+    <script src="/static/services/users.js "></script>
     <script src="/static/directives/fileModel.js "></script>
     <link href="/static/css/lumen.css " rel="stylesheet ">
     <link href="/static/css/bachelor.css " rel="stylesheet ">
@@ -34,11 +36,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/#/recommendations">Recommendations</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Profile</a>
-                </li>
-
-
+                </li> -->
             </ul>
 
             <ul class="navbar-nav" ng-show="!userStatus">
@@ -46,13 +46,13 @@
                     <a class="nav-link" href="/#/signin">Sign IN</a>
                 </li>
                 <li class="nav-item">
-                    <a class="btn btn-primary" href="#/signup">Sign UP</a>
+                    <a class="nav-link highlighted" href="/#/signup">Sign UP!</a>
                 </li>
             </ul>
 
             <ul class="navbar-nav" ng-show="userStatus">
                 <li class="nav-item">
-                    <a class="nav-link" href="/#/recommendations">username</a>
+                    <a class="nav-link" href="/#/me/">{{current_username}}</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link underline" href="" ng-click="logout()">Logout</a>

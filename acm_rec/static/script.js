@@ -13,12 +13,18 @@ angular.module('users', [], ['$routeProvider', function($routeProvider) {
             controller: 'mainController',
             access: { restricted: false }
         })
+        .when('/me', {
+            templateUrl: 'static/views/profile.html',
+            controller: 'UserController',
+            access: { restricted: true }
+        })
 }]);
+
 angular.module('recommendations', [], ['$routeProvider', function($routeProvider) {
     $routeProvider
         .when('/recommendations', {
             templateUrl: 'static/views/recommendations.html',
-            controller: 'UserController',
+            controller: 'RecommenderController',
             access: { restricted: true }
         })
 }]);
@@ -43,14 +49,14 @@ app.config(['$routeProvider', '$locationProvider', '$httpProvider', function($ro
 }]);
 
 
-app.run(function($rootScope, $location, $route, $window, AuthService) {
+app.run(function($rootScope, $location, $route, $window, AuthService, UserService, AuthToken) {
     $rootScope.$watch(AuthService.isLoggedIn(), function() {
         $rootScope.userStatus = AuthService.isLoggedIn();
-        AuthService.getUser().then(function(currentUser) {
-            $rootScope.currentUser = currentUser;
-        });
-    });
 
+    });
+    if (AuthService.isLoggedIn()) {
+        $rootScope.current_username = AuthToken.getUsername();
+    }
     $rootScope.$on('$routeChangeStart',
         function(event, next, current) {
             if (next && next.access && next.access.restricted && !AuthService.isLoggedIn()) {

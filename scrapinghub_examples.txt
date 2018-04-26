@@ -1,0 +1,1 @@
+curl -u 32f54a1220b84bbab635e6274271215a: https://app.scrapinghub.com/api/run.json -d project=306033 -d spider=codeforces

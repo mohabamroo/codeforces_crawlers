@@ -1,6 +1,6 @@
-angular.module('bachelor').controller('mainController', ['$scope', '$location', 'AuthService',
+angular.module('bachelor').controller('mainController', ['$scope', '$location', 'AuthService', 'UserService',
     '$rootScope', '$timeout', '$window', '$http', '$routeParams',
-    function($scope, $location, AuthService, $rootScope, $timeout, $window, $http, $routeParams) {
+    function($scope, $location, AuthService, UserService, $rootScope, $timeout, $window, $http, $routeParams) {
 
         $rootScope.toggleNavBar = function() {
             jQuery("#navbarColor01").slideToggle();
@@ -43,6 +43,7 @@ angular.module('bachelor').controller('mainController', ['$scope', '$location', 
                 AuthService.login($scope.user)
                     .then(function() {
                         $rootScope.stopLoading();
+                        UserService.getUser();
                         $window.location.assign('/#/recommendations');
                         $rootScope.userStatus = AuthService.isLoggedIn();
                     }).catch(function(err) {
