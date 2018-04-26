@@ -6,6 +6,7 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 import json
+from pymongo import MongoClient
 
 
 class ScrapyTutPipeline(object):
@@ -13,6 +14,42 @@ class ScrapyTutPipeline(object):
         print "outer spider"
         return item
 
+class MongoSubmissionsPipeline(object):
+    # saves submissions per user in Mongo DB
+
+    def open_spider(self, spider):
+        # initialize Database connection
+        print "Opened spider: " + spider.name
+        uri = 'mongodb://mohabamroo:ghostrider1@ds241699.mlab.com:41699/bachelor';
+        client = MongoClient(uri,
+            connectTimeoutMS=30000,
+            socketTimeoutMS=None,
+            socketKeepAlive=True)
+        self.db = client.get_database()
+        self.problems = []
+        print "Connected to Mongo DB"
+
+    def close_spider(self, spider):
+        # saves the user crawled
+        submissions_collection = self.db['all_submissions']
+        pre_user = submissions_collection.find_one({'user': spider.username})
+        entry = {'user': spider.username, 'problems': self.problems}
+        if pre_user == None:
+            submissions_collection.insert(entry, check_keys=False)
+        else:
+            submissions_collection.update({'user': spider.username}, entry, check_keys=False)
+        print "Saved user in Mongo DB"
+        # self.db.close()
+
+    def process_item(self, item, spider):
+        try:
+            link_splitted = item['problem_link'].split('/')
+            problem_id = link_splitted[2] + '' + link_splitted[4]
+            self.problems.append(item)
+        except:
+            # ignore problem because of ill formated ID or it's a GYM problem
+            zazo = ''
+        return item
 
 class JsonWriterPipeline(object):
 

@@ -1,5 +1,5 @@
 import scrapy
-from items import Problem
+from scrapy_tut.items import Problem
 
 class ProblemSpider(scrapy.Spider):
     name = "problems"

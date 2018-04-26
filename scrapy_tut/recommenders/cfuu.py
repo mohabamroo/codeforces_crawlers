@@ -1,16 +1,13 @@
 from __future__ import division
-import json
-import os
 import pandas as pd
 import numpy as np
 from scipy import sparse
 from sklearn.metrics.pairwise import cosine_similarity
-import math
 from pymongo import MongoClient
-import datetime
-import logging
+import datetime, logging, sys, math, os, json
+
 logging.basicConfig(level=logging.INFO, filename="log.txt",
-format="%(asctime)s: %(levelname)s:  %(message)s")
+                    format="%(asctime)s: %(levelname)s:  %(message)s")
 console = logging.StreamHandler()
 console.setLevel(logging.INFO)
 # set a format which is simpler for console use
@@ -30,6 +27,7 @@ all_problems = {}
 # Mongo database instance
 db = None
 
+
 def init_db():
     try:
         global db
@@ -39,20 +37,23 @@ def init_db():
             init_connection()
     except UnboundLocalError:
         init_connection()
+
+
 def init_connection():
     print "error"
     # in mongo DB
-    uri = 'mongodb://mohabamroo:ghostrider1@ds241699.mlab.com:41699/bachelor';
+    uri = 'mongodb://mohabamroo:ghostrider1@ds241699.mlab.com:41699/bachelor'
     # client = MongoClient(uri)
     client = MongoClient(uri,
-        connectTimeoutMS=30000,
-        socketTimeoutMS=None,
-        socketKeepAlive=True)
+                         connectTimeoutMS=30000,
+                         socketTimeoutMS=None,
+                         socketKeepAlive=True)
     global db
     db = client.get_database()
     print db
     print "connected to MongoDB"
-   
+
+
 def get_verdict(verdict):
     if(verdict == "OK"):
         return {"key": "OK", "score": 2}
@@ -71,19 +72,23 @@ def get_verdict(verdict):
         'PRESENTATION_ERROR': {"key": "P", "score": 2}
     }[verdict]
 
+
 def get_level_from_score(score):
     # rounding to nearst level
     return chr(int(round(score)) + 64)
 
+
 def level_score(level):
     # ASCII of A is 65
     return ord(level) - 64
+
 
 def load_all_problems():
     file = open('../JSON/problems.json', 'r')
     for problem_line in list(file):
         problem = json.loads(problem_line)
         all_problems[problem['id']] = problem
+
 
 def save_submissions():
     init_db()
@@ -95,14 +100,25 @@ def save_submissions():
         if pre_user == None:
             submissions_collection.insert(entry, check_keys=False)
         else:
-            submissions_collection.update({'user': user}, entry, check_keys=False)
+            submissions_collection.update(
+                {'user': user}, entry, check_keys=False)
     logging.info('Finished saving user submissions')
 
-def process_user(username):
+
+def process_user(username, mongo_user = None):
+    # handles proccssing users from eithr JSON files or Mongo DB
+    # aggregates a final verdict for each problem
     users[username]['problems'] = {}
-    file = open(submissions_directory + username + '.json', 'r')
-    for submission_line in list(file):
-        submission = json.loads(submission_line)
+    if mongo_user != None:  
+        submissions_list = mongo_user['problems']
+    else:
+        file = open(submissions_directory + username + '.json', 'r')
+        submissions_list = list(file)
+    for submission_line in submissions_list:
+        if mongo_user != None:
+            submission = submission_line
+        else:
+            submission = json.loads(submission_line)
         problem_id = submission['title'].split('-')[0].strip()
         verdict_object = get_verdict(submission['verdict'])
         score = verdict_object['score']
@@ -115,12 +131,12 @@ def process_user(username):
             }
         else:
             users[username]['problems'][problem_id]['count'] += 1
-            users[username]['problems'][problem_id][verdict_object['key']
-                                                    ] = users[username]['problems'][problem_id].get(verdict_object['key'], 0) + 1
+            users[username]['problems'][problem_id][verdict_object['key']] = users[username]['problems'][problem_id].get(verdict_object['key'], 0) + 1
             users[username]['problems'][problem_id]['score'] += score
 
 
 def process_files():
+    # fetches users and their submissions from the saved JSON files
     count = 0
     for filename in os.listdir(submissions_directory):
         if filename.endswith(".json"):
@@ -131,6 +147,14 @@ def process_files():
             process_user(username)
     # print users['00QRITEL00']['problems']['798B']
 
+def fetch_users_from_DB(limit = 100):
+    # fetches users and their submissions from Mongo DB
+    # similar to process files
+    init_db()
+    users_submissions = db['all_submissions'].find(limit = limit)
+    for user in users_submissions:
+        users[user['user']] = {}
+        process_user(user['user'], user)
 
 # inverse relation between problems and users
 def init_item_matrix():
@@ -194,6 +218,7 @@ def user_user_sim(user, other_user):
 
 
 def compute_user_sim():
+    # computes similarities between all users
     logging.info('Started computing similarity matrix')
     for user in users:
         similarity[user] = {}
@@ -202,8 +227,8 @@ def compute_user_sim():
     logging.info('finished computing similarity matrix')
     logging.info('Started saving similarity matrix')
     init_db()
-    print db
-    new_matrix = {'created': datetime.datetime.utcnow(), 'matrix': similarity, 'users_length': len(users)}
+    new_matrix = {'created': datetime.datetime.utcnow(
+    ), 'matrix': similarity, 'users_length': len(users)}
     db['similarity_matrix'].insert(new_matrix, check_keys=False)
     logging.info('Finished saving similarity matrix')
 
@@ -287,7 +312,8 @@ def get_set_stat(problem_set):
     over_all_level = 0
     for level in pred_set_stats['level']:
         if level != None:
-            over_all_level = over_all_level + level_score(level) * pred_set_stats['level'][level]
+            over_all_level = over_all_level + \
+                level_score(level) * pred_set_stats['level'][level]
     pred_set_stats['overall_level_num'] = over_all_level
     pred_set_stats['overall_level'] = get_level_from_score(over_all_level)
     return pred_set_stats
@@ -304,25 +330,21 @@ def compute_diff(user):
     print "solved stat: ", stat_2
 
 
-def init_stuff():
-    print "Initializing..."
-    process_files()
-    load_all_problems()
-    init_item_matrix()
-
 def save_recommendations():
     file = open('../JSON/resommendations.json', 'w')
     for user in predictions:
         line_dict = {"user": user, 'problems': predictions[user]}
-        line=json.dumps(dict(line_dict)) + "\n"
+        line = json.dumps(dict(line_dict)) + "\n"
         file.write(line)
     file.close()
+
 
 def save_in_DB():
     init_db()
     # collection saves BULK recommendation
     recommendations = db['recommendations']
-    new_recommendation = {'created': datetime.datetime.utcnow(), 'predections': predictions}
+    new_recommendation = {
+        'created': datetime.datetime.utcnow(), 'predections': predictions}
     insert_res = recommendations.insert(new_recommendation, check_keys=False)
     # rec_set_db = recommendations.find_one({"_id": rec_set_id})
 
@@ -335,14 +357,18 @@ def save_in_DB():
             predictions_collection.insert(line_dict, check_keys=False)
         else:
             # update
-            predictions_collection.predictions_collection({'user': user}, line_dict, check_keys=False)
+            predictions_collection.predictions_collection(
+                {'user': user}, line_dict, check_keys=False)
     print "saved all predictions per user"
 
-def filter_path(user, limit = 10, path = 'vertical'):
+
+def filter_path(user, limit=10, path='vertical'):
     analysis = {}
-    analysis['predicted_ids'] = predicted_ids = [problem['problem'] for problem in predictions[user]]
+    analysis['predicted_ids'] = predicted_ids = [problem['problem']
+                                                 for problem in predictions[user]]
     analysis['predicted_stats'] = get_set_stat(predicted_ids)
-    analysis['solved_ids'] = solved_ids = [problem for problem in users[user]['problems']]
+    analysis['solved_ids'] = solved_ids = [
+        problem for problem in users[user]['problems']]
     analysis['solved_stats'] = get_set_stat(solved_ids)
     if path == 'vertical':
         recommended_set = get_higher_level_set(user, analysis, limit)
@@ -351,15 +377,16 @@ def filter_path(user, limit = 10, path = 'vertical'):
     elif path == 'both':
         recommended_set = get_higher_level_set(user, analysis, limit)
     return recommended_set
-    
-def get_higher_level_set(user, analysis, limit = 10):
-    
+
+
+def get_higher_level_set(user, analysis, limit=10):
+
     predicted_ids = analysis['predicted_ids']
     predicted_stats = analysis['predicted_stats']
     solved_ids = analysis['solved_ids']
     solved_stats = analysis['solved_stats']
     next_level = solved_stats['overall_level']
-    logging.info("limit: " , limit)
+    logging.info("limit: ", limit)
     filtered_set = []
     while len(filtered_set) < limit:
         next_level = get_level_from_score(level_score(next_level) + 1)
@@ -373,6 +400,7 @@ def get_higher_level_set(user, analysis, limit = 10):
                 filtered_set.append(problem_id)
     return filtered_set
 
+
 def get_tags_for_level(solved_ids, level):
     tags = []
     for problem_id in solved_ids:
@@ -384,8 +412,9 @@ def get_tags_for_level(solved_ids, level):
             tags = tags + list(tags_diff)
     return tags
 
-def get_same_level_set(user, analysis, limit = 10):
-    
+
+def get_same_level_set(user, analysis, limit=10):
+
     predicted_ids = analysis['predicted_ids']
     predicted_stats = analysis['predicted_stats']
     solved_ids = analysis['solved_ids']
@@ -405,13 +434,21 @@ def get_same_level_set(user, analysis, limit = 10):
                     filtered_set.append(problem_id)
         next_level = get_level_from_score(level_score(next_level) + 1)
     return filtered_set
-    
+
+
+def init_stuff(mongo_option = 1):
+    print "Initializing..."
+    if mongo_option == 1:
+        fetch_users_from_DB()
+    else:
+        process_files()
+    load_all_problems()
+    init_item_matrix()
 
 if __name__ == "__main__":
     target_user = "Coutzzz"
     logging.info("New session started. Ya saaaater!")
-
-    init_stuff()
+    init_stuff(1)
     save_submissions()
     compute_user_sim()
     # compute_predictions(target_user, '231A')

@@ -1,16 +1,28 @@
 import scrapy
-from items import Submission
+print "dsdssd"
+try:
+    from scrapy_tut.items import Submission
+except:
+    from items import Submission
+
 
 
 class UserSubmissiosSpider(scrapy.Spider):
     name = "user_submissions"
-    custom_settings = {
-        'ITEM_PIPELINES': {
-            'pipelines.JsonWriterPipeline': 300
-        },
-        'LOG_LEVEL': 'ERROR'
-    }
-
+    try:
+        custom_settings = {
+            'ITEM_PIPELINES': {
+                'pipelines.MongoSubmissionsPipeline': 300
+            },
+            'LOG_LEVEL': 'ERROR'
+        }
+    except:
+        custom_settings = {
+            'ITEM_PIPELINES': {
+                'scrapy_tut.pipelines.MongoSubmissionsPipeline': 300
+            },
+            'LOG_LEVEL': 'ERROR'
+        }
     def __init__(self, username=None, *args, **kwargs):
         super(UserSubmissiosSpider, self).__init__(*args, **kwargs)
         if(username is not None):
@@ -35,8 +47,9 @@ class UserSubmissiosSpider(scrapy.Spider):
                 verdict = tr.css(
                     'td.status-verdict-cell span::attr(submissionverdict)').extract_first().strip()
                 lang = tr.css('td')[4].css('::text').extract_first().strip()
-                problem_link = tr.css('a::attr(href)').re_first(
-                    '/problemset/.*').strip()
+                problem_link = tr.css('a::attr(href)').re_first('/contest/.*/problem/.*')
+                if(problem_link != None):
+                    problem_link = problem_link.strip()
                 title = tr.css(
                     'td.status-small a::text').extract_first().strip()
                 time = tr.css(

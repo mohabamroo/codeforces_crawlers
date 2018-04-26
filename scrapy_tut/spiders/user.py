@@ -1,6 +1,6 @@
 import scrapy
-from items import User
-
+from scrapy_tut.items import User
+# spider to crawl random users for a specific problem
 class UsersSpider(scrapy.Spider):
     name = "users"
 
