@@ -7,6 +7,7 @@
 
 import json
 from pymongo import MongoClient
+import requests
 
 
 class ScrapyTutPipeline(object):
@@ -32,13 +33,14 @@ class MongoSubmissionsPipeline(object):
     def close_spider(self, spider):
         # saves the user crawled
         submissions_collection = self.db['all_submissions']
-        pre_user = submissions_collection.find_one({'user': spider.username})
         entry = {'user': spider.username, 'problems': self.problems}
-        if pre_user == None:
-            submissions_collection.insert(entry, check_keys=False)
-        else:
-            submissions_collection.update({'user': spider.username}, entry, check_keys=False)
+        submissions_collection.update({'user': spider.username}, entry, upsert=True, check_keys=False)
         print "Saved user in Mongo DB"
+        print "Notifying backend to proccess user"
+        request_body = {'username': spider.username, 'domain': spider.domain, 'email': spider.email}
+        print request_body
+        r = requests.post(spider.domain + 'recommender/new_user/', data=request_body)
+
         # self.db.close()
 
     def process_item(self, item, spider):

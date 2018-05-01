@@ -4,7 +4,8 @@ from . import views
 app_name = 'recommender'
 
 urlpatterns = [
-    url(r'^crawl/$', views.crawl, name="spider"),
+    url(r'^new_user/$', views.process_user, name="process_new_user"),
+    url(r'^recommendations/$', views.recommendations, name="recommendations"),
     url(r'^', views.index, name="angular-index"),
 
 ]

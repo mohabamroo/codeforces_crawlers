@@ -1,6 +1,6 @@
 angular.module('bachelor').controller('mainController', ['$scope', '$location', 'AuthService', 'UserService',
-    '$rootScope', '$timeout', '$window', '$http', '$routeParams',
-    function($scope, $location, AuthService, UserService, $rootScope, $timeout, $window, $http, $routeParams) {
+    '$rootScope', '$timeout', '$window', '$http', '$routeParams', 'ScrapingService',
+    function($scope, $location, AuthService, UserService, $rootScope, $timeout, $window, $http, $routeParams, ScrapingService) {
 
         $rootScope.toggleNavBar = function() {
             jQuery("#navbarColor01").slideToggle();
@@ -69,6 +69,7 @@ angular.module('bachelor').controller('mainController', ['$scope', '$location', 
         }
 
         $rootScope.register = function(isValid) {
+            full_url = $location.protocol() + "://" + $location.host() + ":" + $location.port() + "/";
             if (isValid) {
                 AuthService.register($scope.user)
                     .then(function() {
@@ -77,7 +78,14 @@ angular.module('bachelor').controller('mainController', ['$scope', '$location', 
                             'Sign in now to get your recommendations.',
                             'success'
                         );
-                        $window.location.assign('/#/signin');
+                        ScrapingService.crawlUser($scope.user, full_url)
+                            .then(function(data) {
+                                console.log(data);
+                                $window.location.assign('/#/signin');
+                            })
+                            .catch(function(err) {
+                                $rootScope.handleErrors(err);
+                            });
                     }).catch(function(err) {
                         $rootScope.handleErrors(err);
                     });

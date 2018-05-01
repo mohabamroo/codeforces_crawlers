@@ -103,6 +103,4 @@ def solution(A):
 print solution([10, 6, 6, 7, 9, 8])
 print solution([1, 5, 7, 10, 11])
 print solution([1, 5, 7, 9, 11])
-# print "left: ", left_seq([1, 5, 7, 9, 11])
-# print "right: ", right_seq([1, 5, 7, 9, 11])
 print solution([1, 8, 7, 8, 8, 20])

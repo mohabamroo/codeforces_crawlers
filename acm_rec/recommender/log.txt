@@ -1,0 +1,548 @@
+2018-04-28 13:28:06,887: INFO:  New session started. Ya saaaater!
+2018-04-28 13:40:11,930: INFO:  New session started. Ya saaaater!
+2018-04-28 13:40:11,938: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 13:43:09,900: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 14:03:28,503: INFO:  New session started. Ya saaaater!
+2018-04-28 14:03:28,506: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 14:03:40,081: INFO:  New session started. Ya saaaater!
+2018-04-28 14:03:40,084: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 14:05:25,259: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 14:05:25,365: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 14:05:25,367: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 14:05:25,368: INFO:  Started saving user submissions
+2018-04-28 14:25:10,938: INFO:  New session started. Ya saaaater!
+2018-04-28 14:25:10,941: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 14:25:52,926: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 14:25:53,019: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 14:25:53,022: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 14:25:53,022: INFO:  Started saving user submissions
+2018-04-28 14:26:12,911: INFO:  Finished saving user submissions
+2018-04-28 14:26:12,913: INFO:  Started computing similarity matrix
+2018-04-28 14:26:12,990: INFO:  finished computing similarity matrix
+2018-04-28 14:26:12,990: INFO:  Started saving similarity matrix
+2018-04-28 14:26:20,888: INFO:  Finished saving similarity matrix
+2018-04-28 14:31:59,697: INFO:  New session started. Ya saaaater!
+2018-04-28 14:31:59,700: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 14:32:45,107: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 14:32:45,198: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 14:32:45,200: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 14:32:45,200: INFO:  Started saving user submissions
+2018-04-28 14:33:08,634: INFO:  Finished saving user submissions
+2018-04-28 14:33:08,634: INFO:  Started computing similarity matrix
+2018-04-28 14:33:08,707: INFO:  finished computing similarity matrix
+2018-04-28 14:33:08,707: INFO:  Started saving similarity matrix
+2018-04-28 14:33:15,661: INFO:  Finished saving similarity matrix
+2018-04-28 14:53:15,780: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 14:54:15,401: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 14:54:15,404: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 14:54:15,407: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:00:43,285: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:01:31,776: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:01:31,778: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:01:31,779: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:04:17,382: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:04:49,510: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:04:49,513: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:04:49,515: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:05:48,809: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:06:56,358: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:06:56,359: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:06:56,361: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:08:53,217: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:15:01,631: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:15:01,631: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:15:01,642: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:21:23,723: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:26:51,693: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:26:51,703: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:26:51,716: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:31:51,665: INFO:  New session started. Ya saaaater!
+2018-04-28 16:31:51,667: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:32:26,450: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:32:26,549: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:32:26,552: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:32:26,552: INFO:  Started saving user submissions
+2018-04-28 16:32:44,417: INFO:  Finished saving user submissions
+2018-04-28 16:32:44,417: INFO:  Started computing similarity matrix
+2018-04-28 16:32:44,500: INFO:  finished computing similarity matrix
+2018-04-28 16:32:44,502: INFO:  Started saving similarity matrix
+2018-04-28 16:32:52,467: INFO:  Finished saving similarity matrix
+2018-04-28 16:36:26,335: INFO:  New session started. Ya saaaater!
+2018-04-28 16:36:26,338: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 16:42:22,194: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 16:42:22,321: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 16:42:22,332: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 16:42:22,332: INFO:  Started saving user submissions
+2018-04-28 16:45:42,552: INFO:  Finished saving user submissions
+2018-04-28 16:45:42,552: INFO:  Started computing similarity matrix
+2018-04-28 16:45:48,911: INFO:  finished computing similarity matrix
+2018-04-28 16:45:48,911: INFO:  Started saving similarity matrix
+2018-04-28 16:55:01,325: INFO:  Finished saving similarity matrix
+2018-04-28 17:01:01,519: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 17:01:14,275: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 17:01:28,085: INFO:  New session started. Ya saaaater! limit: 1000
+2018-04-28 17:01:28,088: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 17:07:39,971: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 17:07:40,032: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 17:07:40,039: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 17:07:40,040: INFO:  Started saving user submissions
+2018-04-28 17:11:50,292: INFO:  Finished saving user submissions
+2018-04-28 17:11:50,292: INFO:  Started computing similarity matrix
+2018-04-28 17:11:56,868: INFO:  finished computing similarity matrix
+2018-04-28 17:11:56,868: INFO:  Started saving similarity matrix
+2018-04-28 17:17:53,240: INFO:  New session started. Ya saaaater! limit: 800
+2018-04-28 17:17:53,243: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 17:21:00,562: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 17:21:00,642: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 17:21:00,657: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 17:21:00,657: INFO:  Started saving user submissions
+2018-04-28 17:23:35,747: INFO:  Finished saving user submissions
+2018-04-28 17:23:35,749: INFO:  Started computing similarity matrix
+2018-04-28 17:23:40,813: INFO:  finished computing similarity matrix
+2018-04-28 17:23:40,813: INFO:  Started saving similarity matrix
+2018-04-28 17:30:31,884: INFO:  Finished saving similarity matrix
+2018-04-28 17:55:46,269: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:01:05,542: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:01:05,542: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 18:01:05,553: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 18:07:05,026: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:07:48,549: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:08:23,496: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:09:00,592: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:09:00,594: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:12:42,746: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:13:36,414: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:13:36,415: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:14:22,148: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:14:52,197: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:15:28,548: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:15:28,552: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:18:20,884: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:18:53,364: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:18:53,365: INFO:  Fetching target user's submissions from Database
+2018-04-28 18:18:53,775: INFO:  Pushed target user in users array
+2018-04-28 18:18:53,776: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 18:18:53,778: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 18:45:03,098: INFO:  New session started. Ya saaaater! limit: 800
+2018-04-28 18:45:03,099: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 18:49:51,226: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 18:49:51,321: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 18:49:51,329: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 18:49:51,332: INFO:  Started saving user submissions
+2018-04-28 18:52:23,677: INFO:  Finished saving user submissions
+2018-04-28 18:52:23,678: INFO:  Started computing similarity matrix
+2018-04-28 18:52:27,437: INFO:  finished computing similarity matrix
+2018-04-28 18:52:27,437: INFO:  Started saving similarity matrix
+2018-04-28 19:00:49,051: INFO:  New session started. Ya saaaater! limit: 800
+2018-04-28 19:00:49,055: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:06:34,559: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:06:34,627: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:06:34,632: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:06:34,634: INFO:  Started saving user submissions
+2018-04-28 19:09:53,779: INFO:  Finished saving user submissions
+2018-04-28 19:09:53,780: INFO:  Started computing similarity matrix
+2018-04-28 19:09:57,823: INFO:  finished computing similarity matrix
+2018-04-28 19:09:57,825: INFO:  Started saving similarity matrix
+2018-04-28 19:16:17,604: INFO:  Finished saving similarity matrix
+2018-04-28 19:17:48,671: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:21:12,836: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:21:12,836: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:21:13,233: INFO:  Pushed target user in users array
+2018-04-28 19:21:13,234: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:21:13,244: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:24:30,062: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:25:43,599: INFO:  New session started. Ya saaaater! limit: 100
+2018-04-28 19:25:43,602: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:29:36,773: INFO:  New session started. Ya saaaater! limit: 100
+2018-04-28 19:29:36,776: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:30:04,687: INFO:  New session started. Ya saaaater! limit: 10
+2018-04-28 19:30:04,690: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:30:50,046: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:30:50,111: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:30:50,111: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:30:50,112: INFO:  Started saving user submissions
+2018-04-28 19:30:52,285: INFO:  Finished saving user submissions
+2018-04-28 19:30:52,286: INFO:  Started computing similarity matrix
+2018-04-28 19:30:52,286: INFO:  finished computing similarity matrix
+2018-04-28 19:30:52,286: INFO:  Started saving similarity matrix
+2018-04-28 19:30:52,855: INFO:  Finished saving similarity matrix
+2018-04-28 19:33:26,851: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:33:47,299: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 19:35:48,676: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:35:48,677: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:35:50,316: INFO:  Pushed target user in users array
+2018-04-28 19:35:50,318: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:35:50,318: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:40:30,776: INFO:  Fetching mini submissions from Database
+2018-04-28 19:40:30,776: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:40:30,776: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:40:33,073: INFO:  Pushed target user in users array
+2018-04-28 19:40:33,075: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:40:33,075: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:41:07,766: INFO:  Fetching mini submissions from Database
+2018-04-28 19:41:07,767: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:41:07,767: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:41:09,996: INFO:  Pushed target user in users array
+2018-04-28 19:41:09,996: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:41:09,997: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:42:01,430: INFO:  Fetching mini submissions from Database
+2018-04-28 19:42:02,970: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:42:02,970: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:42:03,700: INFO:  Pushed target user in users array
+2018-04-28 19:42:03,701: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:42:03,701: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:44:04,676: INFO:  Fetching mini submissions from Database
+2018-04-28 19:44:06,269: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:44:06,269: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:44:07,058: INFO:  Pushed target user in users array
+2018-04-28 19:44:07,059: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:44:07,059: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:45:08,216: INFO:  Fetching mini submissions from Database
+2018-04-28 19:45:09,723: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:45:09,723: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:45:10,457: INFO:  Pushed target user in users array
+2018-04-28 19:45:10,459: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:45:10,459: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:46:23,483: INFO:  Fetching mini submissions from Database
+2018-04-28 19:46:25,132: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:46:25,132: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:46:25,871: INFO:  Pushed target user in users array
+2018-04-28 19:46:25,871: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:46:25,872: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:46:36,710: INFO:  Fetching mini submissions from Database
+2018-04-28 19:46:38,246: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:46:38,246: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:46:38,980: INFO:  Pushed target user in users array
+2018-04-28 19:46:38,980: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:46:38,982: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:46:54,263: INFO:  Fetching mini submissions from Database
+2018-04-28 19:46:55,747: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:46:55,747: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:46:56,490: INFO:  Pushed target user in users array
+2018-04-28 19:46:56,490: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:46:56,492: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:47:53,059: INFO:  Fetching mini submissions from Database
+2018-04-28 19:47:54,726: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:47:54,726: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:47:55,454: INFO:  Pushed target user in users array
+2018-04-28 19:47:55,454: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:47:55,456: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:48:33,163: INFO:  Fetching mini submissions from Database
+2018-04-28 19:49:34,489: INFO:  Fetching mini submissions from Database
+2018-04-28 19:49:36,102: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:49:36,102: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:49:36,839: INFO:  Pushed target user in users array
+2018-04-28 19:49:36,839: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:49:36,839: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:50:27,703: INFO:  Fetching mini submissions from Database
+2018-04-28 19:50:29,697: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:50:29,697: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:50:30,516: INFO:  Pushed target user in users array
+2018-04-28 19:50:30,516: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:50:30,516: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:51:39,618: INFO:  Fetching mini submissions from Database
+2018-04-28 19:52:19,319: INFO:  Fetching mini submissions from Database
+2018-04-28 19:53:45,180: INFO:  Fetching mini submissions from Database
+2018-04-28 19:53:50,721: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:53:50,721: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:54:04,992: INFO:  Fetching mini submissions from Database
+2018-04-28 19:54:16,232: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:54:16,232: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:54:16,973: INFO:  Pushed target user in users array
+2018-04-28 19:54:16,974: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:54:16,987: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:55:37,206: INFO:  Fetching mini submissions from Database
+2018-04-28 19:55:44,964: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:55:44,966: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:55:45,507: INFO:  Pushed target user in users array
+2018-04-28 19:55:45,509: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:55:45,525: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:56:42,109: INFO:  Fetching mini submissions from Database
+2018-04-28 19:56:47,621: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:56:47,621: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:56:47,994: INFO:  Pushed target user in users array
+2018-04-28 19:56:47,994: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:56:48,005: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:57:28,115: INFO:  Fetching mini submissions from Database
+2018-04-28 19:57:33,750: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:57:33,750: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:57:34,124: INFO:  Pushed target user in users array
+2018-04-28 19:57:34,125: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:57:34,141: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:59:12,740: INFO:  Fetching mini submissions from Database
+2018-04-28 19:59:18,448: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:59:18,450: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:59:18,822: INFO:  Pushed target user in users array
+2018-04-28 19:59:18,823: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:59:18,838: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 19:59:45,312: INFO:  Fetching mini submissions from Database
+2018-04-28 19:59:51,726: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 19:59:51,727: INFO:  Fetching target user's submissions from Database
+2018-04-28 19:59:52,250: INFO:  Pushed target user in users array
+2018-04-28 19:59:52,252: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 19:59:52,263: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:00:52,805: INFO:  Fetching mini submissions from Database
+2018-04-28 20:00:59,469: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:00:59,470: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:00:59,901: INFO:  Pushed target user in users array
+2018-04-28 20:00:59,901: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:00:59,914: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:01:35,368: INFO:  Fetching mini submissions from Database
+2018-04-28 20:01:43,773: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:01:43,773: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:01:44,339: INFO:  Pushed target user in users array
+2018-04-28 20:01:44,339: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:01:44,354: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:02:11,408: INFO:  Fetching mini submissions from Database
+2018-04-28 20:02:16,901: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:02:16,901: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:02:17,276: INFO:  Pushed target user in users array
+2018-04-28 20:02:17,276: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:02:17,290: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:03:53,519: INFO:  Fetching mini submissions from Database
+2018-04-28 20:03:59,740: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:03:59,740: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:04:00,141: INFO:  Pushed target user in users array
+2018-04-28 20:04:00,142: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:04:00,158: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:04:10,976: INFO:  Fetching mini submissions from Database
+2018-04-28 20:04:16,678: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:04:16,680: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:04:17,089: INFO:  Pushed target user in users array
+2018-04-28 20:04:17,091: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:04:17,104: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:04:31,658: INFO:  Fetching mini submissions from Database
+2018-04-28 20:04:37,150: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:04:37,151: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:04:37,529: INFO:  Pushed target user in users array
+2018-04-28 20:04:37,529: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:04:37,543: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:05:54,711: INFO:  Fetching mini submissions from Database
+2018-04-28 20:06:02,592: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:06:02,592: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:06:04,573: INFO:  Pushed target user in users array
+2018-04-28 20:06:04,575: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:06:04,588: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:06:59,388: INFO:  Fetching mini submissions from Database
+2018-04-28 20:07:05,040: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:07:05,040: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:07:05,417: INFO:  Pushed target user in users array
+2018-04-28 20:07:05,417: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:07:05,433: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:07:13,766: INFO:  Fetching mini submissions from Database
+2018-04-28 20:07:21,332: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:07:21,332: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:07:21,698: INFO:  Pushed target user in users array
+2018-04-28 20:07:21,698: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:07:21,714: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:07:34,940: INFO:  Fetching mini submissions from Database
+2018-04-28 20:07:42,779: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:07:42,779: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:07:43,500: INFO:  Pushed target user in users array
+2018-04-28 20:07:43,502: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:07:43,516: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:08:06,687: INFO:  Fetching mini submissions from Database
+2018-04-28 20:08:17,226: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:08:17,226: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:08:17,931: INFO:  Pushed target user in users array
+2018-04-28 20:08:17,933: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:08:17,948: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:09:01,408: INFO:  Fetching mini submissions from Database
+2018-04-28 20:09:06,930: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:09:06,930: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:09:07,312: INFO:  Pushed target user in users array
+2018-04-28 20:09:07,312: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:09:07,322: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:11:52,779: INFO:  New session started. Ya saaaater! limit: 10
+2018-04-28 20:11:52,782: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 20:12:02,878: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:12:02,976: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:12:02,983: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:12:02,983: INFO:  Started saving user submissions
+2018-04-28 20:12:14,381: INFO:  Finished saving user submissions
+2018-04-28 20:12:14,381: INFO:  Started computing similarity matrix
+2018-04-28 20:12:14,522: INFO:  finished computing similarity matrix
+2018-04-28 20:12:14,523: INFO:  Started saving similarity matrix
+2018-04-28 20:12:14,713: INFO:  Finished saving similarity matrix
+2018-04-28 20:12:38,164: INFO:  Fetching mini submissions from Database
+2018-04-28 20:12:46,826: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:12:46,828: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:12:47,191: INFO:  Pushed target user in users array
+2018-04-28 20:12:47,193: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:12:47,213: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:13:15,230: INFO:  New session started. Ya saaaater! limit: 10
+2018-04-28 20:13:15,232: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 20:13:43,191: INFO:  New session started. Ya saaaater! limit: 10
+2018-04-28 20:13:43,194: INFO:  Fetching crawled users' submissions from Database
+2018-04-28 20:14:39,926: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:14:40,002: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:14:40,013: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:14:40,013: INFO:  Started saving user submissions
+2018-04-28 20:14:51,216: INFO:  Finished saving user submissions
+2018-04-28 20:14:51,216: INFO:  Started computing similarity matrix
+2018-04-28 20:14:51,332: INFO:  finished computing similarity matrix
+2018-04-28 20:14:51,332: INFO:  Started saving similarity matrix
+2018-04-28 20:14:51,526: INFO:  Finished saving similarity matrix
+2018-04-28 20:16:20,194: INFO:  Fetching mini submissions from Database
+2018-04-28 20:16:35,575: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:16:35,575: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:16:35,845: INFO:  Pushed target user in users array
+2018-04-28 20:16:35,846: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:16:35,871: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:25:03,559: INFO:  Fetching mini submissions from Database
+2018-04-28 20:25:18,951: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:25:18,953: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:25:19,348: INFO:  Pushed target user in users array
+2018-04-28 20:25:19,348: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:25:19,367: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:26:19,398: INFO:  Fetching mini submissions from Database
+2018-04-28 20:26:25,776: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:26:25,776: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:26:26,046: INFO:  Pushed target user in users array
+2018-04-28 20:26:26,048: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:26:26,073: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:33:33,247: INFO:  Fetching mini submissions from Database
+2018-04-28 20:33:53,834: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:33:53,835: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:33:54,203: INFO:  Pushed target user in users array
+2018-04-28 20:33:54,203: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:33:54,226: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:35:10,818: INFO:  Fetching mini submissions from Database
+2018-04-28 20:35:17,621: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:35:17,622: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:35:17,959: INFO:  Pushed target user in users array
+2018-04-28 20:35:17,960: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:35:18,005: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:35:30,868: INFO:  Fetching mini submissions from Database
+2018-04-28 20:35:48,036: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:35:48,038: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:35:48,852: INFO:  Pushed target user in users array
+2018-04-28 20:35:48,854: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:35:48,877: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:36:12,197: INFO:  Fetching mini submissions from Database
+2018-04-28 20:36:27,368: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:36:27,368: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:36:27,753: INFO:  Pushed target user in users array
+2018-04-28 20:36:27,755: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:36:27,782: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:36:52,910: INFO:  Fetching mini submissions from Database
+2018-04-28 20:37:04,335: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:37:04,336: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:37:04,720: INFO:  Pushed target user in users array
+2018-04-28 20:37:04,720: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:37:04,749: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:40:16,825: INFO:  Fetching mini submissions from Database
+2018-04-28 20:40:25,328: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:40:25,328: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:40:25,913: INFO:  Pushed target user in users array
+2018-04-28 20:40:25,913: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:40:25,937: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:41:04,763: INFO:  Fetching mini submissions from Database
+2018-04-28 20:44:30,200: INFO:  Fetching mini submissions from Database
+2018-04-28 20:44:36,694: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:44:36,694: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:44:36,966: INFO:  Pushed target user in users array
+2018-04-28 20:44:36,967: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:44:36,987: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:45:18,131: INFO:  Fetching mini submissions from Database
+2018-04-28 20:45:25,871: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:45:25,872: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:45:26,144: INFO:  Pushed target user in users array
+2018-04-28 20:45:26,144: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:45:26,173: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:45:51,243: INFO:  Fetching mini submissions from Database
+2018-04-28 20:45:57,763: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:45:57,765: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:45:58,035: INFO:  Pushed target user in users array
+2018-04-28 20:45:58,036: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:45:58,059: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:46:09,638: INFO:  Fetching mini submissions from Database
+2018-04-28 20:46:16,045: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:46:16,045: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:46:16,316: INFO:  Pushed target user in users array
+2018-04-28 20:46:16,318: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:46:16,339: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:46:45,250: INFO:  Fetching mini submissions from Database
+2018-04-28 20:46:51,690: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:46:51,690: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:46:51,963: INFO:  Pushed target user in users array
+2018-04-28 20:46:51,963: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:46:51,980: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:47:04,451: INFO:  Fetching mini submissions from Database
+2018-04-28 20:47:10,928: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:47:10,930: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:47:11,200: INFO:  Pushed target user in users array
+2018-04-28 20:47:11,200: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:47:11,219: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:47:54,834: INFO:  Fetching mini submissions from Database
+2018-04-28 20:48:03,467: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:48:03,467: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:48:03,861: INFO:  Pushed target user in users array
+2018-04-28 20:48:03,861: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:48:03,885: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:48:47,619: INFO:  Fetching mini submissions from Database
+2018-04-28 20:48:59,323: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:48:59,325: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:48:59,674: INFO:  Pushed target user in users array
+2018-04-28 20:48:59,674: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:48:59,711: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 20:56:14,750: INFO:  Fetching mini submissions from Database
+2018-04-28 20:56:35,822: INFO:  Fetching mini submissions from Database
+2018-04-28 20:57:09,887: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 20:57:09,888: INFO:  Fetching target user's submissions from Database
+2018-04-28 20:57:13,674: INFO:  Pushed target user in users array
+2018-04-28 20:57:13,674: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 20:57:13,703: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 21:02:43,555: INFO:  Fetching mini submissions from Database
+2018-04-28 21:03:26,711: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 21:03:26,711: INFO:  Fetching target user's submissions from Database
+2018-04-28 21:03:31,230: INFO:  Pushed target user in users array
+2018-04-28 21:03:31,232: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 21:03:31,255: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 21:03:45,197: INFO:  Fetching mini submissions from Database
+2018-04-28 21:04:22,437: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-28 21:04:22,437: INFO:  Fetching target user's submissions from Database
+2018-04-28 21:04:23,746: INFO:  Pushed target user in users array
+2018-04-28 21:04:23,747: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-28 21:04:23,772: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-28 21:04:23,773: INFO:  Fetching similarity matrix from DB
+2018-04-29 11:24:10,161: INFO:  Fetching mini submissions from Database
+2018-04-29 11:25:12,930: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-29 11:25:12,936: INFO:  Fetching target user's submissions from Database
+2018-04-29 11:25:14,940: INFO:  Pushed target user in users array
+2018-04-29 11:25:14,940: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-29 11:25:14,966: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-29 11:25:14,967: INFO:  Fetching similarity matrix from DB
+2018-04-29 11:27:28,703: INFO:  Computing new user similarity
+2018-04-29 11:27:28,704: INFO:  Saving new similarity matrix
+2018-04-29 11:32:42,664: INFO:  Fetching mini submissions from Database
+2018-04-29 11:32:56,532: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-29 11:32:56,533: INFO:  Fetching target user's submissions from Database
+2018-04-29 11:32:58,019: INFO:  Pushed target user in users array
+2018-04-29 11:32:58,020: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-29 11:32:58,036: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-29 11:32:58,038: INFO:  Fetching similarity matrix from DB
+2018-04-29 11:34:51,717: INFO:  Computing new user similarity
+2018-04-29 11:34:51,720: INFO:  Saving new similarity matrix
+2018-04-29 15:57:29,773: INFO:  New session started. Ya saaaater! limit: 10
+2018-04-29 15:57:29,776: INFO:  Fetching crawled users' submissions from Database
+2018-04-29 15:57:46,519: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-29 15:57:46,627: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-29 15:57:46,634: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-29 15:57:46,634: INFO:  Started saving user submissions
+2018-04-29 15:57:54,763: INFO:  Finished saving user submissions
+2018-04-29 15:57:54,765: INFO:  Started computing similarity matrix
+2018-04-29 15:57:54,891: INFO:  finished computing similarity matrix
+2018-04-29 15:57:54,891: INFO:  Started saving similarity matrix
+2018-04-29 15:57:55,173: INFO:  Finished saving similarity matrix
+2018-04-29 15:58:13,171: INFO:  New session started. Ya saaaater! limit: 100000
+2018-04-29 15:58:13,178: INFO:  Fetching crawled users' submissions from Database
+2018-04-29 16:01:27,233: INFO:  Initialized users array which holds stats (summary)a bout each problem for each user
+2018-04-29 16:01:27,292: INFO:  Initializing inverse relation between problems and users, who sloved each problem by the problem ID
+2018-04-29 16:01:27,444: INFO:  Finished averaging users' scores and inverse relation initialization
+2018-04-29 16:01:27,446: INFO:  Started saving user submissions
+2018-04-29 16:07:20,092: INFO:  Finished saving user submissions
+2018-04-29 16:07:20,092: INFO:  Started computing similarity matrix
+2018-04-29 16:12:54,976: INFO:  finished computing similarity matrix
+2018-04-29 16:12:54,976: INFO:  Started saving similarity matrix
+2018-04-29 16:27:36,282: INFO:  Finished saving similarity matrix

@@ -4,14 +4,17 @@ angular.module('bachelor').controller('RecommenderController', ['$scope', '$loca
         $rootScope.scrapyRoot = "https://app.scrapinghub.com/api";
         $rootScope.scrapyAPIKEY = "32f54a1220b84bbab635e6274271215a";
         $rootScope.scrapyProject = "306033";
-        $scope.getRecommendations = function() {
-            $scope.overlay();
+
+        $scope.codeforcesRoot = "http://codeforces.com/";
+
+        $rootScope.getRecommendations = function() {
+            $rootScope.overlay();
             $http({
-                    url: backendUrl + '/api/users/recommendations/',
+                    url: backendUrl + '/recommender/recommendations/',
                     method: "get"
                 })
                 .then(function(response) {
-                        console.log(response);
+                        $scope.problems = response.data.problems;
                         $rootScope.stopLoading();
                     },
                     function(response) {
@@ -19,10 +22,9 @@ angular.module('bachelor').controller('RecommenderController', ['$scope', '$loca
                     });
         }
 
-        $scope.createJob = function() {
-            console.log("skjksdj")
+
+        $rootScope.createJob = function(username = null) {
             $scope.overlay();
-            var url = $rootScope.scrapyRoot + "/run.json";
             $http({
                     method: 'POST',
                     url: url,
@@ -36,7 +38,8 @@ angular.module('bachelor').controller('RecommenderController', ['$scope', '$loca
                     },
                     data: {
                         project: $rootScope.scrapyProject,
-                        spider: 'codeforces'
+                        spider: 'codeforces',
+                        username: username
                     }
                 })
                 .success(function(res) {

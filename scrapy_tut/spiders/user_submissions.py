@@ -12,7 +12,7 @@ class UserSubmissiosSpider(scrapy.Spider):
     try:
         custom_settings = {
             'ITEM_PIPELINES': {
-                'pipelines.MongoSubmissionsPipeline': 300
+                'scrapy_tut.pipelines.MongoSubmissionsPipeline': 300
             },
             'LOG_LEVEL': 'ERROR'
         }
@@ -23,12 +23,15 @@ class UserSubmissiosSpider(scrapy.Spider):
             },
             'LOG_LEVEL': 'ERROR'
         }
-    def __init__(self, username=None, *args, **kwargs):
+    def __init__(self, username=None, email=None, domain="http://localhost:8000/", *args, **kwargs):
         super(UserSubmissiosSpider, self).__init__(*args, **kwargs)
+        self.domain = domain
+        self.email = email
         if(username is not None):
             self.username = username
         else:
             self.username = "mohabamr"
+            self.email = "mohabamr1@gmail.com"
         self.start_urls = [
             'http://codeforces.com/submissions/'+self.username+'/page/1']
 
